@@ -412,33 +412,7 @@ body>header nav button:hover{background:#f5f6f8!important;border-color:#b9c5ce!i
 </head>
 <body>
 
-<header>
-  <div class="brand" onclick="home()">
-    HSK 1 <span>Learning Quest</span>
-  </div>
-
-  <nav>
-    <button onclick="window.location.href='./index.html'">
-      🏠 HSK Learning
-    </button>
-
-    <button onclick="home();if(typeof topicExit==='function')topicExit()">
-      Trang chủ HSK 1
-    </button>
-
-    <button onclick="topicHome()">
-      24 chủ đề
-    </button>
-
-    <button onclick="topicToMain('stats')">
-      Thống kê
-    </button>
-
-    <button onclick="topicToMain('review')">
-      Ôn tập
-    </button>
-  </nav>
-</header>
+<header id="hsk-site-header" class="hsk-site-header"><div class="hsk-nav-inner"><a class="hsk-logo" href="./index.html" aria-label="HSK Learning – Trang chủ"><span class="hsk-logo-mark" aria-hidden="true">学</span><span>HSK Learning</span></a><nav class="hsk-nav-actions" aria-label="Điều hướng chính"><button type="button" onclick="topicToMain('home')">Trang chủ HSK 1</button><button type="button" onclick="topicHome()">24 chủ đề</button><button type="button" onclick="topicToMain('stats')">Thống kê</button><button type="button" onclick="topicToMain('review')">Ôn tập</button></nav></div></header>
 
 <main id="app"></main>
 
@@ -1208,4 +1182,4 @@ hskShowWord=function(id){prevShow(id);const box=document.querySelector('#hskWord
   <section class="dash-section"><div class="dash-section-title"><h2>Quản lý tiến độ</h2></div><p class="dash-hint">Xuất bản sao lưu để lưu lại kết quả, hoặc nhập dữ liệu đã lưu trước đó.</p><div class="dash-tools"><button type="button" class="dash-action" onclick="exportProgress()">Xuất tiến độ JSON</button><label class="dash-quiet dash-import">Nhập tiến độ JSON<input type="file" accept="application/json,.json" aria-label="Nhập tiến độ JSON" onchange="importProgress(this.files[0])"></label><button type="button" class="dash-quiet dash-danger" onclick="if(confirm('Xóa toàn bộ tiến độ trên thiết bị này?')){localStorage.removeItem(KEY);location.reload()}">Đặt lại tiến độ</button></div></section></div>`;
  };
 })();
-</script><link rel="stylesheet" href="./flashcard-compact.css"><script src="./hsk-navigation.js"></script></body></html>
+</script><link rel="stylesheet" href="./flashcard-compact.css"><script src="./hsk-navigation.js"></script><link rel="stylesheet" href="./hsk-header.css"></body></html>
