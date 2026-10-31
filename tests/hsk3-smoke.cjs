@@ -38,7 +38,7 @@ const source=JSON.parse(fs.readFileSync(path.join(root,'hsk3-source-manifest.jso
    assert(await page.locator('#h2-feedback').textContent());checks++;
   }
   await page.evaluate(i=>{openLesson(i,'games');h2StartReading(-1)},id);
-  for(let q=0;q<4;q++){await page.locator('.h2-reading-question .h2-answer').first().click();await page.locator('#h2-feedback button.primary').click()}
+  for(let q=0;q<20;q++){await page.locator('.h2-reading-question .h2-answer').first().click();await page.locator('#h2-feedback button.primary').click()}
   assert(await page.locator('.h2-complete').textContent());checks++;
  }
  // Source verification for topics, all topic modes and their back controls.
