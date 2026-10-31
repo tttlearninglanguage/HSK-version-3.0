@@ -1227,18 +1227,17 @@ window.topicFlash=function(){const value=formerTopicFlash();const card=document.
 })();
 </script><style>
 /* Keep navigation with the content at the top, including narrow screens. */
-#hskBack{display:none!important}.hsk3-source-note{margin:24px 0;padding:16px 20px;border:1px solid #e6e9f3;border-radius:16px;background:#fff;color:#647087;font-size:14px;line-height:1.7}.hsk3-source-note summary{cursor:pointer;font-weight:700;color:#29364c}.hsk3-source-note p{margin:10px 0 0}.hsk3-top-back{margin-bottom:18px}.hsk3-example-pin{color:#647087;font-size:17px;line-height:1.8}
+#hskBack{display:none!important}.hsk3-top-back{margin-bottom:18px}.hsk3-example-pin{color:#647087;font-size:17px;line-height:1.8}
 @media(max-width:600px){header nav{flex-wrap:wrap}#app,#topicRoot{overflow-wrap:anywhere}input,select,textarea{max-width:100%}.h2-options .h2-answer{overflow-wrap:anywhere}.h2-chinese button{white-space:normal}}
 </style>
 <script>
 (function(){
 'use strict';
 // HSK 3 learning data is transcribed from the two user-supplied documents.
-const sourceNote=()=>`<details class="hsk3-source-note"><summary>Nguồn nội dung HSK 3</summary><p>18 bài học: 483 lượt từ và 63 điểm ngữ pháp từ “HSK 3 từ vựng và ngữ pháp theo bài học”. 36 chủ đề: 960 lượt từ, 946 từ phân biệt từ “HSK 3 - 36 chủ đề từ vựng”. Giữ nguyên Hán tự, pinyin, nghĩa và ví dụ trong tài liệu, kể cả các mục lặp.</p><p>Câu hỏi ngữ pháp được tạo từ ví dụ trong tài liệu. Bài đọc và câu hỏi đọc hiểu được biên soạn bổ sung cho từng bài, không phải đề thi chính thức. Một số ví dụ nguồn chưa được đối chiếu toàn bộ từ phụ với danh sách HSK 1–3.</p><p>Nghe dùng giọng tiếng Trung của trình duyệt/thiết bị. Luyện viết mở và luyện nói cần tự đối chiếu; tiến độ chỉ lưu trên trình duyệt này.</p></details>`;
 const scrollTop=()=>window.scrollTo({top:0,left:0,behavior:'instant'});
 function wrap(name,after){const original=window[name];if(typeof original!=='function')return;window[name]=function(...args){const result=original.apply(this,args);if(after)after(...args);scrollTop();return result}}
-wrap('home',()=>{const root=document.querySelector('#app .qh-home');if(root&&!root.querySelector('.hsk3-source-note'))root.insertAdjacentHTML('beforeend',sourceNote())});
-wrap('topicHome',()=>{const root=document.querySelector('#topicRoot .topic-wrap');if(root&&!root.querySelector('.hsk3-source-note'))root.insertAdjacentHTML('beforeend',sourceNote())});
+wrap('home');
+wrap('topicHome');
 const open=window.openLesson;window.openLesson=function(id,t='words'){flashIndex=0;flipped=false;filter='';return open(id,t)};
 ['openLesson','showReview','showStats','renderLesson','renderQuestion','renderAdvanced','startGuidedWriting','startFinalExam','renderExamQuestion','topicOpen','topicMode','topicToMain','topicExit','h2ReadingMenu','h2StartReading','h2GrammarQuestion'].forEach(name=>wrap(name));
 // Review uses the same working entry points as the lesson games.
