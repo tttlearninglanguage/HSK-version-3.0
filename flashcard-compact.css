@@ -20,18 +20,13 @@ body:has(#hskUnitFlashCard)>footer,body:has(.topic-flash)>footer{padding:8px!imp
  #app:has(#hskUnitFlashCard) button:not(.h2-word),#topicRoot:has(.topic-flash) button:not(.h2-word){font-size:12px!important;min-height:40px;padding:7px 9px!important}
  #app:has(#hskUnitFlashCard) .tabs{gap:4px!important}
 }
-body:has(#hskUnitFlashCard)>header,body:has(.topic-flash)>header{padding:8px 18px!important;gap:6px!important}
-body:has(#hskUnitFlashCard)>header .brand,body:has(.topic-flash)>header .brand{font-size:18px!important;line-height:1.2!important}
 #topicRoot:has(.topic-flash) .hsk-topic-back{margin:0 0 4px!important}
 @media(max-width:600px),(max-height:700px){
- body:has(#hskUnitFlashCard)>header,body:has(.topic-flash)>header{padding:6px 12px!important;gap:4px!important}
- body:has(#hskUnitFlashCard)>header button,body:has(.topic-flash)>header button{padding:6px!important;min-height:36px!important;font-size:12px!important}
  #app #hskUnitFlashCard .hsk-unit-flash-example,#topicRoot .topic-flash .hsk-topic-flash-example,#topicRoot .topic-flash p.h2-topic-flash-zh{font-size:20px!important;line-height:1.2!important}
  #app #hskUnitFlashCard .hsk3-example-pin,#topicRoot .topic-flash .topic-example-pinyin,#topicRoot .topic-flash .hsk-topic-flash-translation{font-size:14px!important;line-height:1.2!important}
 }
 /* Short screens reserve space for the card and its controls. */
 @media(max-height:700px){
- body:has(#hskUnitFlashCard)>header .brand,body:has(.topic-flash)>header .brand{display:none!important}
  #topicRoot .topic-flash,#app #hskUnitFlashCard{gap:3px!important;padding:12px!important}
 }
 
@@ -52,7 +47,6 @@ body:has(#hskUnitFlashCard)>header .brand,body:has(.topic-flash)>header .brand{f
 
 /* In lessons/topics, let navigation scroll away on phones. */
 @media(max-width:700px){
- body[data-hsk-study-view]>header,
  body[data-hsk-study-view] #topicRoot .topic-sticky-nav{position:static!important;top:auto!important}
 }
 

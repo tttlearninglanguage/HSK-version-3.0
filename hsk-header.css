@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap');
+/* Shared header for the landing page and every HSK study view. */
+body>#hsk-site-header.hsk-site-header{position:sticky!important;top:0!important;z-index:1500!important;display:block!important;padding:0!important;margin:0!important;background:rgba(250,248,245,.97)!important;border:0!important;border-bottom:1px solid #e9e6e2!important;box-shadow:none!important;color:#202125!important}
+#hsk-site-header.hsk-site-header,#hsk-site-header.hsk-site-header *{font-family:'Be Vietnam Pro',system-ui,-apple-system,'Segoe UI',sans-serif!important;box-sizing:border-box}
+#hsk-site-header.hsk-site-header .hsk-nav-inner{max-width:1160px;min-height:80px;margin:0 auto;padding:14px 28px;display:flex;align-items:center;justify-content:space-between;gap:20px}
+#hsk-site-header.hsk-site-header .hsk-logo{display:inline-flex!important;align-items:center;gap:11px;flex-shrink:0;color:#202125!important;text-decoration:none;font-size:20px!important;line-height:1.25!important;font-weight:800!important;letter-spacing:-.7px;cursor:pointer}
+#hsk-site-header.hsk-site-header .hsk-logo-mark{width:40px;height:40px;display:grid;place-items:center;flex-shrink:0;background:#e54846!important;color:#fff!important;border-radius:13px;font-size:19px!important;font-weight:800!important;line-height:1!important;letter-spacing:0;box-shadow:0 5px 12px #e548462a}
+#hsk-site-header.hsk-site-header .hsk-nav-actions{display:flex!important;align-items:center;justify-content:flex-end!important;gap:8px!important;flex-wrap:wrap!important;width:auto!important;margin:0;padding:0}
+#hsk-site-header.hsk-site-header .hsk-nav-actions>a,#hsk-site-header.hsk-site-header .hsk-nav-actions>button{display:inline-flex!important;align-items:center;justify-content:center;flex:0 0 auto!important;min-height:42px!important;margin:0!important;padding:11px 17px!important;border:1px solid #dedad6!important;border-radius:11px!important;background:#fff!important;color:#303238!important;box-shadow:none!important;font-size:13px!important;font-weight:600!important;line-height:1.4!important;letter-spacing:0!important;text-decoration:none;white-space:nowrap;cursor:pointer;transition:background-color .15s,border-color .15s!important}
+#hsk-site-header.hsk-site-header .hsk-nav-actions>.hsk-nav-link{background:transparent!important;border-color:transparent!important;color:#64656a!important}
+#hsk-site-header.hsk-site-header .hsk-nav-actions>a:hover,#hsk-site-header.hsk-site-header .hsk-nav-actions>button:hover{background:#f2eeea!important;border-color:#c7bbb2!important;color:#202125!important}
+#hsk-site-header.hsk-site-header a:focus-visible,#hsk-site-header.hsk-site-header button:focus-visible{outline:2px solid #e54846!important;outline-offset:3px}
+@media(max-width:850px){#hsk-site-header.hsk-site-header .hsk-nav-inner{flex-wrap:wrap;gap:12px}#hsk-site-header.hsk-site-header .hsk-nav-actions{justify-content:flex-start!important}}
+@media(max-width:700px){
+ #hsk-site-header.hsk-site-header .hsk-nav-inner{padding:12px 18px;min-height:69px;gap:10px}
+ #hsk-site-header.hsk-site-header .hsk-logo{font-size:17px!important}
+ #hsk-site-header.hsk-site-header .hsk-logo-mark{width:36px;height:36px;border-radius:11px}
+ #hsk-site-header.hsk-site-header .hsk-nav-actions{gap:6px!important}
+ #hsk-site-header.hsk-site-header .hsk-nav-actions>a,#hsk-site-header.hsk-site-header .hsk-nav-actions>button{min-height:40px!important;padding:9px 11px!important;font-size:12px!important}
+ body[data-hsk-study-view]>#hsk-site-header.hsk-site-header{position:static!important;top:auto!important}
+}
