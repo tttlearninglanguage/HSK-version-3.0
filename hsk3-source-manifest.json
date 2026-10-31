@@ -1,0 +1,340 @@
+{
+  "documents": [
+    {
+      "file": "HSK 3 - 36 chủ đề từ vựng.docx",
+      "sha256": "54ce2d18687d13968a7a94e16f9a68543702f8d571b0f84b64c2adcdcbfc80fe"
+    },
+    {
+      "file": "HSK 3 từ vựng và ngữ pháp theo bài học.docx",
+      "sha256": "0732fc352912018dc8ab87dc30f9c66332e884220798b662b0a4d293441073c3"
+    }
+  ],
+  "lessons": [
+    {
+      "id": 1,
+      "title": "我们去机场接你们",
+      "count": 27,
+      "sha256": "58d4a509852444f85a4dd84022dc86cae0c096d19149846780e43210ed3f6ad6"
+    },
+    {
+      "id": 2,
+      "title": "你们想吃什么就点什么",
+      "count": 28,
+      "sha256": "4f38b9f541c36738af4273ccc6bfe1da4b4bb13a9e22a09f35d2f3b384bf47cf"
+    },
+    {
+      "id": 3,
+      "title": "这个小区挺好的",
+      "count": 26,
+      "sha256": "2ff8c5c66068ae64c813b3280827bd5c2cde4dfa5bc736a916750ac50c176fc4"
+    },
+    {
+      "id": 4,
+      "title": "这家宾馆跟别的不一样",
+      "count": 27,
+      "sha256": "da38ac86bfcd4142a6d5438911a4e210828499e0ba3cd432e81df50313a93090"
+    },
+    {
+      "id": 5,
+      "title": "这样的照片才好看",
+      "count": 27,
+      "sha256": "9905a9b172ae439035c309897683ff98273884ea249f02068143576d48585625"
+    },
+    {
+      "id": 6,
+      "title": "高铁上还可以点外卖",
+      "count": 26,
+      "sha256": "212fe2d4147483a6ac06b1b31229ff40b0f5c051aa68691fc33417165f409736"
+    },
+    {
+      "id": 7,
+      "title": "那条裙子比短裤更好看",
+      "count": 27,
+      "sha256": "0bc3957879a595d8b9e3ff9cc649b2e961401063b23dff85520f540c462413d5"
+    },
+    {
+      "id": 8,
+      "title": "今天我出院了",
+      "count": 28,
+      "sha256": "d2988aa18afb6b6e39e5d4041f6d7a7e00817c3e18af43b38605932bc766edc7"
+    },
+    {
+      "id": 9,
+      "title": "打不好没关系",
+      "count": 26,
+      "sha256": "278116f59a1078f9cd8148692f8a4fa7e0a25da29d6001252ddd89384b2d44b7"
+    },
+    {
+      "id": 10,
+      "title": "你明天再把书还给我",
+      "count": 28,
+      "sha256": "7c0e736f2925aa1deb5172836d9d6e78f43ccabbd462795361b4320a5e25b1fa"
+    },
+    {
+      "id": 11,
+      "title": "看来我没办法解决这个问题",
+      "count": 27,
+      "sha256": "6faedeb7b7c2d9c54d2e8ab1f14690395835b1db7ccb49750916bfb4a1997fc7"
+    },
+    {
+      "id": 12,
+      "title": "这个季节天气变化很快",
+      "count": 27,
+      "sha256": "dd008a78fc34e3591ab78185ed83f0a6b743b009bb02adc7f61810de780143c6"
+    },
+    {
+      "id": 13,
+      "title": "我的新邻居来自英国",
+      "count": 27,
+      "sha256": "dff3e984bc3607a30e4460b14c7cb75cc5ca8bc8d06a7d1f9a6347505854fdb6"
+    },
+    {
+      "id": 14,
+      "title": "这本书被别人借走了",
+      "count": 27,
+      "sha256": "2834d88efb6b77eb1577e880df744f65feeaf8d134e6e6d2855bd4dc63554465"
+    },
+    {
+      "id": 15,
+      "title": "我是半个南京人",
+      "count": 24,
+      "sha256": "a5964846cadd0885070ceedc2661bb1c6efab3212be7e8a5e4602b901bceb741"
+    },
+    {
+      "id": 16,
+      "title": "我听说有的熊猫出国了",
+      "count": 26,
+      "sha256": "1e7685ab96df3d45a4a1869a95f7fe6c273ce8a8a1a6d6966fd78c9f4d0354d0"
+    },
+    {
+      "id": 17,
+      "title": "我要多向认真的人学习",
+      "count": 27,
+      "sha256": "b75d1bc927a5b3cf1e7e9239ba1cc692e8d7c5b6abc51648623ea14bdca51c4c"
+    },
+    {
+      "id": 18,
+      "title": "我学会了包饺子",
+      "count": 28,
+      "sha256": "70f2b28df2418b91186e9cbd82139c22d1c54141f492b238814e9951962a8f55"
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "title": "PHÓ TỪ",
+      "count": 28,
+      "sha256": "dfc57edf216ea0e25cc95cd727cc16bfd59b04950e2bfb8be69d04490c79e19d"
+    },
+    {
+      "id": 2,
+      "title": "THỨC ĂN VÀ ĐỒ UỐNG",
+      "count": 20,
+      "sha256": "3daee9cfd89d847a049c905f5fd39dc3a15d18938df8976f9ff773139eff790e"
+    },
+    {
+      "id": 3,
+      "title": "CƠ THỂ VÀ SỨC KHỎE",
+      "count": 21,
+      "sha256": "6a9fb243138961e46b607cbf7be5f3ba93f506d038f28e531482c6c72fc207f6"
+    },
+    {
+      "id": 4,
+      "title": "NHỮNG NGƯỜI",
+      "count": 28,
+      "sha256": "3ed3a0143e13fb0491adcb9129e638bdc17b5186bf9f1cfd700630b02ed0b89b"
+    },
+    {
+      "id": 5,
+      "title": "CÁC MỐI QUAN HỆ",
+      "count": 21,
+      "sha256": "b9cfc45cbba0b4ff760ad2539747b000e8d871836c48fa485a4b4e1da554c6a8"
+    },
+    {
+      "id": 6,
+      "title": "BẢO HÀNH VÀ BẢO VỆ",
+      "count": 25,
+      "sha256": "c690f205aaab291b0f3978c8ea938ca0d7eecae10d682ddfb092ff3ca681aba0"
+    },
+    {
+      "id": 7,
+      "title": "THỜI GIAN",
+      "count": 37,
+      "sha256": "f310f93f08c0fd82e85a4f50da50b7468d1af8e824af43b3da3663da0a373a6d"
+    },
+    {
+      "id": 8,
+      "title": "NHỮNG CẢM XÚC VÀ CẢM GIÁC",
+      "count": 32,
+      "sha256": "3894f011cae8b5a6e58098c82366cf65fce4065e56134a05d1eadffb74758b4a"
+    },
+    {
+      "id": 9,
+      "title": "THIÊN NHIÊN",
+      "count": 31,
+      "sha256": "36cf1d16f426130dcfaf23203e0630b47c1157b22b9eb25e8bfda56de27e08bb"
+    },
+    {
+      "id": 10,
+      "title": "GIẢI TRÍ I",
+      "count": 23,
+      "sha256": "ae814dd48f133b05769a9cf27cd50ba24bfe65e71a8b65fce58b67102ee9b82c"
+    },
+    {
+      "id": 11,
+      "title": "GIẢI TRÍ II",
+      "count": 21,
+      "sha256": "c07a8d9b1441380e878ab5e09c7f4ef2d16a275c0c3c09c065f2d8a13268537b"
+    },
+    {
+      "id": 12,
+      "title": "LÀM VIỆC I",
+      "count": 27,
+      "sha256": "d19702eee54d43c444c4d7acfb8a5125f9523b12940c2f4ab6ed8716f62c97c7"
+    },
+    {
+      "id": 13,
+      "title": "CÔNG VIỆC II",
+      "count": 24,
+      "sha256": "a4e4a4adf98c7fb78760cba63c70a994f34f6288b24c1b97c952e03d119902d5"
+    },
+    {
+      "id": 14,
+      "title": "VẬN CHUYỂN VÀ DI CHUYỂN",
+      "count": 40,
+      "sha256": "3aacc56a805bc23dc3569c2237242806d7df4fdba1fedb4e67b578ab3b86e98c"
+    },
+    {
+      "id": 15,
+      "title": "NƠI",
+      "count": 35,
+      "sha256": "dad6aba3cf8758a8cc7a1fb2b1c20b3b7a8d2ac68261ee7a912f164b9deb1892"
+    },
+    {
+      "id": 16,
+      "title": "CÁC HOẠT ĐỘNG",
+      "count": 34,
+      "sha256": "166bbe9e0468bab9a1821c353c24021459ac20d96155edf5bbb66e99642931cb"
+    },
+    {
+      "id": 17,
+      "title": "NHỮNG THAY ĐỔI",
+      "count": 33,
+      "sha256": "e16005e51b1b683fd2596d1a882f4b44c00385e528e65ad8f0e7eb2a0727a76b"
+    },
+    {
+      "id": 18,
+      "title": "THÔNG TIN VÀ PHƯƠNG TIỆN",
+      "count": 34,
+      "sha256": "ccd34f1b5cd8cd60cec89eeb9621812444d218a5a861224fc43afb6de7881e15"
+    },
+    {
+      "id": 19,
+      "title": "THÀNH TỰU VÀ KẾT QUẢ",
+      "count": 37,
+      "sha256": "c7d3911d33c40710f76266a9b4fb7893e2458338290d1d91fb98b25786d3f83a"
+    },
+    {
+      "id": 20,
+      "title": "SO SÁNH VÀ TUÂN THỦ",
+      "count": 20,
+      "sha256": "d9e56c907eb1908f60b61193bfafeb753a4df04c4642055d41f96d94be08f7f6"
+    },
+    {
+      "id": 21,
+      "title": "PHÂN BỔ",
+      "count": 20,
+      "sha256": "05948ef45f48871de0a75c9e4a3235d384bba0128d9ce55f69726aea9bf60338"
+    },
+    {
+      "id": 22,
+      "title": "KINH TẾ VÀ TÀI CHÍNH",
+      "count": 31,
+      "sha256": "8001ec76d817913b26bd3a326fd0faff800b5463a6b91031aeebd3f2f1a50e96"
+    },
+    {
+      "id": 23,
+      "title": "ĐỘNG TỪ I",
+      "count": 23,
+      "sha256": "4f2b4ae52a2f7817ab2034d9774432554af19877d15c4f75a1588108d03e94ca"
+    },
+    {
+      "id": 24,
+      "title": "ĐỘNG TỪ II",
+      "count": 23,
+      "sha256": "038e26bb51aec1e7baf8eac4a1857e50858fd7243b2830630b5378d34085503a"
+    },
+    {
+      "id": 25,
+      "title": "TRƯỜNG HỢP",
+      "count": 19,
+      "sha256": "22af53f338b59abfb4d753e32a59d03141d94c96a0079f55e6a938de565b7db7"
+    },
+    {
+      "id": 26,
+      "title": "NGHIÊN CỨU",
+      "count": 34,
+      "sha256": "cf59751b58507b8e4a9ba219b27d484f10b58945c5a488a8ae1abfee4be71419"
+    },
+    {
+      "id": 27,
+      "title": "CĂN NHÀ",
+      "count": 29,
+      "sha256": "5741638913a0c60569d68df967587f761714a12b37572b98b9ce927dcba4fb20"
+    },
+    {
+      "id": 28,
+      "title": "TƯ DUY",
+      "count": 33,
+      "sha256": "a9ab0f444b6bc933a7706997dbfe0707cbd1cbc76f7a3002ab832b333a10139d"
+    },
+    {
+      "id": 29,
+      "title": "LIÊN LẠC",
+      "count": 30,
+      "sha256": "75f1d614616d19beb9317f8b06eb779cc982a537d8df333b2da428141b9d02fd"
+    },
+    {
+      "id": 30,
+      "title": "ĐO LƯỜNG, LƯỢNG TỪ VÀ ĐẠI TỪ",
+      "count": 14,
+      "sha256": "749911b34980dd9a252bc35b3b907ba299f77b4bdd417763c073380f6dc1f69b"
+    },
+    {
+      "id": 31,
+      "title": "BẢN TÍNH",
+      "count": 19,
+      "sha256": "a8d88f0d18be8b43fa0690e6dd070239b98d8139632eda758ad93b52d9b8cfe4"
+    },
+    {
+      "id": 32,
+      "title": "ĐẶC ĐIỂM",
+      "count": 25,
+      "sha256": "5f8d65d571cb98aa8a45c1039dd819b2dfc523defddd4e1cbe737af97ad1d668"
+    },
+    {
+      "id": 33,
+      "title": "TÍNH TỪ",
+      "count": 35,
+      "sha256": "747942eb8d9c2b4bdbcffd9ea96ef6dc475375ac63a2689867f4e96652342467"
+    },
+    {
+      "id": 34,
+      "title": "QUẦN ÁO VÀ PHỤ KIỆN",
+      "count": 12,
+      "sha256": "24dbff0973f1f03b31e7297dabfa6d91eb9f1abc45c4f7c1175fa5f5792ce8d7"
+    },
+    {
+      "id": 35,
+      "title": "TỪ CHỨC NĂNG I",
+      "count": 16,
+      "sha256": "b46ef10653e37da335df326527320a9aa6e921e6834023233ffe2cefb954417a"
+    },
+    {
+      "id": 36,
+      "title": "TỪ CHỨC NĂNG II",
+      "count": 26,
+      "sha256": "986066fe4634d5d9e7ff8865dd49962166b5c33b0d98fcc3b9da499d737990f0"
+    }
+  ]
+}
