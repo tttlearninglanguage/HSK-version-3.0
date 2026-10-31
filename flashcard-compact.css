@@ -1,7 +1,7 @@
 /* Shared compact layout, scoped to active lesson/topic flashcards. */
 body:has(#hskUnitFlashCard) #app{margin-top:10px!important;margin-bottom:10px!important;min-height:0}
 #app:has(#hskUnitFlashCard) .tabs,#app .hsk-unit-flash-filters,#app #hskUnitFlashActions{gap:6px!important;margin:8px 0!important}
-#app:has(#hskUnitFlashCard) button,#topicRoot:has(.topic-flash) button{min-height:40px;padding:8px 12px!important;font-size:14px!important;line-height:1.2!important}
+#app:has(#hskUnitFlashCard) button:not(.h2-word),#topicRoot:has(.topic-flash) button:not(.h2-word){min-height:40px;padding:8px 12px!important;font-size:14px!important;line-height:1.2!important}
 #app #hskUnitFlashCard,#topicRoot .topic-flash{min-height:240px!important;height:auto!important;padding:20px 18px!important;gap:5px!important;border-radius:18px!important}
 #app #hskUnitFlashCard>* ,#topicRoot .topic-flash>*{margin:0!important;max-width:100%;overflow-wrap:anywhere}
 #app #hskUnitFlashCard .hanzi.big,#topicRoot .topic-flash .topic-hanzi{font-size:clamp(38px,6vw,68px)!important;line-height:1.15!important}
@@ -17,7 +17,7 @@ body:has(#hskUnitFlashCard)>footer,body:has(.topic-flash)>footer{padding:8px!imp
 @media(max-width:600px),(max-height:700px){
  #app #hskUnitFlashCard,#topicRoot .topic-flash{min-height:200px!important;padding:14px 12px!important;gap:4px!important}
  #app #hskUnitFlashCard .hanzi.big,#topicRoot .topic-flash .topic-hanzi{font-size:40px!important}
- #app:has(#hskUnitFlashCard) button,#topicRoot:has(.topic-flash) button{font-size:12px!important;min-height:40px;padding:7px 9px!important}
+ #app:has(#hskUnitFlashCard) button:not(.h2-word),#topicRoot:has(.topic-flash) button:not(.h2-word){font-size:12px!important;min-height:40px;padding:7px 9px!important}
  #app:has(#hskUnitFlashCard) .tabs{gap:4px!important}
 }
 body:has(#hskUnitFlashCard)>header,body:has(.topic-flash)>header{padding:8px 18px!important;gap:6px!important}
@@ -42,3 +42,10 @@ body:has(#hskUnitFlashCard)>header .brand,body:has(.topic-flash)>header .brand{f
 #app .flash .hsk3-example-pin,
 #topicRoot .topic-flash .topic-hanzi+p,
 #topicRoot .topic-flash .topic-example-pinyin{font-weight:400!important}
+
+/* Keep nested Chinese text and dictionary tokens at the heading's own size. */
+#app .unit-title-banner h2 .hanzi,
+#app .unit-title-banner h2 .h2-word,
+#topicRoot .topic-head h1 .hanzi,
+#topicRoot .topic-head h1 .topic-hanzi,
+#topicRoot .topic-head h1 .h2-word{font-size:inherit!important;line-height:inherit!important;letter-spacing:inherit!important}
