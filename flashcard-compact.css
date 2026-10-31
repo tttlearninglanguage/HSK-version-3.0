@@ -55,3 +55,10 @@ body:has(#hskUnitFlashCard)>header .brand,body:has(.topic-flash)>header .brand{f
  body[data-hsk-study-view]>header,
  body[data-hsk-study-view] #topicRoot .topic-sticky-nav{position:static!important;top:auto!important}
 }
+
+/* Lessons share the topic flashcard's single enclosing study panel. */
+#app .panel.hsk-unit-flash-panel{margin:6px 0!important;padding:10px!important;border-radius:19px!important;border:1px solid var(--accent-border,#e1e6ec)!important;box-shadow:none!important}
+#app .hsk-unit-flash-status{margin:4px 0!important;font-size:15px!important;line-height:1.25!important;font-weight:400!important}
+#app .hsk-unit-flash-progress{height:9px;margin:6px 0!important}
+#app .hsk-unit-flash-progress>div{background:var(--accent,#ba5548)!important}
+#app .hsk-unit-flash-panel #hskUnitFlashCard{border:1px solid #dfe5ec!important;box-shadow:none!important}
