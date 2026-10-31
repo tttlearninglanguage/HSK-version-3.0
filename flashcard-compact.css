@@ -49,3 +49,9 @@ body:has(#hskUnitFlashCard)>header .brand,body:has(.topic-flash)>header .brand{f
 #topicRoot .topic-head h1 .hanzi,
 #topicRoot .topic-head h1 .topic-hanzi,
 #topicRoot .topic-head h1 .h2-word{font-size:inherit!important;line-height:inherit!important;letter-spacing:inherit!important}
+
+/* In lessons/topics, let navigation scroll away on phones. */
+@media(max-width:700px){
+ body[data-hsk-study-view]>header,
+ body[data-hsk-study-view] #topicRoot .topic-sticky-nav{position:static!important;top:auto!important}
+}
