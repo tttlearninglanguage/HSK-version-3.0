@@ -452,6 +452,10 @@ body>header nav button:hover{background:#f5f6f8!important;border-color:#b9c5ce!i
 #app .qh-home .qh-list-header h2,#topicHomeEntry .topic-home-entry-copy>strong{font-family:Arial,'Segoe UI',sans-serif!important;font-size:28px!important;line-height:1.4!important;font-weight:750!important;color:#2a3544!important}
 @media(max-width:600px){#app .h2-ref-grammar{padding:22px 17px}#app .h2-ref-grammar>h3{font-size:21px}#app .h2-ref-formula,#app .h2-ref-theory{padding:14px}#app .h2-ref-example>.h2-chinese{font-size:26px!important}#topicRoot .topic-flash p.h2-topic-flash-zh,#topicRoot .topic-flash .hsk-topic-flash-example{font-size:29px!important}#app .qh-home .qh-list-header h2,#topicHomeEntry .topic-home-entry-copy>strong{font-size:25px!important}}
 </style>
+<style>
+#app .study-art .hsk3-lesson-emoji{display:inline-block;font-family:"Apple Color Emoji","Segoe UI Emoji","Noto Color Emoji",sans-serif;font-size:76px;line-height:1.2;font-weight:400;font-style:normal}
+@media(max-width:600px){#app .study-art .hsk3-lesson-emoji{font-size:68px}}
+</style>
 </head>
 <body>
 <header>
@@ -1155,24 +1159,8 @@ const popup=document.createElement('dialog');popup.id='h2-dictionary';popup.setA
 window.h2Lookup=function(key){const w=WORDS.get(key);if(!w)return;popup.innerHTML=`<div class="h2-dict-head"><span>TRA TỪ</span><button type="button" onclick="document.querySelector('#h2-dictionary').close()" aria-label="Đóng tra từ">✕</button></div><div class="h2-dict-han">${E(w.hanzi)}</div><p class="h2-pin">${E(w.pinyin)}</p><p>${E(w.meaning)}</p><button class="primary" id="h2-say-word">🔊 Nghe phát âm</button>`;popup.querySelector('#h2-say-word').onclick=()=>speak(w.hanzi);if(!popup.open)popup.showModal()};
 popup.addEventListener('click',e=>{if(e.target===popup)popup.close()});
 document.addEventListener('click',e=>{const b=e.target.closest('[data-lookup]');if(b){e.preventDefault();e.stopPropagation();h2Lookup(b.dataset.lookup)}},true);
-const art=[
-'<rect x="26" y="34" width="108" height="65" rx="14" fill="#dbeafe"/><path d="M42 49h27v23H42zm49 0h27v23H91z" fill="white"/><path d="M31 111h99m-85-7-11 17m80-17 11 17"/><circle cx="47" cy="89" r="5"/><circle cx="114" cy="89" r="5"/>',
-'<path d="m26 48 38-12 35 13 36-13v66l-36 13-35-13-38 12z" fill="#e0f2e8"/><path d="M64 36v66m35-53v66"/><path d="M91 51c0 14-17 29-17 29S57 65 57 51a17 17 0 0 1 34 0z" fill="#f6ae9f"/><circle cx="74" cy="51" r="5" fill="white"/>',
-'<path d="M31 69h102a51 43 0 0 1-102 0z" fill="#ffdba1"/><path d="M133 74h17M25 74H10M36 116h92M52 55q-13-12 0-23m29 23q-13-12 0-23m29 23q-13-12 0-23"/><path d="m68 61 43-30" stroke="#ba4e43"/>',
-'<path d="M37 53h87l9 65H28z" fill="#f7d7df"/><path d="M55 53V40a25 25 0 0 1 50 0v13"/><path d="m62 77 19 16 20-16" stroke="#bd5043"/><path d="M81 93v12"/>',
-'<rect x="31" y="55" width="100" height="65" rx="6" fill="#e2efe7"/><path d="M81 55v65M28 55h106v-17H28z" fill="#ffd995"/><path d="M81 38C40 40 39 12 58 15c13 1 23 23 23 23zm0 0c41 2 42-26 23-23-13 1-23 23-23 23z" fill="#f4b2a7"/>',
-'<path d="M35 80h93v41H35z" fill="#f7c1ba"/><path d="M29 73h105v19q-14 11-26 0-14 11-26 0-14 11-26 0-14 11-27 0z" fill="#fff4df"/><path d="M60 73V54m43 19V54M81 72V43"/><path d="M56 44q4-16 8 0-4 7-8 0m22-9q4-16 8 0-4 7-8 0m21 9q4-16 8 0-4 7-8 0" fill="#efae5e"/>',
-'<circle cx="80" cy="73" r="47" fill="#f5c080"/><path d="M33 73h94M80 26v94M46 41q57 29 68 63M114 41q-57 29-68 63"/>',
-'<rect x="30" y="32" width="32" height="86" rx="5" fill="#b2d9c8"/><rect x="64" y="23" width="32" height="95" rx="5" fill="#f7c0b6"/><rect x="98" y="40" width="32" height="78" rx="5" fill="#f5d994"/><path d="M40 48h12m-12 8h12m23-17h10m-10 8h10m24 9h12m-12 8h12M23 121h116"/>',
-'<path d="m22 65 59-43 58 43" fill="#f6b5a6"/><path d="M37 58v63h87V58" fill="#fff7dc"/><path d="M70 121V85h24v36" fill="#b8d8dc"/><path d="M45 72h16v18H45zm58 0h13v18h-13" fill="white"/>',
-'<path d="M35 51h92v70H35z" fill="#f5dfb3"/><path d="m27 51 54-30 54 30" fill="#b9cbdc"/><path d="M71 121V90h20v31M46 65h13v13H46zm58 0h13v13h-13" fill="white"/><circle cx="81" cy="55" r="11" fill="white"/><path d="M81 47v9l6 4"/>',
-'<rect x="37" y="39" width="88" height="83" rx="10" fill="#d1e8df"/><path d="M65 39V26h32v13"/><path d="M70 58h22v15h15v21H92v15H70V94H55V73h15z" fill="white"/>',
-'<circle cx="91" cy="58" r="27" fill="#f5cf7b"/><path d="M91 19v-9m28 20 7-7m5 35h10M62 28l-7-7M46 58h-9"/><path d="M31 117c-28 0-25-37 1-37 6-27 49-25 55 1 32-4 32 36 3 36z" fill="#dce9f4"/>',
-'<path d="M81 116V75m0 17-21-15m21 26 24-18" stroke="#5d9275"/><path d="M49 116h65l-8 17H57z" fill="#f4c192"/><g fill="#f4afa6"><circle cx="81" cy="39" r="15"/><circle cx="58" cy="56" r="15"/><circle cx="104" cy="56" r="15"/><circle cx="67" cy="80" r="15"/><circle cx="96" cy="80" r="15"/></g><circle cx="81" cy="59" r="17" fill="#f5d47f"/>',
-'<rect x="41" y="23" width="79" height="103" rx="9" fill="#dfdcec"/><path d="m52 123 48-9V33l-48 8z" fill="#fff9eb"/><circle cx="90" cy="81" r="4"/><path d="M128 51h17m-15 16 14 5m-16-36 13-7" stroke="#c66b52"/>',
-'<rect x="39" y="24" width="84" height="103" rx="10" fill="#a9c8ce"/><circle cx="81" cy="68" r="26" fill="#e8f4f1"/><ellipse cx="81" cy="68" rx="12" ry="26"/><path d="M56 68h50M62 52h38M62 84h38M62 111h38"/><path d="m115 97 27-6-7 18-5-9z" fill="#f3c179"/>'
-];
-window.h2LessonArt=i=>`<svg viewBox="0 0 160 145" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#58677a" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="80" cy="130" rx="58" ry="6" fill="#4b5563" opacity=".08" stroke="none"/>${art[i%art.length]}</svg>`;
+const lessonIcons=["✈️", "🍽️", "🏘️", "🏨", "📸", "🚄", "👗", "🏥", "🏀", "📚", "🧩", "🌦️", "🤝", "📕", "🏙️", "🐼", "🎓", "🥟"];
+window.h2LessonArt=i=>`<span class="hsk3-lesson-emoji">${lessonIcons[i]||"📖"}</span>`;
 const previousHome=home;
 home=function(){previousHome();document.querySelectorAll('.qh-card').forEach((card,i)=>{const image=card.querySelector('.study-art');if(image)image.innerHTML=h2LessonArt(i);const title=card.querySelector('.qh-title');if(title){title.classList.remove('hanzi');title.textContent=L[i].title}const sub=card.querySelector('.qh-translation');if(sub)sub.textContent=L[i].subtitle});const h=document.querySelector('.qh-top h1');if(h)h.textContent='HSK 3 VERSION 3.0';};
 // Keep the top-level home control visible on the topic directory and inside topics.
