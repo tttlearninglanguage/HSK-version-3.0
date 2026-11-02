@@ -4,9 +4,24 @@
 
 Đã kiểm tra cấu trúc repository: trang chủ `index.html`, ba trang học `hsk1.html`, `hsk2.html`, `hsk3.html`, ba tài nguyên giao diện/điều hướng dùng chung, bộ phát âm và năm bộ kiểm thử hiện có. Các cấp 1–3 là HTML độc lập, phần lớn CSS, JavaScript và dữ liệu được nhúng trong HTML; không có backend hay bước build. HSK 3 có 18 bài, 36 chủ đề, các tab từ vựng/ngữ pháp/flashcard/trò chơi, bài đọc có tra từ tại vị trí bấm, ôn tập, lịch sử và sao lưu localStorage. Trang chủ trước đây hiển thị HSK 4 là sắp ra mắt.
 
-HSK 4 theo cùng bố cục, luồng học và các dạng luyện tập đang có ở HSK 3. Dữ liệu và engine mới tách file để mở rộng nhiều bài mà không sao chép trò chơi từng bài. Dùng trực tiếp `../hsk-header.css`. `speech.js` kế thừa bộ phát âm `hsk-speech.js`, chỉ đổi khóa giọng đọc thành `hsk4-voice` để không dùng chung tùy chọn các cấp trước. Không sửa HTML, CSS, JavaScript hoặc dữ liệu của HSK 1–3. Bộ kiểm thử HSK 3 được sửa bước về trang chủ tổng: bấm đúng liên kết logo và chờ URL đích, thay cho nút về trang chủ nội bộ HSK 3. Không sửa hành vi điều hướng của trang học.
+HSK 4 theo cùng bố cục, luồng học và các dạng luyện tập đang có ở HSK 3. Dữ liệu và engine mới tách file để mở rộng nhiều bài mà không sao chép trò chơi từng bài. Dùng trực tiếp `../hsk-header.css` và `../flashcard-compact.css`, cùng `hsk3-theme.css` được trích nguyên CSS của HSK 3 theo đúng thứ tự cascade. `speech.js` kế thừa bộ phát âm `hsk-speech.js`, chỉ đổi khóa giọng đọc thành `hsk4-voice` để không dùng chung tùy chọn các cấp trước. Không sửa HTML, CSS, JavaScript hoặc dữ liệu của HSK 1–3. Bộ kiểm thử HSK 3 được sửa bước về trang chủ tổng: bấm đúng liên kết logo và chờ URL đích, thay cho nút về trang chủ nội bộ HSK 3. Không sửa hành vi điều hướng của trang học.
 
 Chỉ mở **Bài 1 — 我们来中国学习了**, quyển Thượng. Bài 2–10 chưa mở theo yêu cầu chờ duyệt. Quyển Hạ gồm Bài 11–20 hiển thị **Sắp ra mắt**, chưa có nguồn, không tạo từ vựng/ngữ pháp cho quyển này. Không đánh số lại Bài 11 thành Bài 1.
+
+## Giao diện đồng bộ HSK 3
+
+Bản sửa giao diện dùng CSS thực tế của HSK 3, không tiếp tục bộ giao diện thẻ màu xanh riêng. Chạy `python scripts/sync-hsk3-theme.py` từ gốc repository khi cần cập nhật bản CSS dẫn xuất. Script chỉ đọc `hsk3.html`, không sửa các cấp trước.
+
+- Trang chủ: banner minh họa sách, lối tắt tiến độ/ôn tập và thẻ bài học pastel `qh-*` như HSK 3; giữ riêng hai mục Thượng/Hạ.
+- Trong bài: `unit-title-banner`, tab và màu nhận diện của Bài 1 theo mẫu HSK 3.
+- Từ vựng: bảng STT / Hán tự / Pinyin / Nghĩa / Ví dụ và dịch / Học; giữ hiển thị loại từ để đáp ứng tài liệu HSK 4. Bảng cuộn trong khung trên màn hình nhỏ.
+- Flashcard: dùng trực tiếp CSS compact chung, bộ lọc Tất cả / Đã thuộc / Chưa thuộc, thanh tiến độ, nút Nghe / Trước / Đánh dấu / Trộn thẻ / Tiếp. Trộn thẻ không thay đổi thứ tự dữ liệu nguồn.
+- Ngữ pháp: các khung `h2-ref-*` như HSK 3, gồm công thức vàng, giải thích, lưu ý và ví dụ.
+- Trò chơi: nhóm từ vựng, nghe/viết, câu/ngữ pháp, đọc đoạn và vận dụng; dùng lại khung câu hỏi, lựa chọn đáp án và chọn giọng đọc.
+- Đọc hiểu: bố cục `h2-reading-layout` hai cột trên máy tính, xếp dọc trên điện thoại; tra từ gần vị trí bấm.
+- Viết đoạn, ôn tập, thống kê: khung hướng dẫn `answer-area` và các thành phần `dash-*` của HSK 3.
+
+`tests/hsk4-ui-parity.cjs` so sánh trực tiếp kiểu hiển thị được trình duyệt tính toán cho các thành phần của HSK 3 và HSK 4 tại 1440px/390px; đồng thời xác minh file CSS dẫn xuất khớp toàn bộ cascade nguồn. Kiểm tra gồm font, màu, border, bo góc, padding, bóng, cách hiển thị, không tràn ngang, tìm bài, bộ lọc flashcard và thứ tự dữ liệu khi trộn thẻ.
 
 ## Nội dung
 
@@ -40,12 +55,13 @@ Khóa riêng: `hsk4-quest-v1`, `hsk4-guided-v1-L01`, `hsk4-voice`. Lưu từ đ�
 
 ## File và triển khai
 
-- `index.html`: khung trang; `styles.css`: giao diện HSK 4; `app.js`: điều hướng, học, trò chơi, tiến độ; `speech.js`: phát âm.
+- `index.html`: khung trang; `hsk3-theme.css`: CSS dẫn xuất nguyên bản từ HSK 3; `styles.css`: phần bổ sung riêng HSK 4; `assets/`: ba minh họa SVG kế thừa từ giao diện HSK 3; `app.js`: điều hướng, học, trò chơi, tiến độ; `speech.js`: phát âm.
 - `data/lesson-01.json`: nội dung nguồn Bài 1.
 - `data/practice-01.json`: ngân hàng luyện tập và bài đọc bổ sung.
 - `data/dictionary.json`, `data/dictionary-overrides.json`: tra cứu bổ trợ.
 - `data/source-manifest.json`: SHA-256 tài liệu gốc và nội dung từ vựng, bản đối chiếu ngữ pháp.
-- `../tests/hsk4-content.cjs`, `../tests/hsk4-smoke.cjs`: kiểm tra dữ liệu và trình duyệt.
+- `../tests/hsk4-content.cjs`, `../tests/hsk4-smoke.cjs`, `../tests/hsk4-ui-parity.cjs`: kiểm tra dữ liệu, chức năng và đối chiếu giao diện thực tế với HSK 3.
+- `../scripts/sync-hsk3-theme.py`: đồng bộ CSS dẫn xuất từ HSK 3.
 - `../index.html`: chỉ thay thẻ HSK 4 thành liên kết vào khóa học, ghi đúng 1 bài đã mở / 40 từ / 4 cấu trúc.
 
 Có thể chạy bằng bất kỳ máy chủ file tĩnh nào, ví dụ `python -m http.server 8000` ở gốc repository, rồi mở `/HSK4/index.html`. Hoạt động trên GitHub Pages với đường dẫn `/HSK-version-3.0/HSK4/index.html`; không cần backend/build. Mở trực tiếp bằng `file://` không hỗ trợ tải JSON qua fetch.
@@ -57,6 +73,7 @@ node --check HSK4/app.js
 node --check HSK4/speech.js
 node tests/hsk4-content.cjs
 node tests/hsk4-smoke.cjs
+node tests/hsk4-ui-parity.cjs
 node tests/hsk3-smoke.cjs
 ```
 
@@ -64,6 +81,8 @@ Cần Playwright và Chromium; có thể đặt `CHROMIUM_PATH`. Đặt `HSK4_SC
 
 Kiểm tra nội dung đối chiếu hash toàn bộ bảy trường nguồn và đầy đủ ngữ pháp, cấu trúc đáp án, sắp xếp câu, câu điền từ và khả năng tra mọi từ trong bài đọc. Kiểm thử trình duyệt dùng máy chủ tĩnh có tiền tố repository giống GitHub Pages, màn hình 1440px/390px, các chế độ, hoàn thành bài đọc, phản hồi đúng/sai, bộ lọc, flashcard, bản nháp, sao lưu, từ sai, khóa lưu trữ tách biệt và điều hướng.
 
+Bản sửa đồng bộ giao diện đạt 144 kiểm tra đối chiếu thực tế với HSK 3 và tương tác trên 1440px/390px.
+
 Kết quả Bài 1: kiểm tra nội dung và hash đạt; bộ trình duyệt đạt 284 kiểm tra trên 1440px/390px, không có lỗi JavaScript, không tràn ngang trong các chế độ, đủ dữ liệu tra cứu cho ba bài đọc. Kiểm thử hồi quy HSK 3 đạt 1.190 kiểm tra trên 1440px/390px, bao gồm mở HSK 1/2, không có lỗi JavaScript chưa xử lý.
 
-Phát âm thực tế cần giọng tiếng Trung trên thiết bị; nhận diện cần trình duyệt hỗ trợ, kết nối dịch vụ và quyền micro. Kiểm thử tự động xác minh lời gọi phát âm, không xác nhận âm thanh nghe thực tế hay chất lượng nhận diện. Chưa xuất bản lên GitHub Pages.
+Phát âm thực tế cần giọng tiếng Trung trên thiết bị; nhận diện cần trình duyệt hỗ trợ, kết nối dịch vụ và quyền micro. Kiểm thử tự động xác minh lời gọi phát âm, không xác nhận âm thanh nghe thực tế hay chất lượng nhận diện. Việc xuất bản GitHub Pages phụ thuộc nhánh được cấu hình trong repository; bản sửa được gửi qua PR để duyệt trước khi merge.
