@@ -34,16 +34,26 @@ Bản sửa giao diện dùng CSS thực tế của HSK 3, không tiếp tục b
 - 3 bài đọc bổ sung dài lần lượt 184, 185, 175 ký tự, gồm dấu câu; tổng 12 câu hỏi nội dung, ý chính, suy luận, có đáp án và giải thích Việt.
 - Một đề viết đoạn văn và đoạn mẫu có pinyin, bản dịch; tự lưu nháp khi gõ và khôi phục khi tải lại trang.
 - Bài tập/bài đọc/lưu ý bổ sung được ghi rõ, không trình bày như trích nguyên văn giáo trình.
-- Từ điển tra cứu kế thừa 2.505 mục từ của HSK 3, bổ sung ba cách đọc theo ngữ cảnh trong file riêng cho 还, 只, 得. Không đưa các mục tra cứu này vào danh sách 40 từ mới.
+- Từ điển tra cứu kế thừa 2.505 mục từ của HSK 3, bổ sung cách đọc theo ngữ cảnh cho 还, 只, 得 và các mục tra cứu phục vụ đáp án tiếng Trung trong file riêng. Không đưa các mục tra cứu này vào danh sách 40 từ mới.
 - Bấm từ trong bài đọc để mở nghĩa và pinyin gần vị trí bấm; hỗ trợ bàn phím và đóng bằng Escape.
 
 Pinyin và các khoảng trắng trong ví dụ nguồn được giữ nguyên, bao gồm các chỗ nguồn viết dính âm tiết và dùng ký tự `ɡ`. Không tự sửa nguồn âm thầm. Đây là bản triển khai theo tài liệu cung cấp, chưa phải bản hiệu đính độc lập toàn bộ pinyin của giáo trình.
 
 ## Chế độ học
 
-Hán tự → nghĩa; nghĩa → Hán tự; chọn pinyin; nghe chọn chữ; nghe câu chọn bản dịch; gõ Hán tự; nghe chép chính tả; điền từ; sắp xếp từ; dịch câu; đọc hiểu câu; luyện nói; trắc nghiệm ngữ pháp; sắp xếp câu ngữ pháp; viết câu ngữ pháp; đọc hiểu theo đoạn; viết đoạn văn; ôn tập tổng hợp.
+Hán tự → nghĩa; nghĩa → Hán tự; chọn pinyin; nghe chọn chữ; nghe câu chọn câu tiếng Trung tương ứng; gõ Hán tự; nghe chép chính tả; điền từ; sắp xếp từ; dịch câu; đọc hiểu câu; luyện nói; trắc nghiệm ngữ pháp; sắp xếp câu ngữ pháp; viết câu ngữ pháp; đọc hiểu theo đoạn; viết đoạn văn; ôn tập tổng hợp.
 
 Câu hỏi có đáp án cố định được chấm theo đáp án, bỏ khác biệt dấu câu và khoảng trắng. Dịch câu, đọc hiểu câu tự viết, luyện nói, viết câu ngữ pháp và viết đoạn dùng tự đối chiếu; không chấm đúng theo từ khóa hoặc tuyên bố có AI chấm ngữ nghĩa. Kết quả tự đối chiếu tách khỏi điểm câu chấm tự động.
+
+## Điều chỉnh bài tập theo phản hồi
+
+- Nghe hiểu câu: nghe câu ví dụ và chọn câu tiếng Trung tương ứng, thay cho chọn bản dịch tiếng Việt.
+- Đọc hiểu đoạn: cả bốn phương án của mỗi câu hỏi đều bằng tiếng Trung; câu hỏi và giải thích vẫn bằng tiếng Việt. Bản dịch phương án cũ được giữ trong dữ liệu để đối chiếu.
+- Các lựa chọn tiếng Trung có nút tra từ độc lập và nút “Chọn đáp án”; không lồng các nút, không tự nộp khi tra từ. Tra từ vẫn dùng được sau khi chấm.
+- Thu nhỏ đề điền từ, dịch câu, sắp xếp từ; tăng cỡ đáp án điền từ bằng CSS chỉ áp dụng cho các chế độ tương ứng, kể cả câu điền từ trong ôn tập tổng hợp.
+- Luyện nói: kết quả nhận diện được điền vào ô trả lời, có thể sửa trước khi tự đối chiếu. Không tự nộp; bỏ qua kết quả đến muộn khi đổi câu, đổi màn hình, đã nộp hoặc đã bật lượt micro mới.
+
+Kiểm thử `tests/hsk4-exercise-updates.cjs` đạt 130 kiểm tra tại 1440px/390px, gồm trọn bộ 40 câu nghe, 12 câu đọc đoạn, dữ liệu tra từ, cỡ chữ, sửa kết quả micro và các tình huống kết quả đến muộn. Micro trong bộ kiểm thử được giả lập; nhận diện âm thanh thực tế vẫn phụ thuộc thiết bị và dịch vụ trình duyệt.
 
 ## Tiến độ và điều hướng
 
@@ -74,6 +84,7 @@ node --check HSK4/speech.js
 node tests/hsk4-content.cjs
 node tests/hsk4-smoke.cjs
 node tests/hsk4-ui-parity.cjs
+node tests/hsk4-exercise-updates.cjs
 node tests/hsk3-smoke.cjs
 ```
 
@@ -81,7 +92,7 @@ Cần Playwright và Chromium; có thể đặt `CHROMIUM_PATH`. Đặt `HSK4_SC
 
 Kiểm tra nội dung đối chiếu hash toàn bộ bảy trường nguồn và đầy đủ ngữ pháp, cấu trúc đáp án, sắp xếp câu, câu điền từ và khả năng tra mọi từ trong bài đọc. Kiểm thử trình duyệt dùng máy chủ tĩnh có tiền tố repository giống GitHub Pages, màn hình 1440px/390px, các chế độ, hoàn thành bài đọc, phản hồi đúng/sai, bộ lọc, flashcard, bản nháp, sao lưu, từ sai, khóa lưu trữ tách biệt và điều hướng.
 
-Bản sửa đồng bộ giao diện đạt 144 kiểm tra đối chiếu thực tế với HSK 3 và tương tác trên 1440px/390px.
+Các thành phần giao diện chung đạt 142 kiểm tra đối chiếu thực tế với HSK 3 và tương tác trên 1440px/390px; thẻ lựa chọn tiếng Trung được kiểm tra riêng theo yêu cầu mới.
 
 Kết quả Bài 1: kiểm tra nội dung và hash đạt; bộ trình duyệt đạt 284 kiểm tra trên 1440px/390px, không có lỗi JavaScript, không tràn ngang trong các chế độ, đủ dữ liệu tra cứu cho ba bài đọc. Kiểm thử hồi quy HSK 3 đạt 1.190 kiểm tra trên 1440px/390px, bao gồm mở HSK 1/2, không có lỗi JavaScript chưa xử lý.
 
