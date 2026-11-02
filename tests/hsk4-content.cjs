@@ -1,0 +1,15 @@
+const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict'),crypto=require('node:crypto');
+const dir=path.join(__dirname,'../HSK4/data');const read=n=>JSON.parse(fs.readFileSync(path.join(dir,n),'utf8'));
+const l=read('lesson-01.json'),p=read('practice-01.json'),m=read('source-manifest.json'),d=read('dictionary.json');
+assert.equal(l.id,1);assert.equal(l.volume,'upper');assert.equal(l.words.length,40);assert.equal(l.grammar.length,4);
+const cells=l.words.map(w=>m.wordFields.map(k=>w[k]));assert.equal(crypto.createHash('sha256').update(JSON.stringify(cells)).digest('hex'),m.wordsSha256,'source vocabulary mismatch');
+assert.deepEqual(l.grammar.map(g=>Object.fromEntries(['name','formula','explanation','examples'].map(k=>[k,g[k]]))),m.grammarSource);
+const ids=new Set();for(const w of l.words){assert(!ids.has(w.id));ids.add(w.id);for(const k of [...m.wordFields,'partOfSpeech'])assert.equal(typeof w[k],'string');assert(m.wordFields.every(k=>w[k].trim()));assert(w.example.includes(w.hanzi));assert(!/\b(?:noun|verb|adjective|pronoun)\b/i.test(w.partOfSpeech));}
+assert.equal(p.vocabulary.length,40);assert.deepEqual(p.vocabulary.map(v=>v.wordId),l.words.map(w=>w.id));
+for(const q of p.vocabulary){const w=l.words.find(w=>w.id===q.wordId);assert.equal(q.tokens.join(''),w.example);assert.equal(q.cloze.replace('＿＿＿',q.answer),w.example);assert.equal(q.answer,w.hanzi);assert.equal(new Set(q.options).size,4);assert.equal(q.options.filter(x=>x===q.answer).length,1);assert(q.explanation)}
+assert.equal(p.grammar.length,4);for(const g of l.grammar){const q=p.grammar.find(q=>q.pointId===g.id);assert(q);assert.equal(new Set(q.options).size,4);assert.equal(q.question.replace('＿＿＿',q.answer),q.sentence);assert.equal(q.sentence,g.examples[0].hanzi)}
+assert.equal(p.readings.length,3);assert.equal(p.readings.flatMap(r=>r.questions).length,12);
+const map=new Map([...d,...read('dictionary-overrides.json'),...l.words].map(w=>[w.hanzi,w]));const entries=[...map.values()].sort((a,b)=>b.hanzi.length-a.hanzi.length);const audit=[];
+for(const r of p.readings){assert(r.text.length>=150);assert(r.pinyin&&r.translation&&r.sourceType==='supplementary');assert(r.questions.some(q=>q.kind==='Ý chính'));assert(r.questions.some(q=>q.kind==='Suy luận'));for(const q of r.questions){assert.equal(new Set(q.options).size,4);assert(q.options.includes(q.answer));assert(q.explanation)}let i=0,tokens=[];while(i<r.text.length){const w=entries.find(w=>r.text.startsWith(w.hanzi,i));if(w){assert(w.pinyin&&w.meaning);tokens.push(w.hanzi);i+=w.hanzi.length}else{assert(!/[\u3400-\u9fff]/.test(r.text[i]),'Missing lookup '+r.text[i]+' in '+r.id);i++}}audit.push({id:r.id,characters:r.text.length,lookupTokens:tokens.length})}
+assert(p.writing.sample&&p.writing.samplePinyin&&p.writing.translation);assert(!/hsk[123]-voice/.test(fs.readFileSync(path.join(__dirname,'../HSK4/speech.js'),'utf8')));
+console.log('PASS source hashes, 40 words, 4 grammar points, 40 curated cloze/order items, 3 readings/12 answers, complete reading lookup coverage',audit);
