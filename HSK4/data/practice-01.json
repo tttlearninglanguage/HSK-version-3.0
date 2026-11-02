@@ -1005,52 +1005,76 @@
           "kind": "Nội dung",
           "question": "Trước khi nhập học, giáo viên yêu cầu chuẩn bị gì?",
           "options": [
-            "Thị thực, giấy tờ và tài liệu học tập",
-            "Vé xem phim và quà tặng",
-            "Đồ dùng nấu ăn",
-            "Tài liệu của công ty thương mại"
+            "签证、证件和学习材料",
+            "电影票和礼物",
+            "做饭用的东西",
+            "贸易公司的材料"
           ],
-          "answer": "Thị thực, giấy tờ và tài liệu học tập",
-          "explanation": "Đoạn đầu nêu rõ: 准备签证、证件和学习材料."
+          "answer": "签证、证件和学习材料",
+          "explanation": "Đoạn đầu nêu rõ: 准备签证、证件和学习材料.",
+          "optionsVietnamese": {
+            "签证、证件和学习材料": "Thị thực, giấy tờ và tài liệu học tập",
+            "电影票和礼物": "Vé xem phim và quà tặng",
+            "做饭用的东西": "Đồ dùng nấu ăn",
+            "贸易公司的材料": "Tài liệu của công ty thương mại"
+          }
         },
         {
           "id": "hsk4-L01-R01-Q02",
           "kind": "Nội dung",
           "question": "Vì sao người kể muốn xin học bổng?",
           "options": [
-            "Để giảm áp lực tài chính cho gia đình",
-            "Để đổi chuyên ngành",
-            "Để được nghỉ học",
-            "Để chuyển nhà ăn"
+            "为了减轻家里的经济压力",
+            "为了换专业",
+            "为了不用上课",
+            "为了换食堂"
           ],
-          "answer": "Để giảm áp lực tài chính cho gia đình",
-          "explanation": "要是申请到了，就能减轻家里的经济压力: nếu xin được sẽ giảm áp lực tài chính của gia đình."
+          "answer": "为了减轻家里的经济压力",
+          "explanation": "要是申请到了，就能减轻家里的经济压力: nếu xin được sẽ giảm áp lực tài chính của gia đình.",
+          "optionsVietnamese": {
+            "为了减轻家里的经济压力": "Để giảm áp lực tài chính cho gia đình",
+            "为了换专业": "Để đổi chuyên ngành",
+            "为了不用上课": "Để được nghỉ học",
+            "为了换食堂": "Để chuyển nhà ăn"
+          }
         },
         {
           "id": "hsk4-L01-R01-Q03",
           "kind": "Ý chính",
           "question": "Nội dung chính của đoạn văn là gì?",
           "options": [
-            "Chuẩn bị và thích nghi với việc học ở Trung Quốc",
-            "Cách tổ chức hội nghị quốc tế",
-            "Kinh nghiệm làm việc ở công ty",
-            "Lý do bỏ học đại học"
+            "来中国学习前的准备和对新生活的适应",
+            "怎样准备国际会议",
+            "在公司工作的经验",
+            "不想继续读本科的原因"
           ],
-          "answer": "Chuẩn bị và thích nghi với việc học ở Trung Quốc",
-          "explanation": "Các chi tiết về nhập học, khóa học, học bổng và thích nghi đều xoay quanh việc bắt đầu học ở Trung Quốc."
+          "answer": "来中国学习前的准备和对新生活的适应",
+          "explanation": "Các chi tiết về nhập học, khóa học, học bổng và thích nghi đều xoay quanh việc bắt đầu học ở Trung Quốc.",
+          "optionsVietnamese": {
+            "来中国学习前的准备和对新生活的适应": "Chuẩn bị và thích nghi với việc học ở Trung Quốc",
+            "怎样准备国际会议": "Cách tổ chức hội nghị quốc tế",
+            "在公司工作的经验": "Kinh nghiệm làm việc ở công ty",
+            "不想继续读本科的原因": "Lý do bỏ học đại học"
+          }
         },
         {
           "id": "hsk4-L01-R01-Q04",
           "kind": "Suy luận",
           "question": "Có thể nhận xét gì về cô giáo?",
           "options": [
-            "Cô sẵn lòng hỗ trợ sinh viên mới",
-            "Cô không muốn sinh viên hỏi bài",
-            "Cô chỉ quan tâm đến học bổng",
-            "Cô yêu cầu ai cũng học tiến sĩ"
+            "她愿意帮助新同学",
+            "她不希望同学问问题",
+            "她只关心奖学金",
+            "她要求每个人都读博士"
           ],
-          "answer": "Cô sẵn lòng hỗ trợ sinh viên mới",
-          "explanation": "Cô nói có vấn đề gì đều có thể tìm cô và còn đưa sinh viên đi ăn, cho thấy thái độ hỗ trợ."
+          "answer": "她愿意帮助新同学",
+          "explanation": "Cô nói có vấn đề gì đều có thể tìm cô và còn đưa sinh viên đi ăn, cho thấy thái độ hỗ trợ.",
+          "optionsVietnamese": {
+            "她愿意帮助新同学": "Cô sẵn lòng hỗ trợ sinh viên mới",
+            "她不希望同学问问题": "Cô không muốn sinh viên hỏi bài",
+            "她只关心奖学金": "Cô chỉ quan tâm đến học bổng",
+            "她要求每个人都读博士": "Cô yêu cầu ai cũng học tiến sĩ"
+          }
         }
       ],
       "sourceType": "supplementary"
@@ -1067,52 +1091,76 @@
           "kind": "Nội dung",
           "question": "Người kể thường giao tiếp với bạn bè ở đâu?",
           "options": [
-            "Ở nhà ăn",
-            "Ở công ty",
-            "Ở sân bay",
-            "Ở hội nghị quốc tế"
+            "在食堂",
+            "在公司",
+            "在机场",
+            "在国际会议上"
           ],
-          "answer": "Ở nhà ăn",
-          "explanation": "我们经常在食堂……用中文交流: chúng tôi thường giao tiếp bằng tiếng Trung tại nhà ăn."
+          "answer": "在食堂",
+          "explanation": "我们经常在食堂……用中文交流: chúng tôi thường giao tiếp bằng tiếng Trung tại nhà ăn.",
+          "optionsVietnamese": {
+            "在食堂": "Ở nhà ăn",
+            "在公司": "Ở công ty",
+            "在机场": "Ở sân bay",
+            "在国际会议上": "Ở hội nghị quốc tế"
+          }
         },
         {
           "id": "hsk4-L01-R02-Q02",
           "kind": "Nội dung",
           "question": "Khi người kể chưa nói tốt, bạn bè đã làm gì?",
           "options": [
-            "Động viên và kiên nhẫn với người kể",
-            "Yêu cầu người kể ngừng nói",
-            "Không tham gia hoạt động nữa",
-            "Bảo người kể đổi chuyên ngành"
+            "耐心地帮助他，并给他加油",
+            "让他别再说话",
+            "不再参加活动",
+            "让他换专业"
           ],
-          "answer": "Động viên và kiên nhẫn với người kể",
-          "explanation": "他们没有着急，总是对我说：“加油！” cho thấy họ kiên nhẫn và động viên."
+          "answer": "耐心地帮助他，并给他加油",
+          "explanation": "他们没有着急，总是对我说：“加油！” cho thấy họ kiên nhẫn và động viên.",
+          "optionsVietnamese": {
+            "耐心地帮助他，并给他加油": "Động viên và kiên nhẫn với người kể",
+            "让他别再说话": "Yêu cầu người kể ngừng nói",
+            "不再参加活动": "Không tham gia hoạt động nữa",
+            "让他换专业": "Bảo người kể đổi chuyên ngành"
+          }
         },
         {
           "id": "hsk4-L01-R02-Q03",
           "kind": "Ý chính",
           "question": "Đoạn văn chủ yếu nói về điều gì?",
           "options": [
-            "Lợi ích của giao lưu và vận dụng kiến thức vào cuộc sống",
-            "Cách xin thị thực nhập học",
-            "Các bậc học ở đại học",
-            "Áp lực tài chính gia đình"
+            "通过交流和在生活中运用知识来学习",
+            "怎样申请签证",
+            "大学里不同的学习阶段",
+            "家里的经济压力"
           ],
-          "answer": "Lợi ích của giao lưu và vận dụng kiến thức vào cuộc sống",
-          "explanation": "Người kể tiến bộ nhờ hoạt động, giao tiếp và vận dụng kiến thức ngoài lớp học."
+          "answer": "通过交流和在生活中运用知识来学习",
+          "explanation": "Người kể tiến bộ nhờ hoạt động, giao tiếp và vận dụng kiến thức ngoài lớp học.",
+          "optionsVietnamese": {
+            "通过交流和在生活中运用知识来学习": "Lợi ích của giao lưu và vận dụng kiến thức vào cuộc sống",
+            "怎样申请签证": "Cách xin thị thực nhập học",
+            "大学里不同的学习阶段": "Các bậc học ở đại học",
+            "家里的经济压力": "Áp lực tài chính gia đình"
+          }
         },
         {
           "id": "hsk4-L01-R02-Q04",
           "kind": "Suy luận",
           "question": "Theo người kể, cách học nào hiệu quả hơn?",
           "options": [
-            "Kết hợp học trong lớp và giao tiếp thực tế",
-            "Chỉ học trong lớp",
-            "Tránh nói khi chưa thành thạo",
-            "Chỉ học để xin học bổng"
+            "把课堂学习和生活中的交流结合起来",
+            "只在教室里学习",
+            "说得不好的时候就不说",
+            "只为了申请奖学金而学习"
           ],
-          "answer": "Kết hợp học trong lớp và giao tiếp thực tế",
-          "explanation": "Câu cuối nhấn mạnh chỉ học trong lớp chưa đủ, nên dùng kiến thức trong cuộc sống."
+          "answer": "把课堂学习和生活中的交流结合起来",
+          "explanation": "Câu cuối nhấn mạnh chỉ học trong lớp chưa đủ, nên dùng kiến thức trong cuộc sống.",
+          "optionsVietnamese": {
+            "把课堂学习和生活中的交流结合起来": "Kết hợp học trong lớp và giao tiếp thực tế",
+            "只在教室里学习": "Chỉ học trong lớp",
+            "说得不好的时候就不说": "Tránh nói khi chưa thành thạo",
+            "只为了申请奖学金而学习": "Chỉ học để xin học bổng"
+          }
         }
       ],
       "sourceType": "supplementary"
@@ -1129,52 +1177,76 @@
           "kind": "Nội dung",
           "question": "Chị của người kể đang học chuyên ngành gì?",
           "options": [
-            "Tiếng Trung",
-            "Kinh tế",
-            "Lịch sử",
-            "Thương mại"
+            "中文",
+            "经济",
+            "历史",
+            "贸易"
           ],
-          "answer": "Tiếng Trung",
-          "explanation": "学的是中文专业: chuyên ngành đang học là tiếng Trung."
+          "answer": "中文",
+          "explanation": "学的是中文专业: chuyên ngành đang học là tiếng Trung.",
+          "optionsVietnamese": {
+            "中文": "Tiếng Trung",
+            "经济": "Kinh tế",
+            "历史": "Lịch sử",
+            "贸易": "Thương mại"
+          }
         },
         {
           "id": "hsk4-L01-R03-Q02",
           "kind": "Nội dung",
           "question": "Chị dự định làm gì sau khi tốt nghiệp đại học?",
           "options": [
-            "Tiếp tục học cao học",
-            "Đi làm ở nhà ăn",
-            "Ngừng học tiếng Trung",
-            "Chuyển ngay sang công ty của bố"
+            "继续读研究生",
+            "去食堂工作",
+            "不再学习中文",
+            "马上去爸爸的公司工作"
           ],
-          "answer": "Tiếp tục học cao học",
-          "explanation": "她准备本科毕业以后继续读研究生: dự định học cao học sau khi tốt nghiệp."
+          "answer": "继续读研究生",
+          "explanation": "她准备本科毕业以后继续读研究生: dự định học cao học sau khi tốt nghiệp.",
+          "optionsVietnamese": {
+            "继续读研究生": "Tiếp tục học cao học",
+            "去食堂工作": "Đi làm ở nhà ăn",
+            "不再学习中文": "Ngừng học tiếng Trung",
+            "马上去爸爸的公司工作": "Chuyển ngay sang công ty của bố"
+          }
         },
         {
           "id": "hsk4-L01-R03-Q03",
           "kind": "Ý chính",
           "question": "Ý nào tóm tắt đúng đoạn văn?",
           "options": [
-            "Mục tiêu học tập và nghề nghiệp của chị cùng sự ủng hộ của gia đình",
-            "Bố phản đối việc học tiếp của chị",
-            "Chị đã có bằng tiến sĩ",
-            "Chị không còn muốn làm giáo viên"
+            "姐姐的学习和工作计划，以及家人的支持",
+            "爸爸反对姐姐继续学习",
+            "姐姐已经获得了博士学位",
+            "姐姐不想当教师了"
           ],
-          "answer": "Mục tiêu học tập và nghề nghiệp của chị cùng sự ủng hộ của gia đình",
-          "explanation": "Đoạn văn nêu chuyên ngành, mục tiêu nghề nghiệp, kế hoạch học tiếp và sự ủng hộ của bố."
+          "answer": "姐姐的学习和工作计划，以及家人的支持",
+          "explanation": "Đoạn văn nêu chuyên ngành, mục tiêu nghề nghiệp, kế hoạch học tiếp và sự ủng hộ của bố.",
+          "optionsVietnamese": {
+            "姐姐的学习和工作计划，以及家人的支持": "Mục tiêu học tập và nghề nghiệp của chị cùng sự ủng hộ của gia đình",
+            "爸爸反对姐姐继续学习": "Bố phản đối việc học tiếp của chị",
+            "姐姐已经获得了博士学位": "Chị đã có bằng tiến sĩ",
+            "姐姐不想当教师了": "Chị không còn muốn làm giáo viên"
+          }
         },
         {
           "id": "hsk4-L01-R03-Q04",
           "kind": "Suy luận",
           "question": "Qua lời nói cuối đoạn, chị là người thế nào?",
           "options": [
-            "Có quyết tâm và chủ động giải quyết khó khăn",
-            "Dễ bỏ cuộc khi gặp khó khăn",
-            "Không muốn tiếp tục học",
-            "Chỉ quan tâm đến tiền học bổng"
+            "有决心，也会主动想办法解决困难",
+            "一遇到困难就放弃",
+            "不想继续学习",
+            "只关心奖学金"
           ],
-          "answer": "Có quyết tâm và chủ động giải quyết khó khăn",
-          "explanation": "Chị nói sẽ tìm cách giải quyết và nhờ giáo viên giúp khi gặp khó khăn, thể hiện sự chủ động."
+          "answer": "有决心，也会主动想办法解决困难",
+          "explanation": "Chị nói sẽ tìm cách giải quyết và nhờ giáo viên giúp khi gặp khó khăn, thể hiện sự chủ động.",
+          "optionsVietnamese": {
+            "有决心，也会主动想办法解决困难": "Có quyết tâm và chủ động giải quyết khó khăn",
+            "一遇到困难就放弃": "Dễ bỏ cuộc khi gặp khó khăn",
+            "不想继续学习": "Không muốn tiếp tục học",
+            "只关心奖学金": "Chỉ quan tâm đến tiền học bổng"
+          }
         }
       ],
       "sourceType": "supplementary"
