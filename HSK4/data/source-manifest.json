@@ -1,0 +1,69 @@
+{
+  "sourceFile": "HSK 4 - Thượng.docx",
+  "sourceSha256": "f7750dbf9600803d1961cb0bd8c3e84a18990df1801f08f9444919285ef8094a",
+  "lesson": 1,
+  "title": "我们来中国学习了",
+  "wordCount": 40,
+  "grammarCount": 4,
+  "wordFields": [
+    "hanzi",
+    "pinyin",
+    "sourcePartOfSpeech",
+    "meaning",
+    "example",
+    "examplePinyin",
+    "translation"
+  ],
+  "wordsSha256": "cff96aacb607fe9be94b877014afe3a68336d5d9268b69ee9ddc010a3efe1706",
+  "grammarSource": [
+    {
+      "name": "任何",
+      "formula": "任何 + Danh từ + 都/也 + …",
+      "explanation": "Nhấn mạnh bất kỳ người, sự vật hay tình huống nào cũng không ngoại lệ.",
+      "examples": [
+        {
+          "hanzi": "你们以后有任何问题都可以来找我。",
+          "pinyin": "nǐ men yǐ hòu yǒu rèn hé wèn tí dōu kě yǐ lái zhǎowǒ.",
+          "translation": "Sau này có bất cứ vấn đề gì các bạn đều có thể đến tìm tôi."
+        }
+      ]
+    },
+    {
+      "name": "要是",
+      "formula": "要是 + Điều kiện， 就 + Kết quả",
+      "explanation": "Đưa ra giả thiết và kết quả nếu điều kiện xảy ra.",
+      "examples": [
+        {
+          "hanzi": "要是申请到奖学金，就能减轻不少经济压力。",
+          "pinyin": "yào shìshēn qǐng dào jiǎng xué jīn， jiù néng jiǎn qīng bù shǎo jīng jì yā lì.",
+          "translation": "Nếu xin được học bổng thì có thể giảm bớt khá nhiều áp lực tài chính."
+        }
+      ]
+    },
+    {
+      "name": "随着",
+      "formula": "随着 + Sự thay đổi，+ Kết quả",
+      "explanation": "Nêu sự biến đổi của một sự việc kéo theo sự thay đổi khác.",
+      "examples": [
+        {
+          "hanzi": "随着中文水平的提高，我现在能看懂中文报纸了。",
+          "pinyin": "suí zhe zhōng wén shuǐ píng de tí gāo， wǒ xiàn zài néng kàn dǒng zhōng wén bào zhǐle.",
+          "translation": "Cùng với việc trình độ tiếng Trung nâng cao, nay tôi đã đọc hiểu được báo tiếng Trung."
+        }
+      ]
+    },
+    {
+      "name": "一方面……，另一方面……",
+      "formula": "一方面……，另一方面……",
+      "explanation": "Trình bày đồng thời hai phương diện hoặc hai lý do.",
+      "examples": [
+        {
+          "hanzi": "来到中国留学，一方面是为了学习语言和知识，另一方面也是为将来的工作和生活做准备。",
+          "pinyin": "lái dào zhōng guó liú xué， yī fāngmiàn shìwèi le xué xí yǔ yán hé zhī shí， lìng yī fāngmiàn yě shìwèi jiāng lái de gōng zuò hé shēng huózuò zhǔn bèi.",
+          "translation": "Đến Trung Quốc du học một mặt để học ngôn ngữ và kiến thức, mặt khác để chuẩn bị cho công việc và cuộc sống tương lai."
+        }
+      ]
+    }
+  ],
+  "dictionarySource": "hsk3.html / HSK3_UPDATE.dictionary; dữ liệu tra cứu bổ trợ, không phải từ mới HSK 4."
+}

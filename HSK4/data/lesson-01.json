@@ -1,0 +1,513 @@
+{
+  "id": 1,
+  "volume": "upper",
+  "title": "我们来中国学习了",
+  "subtitle": "Chúng tôi đã đến Trung Quốc học tập",
+  "titlePinyin": "Wǒmen lái Zhōngguó xuéxí le",
+  "words": [
+    {
+      "id": "hsk4-L01-01",
+      "hanzi": "签证",
+      "pinyin": "qiānzhènɡ",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "thị thực",
+      "example": "这是我的签证。",
+      "examplePinyin": "zhè shìwǒ de qiānzhèng.",
+      "translation": "Đây là thị thực của tôi.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L01-02",
+      "hanzi": "入学",
+      "pinyin": "rùxué",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "nhập học",
+      "example": "九月，弟弟就要入学了。",
+      "examplePinyin": "jiǔ yuè， dì dì jiù yào rù xué le.",
+      "translation": "Tháng Chín, em trai tôi sắp nhập học.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L01-03",
+      "hanzi": "通知",
+      "pinyin": "tōngzhī",
+      "sourcePartOfSpeech": "v./n.",
+      "meaning": "thông báo; thông báo (danh từ)",
+      "example": "老师通知我们，明天不上课。",
+      "examplePinyin": "lǎo shī tōng zhī wǒ men， míng tiān bù shàng kè.",
+      "translation": "Giáo viên thông báo với chúng tôi rằng ngày mai không học.",
+      "partOfSpeech": "Động từ / Danh từ"
+    },
+    {
+      "id": "hsk4-L01-04",
+      "hanzi": "证件",
+      "pinyin": "zhèngjiàn",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "giấy tờ tùy thân",
+      "example": "我的证件在包里。",
+      "examplePinyin": "wǒ de zhèng jiàn zài bāo lǐ.",
+      "translation": "Giấy tờ của tôi ở trong túi.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L01-05",
+      "hanzi": "材料",
+      "pinyin": "cáiliào",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "tài liệu; vật liệu",
+      "example": "老师让我们上网找一些关于中国文化的学习材料。",
+      "examplePinyin": "lǎo shī ràng wǒ men shàng wǎng zhǎoyī xiē guān yú zhōng guó wén huà de xué xí cái liào.",
+      "translation": "Giáo viên yêu cầu chúng tôi tìm tài liệu học về văn hóa Trung Quốc trên mạng.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L01-06",
+      "hanzi": "证",
+      "pinyin": "zhèng",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "giấy chứng nhận; thẻ",
+      "example": "这是我的学生证，请您看一下。",
+      "examplePinyin": "zhè shìwǒ de xué shēng zhèng， qǐng nínkàn yī xià.",
+      "translation": "Đây là thẻ sinh viên của tôi, xin thầy/cô xem qua.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L01-07",
+      "hanzi": "任何",
+      "pinyin": "rènhé",
+      "sourcePartOfSpeech": "pron.",
+      "meaning": "bất kỳ",
+      "example": "任何人都能回答。",
+      "examplePinyin": "rèn hé rén dōu néng huí dá.",
+      "translation": "Bất kỳ ai cũng có thể trả lời.",
+      "partOfSpeech": "Đại từ"
+    },
+    {
+      "id": "hsk4-L01-08",
+      "hanzi": "食堂",
+      "pinyin": "shítáng",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "nhà ăn",
+      "example": "我们中午在食堂吃午饭。",
+      "examplePinyin": "wǒ men zhōng wǔ zài shí táng chī wǔ fàn.",
+      "translation": "Buổi trưa chúng tôi ăn ở nhà ăn.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L01-09",
+      "hanzi": "座",
+      "pinyin": "zuò",
+      "sourcePartOfSpeech": "m.",
+      "meaning": "lượng từ cho núi, tòa nhà...",
+      "example": "这座楼里有三十个教室。",
+      "examplePinyin": "zhè zuò lóulǐ yǒu sān shí gè jiào shì.",
+      "translation": "Trong tòa nhà này có ba mươi phòng học.",
+      "partOfSpeech": "Lượng từ"
+    },
+    {
+      "id": "hsk4-L01-10",
+      "hanzi": "申请",
+      "pinyin": "shēnqǐng",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "xin; đăng ký; nộp đơn",
+      "example": "我想申请去中国学习中文。",
+      "examplePinyin": "wǒ xiǎng shēn qǐng qù zhōng guó xué xí zhōng wén.",
+      "translation": "Tôi muốn nộp đơn sang Trung Quốc học tiếng Trung.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L01-11",
+      "hanzi": "奖学金",
+      "pinyin": "jiǎnɡxuéjīn",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "học bổng",
+      "example": "她学习很努力，今年获得了奖学金。",
+      "examplePinyin": "tā xué xí hěn nǔ lì， jīn nián huò dé le jiǎng xué jīn.",
+      "translation": "Cô ấy học rất chăm và năm nay nhận được học bổng.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L01-12",
+      "hanzi": "表现",
+      "pinyin": "biǎoxiàn",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "thể hiện; biểu hiện",
+      "example": "你这次表现得很不错。",
+      "examplePinyin": "nǐ zhè cì biǎo xiàn dé hěn bù cuò.",
+      "translation": "Lần này bạn thể hiện rất tốt.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L01-13",
+      "hanzi": "获得",
+      "pinyin": "huòdé",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "đạt được; giành được",
+      "example": "她在比赛中获得了第一名。",
+      "examplePinyin": "tā zài bǐ sài zhōng huò dé le dìyī míng.",
+      "translation": "Cô ấy giành giải nhất trong cuộc thi.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L01-14",
+      "hanzi": "要是",
+      "pinyin": "yàoshi",
+      "sourcePartOfSpeech": "conj.",
+      "meaning": "nếu",
+      "example": "要是明天不下雨，我们就去公园玩。",
+      "examplePinyin": "yào shìmíng tiān bù xià yǔ， wǒ men jiù qù gōng yuán wán.",
+      "translation": "Nếu ngày mai không mưa, chúng ta sẽ đi chơi công viên.",
+      "partOfSpeech": "Liên từ"
+    },
+    {
+      "id": "hsk4-L01-15",
+      "hanzi": "减轻",
+      "pinyin": "jiǎnqīng",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "giảm nhẹ",
+      "example": "运动可以帮助人们减轻压力。",
+      "examplePinyin": "yùn dòng kě yǐ bāng zhù rén men jiǎn qīng yā lì.",
+      "translation": "Vận động có thể giúp mọi người giảm căng thẳng.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L01-16",
+      "hanzi": "经济",
+      "pinyin": "jīnɡjì",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "kinh tế; điều kiện tài chính",
+      "example": "这几年我们家经济压力比较大。",
+      "examplePinyin": "zhè jǐ nián wǒ men jiā jīng jì yā lì bǐ jiào dà.",
+      "translation": "Mấy năm nay gia đình chúng tôi chịu áp lực tài chính khá lớn.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L01-17",
+      "hanzi": "压力",
+      "pinyin": "yālì",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "áp lực",
+      "example": "别给自己太大压力，慢慢来。",
+      "examplePinyin": "bié gěi zì jǐ tài dà yā lì， màn màn lái.",
+      "translation": "Đừng tạo áp lực quá lớn cho bản thân, cứ từ từ.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L01-18",
+      "hanzi": "加油",
+      "pinyin": "jiāyóu",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "cố lên; cổ vũ",
+      "example": "明天要考试了，加油！",
+      "examplePinyin": "míng tiān yào kǎo shì le， jiā yóu！",
+      "translation": "Ngày mai thi rồi, cố lên!",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L01-19",
+      "hanzi": "随着",
+      "pinyin": "suízhe",
+      "sourcePartOfSpeech": "prep.",
+      "meaning": "cùng với; theo sự thay đổi của",
+      "example": "随着天气变冷，出门的人越来越少。",
+      "examplePinyin": "suí zhe tiān qì biàn lěng， chū mén de rén yuè lái yuè shǎo.",
+      "translation": "Khi thời tiết trở lạnh, ngày càng ít người ra ngoài.",
+      "partOfSpeech": "Giới từ"
+    },
+    {
+      "id": "hsk4-L01-20",
+      "hanzi": "课程",
+      "pinyin": "kèchéng",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "môn học; khóa học",
+      "example": "这个学期的中文课程很有意思。",
+      "examplePinyin": "zhè gè xué qī de zhōng wén kè chéng hěn yǒu yì sī.",
+      "translation": "Khóa học tiếng Trung học kỳ này rất thú vị.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L01-21",
+      "hanzi": "专业",
+      "pinyin": "zhuānyè",
+      "sourcePartOfSpeech": "n./adj.",
+      "meaning": "chuyên ngành; chuyên nghiệp",
+      "example": "我姐姐在大学里学习中文专业。",
+      "examplePinyin": "wǒ jiě jiě zài dà xué lǐ xué xí zhōng wén zhuān yè.",
+      "translation": "Chị tôi học chuyên ngành tiếng Trung ở đại học.",
+      "partOfSpeech": "Danh từ / Tính từ"
+    },
+    {
+      "id": "hsk4-L01-22",
+      "hanzi": "本科",
+      "pinyin": "běnkē",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "bậc đại học (cử nhân)",
+      "example": "她在中国读的本科。",
+      "examplePinyin": "tā zài zhōng guó dú de běnkē.",
+      "translation": "Cô ấy học bậc đại học ở Trung Quốc.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L01-23",
+      "hanzi": "硕士",
+      "pinyin": "shuòshì",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "thạc sĩ",
+      "example": "我哥哥是一名经济学硕士。",
+      "examplePinyin": "wǒ gē gē shìyī míng jīng jì xué shuò shì.",
+      "translation": "Anh trai tôi có bằng thạc sĩ kinh tế học.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L01-24",
+      "hanzi": "研究生",
+      "pinyin": "yánjiūshēng",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "học viên sau đại học",
+      "example": "我姐姐读研究生了，每天都很忙。",
+      "examplePinyin": "wǒ jiě jiě dú yán jiū shēng le， měi tiān dōu hěn máng.",
+      "translation": "Chị tôi đang học cao học, ngày nào cũng bận.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L01-25",
+      "hanzi": "博士",
+      "pinyin": "bóshì",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "tiến sĩ; nghiên cứu sinh tiến sĩ",
+      "example": "他是北京大学的博士。",
+      "examplePinyin": "tā shìběi jīng dà xué de bó shì.",
+      "translation": "Anh ấy là tiến sĩ của Đại học Bắc Kinh.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L01-26",
+      "hanzi": "研究",
+      "pinyin": "yánjiū",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "nghiên cứu",
+      "example": "我喜欢研究中国文化，我认为这很有意思。",
+      "examplePinyin": "wǒ xǐ huān yán jiū zhōng guó wén huà， wǒ rèn wèi zhè hěn yǒu yì sī.",
+      "translation": "Tôi thích nghiên cứu văn hóa Trung Quốc, tôi thấy điều này rất thú vị.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L01-27",
+      "hanzi": "活动",
+      "pinyin": "huódòng",
+      "sourcePartOfSpeech": "n./v.",
+      "meaning": "hoạt động; vận động",
+      "example": "她在学校参加了很多活动。",
+      "examplePinyin": "tā zài xué xiào cān jiā le hěn duō huódòng.",
+      "translation": "Cô ấy tham gia nhiều hoạt động ở trường.",
+      "partOfSpeech": "Danh từ / Động từ"
+    },
+    {
+      "id": "hsk4-L01-28",
+      "hanzi": "通过",
+      "pinyin": "tōngguò",
+      "sourcePartOfSpeech": "prep./v.",
+      "meaning": "thông qua; vượt qua",
+      "example": "我通过听中文歌学习中文。",
+      "examplePinyin": "wǒ tōng guò tīng zhōng wén gē xué xí zhōng wén.",
+      "translation": "Tôi học tiếng Trung thông qua nghe nhạc Trung Quốc.",
+      "partOfSpeech": "Giới từ / Động từ"
+    },
+    {
+      "id": "hsk4-L01-29",
+      "hanzi": "交流",
+      "pinyin": "jiāoliú",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "trao đổi; giao lưu",
+      "example": "我和中国朋友经常用中文交流。",
+      "examplePinyin": "wǒ hé zhōng guó péng yǒu jīng cháng yòngzhōng wén jiāo liú.",
+      "translation": "Tôi thường giao tiếp bằng tiếng Trung với bạn bè Trung Quốc.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L01-30",
+      "hanzi": "适应",
+      "pinyin": "shìyìng",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "thích nghi",
+      "example": "新同学需要一些时间来适应我们的学习环境。",
+      "examplePinyin": "xīn tóng xué xū yào yī xiē shí jiān lái shì yīng wǒ men de xué xí huánjìng.",
+      "translation": "Học sinh mới cần một thời gian để thích nghi với môi trường học tập của chúng tôi.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L01-31",
+      "hanzi": "将来",
+      "pinyin": "jiānɡlái",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "tương lai",
+      "example": "将来我们会有自己的房子的。",
+      "examplePinyin": "jiāng lái wǒ men huì yǒu zì jǐ de fángzǐ de.",
+      "translation": "Trong tương lai, chúng tôi sẽ có nhà riêng.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L01-32",
+      "hanzi": "国际",
+      "pinyin": "ɡuójì",
+      "sourcePartOfSpeech": "adj./n.",
+      "meaning": "quốc tế; thế giới",
+      "example": "下个星期的国际会议，你去参加吗？",
+      "examplePinyin": "xià gè xīng qī de guó jì huì yì， nǐ qù cān jiā ma？",
+      "translation": "Bạn có tham dự hội nghị quốc tế tuần sau không?",
+      "partOfSpeech": "Tính từ / Danh từ"
+    },
+    {
+      "id": "hsk4-L01-33",
+      "hanzi": "当",
+      "pinyin": "dāng",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "làm; đảm nhiệm vai trò",
+      "example": "我希望能当一名老师。",
+      "examplePinyin": "wǒ xī wàng néng dāng yī míng lǎo shī.",
+      "translation": "Tôi hy vọng có thể trở thành giáo viên.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L01-34",
+      "hanzi": "教育",
+      "pinyin": "jiàoyù",
+      "sourcePartOfSpeech": "n./v.",
+      "meaning": "giáo dục; dạy dỗ",
+      "example": "教育对孩子来说非常重要。",
+      "examplePinyin": "jiào yù duì hái zǐ lái shuō fēi cháng zhòng yào.",
+      "translation": "Giáo dục rất quan trọng đối với trẻ em.",
+      "partOfSpeech": "Danh từ / Động từ"
+    },
+    {
+      "id": "hsk4-L01-35",
+      "hanzi": "成为",
+      "pinyin": "chéngwéi",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "trở thành",
+      "example": "他终于成为了一名中文教师。",
+      "examplePinyin": "tā zhōng yú chéng wèi le yī míng zhōng wén jiào shī.",
+      "translation": "Cuối cùng anh ấy đã trở thành giáo viên tiếng Trung.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L01-36",
+      "hanzi": "教师",
+      "pinyin": "jiàoshī",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "giáo viên",
+      "example": "她是一位老教师。",
+      "examplePinyin": "tā shìyī wèi lǎo jiào shī.",
+      "translation": "Cô ấy là một giáo viên lâu năm.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L01-37",
+      "hanzi": "贸易",
+      "pinyin": "màoyì",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "thương mại; mậu dịch",
+      "example": "我爸爸在一家贸易公司工作。",
+      "examplePinyin": "wǒ bàbàzài yī jiā mào yì gōng sī gōng zuò.",
+      "translation": "Bố tôi làm việc tại một công ty thương mại.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L01-38",
+      "hanzi": "方面",
+      "pinyin": "fāngmiàn",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "phương diện; mặt",
+      "example": "在历史方面，他很专业。",
+      "examplePinyin": "zài lì shǐ fāngmiàn， tā hěn zhuān yè.",
+      "translation": "Về phương diện lịch sử, anh ấy rất chuyên nghiệp.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L01-39",
+      "hanzi": "知识",
+      "pinyin": "zhīshi",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "kiến thức",
+      "example": "这次我们学到了很多关于动物的知识。",
+      "examplePinyin": "zhè cì wǒ men xué dào le hěn duō guān yú dòng wùde zhī shí.",
+      "translation": "Lần này chúng tôi học được nhiều kiến thức về động vật.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L01-40",
+      "hanzi": "另",
+      "pinyin": "lìng",
+      "sourcePartOfSpeech": "pron.",
+      "meaning": "khác; một ... khác",
+      "example": "这条路不好走，我们走另一条吧。",
+      "examplePinyin": "zhè tiáo lù bù hǎo zǒu， wǒ men zǒu lìng yī tiáo ba.",
+      "translation": "Con đường này khó đi, chúng ta đi đường khác nhé.",
+      "partOfSpeech": "Đại từ"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "hsk4-L01-G01",
+      "name": "任何",
+      "formula": "任何 + Danh từ + 都/也 + …",
+      "explanation": "Nhấn mạnh bất kỳ người, sự vật hay tình huống nào cũng không ngoại lệ.",
+      "usage": "Dùng 任何 trước danh từ; thường phối hợp với 都 hoặc 也 để diễn tả không có ngoại lệ.",
+      "note": "Không dùng 任何 đứng một mình thay cho cả danh từ khi ngữ cảnh chưa rõ.",
+      "examples": [
+        {
+          "hanzi": "你们以后有任何问题都可以来找我。",
+          "pinyin": "nǐ men yǐ hòu yǒu rèn hé wèn tí dōu kě yǐ lái zhǎowǒ.",
+          "translation": "Sau này có bất cứ vấn đề gì các bạn đều có thể đến tìm tôi."
+        }
+      ]
+    },
+    {
+      "id": "hsk4-L01-G02",
+      "name": "要是",
+      "formula": "要是 + Điều kiện， 就 + Kết quả",
+      "explanation": "Đưa ra giả thiết và kết quả nếu điều kiện xảy ra.",
+      "usage": "Đặt điều kiện sau 要是; vế kết quả thường có 就. Có thể lược chủ ngữ nếu hai vế cùng chủ ngữ.",
+      "note": "Không dùng 要是 cho một sự việc đã chắc chắn xảy ra khi muốn khẳng định sự thật.",
+      "examples": [
+        {
+          "hanzi": "要是申请到奖学金，就能减轻不少经济压力。",
+          "pinyin": "yào shìshēn qǐng dào jiǎng xué jīn， jiù néng jiǎn qīng bù shǎo jīng jì yā lì.",
+          "translation": "Nếu xin được học bổng thì có thể giảm bớt khá nhiều áp lực tài chính."
+        }
+      ]
+    },
+    {
+      "id": "hsk4-L01-G03",
+      "name": "随着",
+      "formula": "随着 + Sự thay đổi，+ Kết quả",
+      "explanation": "Nêu sự biến đổi của một sự việc kéo theo sự thay đổi khác.",
+      "usage": "Sau 随着 là sự thay đổi hoặc quá trình; vế sau nêu kết quả biến đổi tương ứng.",
+      "note": "Phân biệt 随着 với 因为: 随着 nhấn mạnh diễn biến đồng thời, không chỉ nguyên nhân.",
+      "examples": [
+        {
+          "hanzi": "随着中文水平的提高，我现在能看懂中文报纸了。",
+          "pinyin": "suí zhe zhōng wén shuǐ píng de tí gāo， wǒ xiàn zài néng kàn dǒng zhōng wén bào zhǐle.",
+          "translation": "Cùng với việc trình độ tiếng Trung nâng cao, nay tôi đã đọc hiểu được báo tiếng Trung."
+        }
+      ]
+    },
+    {
+      "id": "hsk4-L01-G04",
+      "name": "一方面……，另一方面……",
+      "formula": "一方面……，另一方面……",
+      "explanation": "Trình bày đồng thời hai phương diện hoặc hai lý do.",
+      "usage": "Dùng hai vế song song để nêu hai mặt hoặc hai lý do của cùng một vấn đề.",
+      "note": "Giữ hai vế cân đối; không nhầm cấu trúc này với quan hệ đối lập 虽然……但是…….",
+      "examples": [
+        {
+          "hanzi": "来到中国留学，一方面是为了学习语言和知识，另一方面也是为将来的工作和生活做准备。",
+          "pinyin": "lái dào zhōng guó liú xué， yī fāngmiàn shìwèi le xué xí yǔ yán hé zhī shí， lìng yī fāngmiàn yě shìwèi jiāng lái de gōng zuò hé shēng huózuò zhǔn bèi.",
+          "translation": "Đến Trung Quốc du học một mặt để học ngôn ngữ và kiến thức, mặt khác để chuẩn bị cho công việc và cuộc sống tương lai."
+        }
+      ]
+    }
+  ],
+  "source": "HSK 4 - Thượng.docx",
+  "supplementNote": "Bài tập, bài đọc, cách dùng và lưu ý được biên soạn bổ sung; từ vựng và ví dụ ngữ pháp giữ theo tài liệu bạn cung cấp."
+}

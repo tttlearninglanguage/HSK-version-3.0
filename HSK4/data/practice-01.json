@@ -1,0 +1,1200 @@
+{
+  "lesson": 1,
+  "sourceType": "supplementary",
+  "vocabulary": [
+    {
+      "wordId": "hsk4-L01-01",
+      "tokens": [
+        "这",
+        "是",
+        "我",
+        "的",
+        "签证",
+        "。"
+      ],
+      "cloze": "这是我的＿＿＿。",
+      "answer": "签证",
+      "options": [
+        "签证",
+        "课程",
+        "压力",
+        "活动"
+      ],
+      "explanation": "Điền 签证 (thị thực) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-02",
+      "tokens": [
+        "九月",
+        "，",
+        "弟弟",
+        "就要",
+        "入学",
+        "了",
+        "。"
+      ],
+      "cloze": "九月，弟弟就要＿＿＿了。",
+      "answer": "入学",
+      "options": [
+        "入学",
+        "减轻",
+        "贸易",
+        "加油"
+      ],
+      "explanation": "Điền 入学 (nhập học) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-03",
+      "tokens": [
+        "老师",
+        "通知",
+        "我们",
+        "，",
+        "明天",
+        "不",
+        "上课",
+        "。"
+      ],
+      "cloze": "老师＿＿＿我们，明天不上课。",
+      "answer": "通知",
+      "options": [
+        "通知",
+        "获得",
+        "适应",
+        "当"
+      ],
+      "explanation": "Điền 通知 (thông báo; thông báo (danh từ)) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-04",
+      "tokens": [
+        "我",
+        "的",
+        "证件",
+        "在",
+        "包",
+        "里",
+        "。"
+      ],
+      "cloze": "我的＿＿＿在包里。",
+      "answer": "证件",
+      "options": [
+        "证件",
+        "食堂",
+        "教育",
+        "专业"
+      ],
+      "explanation": "Điền 证件 (giấy tờ tùy thân) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-05",
+      "tokens": [
+        "老师",
+        "让",
+        "我们",
+        "上网",
+        "找",
+        "一些",
+        "关于",
+        "中国",
+        "文化",
+        "的",
+        "学习",
+        "材料",
+        "。"
+      ],
+      "cloze": "老师让我们上网找一些关于中国文化的学习＿＿＿。",
+      "answer": "材料",
+      "options": [
+        "材料",
+        "教师",
+        "签证",
+        "压力"
+      ],
+      "explanation": "Điền 材料 (tài liệu; vật liệu) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-06",
+      "tokens": [
+        "这",
+        "是",
+        "我",
+        "的",
+        "学生",
+        "证",
+        "，",
+        "请",
+        "您",
+        "看",
+        "一下",
+        "。"
+      ],
+      "cloze": "这是我的学生＿＿＿，请您看一下。",
+      "answer": "证",
+      "options": [
+        "证",
+        "座",
+        "另",
+        "当"
+      ],
+      "explanation": "Điền 证 (giấy chứng nhận; thẻ) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-07",
+      "tokens": [
+        "任何",
+        "人",
+        "都",
+        "能",
+        "回答",
+        "。"
+      ],
+      "cloze": "＿＿＿人都能回答。",
+      "answer": "任何",
+      "options": [
+        "任何",
+        "随着",
+        "要是",
+        "通过"
+      ],
+      "explanation": "Điền 任何 (bất kỳ) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-08",
+      "tokens": [
+        "我们",
+        "中午",
+        "在",
+        "食堂",
+        "吃",
+        "午饭",
+        "。"
+      ],
+      "cloze": "我们中午在＿＿＿吃午饭。",
+      "answer": "食堂",
+      "options": [
+        "食堂",
+        "压力",
+        "将来",
+        "知识"
+      ],
+      "explanation": "Điền 食堂 (nhà ăn) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-09",
+      "tokens": [
+        "这",
+        "座",
+        "楼",
+        "里",
+        "有",
+        "三十",
+        "个",
+        "教室",
+        "。"
+      ],
+      "cloze": "这＿＿＿楼里有三十个教室。",
+      "answer": "座",
+      "options": [
+        "座",
+        "证",
+        "另",
+        "任何"
+      ],
+      "explanation": "Điền 座 (lượng từ cho núi, tòa nhà...) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-10",
+      "tokens": [
+        "我",
+        "想",
+        "申请",
+        "去",
+        "中国",
+        "学习",
+        "中文",
+        "。"
+      ],
+      "cloze": "我想＿＿＿去中国学习中文。",
+      "answer": "申请",
+      "options": [
+        "申请",
+        "食堂",
+        "国际",
+        "将来"
+      ],
+      "explanation": "Điền 申请 (xin; đăng ký; nộp đơn) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-11",
+      "tokens": [
+        "她",
+        "学习",
+        "很",
+        "努力",
+        "，",
+        "今年",
+        "获得",
+        "了",
+        "奖学金",
+        "。"
+      ],
+      "cloze": "她学习很努力，今年获得了＿＿＿。",
+      "answer": "奖学金",
+      "options": [
+        "奖学金",
+        "食堂",
+        "证件",
+        "课程"
+      ],
+      "explanation": "Điền 奖学金 (học bổng) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-12",
+      "tokens": [
+        "你",
+        "这",
+        "次",
+        "表现",
+        "得",
+        "很",
+        "不错",
+        "。"
+      ],
+      "cloze": "你这次＿＿＿得很不错。",
+      "answer": "表现",
+      "options": [
+        "表现",
+        "研究生",
+        "食堂",
+        "签证"
+      ],
+      "explanation": "Điền 表现 (thể hiện; biểu hiện) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-13",
+      "tokens": [
+        "她",
+        "在",
+        "比赛",
+        "中",
+        "获得",
+        "了",
+        "第一",
+        "名",
+        "。"
+      ],
+      "cloze": "她在比赛中＿＿＿了第一名。",
+      "answer": "获得",
+      "options": [
+        "获得",
+        "适应",
+        "交流",
+        "当"
+      ],
+      "explanation": "Điền 获得 (đạt được; giành được) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-14",
+      "tokens": [
+        "要是",
+        "明天",
+        "不",
+        "下雨",
+        "，",
+        "我们",
+        "就",
+        "去",
+        "公园",
+        "玩",
+        "。"
+      ],
+      "cloze": "＿＿＿明天不下雨，我们就去公园玩。",
+      "answer": "要是",
+      "options": [
+        "要是",
+        "任何",
+        "随着",
+        "通过"
+      ],
+      "explanation": "Điền 要是 (nếu) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-15",
+      "tokens": [
+        "运动",
+        "可以",
+        "帮助",
+        "人们",
+        "减轻",
+        "压力",
+        "。"
+      ],
+      "cloze": "运动可以帮助人们＿＿＿压力。",
+      "answer": "减轻",
+      "options": [
+        "减轻",
+        "成为",
+        "当",
+        "申请"
+      ],
+      "explanation": "Điền 减轻 (giảm nhẹ) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-16",
+      "tokens": [
+        "这",
+        "几",
+        "年",
+        "我们",
+        "家",
+        "经济",
+        "压力",
+        "比较",
+        "大",
+        "。"
+      ],
+      "cloze": "这几年我们家＿＿＿压力比较大。",
+      "answer": "经济",
+      "options": [
+        "经济",
+        "食堂",
+        "教师",
+        "活动"
+      ],
+      "explanation": "Điền 经济 (kinh tế; điều kiện tài chính) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-17",
+      "tokens": [
+        "别",
+        "给",
+        "自己",
+        "太",
+        "大",
+        "压力",
+        "，",
+        "慢慢",
+        "来",
+        "。"
+      ],
+      "cloze": "别给自己太大＿＿＿，慢慢来。",
+      "answer": "压力",
+      "options": [
+        "压力",
+        "签证",
+        "食堂",
+        "教师"
+      ],
+      "explanation": "Điền 压力 (áp lực) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-18",
+      "tokens": [
+        "明天",
+        "要",
+        "考试",
+        "了",
+        "，",
+        "加油",
+        "！"
+      ],
+      "cloze": "明天要考试了，＿＿＿！",
+      "answer": "加油",
+      "options": [
+        "加油",
+        "贸易",
+        "本科",
+        "证件"
+      ],
+      "explanation": "Điền 加油 (cố lên; cổ vũ) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-19",
+      "tokens": [
+        "随着",
+        "天气",
+        "变",
+        "冷",
+        "，",
+        "出门",
+        "的",
+        "人",
+        "越来越",
+        "少",
+        "。"
+      ],
+      "cloze": "＿＿＿天气变冷，出门的人越来越少。",
+      "answer": "随着",
+      "options": [
+        "随着",
+        "任何",
+        "要是",
+        "另"
+      ],
+      "explanation": "Điền 随着 (cùng với; theo sự thay đổi của) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-20",
+      "tokens": [
+        "这",
+        "个",
+        "学期",
+        "的",
+        "中文",
+        "课程",
+        "很",
+        "有",
+        "意思",
+        "。"
+      ],
+      "cloze": "这个学期的中文＿＿＿很有意思。",
+      "answer": "课程",
+      "options": [
+        "课程",
+        "证件",
+        "签证",
+        "教师"
+      ],
+      "explanation": "Điền 课程 (môn học; khóa học) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-21",
+      "tokens": [
+        "我",
+        "姐姐",
+        "在",
+        "大学",
+        "里",
+        "学习",
+        "中文",
+        "专业",
+        "。"
+      ],
+      "cloze": "我姐姐在大学里学习中文＿＿＿。",
+      "answer": "专业",
+      "options": [
+        "专业",
+        "签证",
+        "压力",
+        "食堂"
+      ],
+      "explanation": "Điền 专业 (chuyên ngành; chuyên nghiệp) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-22",
+      "tokens": [
+        "她",
+        "在",
+        "中国",
+        "读",
+        "的",
+        "本科",
+        "。"
+      ],
+      "cloze": "她在中国读的＿＿＿。",
+      "answer": "本科",
+      "options": [
+        "本科",
+        "签证",
+        "压力",
+        "食堂"
+      ],
+      "explanation": "Điền 本科 (bậc đại học (cử nhân)) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-23",
+      "tokens": [
+        "我",
+        "哥哥",
+        "是",
+        "一",
+        "名",
+        "经济学",
+        "硕士",
+        "。"
+      ],
+      "cloze": "我哥哥是一名经济学＿＿＿。",
+      "answer": "硕士",
+      "options": [
+        "硕士",
+        "签证",
+        "食堂",
+        "证件"
+      ],
+      "explanation": "Điền 硕士 (thạc sĩ) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-24",
+      "tokens": [
+        "我",
+        "姐姐",
+        "读",
+        "研究生",
+        "了",
+        "，",
+        "每天",
+        "都",
+        "很",
+        "忙",
+        "。"
+      ],
+      "cloze": "我姐姐读＿＿＿了，每天都很忙。",
+      "answer": "研究生",
+      "options": [
+        "研究生",
+        "签证",
+        "压力",
+        "食堂"
+      ],
+      "explanation": "Điền 研究生 (học viên sau đại học) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-25",
+      "tokens": [
+        "他",
+        "是",
+        "北京大学",
+        "的",
+        "博士",
+        "。"
+      ],
+      "cloze": "他是北京大学的＿＿＿。",
+      "answer": "博士",
+      "options": [
+        "博士",
+        "签证",
+        "食堂",
+        "证件"
+      ],
+      "explanation": "Điền 博士 (tiến sĩ; nghiên cứu sinh tiến sĩ) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-26",
+      "tokens": [
+        "我",
+        "喜欢",
+        "研究",
+        "中国",
+        "文化",
+        "，",
+        "我",
+        "认为",
+        "这",
+        "很",
+        "有",
+        "意思",
+        "。"
+      ],
+      "cloze": "我喜欢＿＿＿中国文化，我认为这很有意思。",
+      "answer": "研究",
+      "options": [
+        "研究",
+        "入学",
+        "当",
+        "成为"
+      ],
+      "explanation": "Điền 研究 (nghiên cứu) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-27",
+      "tokens": [
+        "她",
+        "在",
+        "学校",
+        "参加",
+        "了",
+        "很",
+        "多",
+        "活动",
+        "。"
+      ],
+      "cloze": "她在学校参加了很多＿＿＿。",
+      "answer": "活动",
+      "options": [
+        "活动",
+        "证件",
+        "材料",
+        "教师"
+      ],
+      "explanation": "Điền 活动 (hoạt động; vận động) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-28",
+      "tokens": [
+        "我",
+        "通过",
+        "听",
+        "中文",
+        "歌",
+        "学习",
+        "中文",
+        "。"
+      ],
+      "cloze": "我＿＿＿听中文歌学习中文。",
+      "answer": "通过",
+      "options": [
+        "通过",
+        "要是",
+        "任何",
+        "随着"
+      ],
+      "explanation": "Điền 通过 (thông qua; vượt qua) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-29",
+      "tokens": [
+        "我",
+        "和",
+        "中国",
+        "朋友",
+        "经常",
+        "用",
+        "中文",
+        "交流",
+        "。"
+      ],
+      "cloze": "我和中国朋友经常用中文＿＿＿。",
+      "answer": "交流",
+      "options": [
+        "交流",
+        "减轻",
+        "入学",
+        "当"
+      ],
+      "explanation": "Điền 交流 (trao đổi; giao lưu) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-30",
+      "tokens": [
+        "新",
+        "同学",
+        "需要",
+        "一些",
+        "时间",
+        "来",
+        "适应",
+        "我们",
+        "的",
+        "学习",
+        "环境",
+        "。"
+      ],
+      "cloze": "新同学需要一些时间来＿＿＿我们的学习环境。",
+      "answer": "适应",
+      "options": [
+        "适应",
+        "获得",
+        "通知",
+        "当"
+      ],
+      "explanation": "Điền 适应 (thích nghi) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-31",
+      "tokens": [
+        "将来",
+        "我们",
+        "会",
+        "有",
+        "自己",
+        "的",
+        "房子",
+        "的",
+        "。"
+      ],
+      "cloze": "＿＿＿我们会有自己的房子的。",
+      "answer": "将来",
+      "options": [
+        "将来",
+        "证件",
+        "任何",
+        "座"
+      ],
+      "explanation": "Điền 将来 (tương lai) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-32",
+      "tokens": [
+        "下",
+        "个",
+        "星期",
+        "的",
+        "国际",
+        "会议",
+        "，",
+        "你",
+        "去",
+        "参加",
+        "吗",
+        "？"
+      ],
+      "cloze": "下个星期的＿＿＿会议，你去参加吗？",
+      "answer": "国际",
+      "options": [
+        "国际",
+        "任何",
+        "要是",
+        "随着"
+      ],
+      "explanation": "Điền 国际 (quốc tế; thế giới) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-33",
+      "tokens": [
+        "我",
+        "希望",
+        "能",
+        "当",
+        "一",
+        "名",
+        "老师",
+        "。"
+      ],
+      "cloze": "我希望能＿＿＿一名老师。",
+      "answer": "当",
+      "options": [
+        "当",
+        "通过",
+        "要是",
+        "随着"
+      ],
+      "explanation": "Điền 当 (làm; đảm nhiệm vai trò) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-34",
+      "tokens": [
+        "教育",
+        "对",
+        "孩子",
+        "来说",
+        "非常",
+        "重要",
+        "。"
+      ],
+      "cloze": "＿＿＿对孩子来说非常重要。",
+      "answer": "教育",
+      "options": [
+        "教育",
+        "签证",
+        "食堂",
+        "证件"
+      ],
+      "explanation": "Điền 教育 (giáo dục; dạy dỗ) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-35",
+      "tokens": [
+        "他",
+        "终于",
+        "成为",
+        "了",
+        "一",
+        "名",
+        "中文",
+        "教师",
+        "。"
+      ],
+      "cloze": "他终于＿＿＿了一名中文教师。",
+      "answer": "成为",
+      "options": [
+        "成为",
+        "通过",
+        "随着",
+        "任何"
+      ],
+      "explanation": "Điền 成为 (trở thành) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-36",
+      "tokens": [
+        "她",
+        "是",
+        "一",
+        "位",
+        "老",
+        "教师",
+        "。"
+      ],
+      "cloze": "她是一位老＿＿＿。",
+      "answer": "教师",
+      "options": [
+        "教师",
+        "食堂",
+        "签证",
+        "压力"
+      ],
+      "explanation": "Điền 教师 (giáo viên) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-37",
+      "tokens": [
+        "我",
+        "爸爸",
+        "在",
+        "一",
+        "家",
+        "贸易",
+        "公司",
+        "工作",
+        "。"
+      ],
+      "cloze": "我爸爸在一家＿＿＿公司工作。",
+      "answer": "贸易",
+      "options": [
+        "贸易",
+        "食堂",
+        "本科",
+        "教师"
+      ],
+      "explanation": "Điền 贸易 (thương mại; mậu dịch) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-38",
+      "tokens": [
+        "在",
+        "历史",
+        "方面",
+        "，",
+        "他",
+        "很",
+        "专业",
+        "。"
+      ],
+      "cloze": "在历史＿＿＿，他很专业。",
+      "answer": "方面",
+      "options": [
+        "方面",
+        "食堂",
+        "材料",
+        "证件"
+      ],
+      "explanation": "Điền 方面 (phương diện; mặt) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-39",
+      "tokens": [
+        "这",
+        "次",
+        "我们",
+        "学到",
+        "了",
+        "很",
+        "多",
+        "关于",
+        "动物",
+        "的",
+        "知识",
+        "。"
+      ],
+      "cloze": "这次我们学到了很多关于动物的＿＿＿。",
+      "answer": "知识",
+      "options": [
+        "知识",
+        "签证",
+        "食堂",
+        "教师"
+      ],
+      "explanation": "Điền 知识 (kiến thức) để khôi phục câu ví dụ của từ này trong tài liệu."
+    },
+    {
+      "wordId": "hsk4-L01-40",
+      "tokens": [
+        "这",
+        "条",
+        "路",
+        "不",
+        "好",
+        "走",
+        "，",
+        "我们",
+        "走",
+        "另",
+        "一",
+        "条",
+        "吧",
+        "。"
+      ],
+      "cloze": "这条路不好走，我们走＿＿＿一条吧。",
+      "answer": "另",
+      "options": [
+        "另",
+        "座",
+        "证",
+        "当"
+      ],
+      "explanation": "Điền 另 (khác; một ... khác) để khôi phục câu ví dụ của từ này trong tài liệu."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "hsk4-L01-G01-Q01",
+      "pointId": "hsk4-L01-G01",
+      "question": "你们以后有＿＿＿问题都可以来找我。",
+      "options": [
+        "任何",
+        "要是",
+        "随着",
+        "通过"
+      ],
+      "answer": "任何",
+      "sentence": "你们以后有任何问题都可以来找我。",
+      "pinyin": "nǐ men yǐ hòu yǒu rèn hé wèn tí dōu kě yǐ lái zhǎowǒ.",
+      "translation": "Sau này có bất cứ vấn đề gì các bạn đều có thể đến tìm tôi.",
+      "explanation": "Nhấn mạnh bất kỳ người, sự vật hay tình huống nào cũng không ngoại lệ."
+    },
+    {
+      "id": "hsk4-L01-G02-Q01",
+      "pointId": "hsk4-L01-G02",
+      "question": "＿＿＿申请到奖学金，就能减轻不少经济压力。",
+      "options": [
+        "要是",
+        "任何",
+        "随着",
+        "另"
+      ],
+      "answer": "要是",
+      "sentence": "要是申请到奖学金，就能减轻不少经济压力。",
+      "pinyin": "yào shìshēn qǐng dào jiǎng xué jīn， jiù néng jiǎn qīng bù shǎo jīng jì yā lì.",
+      "translation": "Nếu xin được học bổng thì có thể giảm bớt khá nhiều áp lực tài chính.",
+      "explanation": "Đưa ra giả thiết và kết quả nếu điều kiện xảy ra."
+    },
+    {
+      "id": "hsk4-L01-G03-Q01",
+      "pointId": "hsk4-L01-G03",
+      "question": "＿＿＿中文水平的提高，我现在能看懂中文报纸了。",
+      "options": [
+        "随着",
+        "要是",
+        "任何",
+        "另"
+      ],
+      "answer": "随着",
+      "sentence": "随着中文水平的提高，我现在能看懂中文报纸了。",
+      "pinyin": "suí zhe zhōng wén shuǐ píng de tí gāo， wǒ xiàn zài néng kàn dǒng zhōng wén bào zhǐle.",
+      "translation": "Cùng với việc trình độ tiếng Trung nâng cao, nay tôi đã đọc hiểu được báo tiếng Trung.",
+      "explanation": "Nêu sự biến đổi của một sự việc kéo theo sự thay đổi khác."
+    },
+    {
+      "id": "hsk4-L01-G04-Q01",
+      "pointId": "hsk4-L01-G04",
+      "question": "来到中国留学，＿＿＿是为了学习语言和知识，另一方面也是为将来的工作和生活做准备。",
+      "options": [
+        "一方面",
+        "任何",
+        "随着",
+        "要是"
+      ],
+      "answer": "一方面",
+      "sentence": "来到中国留学，一方面是为了学习语言和知识，另一方面也是为将来的工作和生活做准备。",
+      "pinyin": "lái dào zhōng guó liú xué， yī fāngmiàn shìwèi le xué xí yǔ yán hé zhī shí， lìng yī fāngmiàn yě shìwèi jiāng lái de gōng zuò hé shēng huózuò zhǔn bèi.",
+      "translation": "Đến Trung Quốc du học một mặt để học ngôn ngữ và kiến thức, mặt khác để chuẩn bị cho công việc và cuộc sống tương lai.",
+      "explanation": "Trình bày đồng thời hai phương diện hoặc hai lý do."
+    }
+  ],
+  "readings": [
+    {
+      "id": "hsk4-L01-R01",
+      "title": "Chuẩn bị nhập học",
+      "text": "九月，我来中国学习中文。入学以前，老师通知我们准备签证、证件和学习材料。我的证件都在包里，可是我还不知道教室在哪座楼里。老师说，有任何问题都可以来找她。中午，她带我们去食堂吃饭，还介绍了这个学期的课程。我想申请奖学金，要是申请到了，就能减轻家里的经济压力。所以，我每天认真学习，希望通过自己的努力获得奖学金。我知道，刚来中国需要时间来适应新的生活，不能给自己太大压力。",
+      "pinyin": "Jiǔ yuè, wǒ lái Zhōngguó xuéxí Zhōngwén. Rùxué yǐqián, lǎoshī tōngzhī wǒmen zhǔnbèi qiānzhèng, zhèngjiàn hé xuéxí cáiliào. Wǒ de zhèngjiàn dōu zài bāo lǐ, kěshì wǒ hái bù zhīdào jiàoshì zài nǎ zuò lóu lǐ. Lǎoshī shuō, yǒu rènhé wèntí dōu kěyǐ lái zhǎo tā. Zhōngwǔ, tā dài wǒmen qù shítáng chīfàn, hái jièshào le zhège xuéqī de kèchéng. Wǒ xiǎng shēnqǐng jiǎngxuéjīn, yàoshi shēnqǐng dào le, jiù néng jiǎnqīng jiālǐ de jīngjì yālì. Suǒyǐ, wǒ měitiān rènzhēn xuéxí, xīwàng tōngguò zìjǐ de nǔlì huòdé jiǎngxuéjīn. Wǒ zhīdào, gāng lái Zhōngguó xūyào shíjiān lái shìyìng xīn de shēnghuó, bù néng gěi zìjǐ tài dà yālì.",
+      "translation": "Tháng Chín, tôi đến Trung Quốc học tiếng Trung. Trước khi nhập học, giáo viên thông báo chúng tôi chuẩn bị thị thực, giấy tờ và tài liệu học tập. Giấy tờ của tôi đều ở trong túi, nhưng tôi vẫn chưa biết phòng học ở tòa nhà nào. Cô giáo nói có bất kỳ vấn đề gì cũng có thể tìm cô. Buổi trưa, cô đưa chúng tôi đến nhà ăn và giới thiệu các môn của học kỳ này. Tôi muốn xin học bổng; nếu xin được thì có thể giảm áp lực tài chính cho gia đình. Vì vậy, tôi học nghiêm túc mỗi ngày, mong nhận được học bổng nhờ nỗ lực của mình. Tôi biết khi mới đến Trung Quốc cần thời gian thích nghi với cuộc sống mới, không nên tạo quá nhiều áp lực cho bản thân.",
+      "questions": [
+        {
+          "id": "hsk4-L01-R01-Q01",
+          "kind": "Nội dung",
+          "question": "Trước khi nhập học, giáo viên yêu cầu chuẩn bị gì?",
+          "options": [
+            "Thị thực, giấy tờ và tài liệu học tập",
+            "Vé xem phim và quà tặng",
+            "Đồ dùng nấu ăn",
+            "Tài liệu của công ty thương mại"
+          ],
+          "answer": "Thị thực, giấy tờ và tài liệu học tập",
+          "explanation": "Đoạn đầu nêu rõ: 准备签证、证件和学习材料."
+        },
+        {
+          "id": "hsk4-L01-R01-Q02",
+          "kind": "Nội dung",
+          "question": "Vì sao người kể muốn xin học bổng?",
+          "options": [
+            "Để giảm áp lực tài chính cho gia đình",
+            "Để đổi chuyên ngành",
+            "Để được nghỉ học",
+            "Để chuyển nhà ăn"
+          ],
+          "answer": "Để giảm áp lực tài chính cho gia đình",
+          "explanation": "要是申请到了，就能减轻家里的经济压力: nếu xin được sẽ giảm áp lực tài chính của gia đình."
+        },
+        {
+          "id": "hsk4-L01-R01-Q03",
+          "kind": "Ý chính",
+          "question": "Nội dung chính của đoạn văn là gì?",
+          "options": [
+            "Chuẩn bị và thích nghi với việc học ở Trung Quốc",
+            "Cách tổ chức hội nghị quốc tế",
+            "Kinh nghiệm làm việc ở công ty",
+            "Lý do bỏ học đại học"
+          ],
+          "answer": "Chuẩn bị và thích nghi với việc học ở Trung Quốc",
+          "explanation": "Các chi tiết về nhập học, khóa học, học bổng và thích nghi đều xoay quanh việc bắt đầu học ở Trung Quốc."
+        },
+        {
+          "id": "hsk4-L01-R01-Q04",
+          "kind": "Suy luận",
+          "question": "Có thể nhận xét gì về cô giáo?",
+          "options": [
+            "Cô sẵn lòng hỗ trợ sinh viên mới",
+            "Cô không muốn sinh viên hỏi bài",
+            "Cô chỉ quan tâm đến học bổng",
+            "Cô yêu cầu ai cũng học tiến sĩ"
+          ],
+          "answer": "Cô sẵn lòng hỗ trợ sinh viên mới",
+          "explanation": "Cô nói có vấn đề gì đều có thể tìm cô và còn đưa sinh viên đi ăn, cho thấy thái độ hỗ trợ."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L01-R02",
+      "title": "Học tập và giao lưu",
+      "text": "来到中国以后，我参加了学校的很多活动，也认识了一些中国朋友。我们经常在食堂一边吃饭一边用中文交流。开始的时候，我说得很慢，有时候听不懂他们的话。他们没有着急，总是对我说：“加油！”随着交流的机会越来越多，我的中文水平也提高了。老师说，我这个学期表现得不错。我觉得，参加活动一方面能学习语言，另一方面也能了解中国文化。只在教室里学习是不够的，还应该把学到的知识用在生活中。",
+      "pinyin": "Lái dào Zhōngguó yǐhòu, wǒ cānjiā le xuéxiào de hěn duō huódòng, yě rènshi le yìxiē Zhōngguó péngyou. Wǒmen jīngcháng zài shítáng yìbiān chīfàn yìbiān yòng Zhōngwén jiāoliú. Kāishǐ de shíhou, wǒ shuō de hěn màn, yǒu shíhou tīng bù dǒng tāmen de huà. Tāmen méiyǒu zháojí, zǒngshì duì wǒ shuō: “Jiāyóu!” Suízhe jiāoliú de jīhuì yuèláiyuè duō, wǒ de Zhōngwén shuǐpíng yě tígāo le. Lǎoshī shuō, wǒ zhège xuéqī biǎoxiàn de búcuò. Wǒ juéde, cānjiā huódòng yì fāngmiàn néng xuéxí yǔyán, lìng yì fāngmiàn yě néng liǎojiě Zhōngguó wénhuà. Zhǐ zài jiàoshì lǐ xuéxí shì bú gòu de, hái yīnggāi bǎ xuédào de zhīshi yòng zài shēnghuó zhōng.",
+      "translation": "Sau khi đến Trung Quốc, tôi tham gia nhiều hoạt động của trường và quen một số bạn Trung Quốc. Chúng tôi thường vừa ăn ở nhà ăn vừa giao tiếp bằng tiếng Trung. Lúc đầu tôi nói chậm, đôi khi không hiểu lời họ nói. Họ không sốt ruột, luôn động viên tôi: “Cố lên!” Khi cơ hội giao tiếp tăng lên, trình độ tiếng Trung của tôi cũng tiến bộ. Giáo viên nói học kỳ này tôi thể hiện khá tốt. Tôi thấy tham gia hoạt động một mặt giúp học ngôn ngữ, mặt khác giúp hiểu văn hóa Trung Quốc. Chỉ học trong lớp là chưa đủ, còn nên vận dụng kiến thức đã học vào cuộc sống.",
+      "questions": [
+        {
+          "id": "hsk4-L01-R02-Q01",
+          "kind": "Nội dung",
+          "question": "Người kể thường giao tiếp với bạn bè ở đâu?",
+          "options": [
+            "Ở nhà ăn",
+            "Ở công ty",
+            "Ở sân bay",
+            "Ở hội nghị quốc tế"
+          ],
+          "answer": "Ở nhà ăn",
+          "explanation": "我们经常在食堂……用中文交流: chúng tôi thường giao tiếp bằng tiếng Trung tại nhà ăn."
+        },
+        {
+          "id": "hsk4-L01-R02-Q02",
+          "kind": "Nội dung",
+          "question": "Khi người kể chưa nói tốt, bạn bè đã làm gì?",
+          "options": [
+            "Động viên và kiên nhẫn với người kể",
+            "Yêu cầu người kể ngừng nói",
+            "Không tham gia hoạt động nữa",
+            "Bảo người kể đổi chuyên ngành"
+          ],
+          "answer": "Động viên và kiên nhẫn với người kể",
+          "explanation": "他们没有着急，总是对我说：“加油！” cho thấy họ kiên nhẫn và động viên."
+        },
+        {
+          "id": "hsk4-L01-R02-Q03",
+          "kind": "Ý chính",
+          "question": "Đoạn văn chủ yếu nói về điều gì?",
+          "options": [
+            "Lợi ích của giao lưu và vận dụng kiến thức vào cuộc sống",
+            "Cách xin thị thực nhập học",
+            "Các bậc học ở đại học",
+            "Áp lực tài chính gia đình"
+          ],
+          "answer": "Lợi ích của giao lưu và vận dụng kiến thức vào cuộc sống",
+          "explanation": "Người kể tiến bộ nhờ hoạt động, giao tiếp và vận dụng kiến thức ngoài lớp học."
+        },
+        {
+          "id": "hsk4-L01-R02-Q04",
+          "kind": "Suy luận",
+          "question": "Theo người kể, cách học nào hiệu quả hơn?",
+          "options": [
+            "Kết hợp học trong lớp và giao tiếp thực tế",
+            "Chỉ học trong lớp",
+            "Tránh nói khi chưa thành thạo",
+            "Chỉ học để xin học bổng"
+          ],
+          "answer": "Kết hợp học trong lớp và giao tiếp thực tế",
+          "explanation": "Câu cuối nhấn mạnh chỉ học trong lớp chưa đủ, nên dùng kiến thức trong cuộc sống."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L01-R03",
+      "title": "Dự định cho tương lai",
+      "text": "姐姐在中国读本科，学的是中文专业。她喜欢研究中国文化，将来想当一名中文教师。她认为，教育不只是让学生记住书上的知识，还要帮助他们了解不同的文化。她准备本科毕业以后继续读研究生，希望以后能读博士。爸爸在一家贸易公司工作，他觉得国际交流越来越重要，也很支持姐姐的选择。姐姐说：“任何时候，我都要认真学习。要是遇到困难，我会想办法解决，也会请老师帮助我。”",
+      "pinyin": "Jiějie zài Zhōngguó dú běnkē, xué de shì Zhōngwén zhuānyè. Tā xǐhuan yánjiū Zhōngguó wénhuà, jiānglái xiǎng dāng yì míng Zhōngwén jiàoshī. Tā rènwéi, jiàoyù bù zhǐ shì ràng xuésheng jìzhù shū shàng de zhīshi, hái yào bāngzhù tāmen liǎojiě bùtóng de wénhuà. Tā zhǔnbèi běnkē bìyè yǐhòu jìxù dú yánjiūshēng, xīwàng yǐhòu néng dú bóshì. Bàba zài yì jiā màoyì gōngsī gōngzuò, tā juéde guójì jiāoliú yuèláiyuè zhòngyào, yě hěn zhīchí jiějie de xuǎnzé. Jiějie shuō: “Rènhé shíhou, wǒ dōu yào rènzhēn xuéxí. Yàoshi yùdào kùnnan, wǒ huì xiǎng bànfǎ jiějué, yě huì qǐng lǎoshī bāngzhù wǒ.”",
+      "translation": "Chị tôi học đại học ở Trung Quốc, chuyên ngành tiếng Trung. Chị thích nghiên cứu văn hóa Trung Quốc và muốn trở thành giáo viên tiếng Trung. Theo chị, giáo dục không chỉ là giúp học sinh nhớ kiến thức trong sách mà còn giúp họ hiểu các nền văn hóa khác nhau. Chị dự định học cao học sau khi tốt nghiệp đại học, hy vọng sau này học tiến sĩ. Bố làm tại công ty thương mại. Bố thấy giao lưu quốc tế ngày càng quan trọng nên rất ủng hộ lựa chọn của chị. Chị nói: “Bất cứ lúc nào chị cũng phải học nghiêm túc. Nếu gặp khó khăn, chị sẽ tìm cách giải quyết và nhờ giáo viên giúp đỡ.”",
+      "questions": [
+        {
+          "id": "hsk4-L01-R03-Q01",
+          "kind": "Nội dung",
+          "question": "Chị của người kể đang học chuyên ngành gì?",
+          "options": [
+            "Tiếng Trung",
+            "Kinh tế",
+            "Lịch sử",
+            "Thương mại"
+          ],
+          "answer": "Tiếng Trung",
+          "explanation": "学的是中文专业: chuyên ngành đang học là tiếng Trung."
+        },
+        {
+          "id": "hsk4-L01-R03-Q02",
+          "kind": "Nội dung",
+          "question": "Chị dự định làm gì sau khi tốt nghiệp đại học?",
+          "options": [
+            "Tiếp tục học cao học",
+            "Đi làm ở nhà ăn",
+            "Ngừng học tiếng Trung",
+            "Chuyển ngay sang công ty của bố"
+          ],
+          "answer": "Tiếp tục học cao học",
+          "explanation": "她准备本科毕业以后继续读研究生: dự định học cao học sau khi tốt nghiệp."
+        },
+        {
+          "id": "hsk4-L01-R03-Q03",
+          "kind": "Ý chính",
+          "question": "Ý nào tóm tắt đúng đoạn văn?",
+          "options": [
+            "Mục tiêu học tập và nghề nghiệp của chị cùng sự ủng hộ của gia đình",
+            "Bố phản đối việc học tiếp của chị",
+            "Chị đã có bằng tiến sĩ",
+            "Chị không còn muốn làm giáo viên"
+          ],
+          "answer": "Mục tiêu học tập và nghề nghiệp của chị cùng sự ủng hộ của gia đình",
+          "explanation": "Đoạn văn nêu chuyên ngành, mục tiêu nghề nghiệp, kế hoạch học tiếp và sự ủng hộ của bố."
+        },
+        {
+          "id": "hsk4-L01-R03-Q04",
+          "kind": "Suy luận",
+          "question": "Qua lời nói cuối đoạn, chị là người thế nào?",
+          "options": [
+            "Có quyết tâm và chủ động giải quyết khó khăn",
+            "Dễ bỏ cuộc khi gặp khó khăn",
+            "Không muốn tiếp tục học",
+            "Chỉ quan tâm đến tiền học bổng"
+          ],
+          "answer": "Có quyết tâm và chủ động giải quyết khó khăn",
+          "explanation": "Chị nói sẽ tìm cách giải quyết và nhờ giáo viên giúp khi gặp khó khăn, thể hiện sự chủ động."
+        }
+      ],
+      "sourceType": "supplementary"
+    }
+  ],
+  "writing": {
+    "prompt": "Bạn đến Trung Quốc học tập: hãy giới thiệu việc chuẩn bị nhập học, cách thích nghi và kế hoạch tương lai trong khoảng 100–150 chữ Hán.",
+    "suggestedWords": [
+      "入学",
+      "申请",
+      "奖学金",
+      "适应",
+      "将来"
+    ],
+    "suggestedGrammar": [
+      "要是……就……",
+      "一方面……另一方面……"
+    ],
+    "sample": "我来中国学习中文。入学以前，我准备好了签证和证件。现在，我每天认真学习，也经常参加学校的活动。一方面，我想通过交流提高中文水平；另一方面，我也想了解中国文化。要是能申请到奖学金，就能减轻家里的经济压力。我需要一些时间来适应新的生活。将来，我希望成为一名中文教师。",
+    "samplePinyin": "Wǒ lái Zhōngguó xuéxí Zhōngwén. Rùxué yǐqián, wǒ zhǔnbèi hǎo le qiānzhèng hé zhèngjiàn. Xiànzài, wǒ měitiān rènzhēn xuéxí, yě jīngcháng cānjiā xuéxiào de huódòng. Yì fāngmiàn, wǒ xiǎng tōngguò jiāoliú tígāo Zhōngwén shuǐpíng; lìng yì fāngmiàn, wǒ yě xiǎng liǎojiě Zhōngguó wénhuà. Yàoshi néng shēnqǐng dào jiǎngxuéjīn, jiù néng jiǎnqīng jiālǐ de jīngjì yālì. Wǒ xūyào yìxiē shíjiān lái shìyìng xīn de shēnghuó. Jiānglái, wǒ xīwàng chéngwéi yì míng Zhōngwén jiàoshī.",
+    "translation": "Tôi đến Trung Quốc học tiếng Trung. Trước khi nhập học, tôi đã chuẩn bị xong thị thực và giấy tờ. Hiện tại, tôi học nghiêm túc mỗi ngày và thường tham gia các hoạt động của trường. Một mặt, tôi muốn nâng cao trình độ tiếng Trung thông qua giao tiếp; mặt khác, tôi cũng muốn tìm hiểu văn hóa Trung Quốc. Nếu xin được học bổng thì có thể giảm áp lực tài chính của gia đình. Tôi cần thời gian để thích nghi với cuộc sống mới. Sau này, tôi hy vọng trở thành giáo viên tiếng Trung."
+  }
+}
