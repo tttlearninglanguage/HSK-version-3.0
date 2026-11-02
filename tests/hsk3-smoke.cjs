@@ -72,7 +72,7 @@ const source=JSON.parse(fs.readFileSync(path.join(root,'hsk3-source-manifest.jso
  const spoke=await page.evaluate(()=>window.__spoken);assert(spoke.some(x=>x.text&&x.lang==='zh-CN'));
  await page.evaluate(()=>home());assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),'home overflows');
  if(process.env.HSK3_SCREENSHOTS){await page.screenshot({path:path.join(process.env.HSK3_SCREENSHOTS,'hsk3-home-'+viewport.width+'.png'),fullPage:true});await page.evaluate(()=>{openLesson(18,'flash');document.querySelector('#hskUnitFlashCard').click()});await page.screenshot({path:path.join(process.env.HSK3_SCREENSHOTS,'hsk3-flash-'+viewport.width+'.png'),fullPage:true})}
- await page.locator('header nav button').first().click();assert(page.url().endsWith('/index.html'));for(const level of [1,2]){await page.goto(url+'/hsk'+level+'.html');assert((await page.locator('body').innerText()).includes('HSK '+level))}
+ await Promise.all([page.waitForURL('**/index.html'),page.locator('#hsk-site-header a.hsk-logo').click()]);assert(page.url().endsWith('/index.html'));for(const level of [1,2]){await page.goto(url+'/hsk'+level+'.html');assert((await page.locator('body').innerText()).includes('HSK '+level))}
  console.log('PASS '+viewport.width+'px: all 18 lessons, 36 topics, flashcards, game answers, grammar, reading completion, progress isolation, writing draft, navigation, speech invocation');await context.close();
  }
  assert.deepEqual(failures,[]);console.log('PASS '+checks+' checks; no uncaught browser errors.');

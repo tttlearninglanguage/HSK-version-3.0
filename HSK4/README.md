@@ -4,7 +4,7 @@
 
 Đã kiểm tra cấu trúc repository: trang chủ `index.html`, ba trang học `hsk1.html`, `hsk2.html`, `hsk3.html`, ba tài nguyên giao diện/điều hướng dùng chung, bộ phát âm và năm bộ kiểm thử hiện có. Các cấp 1–3 là HTML độc lập, phần lớn CSS, JavaScript và dữ liệu được nhúng trong HTML; không có backend hay bước build. HSK 3 có 18 bài, 36 chủ đề, các tab từ vựng/ngữ pháp/flashcard/trò chơi, bài đọc có tra từ tại vị trí bấm, ôn tập, lịch sử và sao lưu localStorage. Trang chủ trước đây hiển thị HSK 4 là sắp ra mắt.
 
-HSK 4 theo cùng bố cục, luồng học và các dạng luyện tập đang có ở HSK 3. Dữ liệu và engine mới tách file để mở rộng nhiều bài mà không sao chép trò chơi từng bài. Dùng trực tiếp `../hsk-header.css`. `speech.js` kế thừa bộ phát âm `hsk-speech.js`, chỉ đổi khóa giọng đọc thành `hsk4-voice` để không dùng chung tùy chọn các cấp trước. Không sửa HTML, CSS, JavaScript hoặc dữ liệu của HSK 1–3.
+HSK 4 theo cùng bố cục, luồng học và các dạng luyện tập đang có ở HSK 3. Dữ liệu và engine mới tách file để mở rộng nhiều bài mà không sao chép trò chơi từng bài. Dùng trực tiếp `../hsk-header.css`. `speech.js` kế thừa bộ phát âm `hsk-speech.js`, chỉ đổi khóa giọng đọc thành `hsk4-voice` để không dùng chung tùy chọn các cấp trước. Không sửa HTML, CSS, JavaScript hoặc dữ liệu của HSK 1–3. Bộ kiểm thử HSK 3 được sửa bước về trang chủ tổng: bấm đúng liên kết logo và chờ URL đích, thay cho nút về trang chủ nội bộ HSK 3. Không sửa hành vi điều hướng của trang học.
 
 Chỉ mở **Bài 1 — 我们来中国学习了**, quyển Thượng. Bài 2–10 chưa mở theo yêu cầu chờ duyệt. Quyển Hạ gồm Bài 11–20 hiển thị **Sắp ra mắt**, chưa có nguồn, không tạo từ vựng/ngữ pháp cho quyển này. Không đánh số lại Bài 11 thành Bài 1.
 
@@ -26,7 +26,7 @@ Pinyin và các khoảng trắng trong ví dụ nguồn được giữ nguyên, 
 
 ## Chế độ học
 
-Hán tự → nghĩa; nghĩa → Hán tự; chọn pinyin; nghe chọn chữ; gõ Hán tự; nghe chép chính tả; điền từ; sắp xếp từ; dịch câu; đọc hiểu câu; luyện nói; trắc nghiệm ngữ pháp; sắp xếp câu ngữ pháp; viết câu ngữ pháp; đọc hiểu theo đoạn; viết đoạn văn; ôn tập tổng hợp.
+Hán tự → nghĩa; nghĩa → Hán tự; chọn pinyin; nghe chọn chữ; nghe câu chọn bản dịch; gõ Hán tự; nghe chép chính tả; điền từ; sắp xếp từ; dịch câu; đọc hiểu câu; luyện nói; trắc nghiệm ngữ pháp; sắp xếp câu ngữ pháp; viết câu ngữ pháp; đọc hiểu theo đoạn; viết đoạn văn; ôn tập tổng hợp.
 
 Câu hỏi có đáp án cố định được chấm theo đáp án, bỏ khác biệt dấu câu và khoảng trắng. Dịch câu, đọc hiểu câu tự viết, luyện nói, viết câu ngữ pháp và viết đoạn dùng tự đối chiếu; không chấm đúng theo từ khóa hoặc tuyên bố có AI chấm ngữ nghĩa. Kết quả tự đối chiếu tách khỏi điểm câu chấm tự động.
 
@@ -63,5 +63,7 @@ node tests/hsk3-smoke.cjs
 Cần Playwright và Chromium; có thể đặt `CHROMIUM_PATH`. Đặt `HSK4_SCREENSHOTS` thành một thư mục đã có để lưu ảnh máy tính/điện thoại.
 
 Kiểm tra nội dung đối chiếu hash toàn bộ bảy trường nguồn và đầy đủ ngữ pháp, cấu trúc đáp án, sắp xếp câu, câu điền từ và khả năng tra mọi từ trong bài đọc. Kiểm thử trình duyệt dùng máy chủ tĩnh có tiền tố repository giống GitHub Pages, màn hình 1440px/390px, các chế độ, hoàn thành bài đọc, phản hồi đúng/sai, bộ lọc, flashcard, bản nháp, sao lưu, từ sai, khóa lưu trữ tách biệt và điều hướng.
+
+Kết quả Bài 1: kiểm tra nội dung và hash đạt; bộ trình duyệt đạt 284 kiểm tra trên 1440px/390px, không có lỗi JavaScript, không tràn ngang trong các chế độ, đủ dữ liệu tra cứu cho ba bài đọc. Kiểm thử hồi quy HSK 3 đạt 1.190 kiểm tra trên 1440px/390px, bao gồm mở HSK 1/2, không có lỗi JavaScript chưa xử lý.
 
 Phát âm thực tế cần giọng tiếng Trung trên thiết bị; nhận diện cần trình duyệt hỗ trợ, kết nối dịch vụ và quyền micro. Kiểm thử tự động xác minh lời gọi phát âm, không xác nhận âm thanh nghe thực tế hay chất lượng nhận diện. Chưa xuất bản lên GitHub Pages.
