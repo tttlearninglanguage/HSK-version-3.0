@@ -1,0 +1,7 @@
+<!doctype html>
+<html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>HSK Learning · Chuyển trang</title>
+<script>
+// Keep existing course bookmarks working on GitHub Pages without root-level copies.
+const previousCourse=location.pathname.match(/^(.*\/)hsk([123])\.html$/i);
+if(previousCourse)location.replace(previousCourse[1]+'HSK'+previousCourse[2]+'/index.html'+location.search+location.hash);
+</script></head><body><p>Trang học đã được sắp xếp lại.</p><a id="home" href="./index.html">Về trang chủ HSK Learning</a><script>if(location.pathname.startsWith('/HSK-version-3.0/'))document.getElementById('home').href='/HSK-version-3.0/index.html';</script></body></html>

@@ -1,12 +1,12 @@
 /* Requires Node.js, Playwright and Chromium. Run: node tests/hsk3-readings.cjs */
 const {chromium}=require('playwright');
 const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict'),http=require('node:http'),crypto=require('node:crypto');
-const root=path.resolve(__dirname,'..'),html=fs.readFileSync(path.join(root,'hsk3.html'),'utf8');
+const root=path.resolve(__dirname,'..'),html=fs.readFileSync(path.join(root,'HSK3/index.html'),'utf8');
 const data=JSON.parse(html.match(/window.HSK3_UPDATE=(.*);/)[1]);
-const audit=JSON.parse(fs.readFileSync(path.join(root,'hsk3-reading-vocabulary-audit.json'),'utf8'));
+const audit=JSON.parse(fs.readFileSync(path.join(root,'HSK3/data/reading-vocabulary-audit.json'),'utf8'));
 const lex=new Set();
 function readArray(text,pattern){return JSON.parse(text.match(pattern)[1])}
-for(const file of ['hsk1.html','hsk2.html','hsk3.html']){
+for(const file of ['HSK1/index.html','HSK2/index.html','HSK3/index.html']){
  const source=fs.readFileSync(path.join(root,file),'utf8');
  const lessons=readArray(source,/(?:window\.)?HSK_LESSONS\s*=\s*(\[.*\]);/);
  const topics=readArray(source,/const TOPICS=(\[.*\]);/);
@@ -29,7 +29,7 @@ assert.equal(ids.size,360);
  try{for(const width of [1440,390]){
   const page=await browser.newPage({viewport:{width,height:1000},reducedMotion:'reduce'});const errors=[];page.on('pageerror',e=>errors.push(e.message));
   await page.addInitScript(()=>{window.__speech=[];speechSynthesis.cancel=()=>{};speechSynthesis.speak=u=>window.__speech.push(u.text)});
-  await page.goto('http://127.0.0.1:'+server.address().port+'/hsk3.html');
+  await page.goto('http://127.0.0.1:'+server.address().port+'/HSK3/index.html');
   for(let lesson=1;lesson<=18;lesson++){
    await page.evaluate(id=>{openLesson(id,'games');h2ReadingMenu()},lesson);
    assert.equal(await page.locator('.h2-reading-card').count(),5);assert((await page.locator('.h2-section-intro').innerText()).includes('20 câu hỏi'));

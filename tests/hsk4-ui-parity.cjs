@@ -2,9 +2,9 @@
 const {chromium}=require('playwright');
 const fs=require('node:fs'),path=require('node:path'),http=require('node:http'),assert=require('node:assert/strict');
 const root=path.resolve(__dirname,'..');
-const source=fs.readFileSync(path.join(root,'hsk3.html'),'utf8');
+const source=fs.readFileSync(path.join(root,'HSK3/index.html'),'utf8');
 const blocks=[...source.matchAll(/<style([^>]*)>([\s\S]*?)<\/style>/g)];
-const expected='/* Generated from hsk3.html by scripts/sync-hsk3-theme.py. Keep original cascade order. */\n'+blocks.map(([_,a,css],i)=>'/* HSK 3 style block '+i+' '+a.trim()+' */\n'+css).join('\n')+'\n';
+const expected='/* Generated from HSK3/index.html by scripts/sync-hsk3-theme.py. Keep original cascade order. */\n'+blocks.map(([_,a,css],i)=>'/* HSK 3 style block '+i+' '+a.trim()+' */\n'+css).join('\n')+'\n';
 assert.equal(fs.readFileSync(path.join(root,'HSK4/hsk3-theme.css'),'utf8'),expected,'HSK 4 must use the exact existing HSK 3 CSS cascade');
 (async()=>{
  const server=http.createServer((req,res)=>{try{const file=path.resolve(root,'.'+new URL(req.url,'http://localhost').pathname);if(!file.startsWith(root+path.sep))throw Error();res.setHeader('Content-Type',file.endsWith('.js')?'text/javascript':file.endsWith('.json')?'application/json':file.endsWith('.css')?'text/css':file.endsWith('.svg')?'image/svg+xml':'text/html; charset=utf-8');res.end(fs.readFileSync(file))}catch{res.statusCode=404;res.end('Missing')}});
@@ -13,7 +13,7 @@ assert.equal(fs.readFileSync(path.join(root,'HSK4/hsk3-theme.css'),'utf8'),expec
  try{for(const width of [1440,390]){
   const ctx=await browser.newContext({viewport:{width,height:1000},reducedMotion:'reduce'});const p3=await ctx.newPage(),p4=await ctx.newPage();
   for(const p of [p3,p4]){p.on('pageerror',e=>errors.push(e.message));await p.route('https://fonts.googleapis.com/**',r=>r.abort())}
-  await p3.goto(base+'/hsk3.html');await p4.goto(base+'/HSK4/index.html');await p4.waitForFunction(()=>window.HSK4);for(const p of [p3,p4])await p.addStyleTag({content:'*{transition:none!important;animation:none!important}'});
+  await p3.goto(base+'/HSK3/index.html');await p4.goto(base+'/HSK4/index.html');await p4.waitForFunction(()=>window.HSK4);for(const p of [p3,p4])await p.addStyleTag({content:'*{transition:none!important;animation:none!important}'});
   const props=['fontFamily','fontSize','fontWeight','lineHeight','paddingTop','paddingRight','paddingBottom','paddingLeft','borderTopWidth','borderTopStyle','borderTopColor','borderRadius','boxShadow','backgroundColor','display'];
   async function match(selector,label,properties=props){await Promise.all([p3.mouse.move(0,0),p4.mouse.move(0,0)]);const read=([selector,properties])=>{const el=document.querySelector(selector);if(!el)throw Error('Missing '+selector);const s=getComputedStyle(el);return Object.fromEntries(properties.map(k=>[k,s[k]]))};const a=await p3.evaluate(read,[selector,properties]),b=await p4.evaluate(read,[selector,properties]);assert.deepEqual(b,a,label+' at '+width);checks++}
   async function overflow(p,screen){assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),screen+' must not overflow at '+width);checks++}

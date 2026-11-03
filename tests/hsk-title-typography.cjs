@@ -3,7 +3,7 @@ const {chromium}=require('playwright');
 const fs=require('node:fs'),http=require('node:http'),path=require('node:path'),assert=require('node:assert/strict');
 const root=path.resolve(__dirname,'..');
 (async()=>{
- const server=http.createServer((req,res)=>{try{const file=path.resolve(root,'.'+new URL(req.url,'http://localhost').pathname);if(!file.startsWith(root+path.sep))throw Error();res.setHeader('Content-Type',file.endsWith('.css')?'text/css':'text/html; charset=utf-8');res.end(fs.readFileSync(file))}catch{res.statusCode=404;res.end()}});
+ const server=http.createServer((req,res)=>{try{const file=path.resolve(root,'.'+new URL(req.url,'http://localhost').pathname);if(!file.startsWith(root+path.sep))throw Error();res.setHeader('Content-Type',file.endsWith('.css')?'text/css':file.endsWith('.js')?'text/javascript':'text/html; charset=utf-8');res.end(fs.readFileSync(file))}catch{res.statusCode=404;res.end()}});
  await new Promise(r=>server.listen(0,'127.0.0.1',r));
  let browser,checks=0;
  try{
@@ -11,7 +11,7 @@ const root=path.resolve(__dirname,'..');
  for(const viewport of [{width:1440,height:900},{width:390,height:844},{width:360,height:640}]){
   const page=await browser.newPage({viewport,reducedMotion:'reduce'});
   for(let level=1;level<=3;level++){
-   await page.goto(`http://127.0.0.1:${server.address().port}/hsk${level}.html`);
+   await page.goto(`http://127.0.0.1:${server.address().port}/HSK${level}/index.html`);
    const results=await page.evaluate(async()=>{
     const failures=[];let screens=0,tokens=0;
     const settle=()=>new Promise(r=>requestAnimationFrame(()=>requestAnimationFrame(r)));

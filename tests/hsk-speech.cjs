@@ -16,7 +16,7 @@ function mockSpeech(){
 (async()=>{const server=http.createServer((q,r)=>{try{const file=path.resolve(root,'.'+new URL(q.url,'http://localhost').pathname);if(!file.startsWith(root+path.sep))throw Error();r.setHeader('Content-Type',file.endsWith('.js')?'text/javascript':file.endsWith('.css')?'text/css':'text/html; charset=utf-8');r.end(fs.readFileSync(file))}catch{r.statusCode=404;r.end()}});await new Promise(r=>server.listen(0,'127.0.0.1',r));let b;
 try{b=await chromium.launch({executablePath:process.env.CHROMIUM_PATH||'/usr/bin/chromium',args:['--no-sandbox']});for(const width of [390,1440]){const page=await b.newPage({viewport:{width,height:900}});const errors=[];page.on('pageerror',e=>errors.push(e.message));await page.addInitScript(mockSpeech);
 for(let level=1;level<=3;level++){
- await page.goto(`http://127.0.0.1:${server.address().port}/hsk${level}.html`);
+ await page.goto(`http://127.0.0.1:${server.address().port}/HSK${level}/index.html`);
  // First click must issue speak synchronously, even before voices are available.
  await page.evaluate(()=>openLesson(1,'flash'));await page.locator('[data-action="listen"]').click();
  let result=await page.evaluate(()=>({calls:__speech.calls.length,cancel:__speech.cancelCount,gesture:__speech.calls[0].gesture,lang:__speech.calls[0].utterance.lang,voice:__speech.calls[0].utterance.voice}));
@@ -38,5 +38,5 @@ for(let level=1;level<=3;level++){
 }
 await page.close()}
 // Missing API and blocked localStorage must not crash startup or retry controls.
-const page=await b.newPage();await page.addInitScript(()=>{Object.defineProperty(window,'speechSynthesis',{value:undefined,configurable:true});Storage.prototype.getItem=Storage.prototype.setItem=()=>{throw new Error('blocked storage')}});await page.goto(`http://127.0.0.1:${server.address().port}/hsk1.html`);await page.evaluate(()=>speak('你好'));assert(await page.locator('#hsk-speech-notice').count());await page.close();
+const page=await b.newPage();await page.addInitScript(()=>{Object.defineProperty(window,'speechSynthesis',{value:undefined,configurable:true});Storage.prototype.getItem=Storage.prototype.setItem=()=>{throw new Error('blocked storage')}});await page.goto(`http://127.0.0.1:${server.address().port}/HSK1/index.html`);await page.evaluate(()=>speak('你好'));assert(await page.locator('#hsk-speech-notice').count());await page.close();
 }finally{if(b)await b.close();server.close()}})().catch(e=>{console.error(e);process.exitCode=1});

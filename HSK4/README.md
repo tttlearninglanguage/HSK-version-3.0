@@ -2,15 +2,15 @@
 
 ## Phạm vi và khảo sát hệ thống
 
-Đã kiểm tra cấu trúc repository: trang chủ `index.html`, ba trang học `hsk1.html`, `hsk2.html`, `hsk3.html`, ba tài nguyên giao diện/điều hướng dùng chung, bộ phát âm và năm bộ kiểm thử hiện có. Các cấp 1–3 là HTML độc lập, phần lớn CSS, JavaScript và dữ liệu được nhúng trong HTML; không có backend hay bước build. HSK 3 có 18 bài, 36 chủ đề, các tab từ vựng/ngữ pháp/flashcard/trò chơi, bài đọc có tra từ tại vị trí bấm, ôn tập, lịch sử và sao lưu localStorage. Trang chủ trước đây hiển thị HSK 4 là sắp ra mắt.
+Đã kiểm tra cấu trúc repository: trang chủ `index.html`, ba trang học `HSK1/index.html`, `HSK2/index.html`, `HSK3/index.html`, ba tài nguyên giao diện/điều hướng dùng chung, bộ phát âm và năm bộ kiểm thử hiện có. Các cấp 1–3 là HTML độc lập, phần lớn CSS, JavaScript và dữ liệu được nhúng trong HTML; không có backend hay bước build. HSK 3 có 18 bài, 36 chủ đề, các tab từ vựng/ngữ pháp/flashcard/trò chơi, bài đọc có tra từ tại vị trí bấm, ôn tập, lịch sử và sao lưu localStorage. Trang chủ trước đây hiển thị HSK 4 là sắp ra mắt.
 
-HSK 4 theo cùng bố cục, luồng học và các dạng luyện tập đang có ở HSK 3. Dữ liệu và engine mới tách file để mở rộng nhiều bài mà không sao chép trò chơi từng bài. Dùng trực tiếp `../hsk-header.css` và `../flashcard-compact.css`, cùng `hsk3-theme.css` được trích nguyên CSS của HSK 3 theo đúng thứ tự cascade. `speech.js` kế thừa bộ phát âm `hsk-speech.js`, chỉ đổi khóa giọng đọc thành `hsk4-voice` để không dùng chung tùy chọn các cấp trước. Không sửa HTML, CSS, JavaScript hoặc dữ liệu của HSK 1–3. Bộ kiểm thử HSK 3 được sửa bước về trang chủ tổng: bấm đúng liên kết logo và chờ URL đích, thay cho nút về trang chủ nội bộ HSK 3. Không sửa hành vi điều hướng của trang học.
+HSK 4 theo cùng bố cục, luồng học và các dạng luyện tập đang có ở HSK 3. Dữ liệu và engine mới tách file để mở rộng nhiều bài mà không sao chép trò chơi từng bài. Dùng trực tiếp `../shared/css/hsk-header.css` và `../shared/css/flashcard-compact.css`, cùng `hsk3-theme.css` được trích nguyên CSS của HSK 3 theo đúng thứ tự cascade. `speech.js` kế thừa bộ phát âm `shared/js/hsk-speech.js`, chỉ đổi khóa giọng đọc thành `hsk4-voice` để không dùng chung tùy chọn các cấp trước. Không sửa HTML, CSS, JavaScript hoặc dữ liệu của HSK 1–3. Bộ kiểm thử HSK 3 được sửa bước về trang chủ tổng: bấm đúng liên kết logo và chờ URL đích, thay cho nút về trang chủ nội bộ HSK 3. Không sửa hành vi điều hướng của trang học.
 
 Chỉ mở **Bài 1 — 我们来中国学习了**, quyển Thượng. Bài 2–10 chưa mở theo yêu cầu chờ duyệt. Quyển Hạ gồm Bài 11–20 hiển thị **Sắp ra mắt**, chưa có nguồn, không tạo từ vựng/ngữ pháp cho quyển này. Không đánh số lại Bài 11 thành Bài 1.
 
 ## Giao diện đồng bộ HSK 3
 
-Bản sửa giao diện dùng CSS thực tế của HSK 3, không tiếp tục bộ giao diện thẻ màu xanh riêng. Chạy `python scripts/sync-hsk3-theme.py` từ gốc repository khi cần cập nhật bản CSS dẫn xuất. Script chỉ đọc `hsk3.html`, không sửa các cấp trước.
+Bản sửa giao diện dùng CSS thực tế của HSK 3, không tiếp tục bộ giao diện thẻ màu xanh riêng. Chạy `python scripts/sync-hsk3-theme.py` từ gốc repository khi cần cập nhật bản CSS dẫn xuất. Script chỉ đọc `HSK3/index.html`, không sửa các cấp trước.
 
 - Trang chủ: banner minh họa sách, lối tắt tiến độ/ôn tập và thẻ bài học pastel `qh-*` như HSK 3; giữ riêng hai mục Thượng/Hạ.
 - Trong bài: `unit-title-banner`, tab và màu nhận diện của Bài 1 theo mẫu HSK 3.
