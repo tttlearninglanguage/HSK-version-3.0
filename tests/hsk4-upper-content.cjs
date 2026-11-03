@@ -16,7 +16,7 @@ for(const [index,l]of lessons.entries()){
   if(w.sourceOriginal)assert(corrections.words.some(c=>c.wordId===w.id));
  }
  for(const [i,g]of l.grammar.entries()){
-  const q=p.grammar.find(q=>q.pointId===g.id);assert.equal(q.pointId,g.id);assert.equal(new Set(q.options).size,4);assert(q.options.includes(q.answer));assert.equal(q.question.replace('＿＿＿',q.answer),q.sentence);assert.equal(q.sentence,g.examples[0].hanzi);assert(g.usage&&g.note);
+  const q=p.grammar.find(q=>q.pointId===g.id);assert.equal(q.pointId,g.id);assert.equal(new Set(q.options).size,4);assert(q.options.includes(q.answer));assert.equal(q.question.replace('＿＿＿',q.answer),q.sentence);if(q.sourceType!=='supplementary')assert.equal(q.sentence,g.examples[0].hanzi);assert(g.usage&&g.note);
  }
  assert.equal(p.readings.length,5);const active=new Map(dictionary);for(const w of l.words)active.set(w.hanzi,w);const keys=[...active.keys()].sort((a,b)=>b.length-a.length);
  const checkLookup=text=>{let i=0;while(i<text.length){if(!/[\u3400-\u9fff]/.test(text[i])){i++;continue}const key=keys.find(k=>text.startsWith(k,i));assert(key,`Missing lookup in lesson ${l.id}: ${text.slice(i,i+15)}`);const w=active.get(key);assert(w.pinyin&&w.meaning);i+=key.length}checkedTexts++};
@@ -26,5 +26,5 @@ for(const [index,l]of lessons.entries()){
  const w=p.writing;assert(w.sample&&w.samplePinyin&&w.translation);assert(w.suggestedWords.every(h=>l.words.some(x=>x.hanzi===h)));if(l.id>1){assert(w.sample.length>=100&&w.sample.length<=150);assert(w.outline.length>=3);checkLookup(w.sample)}
  console.log(`PASS lesson ${l.id}: ${l.words.length} source words, ${l.grammar.length} grammar points (DOCX + recorded supplements), source audit/corrections, cloze/order, 5 independent readings/25 questions, writing and lookup`);
 }
-assert.equal(words,387);assert.equal(grammar,35);assert.equal(questions,250);assert.equal(texts.size,50);
+assert.equal(words,387);assert.equal(grammar,37);assert.equal(questions,250);assert.equal(texts.size,50);
 console.log(`PASS upper course: ${words} words, ${grammar} grammar points, 50 unique readings/${questions} questions, ${checkedTexts} lookup texts; lower remains upcoming.`);

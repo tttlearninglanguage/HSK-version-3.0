@@ -453,34 +453,142 @@
   ],
   "grammar": [
     {
-      "id": "hsk4-L09-G01",
-      "name": "不",
-      "formula": "不 + Động từ + 也 + Kết quả",
-      "explanation": "Ngay cả khi không thực hiện hành động thì kết quả vẫn xảy ra.",
+      "name": "紧缩复句：不……也……",
+      "formula": "(Chủ ngữ) + 不 + hành động/điều kiện，(chủ ngữ) + 也 + kết quả vẫn xảy ra",
+      "explanation": "Mẫu 不……也…… là câu phức rút gọn, thường dùng trong khẩu ngữ. Dù một hành động không được thực hiện hoặc một điều kiện không có, kết quả ở phía sau vẫn được khẳng định. Có thể hiểu là “ngay cả khi không… thì vẫn…” hoặc “không cần… cũng…”.",
+      "usage": "Vế trước nêu điều kiện phủ định với 不, vế sau dùng 也 để khẳng định kết quả không phụ thuộc vào điều kiện ấy. Chủ ngữ hai vế có thể giống hoặc khác nhau: 我不说，你也懂…; nếu ngữ cảnh rõ có thể lược chủ ngữ. 也 đứng trước động từ hoặc động từ năng nguyện như 能、会.",
+      "note": "Không hiểu 也 ở đây đơn thuần là “cũng” để liệt kê hai hành động. Phân biệt 不……也…… (điều kiện phủ định nhưng kết quả vẫn có) với 不但……而且…… (không những… mà còn…). Giữ rõ quan hệ giữa điều kiện phủ định và kết quả; không bỏ 也 khi đang luyện mẫu này.",
       "examples": [
         {
           "hanzi": "我不说你也懂我在想什么。",
-          "pinyin": "wǒ bù shuō nǐ yě dǒng wǒ zài xiǎng shén me.",
-          "translation": "Không cần tôi nói bạn cũng hiểu tôi đang nghĩ gì."
+          "pinyin": "Wǒ bù shuō nǐ yě dǒng wǒ zài xiǎng shénme.",
+          "translation": "Tôi không nói, bạn cũng hiểu tôi đang nghĩ gì."
+        },
+        {
+          "hanzi": "他不复习也能考出好成绩。",
+          "pinyin": "Tā bù fùxí yě néng kǎo chū hǎo chéngjì.",
+          "translation": "Anh ấy không ôn tập cũng có thể thi đạt kết quả tốt."
+        },
+        {
+          "hanzi": "我很清楚他为什么生气，不问我也知道。",
+          "pinyin": "Wǒ hěn qīngchu tā wèishénme shēngqì, bù wèn wǒ yě zhīdào.",
+          "translation": "Tôi rất rõ vì sao anh ấy giận, không hỏi tôi cũng biết."
         }
       ],
-      "usage": "不……也…… nói kết quả vẫn xảy ra dù không làm hành động.",
-      "note": "Phân biệt với 不但……而且…… chỉ tăng tiến."
+      "id": "hsk4-L09-G01",
+      "sourceType": "user-supplement",
+      "source": "Ảnh người dùng cung cấp — Bài 9, Text 1",
+      "sourceOriginal": {
+        "id": "hsk4-L09-G01",
+        "name": "不",
+        "formula": "不 + Động từ + 也 + Kết quả",
+        "explanation": "Ngay cả khi không thực hiện hành động thì kết quả vẫn xảy ra.",
+        "examples": [
+          {
+            "hanzi": "我不说你也懂我在想什么。",
+            "pinyin": "wǒ bù shuō nǐ yě dǒng wǒ zài xiǎng shén me.",
+            "translation": "Không cần tôi nói bạn cũng hiểu tôi đang nghĩ gì."
+          }
+        ],
+        "usage": "不……也…… nói kết quả vẫn xảy ra dù không làm hành động.",
+        "note": "Phân biệt với 不但……而且…… chỉ tăng tiến."
+      }
     },
     {
-      "id": "hsk4-L09-G02",
-      "name": "尽管",
-      "formula": "尽管 + Thực tế，但是/可是 + Kết quả",
-      "explanation": "Mặc dù… nhưng…, thể hiện ý tương phản.",
+      "name": "转折复句：尽管……，但是/可是……",
+      "formula": "尽管 + sự thật/tình huống A，但是/可是 + tình huống hoặc kết quả B trái với điều thường dự đoán",
+      "explanation": "尽管 (jǐnguǎn) nghĩa là “mặc dù”, đưa ra một sự thật hoặc hoàn cảnh đã được thừa nhận. 但是/可是 đưa ra ý chuyển hướng, tương phản hoặc một kết quả khác với điều thường dự đoán từ vế đầu. Bản dịch tự nhiên: “mặc dù… nhưng…”.",
+      "usage": "Có thể đặt 尽管 trước hoặc sau chủ ngữ của vế đầu, như 尽管他们… hoặc 他们尽管…. Vế sau dùng 但是 hoặc 可是; có thể đi cùng 还是、仍然 để nhấn mạnh kết quả vẫn xảy ra dù có trở ngại.",
+      "note": "尽管 trong mẫu này thường nói về hoàn cảnh có thật; 不管……都/也…… nói rằng kết quả không đổi bất kể điều kiện nào. Không ghép 尽管 với 所以/因此 để thay cho quan hệ nhượng bộ. 但是 và 可是 đều dùng được, nên bài tập không đặt hai từ này làm hai đáp án cạnh tranh trong cùng một chỗ trống.",
       "examples": [
         {
           "hanzi": "他们尽管性格不同，但是有很多共同爱好。",
-          "pinyin": "tā men jǐn guǎn xìng gébù tóng， dàn shìyǒu hěn duō gòng tóng ài hǎo.",
-          "translation": "Mặc dù tính cách khác nhau, họ vẫn có nhiều sở thích chung."
+          "pinyin": "Tāmen jǐnguǎn xìnggé bùtóng, dànshì yǒu hěn duō gòngtóng àihào.",
+          "translation": "Mặc dù tính cách khác nhau, họ có nhiều sở thích chung."
+        },
+        {
+          "hanzi": "尽管时间紧，但是他们还是完成了任务。",
+          "pinyin": "Jǐnguǎn shíjiān jǐn, dànshì tāmen háishi wánchéng le rènwu.",
+          "translation": "Mặc dù thời gian gấp, họ vẫn hoàn thành nhiệm vụ."
+        },
+        {
+          "hanzi": "尽管她已经很累了，可是还是很耐心地给女儿读睡前故事。",
+          "pinyin": "Jǐnguǎn tā yǐjīng hěn lèi le, kěshì háishi hěn nàixīn de gěi nǚ’ér dú shuì qián gùshi.",
+          "translation": "Mặc dù đã rất mệt, cô ấy vẫn kiên nhẫn đọc truyện trước giờ ngủ cho con gái."
         }
       ],
-      "usage": "尽管 nêu sự thật rồi 但是/可是 đưa ý trái ngược.",
-      "note": "Phân biệt 尽管 với 不管 chỉ điều kiện không ảnh hưởng kết quả."
+      "id": "hsk4-L09-G02",
+      "sourceType": "user-supplement",
+      "source": "Ảnh người dùng cung cấp — Bài 9, Text 2",
+      "sourceOriginal": {
+        "id": "hsk4-L09-G02",
+        "name": "尽管",
+        "formula": "尽管 + Thực tế，但是/可是 + Kết quả",
+        "explanation": "Mặc dù… nhưng…, thể hiện ý tương phản.",
+        "examples": [
+          {
+            "hanzi": "他们尽管性格不同，但是有很多共同爱好。",
+            "pinyin": "tā men jǐn guǎn xìng gébù tóng， dàn shìyǒu hěn duō gòng tóng ài hǎo.",
+            "translation": "Mặc dù tính cách khác nhau, họ vẫn có nhiều sở thích chung."
+          }
+        ],
+        "usage": "尽管 nêu sự thật rồi 但是/可是 đưa ý trái ngược.",
+        "note": "Phân biệt 尽管 với 不管 chỉ điều kiện không ảnh hưởng kết quả."
+      }
+    },
+    {
+      "name": "指示代词：此",
+      "formula": "此 + danh từ / 此次、此时、此处；从此 = từ đó trở đi",
+      "explanation": "此 (cǐ) là đại từ chỉ thị nghĩa là “này, điều này”, tương ứng với 这、这个. Từ này thường dùng trong văn viết hoặc hoàn cảnh trang trọng để chỉ người, sự vật, sự việc hay thời điểm đã rõ trong ngữ cảnh.",
+      "usage": "Dùng 此人 (người này), 此事 (việc này), 此次 (lần này), 此时 (lúc này), 此处 (chỗ này). Trong văn viết có thể dùng 此 trực tiếp trước danh từ như 此材料. 从此 là “từ đó trở đi”, lấy một sự việc làm mốc bắt đầu cho sự thay đổi ở phía sau.",
+      "note": "此 và 这 có thể cùng chỉ một đối tượng nhưng khác sắc thái sử dụng; không coi câu dùng 这 là sai chỉ vì kém trang trọng hơn. Chọn 此时 cho thời gian, 此处 cho địa điểm, 此次 cho một lần/sự kiện. Phân biệt 从此 (từ một mốc trở đi) với 从来 (từ trước đến nay, nhấn mạnh cả quá trình).",
+      "examples": [
+        {
+          "hanzi": "此次出差，让两人熟悉了起来，从此成了好朋友。",
+          "pinyin": "Cǐ cì chūchāi, ràng liǎng rén shúxi le qǐlai, cóngcǐ chéng le hǎo péngyou.",
+          "translation": "Chuyến công tác lần này giúp hai người trở nên thân quen, từ đó thành bạn tốt."
+        },
+        {
+          "hanzi": "此人聪明、有能力，一定能顺利完成任务。",
+          "pinyin": "Cǐ rén cōngming, yǒu nénglì, yídìng néng shùnlì wánchéng rènwu.",
+          "translation": "Người này thông minh, có năng lực, nhất định có thể hoàn thành nhiệm vụ thuận lợi."
+        },
+        {
+          "hanzi": "此材料很重要，必须直接交给他。",
+          "pinyin": "Cǐ cáiliào hěn zhòngyào, bìxū zhíjiē jiāo gěi tā.",
+          "translation": "Tài liệu này rất quan trọng, phải giao trực tiếp cho anh ấy."
+        }
+      ],
+      "id": "hsk4-L09-G03",
+      "sourceType": "user-supplement",
+      "source": "Ảnh người dùng cung cấp — Bài 9, Text 3"
+    },
+    {
+      "name": "时间副词：从来",
+      "formula": "Chủ ngữ + 从来 + 不/没(有) + hành động；hoặc 从来 + 都/就 + trạng thái/đặc điểm",
+      "explanation": "从来 (cónglái) là phó từ thời gian, nhấn mạnh một tình trạng kéo dài từ quá khứ đến hiện tại: “từ trước đến nay, xưa nay”. Từ này thường dùng trong câu phủ định và đôi khi dùng trong câu khẳng định.",
+      "usage": "从来不 thường nói về thói quen hoặc thái độ không thay đổi; 从来没(有) thường nói về trải nghiệm hay sự việc chưa từng xảy ra. Câu khẳng định thường dùng 从来都/从来就 để nhấn mạnh đặc điểm nhất quán, như 爱，从来都是相互尊重、理解与支持.",
+      "note": "Không bắt buộc 从来 phải đi với phủ định. Với trải nghiệm có 过, thường dùng 从来没(有)……过, không dùng 从来不……过. Không dùng 从来 để chỉ riêng một thời điểm vừa xảy ra hoặc một dự định chỉ bắt đầu trong tương lai; phân biệt với 从此 chỉ mốc bắt đầu thay đổi.",
+      "examples": [
+        {
+          "hanzi": "爱，从来都是相互尊重、理解与支持，不是吗？",
+          "pinyin": "Ài, cónglái dōu shì xiānghù zūnzhòng, lǐjiě yǔ zhīchí, bú shì ma?",
+          "translation": "Tình yêu từ trước đến nay luôn là sự tôn trọng, thấu hiểu và ủng hộ lẫn nhau, chẳng phải vậy sao?"
+        },
+        {
+          "hanzi": "我从来没见过这个颜色的花，它叫什么名字啊？",
+          "pinyin": "Wǒ cónglái méi jiàn guo zhège yánsè de huā, tā jiào shénme míngzi a?",
+          "translation": "Tôi chưa từng thấy hoa có màu này, nó tên gì vậy?"
+        },
+        {
+          "hanzi": "我从来不喜欢一个人旅游，每次都要和家人或朋友一起去。",
+          "pinyin": "Wǒ cónglái bù xǐhuan yí ge rén lǚyóu, měi cì dōu yào hé jiārén huò péngyou yìqǐ qù.",
+          "translation": "Tôi xưa nay không thích du lịch một mình, lần nào cũng đi cùng gia đình hoặc bạn bè."
+        }
+      ],
+      "id": "hsk4-L09-G04",
+      "sourceType": "user-supplement",
+      "source": "Ảnh người dùng cung cấp — Bài 9, Text 4"
     }
   ],
   "source": "HSK 4 - Thượng - Từ vựng và ngữ pháp theo bài học.docx",

@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-03 — Ngữ pháp Bài 9 HSK 4 và 20 câu luyện mới
+
+- Cập nhật lý thuyết bốn mẫu 不……也……; 尽管……但是/可是……; 此; 从来 theo ảnh người dùng, kèm 12 ví dụ có pinyin/dịch.
+- Biên soạn 20 câu luyện mới, mỗi điểm 5 câu, không trùng các ví dụ lý thuyết; đủ đáp án, phương án nhiễu, pinyin, dịch và giải thích. Ngân hàng dùng ở trắc nghiệm, sắp xếp, viết câu và ôn tập.
+- Bổ sung cách dùng 此 trong văn viết, phân biệt 从此/从来 và 从来 khẳng định/phủ định; đoạn viết mẫu áp dụng cả bốn điểm. Giữ giao diện và tiến độ, lưu nguyên bản hai điểm DOCX được thay thế. Toàn quyển có 37 điểm ngữ pháp; Bài 10 chờ bổ sung.
+
 ## 2026-11-03 — Cập nhật ngữ pháp Bài 8 HSK 4 theo ảnh
 
 - Thay toàn bộ lý thuyết/bài tập bằng bốn mẫu: 不管……都/也……; ……否则……; 跟/与……相比; 有A有B. Có 12 ví dụ có pinyin/dịch và 12 cụm cố định theo ba nhóm từ loại.

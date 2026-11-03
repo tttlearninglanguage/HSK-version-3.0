@@ -54,6 +54,54 @@
         "超市里的苹果有大有小，有红有绿，看起来都非常好吃。",
         "春天，公园里到处都是人，有男有女，有大人有孩子……"
       ]
+    },
+    {
+      "lesson": 9,
+      "pointId": "hsk4-L09-G01",
+      "source": "Ảnh người dùng cung cấp — Bài 9, Text 1",
+      "replacesDocxPointId": "hsk4-L09-G01",
+      "sourceExamples": [
+        "我不说你也懂我在想什么。",
+        "他不复习也能考出好成绩。",
+        "我很清楚他为什么生气，不问我也知道。"
+      ],
+      "practiceNote": "Ít nhất 5 câu luyện mới, độc lập với ví dụ lý thuyết trong ảnh."
+    },
+    {
+      "lesson": 9,
+      "pointId": "hsk4-L09-G02",
+      "source": "Ảnh người dùng cung cấp — Bài 9, Text 2",
+      "replacesDocxPointId": "hsk4-L09-G02",
+      "sourceExamples": [
+        "他们尽管性格不同，但是有很多共同爱好。",
+        "尽管时间紧，但是他们还是完成了任务。",
+        "尽管她已经很累了，可是还是很耐心地给女儿读睡前故事。"
+      ],
+      "practiceNote": "Ít nhất 5 câu luyện mới, độc lập với ví dụ lý thuyết trong ảnh."
+    },
+    {
+      "lesson": 9,
+      "pointId": "hsk4-L09-G03",
+      "source": "Ảnh người dùng cung cấp — Bài 9, Text 3",
+      "replacesDocxPointId": null,
+      "sourceExamples": [
+        "此次出差，让两人熟悉了起来，从此成了好朋友。",
+        "此人聪明、有能力，一定能顺利完成任务。",
+        "此材料很重要，必须直接交给他。"
+      ],
+      "practiceNote": "Ít nhất 5 câu luyện mới, độc lập với ví dụ lý thuyết trong ảnh."
+    },
+    {
+      "lesson": 9,
+      "pointId": "hsk4-L09-G04",
+      "source": "Ảnh người dùng cung cấp — Bài 9, Text 4",
+      "replacesDocxPointId": null,
+      "sourceExamples": [
+        "爱，从来都是相互尊重、理解与支持，不是吗？",
+        "我从来没见过这个颜色的花，它叫什么名字啊？",
+        "我从来不喜欢一个人旅游，每次都要和家人或朋友一起去。"
+      ],
+      "practiceNote": "Ít nhất 5 câu luyện mới, độc lập với ví dụ lý thuyết trong ảnh."
     }
   ]
 }
