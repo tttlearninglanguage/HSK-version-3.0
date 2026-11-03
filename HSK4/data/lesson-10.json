@@ -463,20 +463,128 @@
   ],
   "grammar": [
     {
-      "id": "hsk4-L10-G01",
-      "name": "说什么 / 怎么着",
-      "formula": "说什么 / 怎么着 + 也得 + Động từ",
-      "explanation": "Nhất định phải làm gì, thể hiện quyết tâm mạnh trong khẩu ngữ.",
+      "name": "固定格式：说什么/怎么（着）也得……",
+      "formula": "(Chủ ngữ) + 说什么/怎么（着）+ 也得 + cụm động từ",
+      "explanation": "Mẫu cố định này nhấn mạnh “dù thế nào cũng phải, nhất định phải”, diễn tả sự cần thiết hoặc quyết tâm thực hiện một việc. Thường dùng trong khẩu ngữ. X trong sơ đồ là hành động/cụm động từ phải thực hiện, không phải một từ cần đọc trong câu.",
+      "usage": "Dùng 说什么也得 hoặc 怎么也得/怎么着也得 trước hành động. Chủ ngữ và thời gian có thể đứng phía trước: 我今天说什么也得…. 也得 là phần đi cùng mẫu, không phải 也 “cũng” và 得 chỉ mức độ.",
+      "note": "得 ở đây đọc děi, nghĩa là “phải”, không đọc dé hay de. Giữ thứ tự 说什么/怎么（着）→ 也得 → hành động. 说什么 ở đây không phải câu hỏi “nói gì”. Không đổi thành nghĩa “có thể” hoặc “đã hoàn thành”.",
       "examples": [
         {
           "hanzi": "更重要的是，说什么也得穿上厚一点儿的衣服。",
-          "pinyin": "gèng zhòngyào de shì, shuō shénme yě děi chuānshang hòu yìdiǎnr de yīfu.",
-          "translation": "Quan trọng hơn là dù thế nào cũng phải mặc quần áo dày hơn một chút.",
-          "sourcePinyin": "gèng zhòng yào de shì， shuō shén me yě dé chuānshàng hòu yī diǎnér de yī fú."
+          "pinyin": "Gèng zhòngyào de shì, shuō shénme yě děi chuānshang hòu yìdiǎnr de yīfu.",
+          "translation": "Quan trọng hơn là dù thế nào cũng phải mặc quần áo dày hơn một chút."
+        },
+        {
+          "hanzi": "我明天说什么也得把作业做完了。",
+          "pinyin": "Wǒ míngtiān shuō shénme yě děi bǎ zuòyè zuò wán le.",
+          "translation": "Ngày mai dù thế nào tôi cũng phải làm xong bài tập."
+        },
+        {
+          "hanzi": "这次怎么着也得去。",
+          "pinyin": "Zhè cì zěnme zhe yě děi qù.",
+          "translation": "Lần này dù thế nào cũng phải đi."
         }
       ],
-      "usage": "说什么/怎么着也得 nhấn mạnh nhất định phải làm; 得 đọc děi.",
-      "note": "Đây là cách nhấn mạnh trong khẩu ngữ, không dịch từng chữ."
+      "id": "hsk4-L10-G01",
+      "sourceType": "user-supplement",
+      "source": "Ảnh người dùng cung cấp — Bài 10, Text 1",
+      "sourceOriginal": {
+        "id": "hsk4-L10-G01",
+        "name": "说什么 / 怎么着",
+        "formula": "说什么 / 怎么着 + 也得 + Động từ",
+        "explanation": "Nhất định phải làm gì, thể hiện quyết tâm mạnh trong khẩu ngữ.",
+        "examples": [
+          {
+            "hanzi": "更重要的是，说什么也得穿上厚一点儿的衣服。",
+            "pinyin": "gèng zhòngyào de shì, shuō shénme yě děi chuānshang hòu yìdiǎnr de yīfu.",
+            "translation": "Quan trọng hơn là dù thế nào cũng phải mặc quần áo dày hơn một chút.",
+            "sourcePinyin": "gèng zhòng yào de shì， shuō shén me yě dé chuānshàng hòu yī diǎnér de yī fú."
+          }
+        ],
+        "usage": "说什么/怎么着也得 nhấn mạnh nhất định phải làm; 得 đọc děi.",
+        "note": "Đây là cách nhấn mạnh trong khẩu ngữ, không dịch từng chữ."
+      }
+    },
+    {
+      "name": "固定短语：有的是",
+      "formula": "Người/nơi/sự vật + 有的是 + danh từ hoặc cụm danh từ",
+      "explanation": "有的是 (yǒu de shì) là cụm cố định thường dùng trong khẩu ngữ, nhấn mạnh có rất nhiều, có thừa hoặc có đủ thứ gì đó: “có khối, có đầy, nhiều lắm”. Trọng tâm là sự dồi dào, không phải chỉ xác nhận có hay không.",
+      "usage": "Đặt thứ có nhiều sau 有的是, như 时间、办法、资料、厚衣服. Có thể dùng để trấn an hoặc cho biết không cần lo thiếu: 我有的是时间. Chủ thể phía trước có thể là người, địa điểm hay một đối tượng khác.",
+      "note": "Giữ đúng thứ tự 有的是; không đảo thành 有得是 hay 的是有. Phân biệt cụm nhấn mạnh số lượng 有的是 với cách phân nhóm 有的……是…… (“một số… là…”). Dựa vào ngữ cảnh để hiểu nghĩa nhiều/thừa, không dịch từng chữ thành “có cái là”.",
+      "examples": [
+        {
+          "hanzi": "没问题，受得了，我有的是厚衣服。",
+          "pinyin": "Méi wèntí, shòu de liǎo, wǒ yǒu de shì hòu yīfu.",
+          "translation": "Không sao, tôi chịu được, tôi có khối quần áo dày."
+        },
+        {
+          "hanzi": "过年时，家里有的是好吃的、好喝的，孩子们特别开心。",
+          "pinyin": "Guònián shí, jiālǐ yǒu de shì hǎochī de, hǎohē de, háizimen tèbié kāixīn.",
+          "translation": "Dịp Tết, trong nhà có rất nhiều đồ ăn thức uống ngon, bọn trẻ rất vui."
+        },
+        {
+          "hanzi": "这个市场特别大，有的是水果和菜，你想买什么菜都能买到。",
+          "pinyin": "Zhège shìchǎng tèbié dà, yǒu de shì shuǐguǒ hé cài, nǐ xiǎng mǎi shénme cài dōu néng mǎi dào.",
+          "translation": "Khu chợ này rất lớn, có đầy trái cây và rau; bạn muốn mua rau gì cũng có."
+        }
+      ],
+      "id": "hsk4-L10-G02",
+      "sourceType": "user-supplement",
+      "source": "Ảnh người dùng cung cấp — Bài 10, Text 2"
+    },
+    {
+      "name": "连词：而",
+      "formula": "A + 而 + B；因为/因 + nguyên nhân + 而 + kết quả",
+      "explanation": "而 (ér) nối động từ, tính từ, cụm từ hoặc mệnh đề. Trong bài này có ba cách dùng: (1) đối chiếu/chuyển hướng giữa hai thành phần trái nhau; (2) nối các đặc điểm hoặc ý nghĩa song song, liên kết với nhau; (3) nối nguyên nhân và kết quả. Nghĩa cụ thể cần xét theo hai phần được nối.",
+      "usage": "Đối chiếu: A còn/trong khi B, như 广州…而哈尔滨…. Song song: tính từ A 而 tính từ B, như 紧张而兴奋. Nguyên nhân–kết quả: 因为/因 A 而 B, như 因为天气暖和而吸引游客. 而 thường mang sắc thái văn viết, nhưng cũng gặp trong cách nói trang trọng.",
+      "note": "Không hiểu 而 lúc nào cũng là “nhưng”; 紧张而兴奋 là hai cảm xúc cùng có, không đối lập. Trong mẫu 因为……而……, nguyên nhân đứng trước, kết quả đứng sau; không dùng 而 để nối hai sự việc không có quan hệ rõ ràng. Lưu ý 而 không phải lượng từ 儿 hay liên từ 或 chỉ lựa chọn.",
+      "examples": [
+        {
+          "hanzi": "广州基本上没有冬天，而哈尔滨的冬天一般会从十月开始，到第二年的三四月才结束。",
+          "pinyin": "Guǎngzhōu jīběnshang méiyǒu dōngtiān, ér Hā’ěrbīn de dōngtiān yìbān huì cóng shí yuè kāishǐ, dào dì èr nián de sān sì yuè cái jiéshù.",
+          "translation": "Quảng Châu về cơ bản không có mùa đông, còn mùa đông ở Cáp Nhĩ Tân thường bắt đầu từ tháng Mười và đến tháng Ba, tháng Tư năm sau mới kết thúc."
+        },
+        {
+          "hanzi": "在这个紧张而兴奋的日子里……",
+          "pinyin": "Zài zhège jǐnzhāng ér xīngfèn de rìzi lǐ…",
+          "translation": "Trong ngày vừa căng thẳng vừa phấn khích này…"
+        },
+        {
+          "hanzi": "冬天，这个城市因为天气暖和而吸引了很多游客。",
+          "pinyin": "Dōngtiān, zhège chéngshì yīnwèi tiānqì nuǎnhuo ér xīyǐn le hěn duō yóukè.",
+          "translation": "Vào mùa đông, thành phố này thu hút nhiều du khách vì thời tiết ấm áp."
+        }
+      ],
+      "id": "hsk4-L10-G03",
+      "sourceType": "user-supplement",
+      "source": "Ảnh người dùng cung cấp — Bài 10, Text 3"
+    },
+    {
+      "name": "频率副词：再次",
+      "formula": "(Chủ ngữ) + 再次 + động từ/cụm động từ",
+      "explanation": "再次 (zàicì) đứng trước động từ, nghĩa là “lần nữa, một lần nữa”, cho biết hành động lặp lại sau khi đã từng xảy ra. Có thể nói về một lần lặp đã xảy ra hoặc một việc dự định sẽ làm lại, tùy thời gian và ngữ cảnh.",
+      "usage": "Dùng trong 再次开展、再次去、再次感谢、再次检查…. Ví dụ: đã tổ chức hoạt động năm trước và nay tổ chức lại; đã đi một nơi và dự định quay lại; cảm ơn thêm một lần. Không nhất thiết chỉ đúng lần thứ hai, cũng có thể nhấn mạnh một lần lặp nữa.",
+      "note": "再次 đặt trước hành động, không đảo thành 次再. Phân biệt 再次 (lặp lại một hành động) với 每次 (mỗi lần) và 从来 (từ trước đến nay). 又 và 再 có thể mang nghĩa lặp trong những ngữ cảnh phù hợp, nên bài tập không đặt chúng làm phương án cạnh tranh với 再次 khi cả hai đều hợp nghĩa.",
+      "examples": [
+        {
+          "hanzi": "今年的“世界环境日”，我们再次开展“绿色生活”活动。",
+          "pinyin": "Jīnnián de “Shìjiè Huánjìng Rì”, wǒmen zàicì kāizhǎn “Lǜsè Shēnghuó” huódòng.",
+          "translation": "Vào Ngày Môi trường Thế giới năm nay, chúng tôi lại triển khai hoạt động “Sống xanh”."
+        },
+        {
+          "hanzi": "计划再次去哈尔滨看雪。",
+          "pinyin": "Jìhuà zàicì qù Hā’ěrbīn kàn xuě.",
+          "translation": "Dự định lại đến Cáp Nhĩ Tân ngắm tuyết."
+        },
+        {
+          "hanzi": "再次感谢您的支持与关心！",
+          "pinyin": "Zàicì gǎnxiè nín de zhīchí yǔ guānxīn!",
+          "translation": "Một lần nữa xin cảm ơn sự ủng hộ và quan tâm của quý vị!"
+        }
+      ],
+      "id": "hsk4-L10-G04",
+      "sourceType": "user-supplement",
+      "source": "Ảnh người dùng cung cấp — Bài 10, Text 4"
     }
   ],
   "source": "HSK 4 - Thượng - Từ vựng và ngữ pháp theo bài học.docx",

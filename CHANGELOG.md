@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-03 — Ngữ pháp Bài 10 HSK 4 và 20 câu luyện mới
+
+- Cập nhật 说什么/怎么（着）也得……; 有的是; 而; 再次 theo ảnh, đủ lý thuyết Việt và 12 ví dụ có pinyin/dịch.
+- Tạo 20 câu luyện mới, mỗi điểm 5 câu, khác ví dụ lý thuyết; luyện đủ ba nghĩa của 而. Các câu có đáp án, giải thích, pinyin/dịch, dùng ở trắc nghiệm, sắp xếp, viết và ôn tập.
+- Đoạn viết mẫu áp dụng đủ bốn điểm; giữ giao diện, ID cũ, tiến độ và bản nguồn DOCX. Thượng hiện có tổng 40 điểm, mỗi bài 4 điểm. Hạ vẫn Sắp ra mắt.
+
 ## 2026-11-03 — Ngữ pháp Bài 9 HSK 4 và 20 câu luyện mới
 
 - Cập nhật lý thuyết bốn mẫu 不……也……; 尽管……但是/可是……; 此; 从来 theo ảnh người dùng, kèm 12 ví dụ có pinyin/dịch.

@@ -831,18 +831,367 @@
     {
       "id": "hsk4-L10-G01-Q01",
       "pointId": "hsk4-L10-G01",
-      "question": "更重要的是，说什么＿＿＿穿上厚一点儿的衣服。",
+      "question": "这份材料很重要，我今天说什么＿＿＿交给老师。",
       "options": [
         "也得",
-        "并且",
+        "已经",
         "或者",
-        "否则"
+        "从来"
       ],
       "answer": "也得",
-      "sentence": "更重要的是，说什么也得穿上厚一点儿的衣服。",
-      "pinyin": "gèng zhòngyào de shì, shuō shénme yě děi chuānshang hòu yìdiǎnr de yīfu.",
-      "translation": "Quan trọng hơn là dù thế nào cũng phải mặc quần áo dày hơn một chút.",
-      "explanation": "Nhất định phải làm gì, thể hiện quyết tâm mạnh trong khẩu ngữ."
+      "sentence": "这份材料很重要，我今天说什么也得交给老师。",
+      "pinyin": "Zhè fèn cáiliào hěn zhòngyào, wǒ jīntiān shuō shénme yě děi jiāo gěi lǎoshī.",
+      "translation": "Tài liệu này rất quan trọng, hôm nay dù thế nào tôi cũng phải giao cho thầy cô.",
+      "explanation": "说什么也得 nhấn mạnh nhất định phải giao tài liệu; 得 đọc děi.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L10-G01-Q02",
+      "pointId": "hsk4-L10-G01",
+      "question": "答应了朋友的事，怎么＿＿＿认真完成。",
+      "options": [
+        "也得",
+        "从来",
+        "或者",
+        "已经"
+      ],
+      "answer": "也得",
+      "sentence": "答应了朋友的事，怎么也得认真完成。",
+      "pinyin": "Dāying le péngyou de shì, zěnme yě děi rènzhēn wánchéng.",
+      "translation": "Việc đã hứa với bạn thì dù thế nào cũng phải hoàn thành nghiêm túc.",
+      "explanation": "怎么也得 diễn tả nghĩa nhất định phải làm, không phải hành động đã xong.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L10-G01-Q03",
+      "pointId": "hsk4-L10-G01",
+      "question": "为了赶上早班车，我们明天怎么着＿＿＿六点出门。",
+      "options": [
+        "也得",
+        "从来",
+        "或者",
+        "已经"
+      ],
+      "answer": "也得",
+      "sentence": "为了赶上早班车，我们明天怎么着也得六点出门。",
+      "pinyin": "Wèile gǎnshàng zǎobānchē, wǒmen míngtiān zěnme zhe yě děi liù diǎn chūmén.",
+      "translation": "Để kịp chuyến xe sớm, ngày mai dù thế nào chúng tôi cũng phải ra khỏi nhà lúc sáu giờ.",
+      "explanation": "怎么着也得 đặt trước việc phải làm; 六点出门 là hành động bắt buộc để kịp xe.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L10-G01-Q04",
+      "pointId": "hsk4-L10-G01",
+      "question": "奶奶今天过生日，我说什么＿＿＿回家陪她吃饭。",
+      "options": [
+        "也得",
+        "已经",
+        "或者",
+        "从来"
+      ],
+      "answer": "也得",
+      "sentence": "奶奶今天过生日，我说什么也得回家陪她吃饭。",
+      "pinyin": "Nǎinai jīntiān guò shēngrì, wǒ shuō shénme yě děi huí jiā péi tā chī fàn.",
+      "translation": "Hôm nay sinh nhật bà, dù thế nào tôi cũng phải về nhà ăn cơm cùng bà.",
+      "explanation": "说什么也得 nhấn mạnh quyết tâm về nhà trong dịp sinh nhật bà.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L10-G01-Q05",
+      "pointId": "hsk4-L10-G01",
+      "question": "明天要面试，今晚怎么＿＿＿把公司的情况了解清楚。",
+      "options": [
+        "也得",
+        "从来",
+        "或者",
+        "已经"
+      ],
+      "answer": "也得",
+      "sentence": "明天要面试，今晚怎么也得把公司的情况了解清楚。",
+      "pinyin": "Míngtiān yào miànshì, jīnwǎn zěnme yě děi bǎ gōngsī de qíngkuàng liǎojiě qīngchu.",
+      "translation": "Ngày mai phỏng vấn, tối nay dù thế nào cũng phải tìm hiểu rõ tình hình công ty.",
+      "explanation": "怎么也得 + 把…了解清楚 thể hiện việc nhất định cần hoàn thành trước buổi phỏng vấn.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L10-G02-Q01",
+      "pointId": "hsk4-L10-G02",
+      "question": "这家图书馆很大，＿＿＿学习资料，不用担心找不到。",
+      "options": [
+        "有的是",
+        "有得是",
+        "的是有",
+        "是有的"
+      ],
+      "answer": "有的是",
+      "sentence": "这家图书馆很大，有的是学习资料，不用担心找不到。",
+      "pinyin": "Zhè jiā túshūguǎn hěn dà, yǒu de shì xuéxí zīliào, bú yòng dānxīn zhǎo bu dào.",
+      "translation": "Thư viện này rất lớn, có đầy tài liệu học, không cần lo tìm không ra.",
+      "explanation": "有的是 nhấn mạnh tài liệu rất dồi dào; không đảo vị trí các chữ.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L10-G02-Q02",
+      "pointId": "hsk4-L10-G02",
+      "question": "周末我不忙，＿＿＿时间，可以陪你慢慢逛。",
+      "options": [
+        "有的是",
+        "有得是",
+        "的是有",
+        "是有的"
+      ],
+      "answer": "有的是",
+      "sentence": "周末我不忙，有的是时间，可以陪你慢慢逛。",
+      "pinyin": "Zhōumò wǒ bù máng, yǒu de shì shíjiān, kěyǐ péi nǐ mànmàn guàng.",
+      "translation": "Cuối tuần tôi không bận, có khối thời gian, có thể đi dạo thong thả cùng bạn.",
+      "explanation": "有的是时间 nghĩa là có rất nhiều thời gian, dùng để trấn an không cần vội.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L10-G02-Q03",
+      "pointId": "hsk4-L10-G02",
+      "question": "别急着在这里买，网上＿＿＿同样的杯子。",
+      "options": [
+        "有的是",
+        "有得是",
+        "的是有",
+        "是有的"
+      ],
+      "answer": "有的是",
+      "sentence": "别急着在这里买，网上有的是同样的杯子。",
+      "pinyin": "Bié jízhe zài zhèlǐ mǎi, wǎngshàng yǒu de shì tóngyàng de bēizi.",
+      "translation": "Đừng vội mua ở đây, trên mạng có rất nhiều chiếc cốc như vậy.",
+      "explanation": "网上 là nơi có nhiều cốc; cụm danh từ 同样的杯子 đặt sau 有的是.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L10-G02-Q04",
+      "pointId": "hsk4-L10-G02",
+      "question": "这道题不难，他＿＿＿办法解决。",
+      "options": [
+        "有的是",
+        "有得是",
+        "的是有",
+        "是有的"
+      ],
+      "answer": "有的是",
+      "sentence": "这道题不难，他有的是办法解决。",
+      "pinyin": "Zhè dào tí bù nán, tā yǒu de shì bànfǎ jiějué.",
+      "translation": "Câu này không khó, anh ấy có khối cách giải quyết.",
+      "explanation": "有的是办法 nhấn mạnh có nhiều cách giải quyết, không phải phân nhóm “một số… là…”.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L10-G02-Q05",
+      "pointId": "hsk4-L10-G02",
+      "question": "参加活动不用自己带水，服务台＿＿＿饮用水。",
+      "options": [
+        "有的是",
+        "有得是",
+        "的是有",
+        "是有的"
+      ],
+      "answer": "有的是",
+      "sentence": "参加活动不用自己带水，服务台有的是饮用水。",
+      "pinyin": "Cānjiā huódòng bú yòng zìjǐ dài shuǐ, fúwùtái yǒu de shì yǐnyòngshuǐ.",
+      "translation": "Tham gia hoạt động không cần tự mang nước, quầy phục vụ có nhiều nước uống.",
+      "explanation": "Có sẵn nhiều nước uống nên không cần lo thiếu; dùng 有的是 + 饮用水.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L10-G03-Q01",
+      "pointId": "hsk4-L10-G03",
+      "question": "哥哥喜欢冬天，＿＿＿妹妹更喜欢温暖的春天。",
+      "options": [
+        "而",
+        "为了",
+        "由于",
+        "尽管"
+      ],
+      "answer": "而",
+      "sentence": "哥哥喜欢冬天，而妹妹更喜欢温暖的春天。",
+      "pinyin": "Gēge xǐhuan dōngtiān, ér mèimei gèng xǐhuan wēnnuǎn de chūntiān.",
+      "translation": "Anh trai thích mùa đông, còn em gái thích mùa xuân ấm áp hơn.",
+      "explanation": "Đối chiếu sở thích của hai người: 而 nghĩa là “còn, trong khi”.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh.",
+      "grammarUse": "contrast"
+    },
+    {
+      "id": "hsk4-L10-G03-Q02",
+      "pointId": "hsk4-L10-G03",
+      "question": "这间教室明亮＿＿＿安静，很适合学习。",
+      "options": [
+        "而",
+        "由于",
+        "为了",
+        "否则"
+      ],
+      "answer": "而",
+      "sentence": "这间教室明亮而安静，很适合学习。",
+      "pinyin": "Zhè jiān jiàoshì míngliàng ér ānjìng, hěn shìhé xuéxí.",
+      "translation": "Phòng học này sáng sủa và yên tĩnh, rất thích hợp học tập.",
+      "explanation": "而 nối hai đặc điểm song song 明亮 và 安静, không phải đối lập.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh.",
+      "grammarUse": "coordination"
+    },
+    {
+      "id": "hsk4-L10-G03-Q03",
+      "pointId": "hsk4-L10-G03",
+      "question": "她的回答简单＿＿＿清楚，大家一下就听懂了。",
+      "options": [
+        "而",
+        "由于",
+        "为了",
+        "否则"
+      ],
+      "answer": "而",
+      "sentence": "她的回答简单而清楚，大家一下就听懂了。",
+      "pinyin": "Tā de huídá jiǎndān ér qīngchu, dàjiā yíxià jiù tīng dǒng le.",
+      "translation": "Câu trả lời của cô ấy đơn giản mà rõ ràng, mọi người nghe là hiểu ngay.",
+      "explanation": "而 nối hai tính chất cùng có của câu trả lời: đơn giản và rõ ràng.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh.",
+      "grammarUse": "coordination"
+    },
+    {
+      "id": "hsk4-L10-G03-Q04",
+      "pointId": "hsk4-L10-G03",
+      "question": "这座小城因为空气干净＿＿＿受到游客的喜爱。",
+      "options": [
+        "而",
+        "为了",
+        "由于",
+        "尽管"
+      ],
+      "answer": "而",
+      "sentence": "这座小城因为空气干净而受到游客的喜爱。",
+      "pinyin": "Zhè zuò xiǎochéng yīnwèi kōngqì gānjìng ér shòudào yóukè de xǐ’ài.",
+      "translation": "Thành phố nhỏ này được du khách yêu thích nhờ không khí trong lành.",
+      "explanation": "因为 A 而 B nối nguyên nhân không khí sạch với kết quả được yêu thích.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh.",
+      "grammarUse": "cause-effect"
+    },
+    {
+      "id": "hsk4-L10-G03-Q05",
+      "pointId": "hsk4-L10-G03",
+      "question": "南方的冬天比较短，＿＿＿北方的冬天常常很长。",
+      "options": [
+        "而",
+        "为了",
+        "由于",
+        "尽管"
+      ],
+      "answer": "而",
+      "sentence": "南方的冬天比较短，而北方的冬天常常很长。",
+      "pinyin": "Nánfāng de dōngtiān bǐjiào duǎn, ér běifāng de dōngtiān chángcháng hěn cháng.",
+      "translation": "Mùa đông miền Nam tương đối ngắn, còn mùa đông miền Bắc thường rất dài.",
+      "explanation": "而 đối chiếu độ dài mùa đông ở hai miền, không diễn đạt một miền gây ra miền kia.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh.",
+      "grammarUse": "contrast"
+    },
+    {
+      "id": "hsk4-L10-G04-Q01",
+      "pointId": "hsk4-L10-G04",
+      "question": "老师没听清我的回答，请我＿＿＿说一遍。",
+      "options": [
+        "再次",
+        "从来",
+        "否则",
+        "尽管"
+      ],
+      "answer": "再次",
+      "sentence": "老师没听清我的回答，请我再次说一遍。",
+      "pinyin": "Lǎoshī méi tīng qīng wǒ de huídá, qǐng wǒ zàicì shuō yí biàn.",
+      "translation": "Thầy cô chưa nghe rõ câu trả lời, yêu cầu tôi nói lại một lần.",
+      "explanation": "Đã nói rồi nhưng cần nói lại; 再次 đặt trước 说.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L10-G04-Q02",
+      "pointId": "hsk4-L10-G04",
+      "question": "去年去过那家博物馆，今年我们打算＿＿＿去参观。",
+      "options": [
+        "再次",
+        "从来",
+        "否则",
+        "尽管"
+      ],
+      "answer": "再次",
+      "sentence": "去年去过那家博物馆，今年我们打算再次去参观。",
+      "pinyin": "Qùnián qù guo nà jiā bówùguǎn, jīnnián wǒmen dǎsuàn zàicì qù cānguān.",
+      "translation": "Năm ngoái đã đến bảo tàng ấy, năm nay chúng tôi dự định lại đến tham quan.",
+      "explanation": "再次 có thể dùng cho dự định lặp lại một việc, không chỉ cho việc đã xảy ra.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L10-G04-Q03",
+      "pointId": "hsk4-L10-G04",
+      "question": "为了确认地址，我＿＿＿给房东打了电话。",
+      "options": [
+        "再次",
+        "从来",
+        "否则",
+        "尽管"
+      ],
+      "answer": "再次",
+      "sentence": "为了确认地址，我再次给房东打了电话。",
+      "pinyin": "Wèile quèrèn dìzhǐ, wǒ zàicì gěi fángdōng dǎ le diànhuà.",
+      "translation": "Để xác nhận địa chỉ, tôi đã gọi lại cho chủ nhà.",
+      "explanation": "再次 đứng trước cụm 给房东打电话, cho biết đã lặp lại cuộc gọi.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L10-G04-Q04",
+      "pointId": "hsk4-L10-G04",
+      "question": "第一次检查没有发现问题，医生决定＿＿＿检查。",
+      "options": [
+        "再次",
+        "从来",
+        "否则",
+        "尽管"
+      ],
+      "answer": "再次",
+      "sentence": "第一次检查没有发现问题，医生决定再次检查。",
+      "pinyin": "Dì yī cì jiǎnchá méiyǒu fāxiàn wèntí, yīshēng juédìng zàicì jiǎnchá.",
+      "translation": "Lần kiểm tra đầu chưa phát hiện vấn đề, bác sĩ quyết định kiểm tra lần nữa.",
+      "explanation": "Việc kiểm tra đã diễn ra một lần, 再次检查 chỉ kiểm tra thêm lần nữa.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L10-G04-Q05",
+      "pointId": "hsk4-L10-G04",
+      "question": "如果下周还下雨，比赛可能会＿＿＿推迟。",
+      "options": [
+        "再次",
+        "从来",
+        "否则",
+        "尽管"
+      ],
+      "answer": "再次",
+      "sentence": "如果下周还下雨，比赛可能会再次推迟。",
+      "pinyin": "Rúguǒ xià zhōu hái xià yǔ, bǐsài kěnéng huì zàicì tuīchí.",
+      "translation": "Nếu tuần sau vẫn mưa, cuộc thi có thể lại bị hoãn.",
+      "explanation": "再次推迟 ngụ ý đã từng hoãn và có thể hoãn thêm; 再次 đặt trước 推迟.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
     }
   ],
   "readings": [
@@ -1238,7 +1587,10 @@
       "环保"
     ],
     "suggestedGrammar": [
-      "说什么 / 怎么着 + 也得 + Động từ"
+      "说什么/怎么（着）也得……",
+      "有的是",
+      "而",
+      "再次"
     ],
     "outline": [
       "Nêu nơi đến và khí hậu khác nơi bạn sống.",
@@ -1246,8 +1598,8 @@
       "Nêu hành động bảo vệ môi trường trong chuyến đi.",
       "Kiểm tra trật tự từ và các cấu trúc ngữ pháp đã học."
     ],
-    "sample": "寒假，我准备去北方旅行。听说那里的气温常常低于零下十摄氏度，跟南方差别很大。我提前买了厚衣服，还查看了交通信息。朋友提醒我，说什么也得注意保暖，不能只看屋里的温度。此外，我打算多乘坐公共交通，自己带水杯，减少日常浪费。我希望这次旅行不仅能看到不同的风景，也能用适合自己的方式节约资源。",
-    "samplePinyin": "hán jià ， wǒ zhǔn bèi qù běi fāng lǚ xíng 。 tīng shuō nà lǐ de qì wēn cháng cháng dī yú líng xià shí shè shì dù ， gēn nán fāng chā bié hěn dà 。 wǒ tí qián mǎi le hòu yī fú ， hái chá kàn le jiāo tōng xìn xī 。 péng yǒu tí xǐng wǒ ， shuō shén me yě dé zhù yì bǎo nuǎn ， bù néng zhǐ kàn wū lǐ de wēn dù 。 cǐ wài ， wǒ dǎ suàn duō chéng zuò gōng gòng jiāo tōng ， zì jǐ dài shuǐ bēi ， jiǎn shǎo rì cháng làng fèi 。 wǒ xī wàng zhè cì lǚ xíng bù jǐn néng kàn dào bù tóng de fēng jǐng ， yě néng yòng shì hé zì jǐ de fāng shì jié yuē zī yuán 。",
-    "translation": "Nghỉ đông tôi định đi miền Bắc, nơi thường dưới âm mười độ, khác nhiều miền Nam. Tôi mua áo dày, tra giao thông. Bạn nhắc nhất định giữ ấm, không chỉ nhìn nhiệt độ trong nhà. Tôi sẽ đi công cộng và mang cốc riêng để giảm lãng phí, mong vừa ngắm cảnh vừa tiết kiệm tài nguyên."
+    "sample": "寒假，我准备再次去北方旅行。出发前，我认真查看天气，觉得说什么也得带好厚衣服。朋友说家里有的是手套和帽子，不用再买。南方的冬天比较短，而北方的冬天很长，我们要提前做好准备。这次我还打算乘坐公共交通，自己带水杯，拒绝浪费。我希望既能欣赏美景，也能在日常小事中节约资源，让旅行更有意义。",
+    "samplePinyin": "Hánjià, wǒ zhǔnbèi zàicì qù běifāng lǚxíng. Chūfā qián, wǒ rènzhēn chákàn tiānqì, juéde shuō shénme yě děi dài hǎo hòu yīfu. Péngyou shuō jiālǐ yǒu de shì shǒutào hé màozi, bú yòng zài mǎi. Nánfāng de dōngtiān bǐjiào duǎn, ér běifāng de dōngtiān hěn cháng, wǒmen yào tíqián zuò hǎo zhǔnbèi. Zhè cì wǒ hái dǎsuàn chéngzuò gōnggòng jiāotōng, zìjǐ dài shuǐbēi, jùjué làngfèi. Wǒ xīwàng jì néng xīnshǎng měijǐng, yě néng zài rìcháng xiǎoshì zhōng jiéyuē zīyuán, ràng lǚxíng gèng yǒu yìyì.",
+    "translation": "Kỳ nghỉ đông tôi chuẩn bị lại đến miền Bắc du lịch. Trước khi đi, tôi xem kỹ thời tiết và thấy nhất định phải mang đủ quần áo dày. Bạn nói ở nhà có rất nhiều găng tay và mũ, không cần mua thêm. Mùa đông miền Nam ngắn, còn miền Bắc dài, nên cần chuẩn bị trước. Lần này tôi còn định đi giao thông công cộng, mang cốc nước riêng và tránh lãng phí. Tôi mong vừa ngắm cảnh đẹp vừa tiết kiệm tài nguyên từ việc nhỏ hằng ngày, để chuyến đi ý nghĩa hơn."
   }
 }
