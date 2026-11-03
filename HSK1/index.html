@@ -2066,4 +2066,74 @@ window.GrammarMastery={showPoints,showLevels,start,review,normalize,bank};
 })();
 </script>
 <!-- HSK1_GRAMMAR_MASTERY_END -->
+
+<!-- HSK1_READING_PICKER_START -->
+<style id="hsk1-reading-picker-style">/* Only the HSK 1 reading chooser/result screens use these classes. */
+#app .reading-picker{max-width:1100px;margin:18px auto;color:#253244}
+#app .reading-eyebrow{color:var(--reading-accent,#b65340);font-size:12px;letter-spacing:.08em;font-weight:700}
+#app .reading-picker h2{font-size:clamp(25px,3vw,32px);line-height:1.4;margin:12px 0}
+#app .reading-picker-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;margin:22px 0}
+#app .reading-choice{background:#fff;border:1px solid color-mix(in srgb,var(--reading-accent,#b65340) 24%,white);border-radius:20px;padding:23px;display:flex;flex-direction:column;align-items:flex-start;min-width:0;gap:9px}
+#app .reading-choice h3{font-size:20px;line-height:1.5;margin:0}
+#app .reading-choice p{margin:3px 0;line-height:1.6}
+#app .reading-muted{font-size:13px;color:#64748b}
+#app .reading-status{font-weight:600;color:#725c39}
+#app .reading-status.reading-completed{color:#28744e}
+#app .reading-picker button{min-height:44px;white-space:normal;font-size:14px;line-height:1.5;padding:10px 15px}
+#app .reading-picker .reading-primary{background:var(--reading-accent,#b65340)!important;border-color:var(--reading-accent,#b65340)!important;color:white!important;margin-top:auto}
+#app .reading-actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:12px}
+@media(max-width:1000px){#app .reading-picker-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){#app .reading-picker-grid{grid-template-columns:1fr;gap:13px}#app .reading-choice{padding:19px}#app .reading-picker{margin:12px auto}}
+</style>
+<script id="hsk1-reading-picker-app">/* Independent passage selection; reuse the existing reading and dictionary renderer. */
+(() => {
+'use strict';
+const KEY='hsk1-reading-progress-v1';
+const E=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+let db={schema:1,readings:{}},warning='',readOnly=false;
+try{const raw=localStorage.getItem(KEY);if(raw){const value=JSON.parse(raw);if(value.schema!==1||!value.readings)throw Error('schema');db=value;}}
+catch{readOnly=true;warning='Chưa đọc được tiến độ bài đọc riêng. Dữ liệu cũ được giữ nguyên; lượt này chỉ lưu trong bộ nhớ.';}
+function persist(){if(readOnly)return;try{localStorage.setItem(KEY,JSON.stringify(db));}catch{warning='Chưa lưu được vào thiết bị. Bạn vẫn có thể tiếp tục đọc trong lượt này.';}}
+const passages=unit=>READ_BANK.filter(p=>p.lesson===Number(unit));
+const find=(unit,id)=>passages(unit).find(p=>p.id===id);
+const record=p=>db.readings[p.id];
+function counts(p,r){const answers=p.questions.map((q,i)=>r?.answers?.[q.id||String(i)]).filter(Boolean);return{answered:answers.length,correct:answers.filter(a=>a.correct).length};}
+function prepare(unit){document.getElementById('hskWordInfo')?.remove();openLesson(Number(unit),'games');}
+function color(){const c=getComputedStyle(document.documentElement).getPropertyValue('--accent').trim();return /^#(?:7355|9053)/i.test(c)?'#a6533d':c||'#ba5548';}
+const button=(label,action,unit,id='',primary=false)=>`<button type="button" data-reading="${action}" data-unit="${unit}" data-id="${E(id)}" class="${primary?'reading-primary':''}">${E(label)}</button>`;
+function menu(unit=lesson.id){
+ prepare(unit);const list=passages(unit);const legacy=store.history.some(h=>Number(h.lesson)===Number(unit)&&h.mode==='passages'&&!h.readingId);
+ document.getElementById('content').innerHTML=`<section class="reading-picker" style="--reading-accent:${E(color())}">${button('← Trò chơi','games',unit)}<p class="reading-eyebrow">ĐỌC HIỂU MỞ RỘNG – UNIT ${unit}</p><h2>Chọn bài đọc</h2><p>Chọn bất kỳ bài nào để bắt đầu. Không cần hoàn thành các bài trước.</p>${warning?`<p role="status">${E(warning)}</p>`:''}${list.length!==5?`<p role="status">Dữ liệu Unit này có ${list.length} bài đọc; danh sách hiển thị đúng dữ liệu hiện có.</p>`:''}${legacy?'<p class="reading-muted">Lịch sử đọc tổng hợp trước đây vẫn được giữ. Nguồn cũ không lưu kết quả từng bài, nên tiến độ riêng được ghi nhận từ giao diện mới.</p>':''}<div class="reading-picker-grid">${list.map((p,i)=>{const r=record(p),c=counts(p,r);const status=r?.status==='completed'?'Đã hoàn thành':r?'Đang học':'Chưa học';return `<article class="reading-choice"><span class="reading-eyebrow">BÀI ĐỌC ${i+1}</span><h3>${E(p.title?.trim()||`Bài đọc số ${i+1}`)}</h3><p>${p.questions.length} câu hỏi</p><p class="reading-status ${r?.status==='completed'?'reading-completed':''}">${status}</p><p class="reading-muted">${c.answered}/${p.questions.length} câu đã trả lời · ${c.correct} đúng${r?.lastStudiedAt?' · '+new Date(r.lastStudiedAt).toLocaleDateString('vi-VN'):''}</p>${button(r?.status==='completed'?'Xem lại':r?'Tiếp tục học':'Bắt đầu đọc','open',unit,p.id,true)}</article>`}).join('')}</div></section>`;
+ window.scrollTo(0,0);
+}
+function open(unit,id){const p=find(unit,id);if(!p)return;prepare(unit);let r=record(p);if(!r){r={unitId:p.lesson,readingId:p.id,status:'in-progress',answers:{},index:0,answered:0,correct:0};db.readings[p.id]=r;}r.lastStudiedAt=Date.now();persist();
+ session={mode:'passages',independentReading:true,readingId:p.id,unitId:p.lesson,passages:[p],pi:0,qi:r.status==='completed'?0:Math.min(r.index,p.questions.length-1),correct:counts(p,r).correct,answered:false};
+ renderPassage();window.scrollTo(0,0);
+}
+function feedback(){const s=session,p=s?.independentReading&&s.passages[0];if(!p)return;const q=p.questions[s.qi],r=record(p),a=r.answers[q.id||String(s.qi)];if(!a)return;
+ s.answered=true;document.querySelectorAll('#app button.option').forEach((b,i)=>{b.disabled=true;b.classList.toggle('correct',s.options[i]===q.answer);b.classList.toggle('wrong',!a.correct&&s.options[i]===a.response);});
+ const target=document.getElementById('passageFeedback');target.innerHTML=`<div class="result"><strong>${a.correct?'✓ Đúng':'✗ Chưa đúng'}</strong><p>Đáp án: ${E(q.answer)}</p><p>${E(q.explanation)}</p></div><button type="button" class="primary" onclick="nextPassage()">${s.qi+1===p.questions.length?'Xem kết quả':'Câu tiếp theo →'}</button>`;
+}
+const oldRender=window.renderPassage,oldGrade=window.gradePassage,oldNext=window.nextPassage;
+window.startPassages=()=>menu(lesson.id);
+window.renderPassage=function(){const s=session;if(!s?.independentReading)return oldRender();const p=s.passages[0];if(s.qi>=p.questions.length)return results(p.lesson,p.id);
+ oldRender();const r=record(p);s.correct=counts(p,r).correct;
+ const app=document.getElementById('app'),back=app.querySelector('button');if(back){back.removeAttribute('onclick');back.textContent='← Danh sách bài đọc';back.dataset.reading='menu';back.dataset.unit=String(p.lesson);}
+ const badge=app.querySelector('.panel>.pill');if(badge)badge.textContent=`Bài đọc ${passages(p.lesson).findIndex(x=>x.id===p.id)+1}/${passages(p.lesson).length} · Câu ${s.qi+1}/${p.questions.length}`;
+ if(s.qi>0){const previous=document.createElement('button');previous.type='button';previous.textContent='← Câu trước';previous.dataset.reading='previous';back?.after(previous);}
+ if(warning){const notice=document.createElement('p');notice.textContent=warning;notice.setAttribute('role','status');back?.after(notice);}
+ feedback();
+};
+window.gradePassage=function(index){const s=session;if(!s)return;if(!s.independentReading)return oldGrade(index);if(s.answered)return;const p=s.passages[0],q=p.questions[s.qi],response=s.options[index];if(response===undefined)return;const r=record(p);r.answers[q.id||String(s.qi)]={response,correct:response===q.answer,at:Date.now()};r.index=s.qi;r.lastStudiedAt=Date.now();const c=counts(p,r);Object.assign(r,c);s.correct=c.correct;
+ if(response!==q.answer)store.wrong[q.id]=(store.wrong[q.id]||0)+1;
+ if(c.answered===p.questions.length){r.status='completed';r.completedAt=r.completedAt||Date.now();if(!r.historyLogged){store.history.unshift({date:new Date().toISOString(),lesson:p.lesson,mode:'passages',readingId:p.id,correct:c.correct,total:p.questions.length,autoGraded:true});r.historyLogged=true;}}
+ persist();try{save();}catch{warning='Chưa lưu được lịch sử trên thiết bị. Tiến độ riêng vẫn được giữ nếu localStorage còn khả dụng.';}feedback();
+};
+window.nextPassage=function(){const s=session;if(!s)return;if(!s.independentReading)return oldNext();if(!s.answered)return;const p=s.passages[0],r=record(p);s.qi++;r.index=Math.min(s.qi,p.questions.length-1);r.lastStudiedAt=Date.now();persist();if(s.qi===p.questions.length)return results(p.lesson,p.id);renderPassage();};
+function results(unit,id){const p=find(unit,id);if(!p)return;const r=record(p),c=counts(p,r);prepare(unit);document.getElementById('content').innerHTML=`<section class="reading-picker" style="--reading-accent:${E(color())}">${button('← Danh sách bài đọc','menu',unit)}<article class="reading-choice"><p class="reading-eyebrow">ĐÃ HOÀN THÀNH BÀI ĐỌC</p><h2>${E(p.title||'Bài đọc')}</h2><p>${c.correct}/${p.questions.length} câu đúng · ${Math.round(c.correct/p.questions.length*100)}%</p><div class="reading-actions">${button(`Quay lại danh sách ${passages(unit).length} bài đọc`,'menu',unit,'',true)}${button('Xem lại bài này','open',unit,id)}</div></article></section>`;window.scrollTo(0,0);}
+document.addEventListener('click',e=>{const b=e.target.closest('[data-reading]');if(!b||b.disabled)return;const action=b.dataset.reading,unit=Number(b.dataset.unit);if(action==='games')return openLesson(unit,'games');if(action==='menu')return menu(unit||session?.unitId||lesson.id);if(action==='open')return open(unit,b.dataset.id);if(action==='previous'&&session?.independentReading&&session.qi>0){session.qi--;const p=session.passages[0];record(p).index=session.qi;persist();renderPassage();}});
+window.HSKReadingPicker={menu,open,key:KEY};
+})();
+</script>
+<!-- HSK1_READING_PICKER_END -->
 </body></html>

@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-11-03 — Chọn bài đọc HSK 1 độc lập
+
+- Hiển thị ngay 5 thẻ bài đọc để chọn tự do trong mỗi Unit; bỏ luồng bắt buộc hoàn thành tuần tự và không tự chuyển sang bài khác.
+- Lưu riêng trạng thái, câu đã trả lời, điểm và vị trí của từng bài; có tiếp tục sau tải lại, xem lại bài đã xong và nút quay về danh sách/Trò chơi đúng Unit.
+- Giữ nguyên 75 bài/450 câu nguồn, các tính năng tra từ/pinyin/loa, lịch sử cũ và các phần ngoài chế độ đọc HSK 1.
+- Chi tiết tương thích lịch sử tổng hợp cũ và kiểm thử: [HSK1/READING-PICKER.md](HSK1/READING-PICKER.md).
+
 ## 2026-11-03 — HSK 1 Grammar Mastery
 
 - Thay lối vào các bài tập ngữ pháp HSK 1 bằng **Grammar Mastery – 5 cấp độ luyện ngữ pháp**: chọn điểm, chọn cấp, làm bài, xem kết quả và ôn câu sai.
