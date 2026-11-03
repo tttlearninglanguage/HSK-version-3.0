@@ -21,7 +21,7 @@ Bản sửa giao diện dùng CSS thực tế của HSK 3, không tiếp tục b
 - Đọc hiểu dùng mẫu HSK 1: danh sách thẻ 3/2/1 cột theo màn hình; màn hình đọc một khung rộng, đoạn văn trên và câu hỏi/lựa chọn bên dưới; tra từ gần vị trí bấm.
 - Viết đoạn, ôn tập, thống kê: khung hướng dẫn `answer-area` và các thành phần `dash-*` của HSK 3.
 
-`tests/hsk4-ui-parity.cjs` so sánh trực tiếp kiểu hiển thị được trình duyệt tính toán cho các thành phần của HSK 3 và HSK 4 tại 1440px/390px; đồng thời xác minh file CSS dẫn xuất khớp toàn bộ cascade nguồn. Kiểm tra gồm font, màu, border, bo góc, padding, bóng, cách hiển thị, không tràn ngang, tìm bài, bộ lọc flashcard và thứ tự dữ liệu khi trộn thẻ.
+`tests/hsk4-ui-parity.cjs` so sánh trực tiếp kiểu hiển thị được trình duyệt tính toán cho các thành phần của HSK 3 và HSK 4 tại 1440px/390px; đồng thời xác minh file CSS dẫn xuất khớp toàn bộ cascade nguồn. Kiểm tra gồm font, màu, border, bo góc, bóng, cách hiển thị, không tràn ngang, tìm bài, bộ lọc flashcard và thứ tự dữ liệu khi trộn thẻ.
 
 ## Nội dung
 
@@ -49,8 +49,8 @@ Câu hỏi có đáp án cố định được chấm theo đáp án, bỏ khác
 
 - Nghe hiểu câu: nghe câu ví dụ và chọn câu tiếng Trung tương ứng, thay cho chọn bản dịch tiếng Việt.
 - Đọc hiểu đoạn: cả bốn phương án của mỗi câu hỏi đều bằng tiếng Trung; toàn bộ câu hỏi cũng bằng tiếng Trung, còn giải thích giữ tiếng Việt. Bản dịch phương án cũ được giữ trong dữ liệu để đối chiếu.
-- Các lựa chọn tiếng Trung có nút tra từ độc lập và nút “Chọn đáp án”; không lồng các nút, không tự nộp khi tra từ. Tra từ vẫn dùng được sau khi chấm.
-- Đồng bộ toàn bộ 18 chế độ Bài 1 theo cỡ chữ thực tế của Trắc nghiệm ngữ pháp: đề 32px (line-height 1.9), đáp án 23px (line-height 1.7), nét thường 400; áp dụng cả ô nhập, từ sắp xếp, đáp án câu nghe/đọc, đáp án phản hồi và các câu ôn tổng hợp. Pinyin, chú thích, nút điều khiển giữ cỡ chữ riêng. Riêng đoạn đọc theo mẫu HSK 1 dùng 27px, giãn dòng 2; đoạn mẫu luyện viết vẫn dùng 23px.
+- Bấm trực tiếp vào chữ hoặc toàn bộ thẻ để chọn đáp án; bỏ nút “Chọn đáp án” phụ. Tra từ trong đoạn văn/câu hỏi vẫn hoạt động; các phương án tiếng Trung có thể tra từ sau khi chấm, tránh nhầm thao tác chọn và tra. Hỗ trợ Enter bằng nút HTML nguyên bản, không lồng nút.
+- Đồng bộ toàn bộ 18 chế độ Bài 1 theo cỡ chữ thực tế của Trắc nghiệm ngữ pháp: đề 32px và đáp án 23px (cùng line-height 1.45), nét thường 400; áp dụng cả ô nhập, từ sắp xếp, đáp án câu nghe/đọc, đáp án phản hồi và các câu ôn tổng hợp. Pinyin, chú thích, nút điều khiển giữ cỡ chữ riêng. Riêng đoạn đọc theo mẫu HSK 1 dùng 27px, giãn dòng 1.65; đoạn mẫu luyện viết vẫn dùng 23px.
 - Luyện nói: kết quả nhận diện được điền vào ô trả lời, có thể sửa trước khi tự đối chiếu. Không tự nộp; bỏ qua kết quả đến muộn khi đổi câu, đổi màn hình, đã nộp hoặc đã bật lượt micro mới.
 
 Kiểm thử `tests/hsk4-exercise-updates.cjs` đạt 116 kiểm tra tại 1440px/390px, gồm trọn bộ 40 câu nghe và bài đọc đầu tiên với 5 câu hỏi, dữ liệu tra từ, cỡ chữ, sửa kết quả micro và các tình huống kết quả đến muộn. Micro trong bộ kiểm thử được giả lập; nhận diện âm thanh thực tế vẫn phụ thuộc thiết bị và dịch vụ trình duyệt.
@@ -64,7 +64,7 @@ Kiểm thử `tests/hsk4-game-typography.cjs` đạt 171 kiểm tra, đối chi�
 - Đoạn văn, tiêu đề, điều khiển và câu hỏi nằm trong một khung rộng như HSK 1. Các lựa chọn đặt thành lưới ở bên dưới, không còn bố cục bài đọc trái/câu hỏi phải. Câu hỏi và đáp án vẫn bằng tiếng Trung.
 - “Hiện Pinyin” mở khung nền xám có Hán tự và pinyin đặt trên từng từ/cụm từ bằng ruby. Pinyin lấy từ các mục tra cứu đã có, không phải một đoạn phiên âm rời. Pinyin toàn đoạn trong dữ liệu không bị thay đổi.
 - Trạng thái hiện pinyin được giữ khi sang câu hỏi khác trong cùng bài; chuyển sang bài đọc khác bắt đầu với pinyin ẩn.
-- Tra từ vẫn hoạt động trong đoạn văn, câu hỏi, đáp án. Phần lựa chọn có nút chọn độc lập cùng cấp với nút tra từ, không lồng button; nhấn từ để tra, nhấn vùng trống của thẻ hoặc Enter khi thẻ chọn có focus để nộp. Không tự nộp khi bấm tra từ.
+- Tra từ hoạt động trong đoạn văn và câu hỏi; đáp án có tra từ sau khi chấm. Trước khi chấm, nhấn chữ, vùng thẻ hoặc Enter để chọn trực tiếp.
 
 `tests/hsk4-hsk1-reading-ui.cjs` đạt 184 kiểm tra trên 1440/900/390/360px: đối chiếu CSS thẻ và khung ruby với HSK 1 thật, kiểm tra toàn bộ 5 bài đọc, pinyin đúng từng từ và toàn văn, bật/ẩn/giữ trạng thái, tra từ, chấm bài và không tràn ngang.
 
@@ -109,6 +109,8 @@ node tests/hsk4-smoke.cjs
 node tests/hsk4-ui-parity.cjs
 node tests/hsk4-exercise-updates.cjs
 node tests/hsk4-game-typography.cjs
+node tests/hsk4-compact-choices.cjs
+node tests/hsk4-reading-answer-grid.cjs
 node tests/hsk4-reading-layout.cjs
 node tests/hsk4-independent-readings.cjs
 node tests/hsk4-hsk1-reading-ui.cjs
@@ -136,3 +138,9 @@ Lưới tự chọn 4, 2 hoặc 1 đáp án mỗi hàng theo phương án dài n
 Lưới được tính lại khi đổi câu, thay kích thước màn hình và khi font tải xong. Việc này chỉ cập nhật cột CSS, không khởi tạo lại câu hỏi, không thay trạng thái pinyin hay điểm số.
 
 `node tests/hsk4-reading-answer-grid.cjs` đạt 101 kiểm tra: toàn bộ 25 câu ở 1440/900/390/360px; kiểm tra cụ thể đáp án ngắn 4 cột, ví dụ nhập học 2 cột, đáp án dài 1 cột, không tràn/cắt chữ, cỡ chữ 23px, tra từ, chấm điểm và giữ trạng thái khi thu/phóng cửa sổ.
+
+## Khoảng cách gọn và chọn trực tiếp
+
+Thu hẹp khoảng đệm khung bài tập còn 20px trên máy tính / 16px trên điện thoại, khoảng cách đáp án 10px, bỏ margin dư của từng thẻ. Thu hẹp các khung bài học, bảng từ vựng, ngữ pháp và danh sách bài đọc; giữ nguyên cỡ chữ và giãn ruby để pinyin không chồng chữ. Chỉ áp dụng trong HSK 4.
+
+`tests/hsk4-compact-choices.cjs` kiểm tra chọn trực tiếp trên chữ/thẻ, bàn phím, tra từ sau chấm, không chấm lặp, khoảng cách và không tràn ngang trên 1440/390/360px.
