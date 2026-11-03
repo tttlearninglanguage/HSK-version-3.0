@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-03 — Đồng bộ màu chủ đề HSK 4
+
+- Dùng chung bảng màu giữa thẻ trang tổng và màn hình Bài 1–10, thay màu đỏ cố định bên trong mọi bài.
+- Đồng bộ banner, header, tab, nút/bộ lọc, tiến độ, đọc hiểu, luyện tập và tương tác tra từ; giữ màu chấm đúng/sai và nền nội dung trắng.
+- Kiểm tra đổi bài, link trực tiếp, tải lại, Back, màn hình kết quả và ôn tập trên máy tính/điện thoại; không đổi nội dung hay dữ liệu tiến độ.
+
 ## 2026-11-03 — Ngữ pháp Bài 10 HSK 4 và 20 câu luyện mới
 
 - Cập nhật 说什么/怎么（着）也得……; 有的是; 而; 再次 theo ảnh, đủ lý thuyết Việt và 12 ví dụ có pinyin/dịch.

@@ -96,6 +96,7 @@ node tests/hsk4-lesson10-grammar.cjs
 node tests/hsk4-upper-browser.cjs
 node tests/hsk4-smoke.cjs
 node tests/hsk4-compact-choices.cjs
+node tests/hsk4-lesson-themes.cjs
 node tests/hsk4-exercise-updates.cjs
 node tests/hsk4-hsk1-reading-ui.cjs
 ```
@@ -121,3 +122,9 @@ Bốn điểm: 不……也……; 尽管……但是/可是……; 此; 从来.
 ## Cập nhật ngữ pháp Bài 10 và câu luyện đa dạng
 
 Bốn điểm: 说什么/怎么（着）也得……; 有的是; 而; 再次. Lý thuyết Việt và 12 ví dụ theo ảnh có pinyin/dịch (giữ dấu lửng ở cụm ví dụ chưa thành câu đầy đủ). Ngân hàng gồm 20 câu mới, mỗi điểm 5 câu, không trùng ví dụ lý thuyết; có đáp án, giải thích, pinyin và dịch riêng, dùng ở trắc nghiệm/sắp xếp/viết và ôn tập. Năm câu 而 bao phủ đối chiếu, song song và nguyên nhân–kết quả. Đoạn viết mẫu áp dụng đủ bốn điểm. Giữ ID điểm cũ và bản DOCX trong sourceOriginal. Toàn bộ Bài 1–10 hiện có 4 điểm ngữ pháp mỗi bài, tổng 40 điểm.
+
+## Màu chủ đề từng bài
+
+Bảng màu dùng chung trong app.js quyết định cả thẻ trang tổng và các màn hình học. Bài 1–10 lần lượt đỏ đất, cam nâu, vàng, xanh ô liu, xanh lá, xanh ngọc, xanh lam ngọc, xanh dương, chàm và tím. Banner, header, tab, bộ lọc đang chọn, nút chính, thanh tiến độ, badge, hover/tra từ và viền flashcard lấy màu của đúng bài; mặt giấy/flashcard giữ trắng và màu chấm đúng/sai giữ ý nghĩa riêng.
+
+Màu được áp dụng lại khi mở link trực tiếp, tải lại, Back hoặc đổi bài. Trang chủ/thống kê/ôn tập chung dùng màu trung tính riêng để không mang màu bài vừa mở; lượt ôn một bài dùng màu bài đó, ôn nhiều bài dùng màu ôn tập chung. `tests/hsk4-lesson-themes.cjs` đối chiếu màu thật của các thành phần với thẻ trang tổng trên máy tính và điện thoại, đồng thời kiểm tra tiến độ/bản nháp cũ vẫn được giữ.

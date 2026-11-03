@@ -170,3 +170,13 @@ button:focus-visible,a:focus-visible,input:focus-visible,textarea:focus-visible,
 }
 
 #app .hsk4-source-note{display:block;margin-top:5px;font:12px/1.45 Arial,sans-serif;color:#647087}
+
+/* Study accents follow the selected lesson; correct/error colors retain their meaning. */
+body[data-hsk-theme-lesson] #app .h2-eyebrow{color:var(--accent)}
+body[data-hsk-theme-lesson] #app .h2-word:hover,
+body[data-hsk-theme-lesson] #app .h2-word:focus-visible{background:var(--soft)!important;color:var(--accent)!important}
+body[data-hsk-theme-lesson] #app .h2-word:focus-visible{outline:2px solid var(--accent)!important}
+body[data-hsk-theme-lesson] #app .flash,
+body[data-hsk-theme-lesson] #app .panel.flash{border-color:var(--accent-border)!important}
+body[data-hsk-theme-lesson] #app button.active:not(.option):not(.h2-answer){background:var(--accent)!important;border-color:var(--accent)!important;color:#fff!important}
+body[data-hsk-theme-lesson] #app button:not(.primary):not(.active):not(.h2-word):not(.game-card):not(.option):not(.h2-answer):hover{background:var(--soft)!important}
