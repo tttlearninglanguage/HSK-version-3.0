@@ -1,0 +1,493 @@
+{
+  "id": 2,
+  "volume": "upper",
+  "title": "租到了合适的房子",
+  "subtitle": "Đã thuê được căn nhà phù hợp",
+  "words": [
+    {
+      "id": "hsk4-L02-01",
+      "hanzi": "房东",
+      "pinyin": "fánɡdōnɡ",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "chủ nhà",
+      "example": "我的房东人很好，经常帮我解决问题。",
+      "examplePinyin": "wǒ de fángdōng rén hěn hǎo， jīng cháng bāng wǒ jiě jué wèn tí.",
+      "translation": "Chủ nhà của tôi rất tốt, thường giúp tôi giải quyết vấn đề.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L02-02",
+      "hanzi": "出租",
+      "pinyin": "chūzū",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "cho thuê",
+      "example": "房东打算出租这个房子。",
+      "examplePinyin": "fángdōng dǎ suàn chū zū zhè gè fángzǐ.",
+      "translation": "Chủ nhà dự định cho thuê căn nhà này.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L02-03",
+      "hanzi": "房租",
+      "pinyin": "fánɡzū",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "tiền thuê nhà",
+      "example": "我每个月要交两千块钱的房租。",
+      "examplePinyin": "wǒ měi gè yuè yào jiāo liǎng qiān kuài qián de fángzū.",
+      "translation": "Mỗi tháng tôi phải trả hai nghìn tệ tiền thuê nhà.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L02-04",
+      "hanzi": "收拾",
+      "pinyin": "shōushi",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "dọn dẹp",
+      "example": "我花了半个小时才把房间收拾好。",
+      "examplePinyin": "wǒ huā le bàn gè xiǎo shí cái bǎ fángjiān shōu shíhǎo.",
+      "translation": "Tôi mất nửa tiếng mới dọn dẹp phòng xong.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L02-05",
+      "hanzi": "租",
+      "pinyin": "zū",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "thuê",
+      "example": "我想在学校附近租一间房子。",
+      "examplePinyin": "wǒ xiǎng zài xué xiào fù jìn zū yī jiān fáng zi 。",
+      "translation": "Tôi muốn thuê một căn phòng gần trường.",
+      "partOfSpeech": "Động từ",
+      "sourceOriginal": {
+        "example": "房东打算出租这个房子。",
+        "examplePinyin": "fángdōng dǎ suàn chū zū zhè gè fángzǐ.",
+        "translation": "Chủ nhà dự định cho thuê căn nhà này."
+      },
+      "sourceNote": "Đã hiệu chỉnh ví dụ/phiên âm/dịch bị lệch trong tài liệu; bản gốc lưu trong dữ liệu đối chiếu."
+    },
+    {
+      "id": "hsk4-L02-06",
+      "hanzi": "嗯",
+      "pinyin": "ǹg",
+      "sourcePartOfSpeech": "int.",
+      "meaning": "ừ; vâng",
+      "example": "嗯，我马上就收拾好了。",
+      "examplePinyin": "ǹg， wǒ mǎ shàng jiù shōu shíhǎo le.",
+      "translation": "Ừ, tôi sắp dọn xong rồi.",
+      "partOfSpeech": "Thán từ"
+    },
+    {
+      "id": "hsk4-L02-07",
+      "hanzi": "亮",
+      "pinyin": "liàng",
+      "sourcePartOfSpeech": "adj./v.",
+      "meaning": "sáng; sáng lên",
+      "example": "教室里的灯很亮。",
+      "examplePinyin": "jiào shì lǐ de dēnghěn liàng.",
+      "translation": "Đèn trong phòng học rất sáng.",
+      "partOfSpeech": "Tính từ / Động từ"
+    },
+    {
+      "id": "hsk4-L02-08",
+      "hanzi": "就是",
+      "pinyin": "jiùshì",
+      "sourcePartOfSpeech": "part.",
+      "meaning": "cứ... là được",
+      "example": "不懂的话，问一下老师就是了。",
+      "examplePinyin": "bù dǒng de huà， wèn yī xià lǎo shī jiù shìle.",
+      "translation": "Nếu không hiểu thì chỉ cần hỏi thầy cô là được.",
+      "partOfSpeech": "Trợ từ",
+      "sourceOriginal": {
+        "translation": "Thầy giáo bây giờ có ở văn phòng không?"
+      },
+      "sourceNote": "Đã hiệu chỉnh ví dụ/phiên âm/dịch bị lệch trong tài liệu; bản gốc lưu trong dữ liệu đối chiếu."
+    },
+    {
+      "id": "hsk4-L02-09",
+      "hanzi": "种",
+      "pinyin": "zhòng",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "trồng",
+      "example": "奶奶喜欢种菜。",
+      "examplePinyin": "nǎi nai xǐhuan zhòng cài.",
+      "translation": "Bà thích trồng rau.",
+      "partOfSpeech": "Động từ",
+      "sourceOriginal": {
+        "examplePinyin": "nǎi nǎi xǐ huān zhǒng cài."
+      },
+      "sourceNote": "Đã hiệu chỉnh ví dụ/phiên âm/dịch bị lệch trong tài liệu; bản gốc lưu trong dữ liệu đối chiếu."
+    },
+    {
+      "id": "hsk4-L02-10",
+      "hanzi": "周围",
+      "pinyin": "zhōuwéi",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "xung quanh",
+      "example": "我家周围有好几个公园。",
+      "examplePinyin": "wǒ jiā zhōu wéi yǒu hǎo jǐ gè gōng yuán.",
+      "translation": "Quanh nhà tôi có vài công viên.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L02-11",
+      "hanzi": "不过",
+      "pinyin": "búɡuò",
+      "sourcePartOfSpeech": "conj.",
+      "meaning": "tuy nhiên",
+      "example": "这件衣服很好看，不过没有我能穿的号。",
+      "examplePinyin": "zhè jiàn yī fú hěn hǎo kàn， bù guò méi yǒu wǒ néng chuānde hào.",
+      "translation": "Bộ quần áo này đẹp, nhưng không có cỡ tôi mặc vừa.",
+      "partOfSpeech": "Liên từ"
+    },
+    {
+      "id": "hsk4-L02-12",
+      "hanzi": "毕业",
+      "pinyin": "bìyè",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "tốt nghiệp",
+      "example": "他们明年六月就要大学毕业了。",
+      "examplePinyin": "tā men míng nián liù yuè jiù yào dà xué bì yè le.",
+      "translation": "Tháng Sáu năm sau họ sẽ tốt nghiệp đại học.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L02-13",
+      "hanzi": "恐怕",
+      "pinyin": "kǒnɡpà",
+      "sourcePartOfSpeech": "adv.",
+      "meaning": "e rằng",
+      "example": "现在已经很晚了，他恐怕不会来了。",
+      "examplePinyin": "xiàn zài yǐ jīng hěn wǎn le， tā kǒng pà bù huì lái le.",
+      "translation": "Bây giờ đã muộn rồi, e rằng anh ấy sẽ không đến nữa.",
+      "partOfSpeech": "Phó từ"
+    },
+    {
+      "id": "hsk4-L02-14",
+      "hanzi": "热闹",
+      "pinyin": "rènao",
+      "sourcePartOfSpeech": "v./adj./n.",
+      "meaning": "náo nhiệt",
+      "example": "过年咱们要一起热闹热闹啊。",
+      "examplePinyin": "guò nián zán men yào yī qǐ rènào rènào a.",
+      "translation": "Tết đến chúng ta hãy cùng vui chơi cho náo nhiệt nhé.",
+      "partOfSpeech": "Động từ / Tính từ / Danh từ"
+    },
+    {
+      "id": "hsk4-L02-15",
+      "hanzi": "入住",
+      "pinyin": "rùzhù",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "chuyển vào ở",
+      "example": "交完房租后我们就可以入住新家了。",
+      "examplePinyin": "jiāo wán fángzū hòu wǒ men jiù kě yǐ rù zhù xīn jiā le.",
+      "translation": "Sau khi đóng tiền thuê, chúng tôi có thể dọn vào nhà mới.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L02-16",
+      "hanzi": "日记",
+      "pinyin": "rìjì",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "nhật ký",
+      "example": "他有每天写日记的习惯。",
+      "examplePinyin": "tā yǒu měi tiān xiě rì jì de xí guàn.",
+      "translation": "Anh ấy có thói quen viết nhật ký hằng ngày.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L02-17",
+      "hanzi": "顺利",
+      "pinyin": "shùnlì",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "thuận lợi",
+      "example": "今天我们搬家很顺利。",
+      "examplePinyin": "jīn tiān wǒ men bānjiā hěn shùn lì.",
+      "translation": "Hôm nay việc chuyển nhà của chúng tôi rất thuận lợi.",
+      "partOfSpeech": "Tính từ"
+    },
+    {
+      "id": "hsk4-L02-18",
+      "hanzi": "并",
+      "pinyin": "bìng",
+      "sourcePartOfSpeech": "conj./adv.",
+      "meaning": "và; hơn nữa; hoàn toàn không",
+      "example": "我给他打了电话，并告诉他明天开会。",
+      "examplePinyin": "wǒ gěi tā dǎ le diàn huà， bìng gào sù tā míng tiān kāi huì.",
+      "translation": "Tôi đã gọi điện cho anh ấy và thông báo cuộc họp ngày mai.",
+      "partOfSpeech": "Liên từ / Phó từ"
+    },
+    {
+      "id": "hsk4-L02-19",
+      "hanzi": "客厅",
+      "pinyin": "kètīnɡ",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "phòng khách",
+      "example": "妈妈在客厅看电视呢。",
+      "examplePinyin": "mā mā zài kè tīng kàn diàn shì ne.",
+      "translation": "Mẹ đang xem ti vi trong phòng khách.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L02-20",
+      "hanzi": "台",
+      "pinyin": "tái",
+      "sourcePartOfSpeech": "m.",
+      "meaning": "lượng từ cho máy móc",
+      "example": "我买了一台新电脑。",
+      "examplePinyin": "wǒ mǎi le yī tái xīn diàn nǎo.",
+      "translation": "Tôi đã mua một chiếc máy tính mới.",
+      "partOfSpeech": "Lượng từ"
+    },
+    {
+      "id": "hsk4-L02-21",
+      "hanzi": "厨房",
+      "pinyin": "chúfáng",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "nhà bếp",
+      "example": "我们家的厨房又大又干净。",
+      "examplePinyin": "wǒ men jiā de chú fángyòu dà yòu gàn jìng.",
+      "translation": "Bếp nhà chúng tôi vừa rộng vừa sạch.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L02-22",
+      "hanzi": "平常",
+      "pinyin": "pínɡchánɡ",
+      "sourcePartOfSpeech": "n./adj.",
+      "meaning": "bình thường",
+      "example": "平常我很少做饭，几乎不用厨房。",
+      "examplePinyin": "píng cháng wǒ hěn shǎo zuò fàn， jǐ hū bù yòngchú fáng.",
+      "translation": "Bình thường tôi rất ít nấu ăn, gần như không dùng bếp.",
+      "partOfSpeech": "Danh từ / Tính từ"
+    },
+    {
+      "id": "hsk4-L02-23",
+      "hanzi": "基本上",
+      "pinyin": "jīběnshàng",
+      "sourcePartOfSpeech": "adv.",
+      "meaning": "về cơ bản",
+      "example": "我基本上每天都在食堂吃早饭。",
+      "examplePinyin": "wǒ jī běnshàng měi tiān dōu zài shí táng chī zǎofàn.",
+      "translation": "Hầu như ngày nào tôi cũng ăn sáng ở căng tin.",
+      "partOfSpeech": "Phó từ"
+    },
+    {
+      "id": "hsk4-L02-24",
+      "hanzi": "整个",
+      "pinyin": "zhěnggè",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "toàn bộ",
+      "example": "整个上午我都在写日记。",
+      "examplePinyin": "zhěng gè shàng wǔ wǒ dōu zài xiě rì jì.",
+      "translation": "Cả buổi sáng tôi đều viết nhật ký.",
+      "partOfSpeech": "Tính từ"
+    },
+    {
+      "id": "hsk4-L02-25",
+      "hanzi": "毛巾",
+      "pinyin": "máojīn",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "khăn mặt",
+      "example": "我去超市买了两条毛巾。",
+      "examplePinyin": "wǒ qù chāo shì mǎi le liǎng tiáo máo jīn.",
+      "translation": "Tôi đến siêu thị mua hai chiếc khăn mặt.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L02-26",
+      "hanzi": "建议",
+      "pinyin": "jiànyì",
+      "sourcePartOfSpeech": "n./v.",
+      "meaning": "đề nghị",
+      "example": "大家的建议对我帮助很大。",
+      "examplePinyin": "dà jiā de jiàn yì duì wǒ bāng zhù hěn dà.",
+      "translation": "Những lời góp ý của mọi người giúp ích cho tôi rất nhiều.",
+      "partOfSpeech": "Danh từ / Động từ"
+    },
+    {
+      "id": "hsk4-L02-27",
+      "hanzi": "查看",
+      "pinyin": "chákàn",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "kiểm tra; xem xét",
+      "example": "请用手机查看你的考试成绩。",
+      "examplePinyin": "qǐng yòngshǒu jīchá kàn nǐ de kǎo shì chéng jì.",
+      "translation": "Hãy dùng điện thoại kiểm tra kết quả thi của bạn.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L02-28",
+      "hanzi": "信息",
+      "pinyin": "xìnxī",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "thông tin",
+      "example": "这条信息对我来说很重要。",
+      "examplePinyin": "zhè tiáo xìn xīduì wǒ lái shuō hěn zhòng yào.",
+      "translation": "Thông tin này rất quan trọng đối với tôi.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L02-29",
+      "hanzi": "查找",
+      "pinyin": "cházhǎo",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "tìm kiếm",
+      "example": "我想先在网上查找租房信息。",
+      "examplePinyin": "wǒ xiǎng xiān zài wǎng shàng chá zhǎozū fángxìn xī.",
+      "translation": "Tôi muốn lên mạng tìm thông tin thuê nhà trước.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L02-30",
+      "hanzi": "接着",
+      "pinyin": "jiēzhe",
+      "sourcePartOfSpeech": "adv./v.",
+      "meaning": "tiếp theo",
+      "example": "这本书你看完了，我接着看。",
+      "examplePinyin": "zhè běnshū nǐ kàn wán le， wǒ jiē zhe kàn.",
+      "translation": "Bạn đọc xong cuốn sách này thì tôi sẽ đọc tiếp.",
+      "partOfSpeech": "Phó từ / Động từ"
+    },
+    {
+      "id": "hsk4-L02-31",
+      "hanzi": "同时",
+      "pinyin": "tóngshí",
+      "sourcePartOfSpeech": "conj./n.",
+      "meaning": "đồng thời",
+      "example": "他一边听音乐，一边做作业，同时还想着明天的考试。",
+      "examplePinyin": "tā yī biān tīng yīn lè， yī biān zuò zuò yè， tóng shí hái xiǎng zhe míng tiān de kǎo shì.",
+      "translation": "Anh ấy vừa nghe nhạc vừa làm bài tập, đồng thời còn nghĩ đến kỳ thi ngày mai.",
+      "partOfSpeech": "Liên từ / Danh từ"
+    },
+    {
+      "id": "hsk4-L02-32",
+      "hanzi": "位置",
+      "pinyin": "wèizhì",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "vị trí",
+      "example": "在这个位置可以看到整个公园。",
+      "examplePinyin": "zài zhè gè wèi zhìkě yǐ kàn dào zhěng gè gōng yuán.",
+      "translation": "Từ vị trí này có thể nhìn thấy toàn bộ công viên.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L02-33",
+      "hanzi": "价格",
+      "pinyin": "jiàgé",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "giá cả",
+      "example": "请问，这本书的价格是多少？",
+      "examplePinyin": "qǐng wèn， zhè běnshū de jià géshìduō shǎo？",
+      "translation": "Xin hỏi giá cuốn sách này là bao nhiêu?",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L02-34",
+      "hanzi": "理想",
+      "pinyin": "lǐxiǎng",
+      "sourcePartOfSpeech": "adj./n.",
+      "meaning": "lý tưởng",
+      "example": "这次考试我的成绩很理想。",
+      "examplePinyin": "zhè cì kǎo shì wǒ de chéng jìhěn lǐ xiǎng.",
+      "translation": "Kết quả kỳ thi này của tôi rất tốt như mong đợi.",
+      "partOfSpeech": "Tính từ / Danh từ"
+    },
+    {
+      "id": "hsk4-L02-35",
+      "hanzi": "由于",
+      "pinyin": "yóuyú",
+      "sourcePartOfSpeech": "conj./prep.",
+      "meaning": "do; bởi vì",
+      "example": "由于生病，他今天没来上课。",
+      "examplePinyin": "yóu yú shēng bìng， tā jīn tiān méi lái shàng kè.",
+      "translation": "Vì bị ốm nên hôm nay anh ấy không đến lớp.",
+      "partOfSpeech": "Liên từ / Giới từ"
+    },
+    {
+      "id": "hsk4-L02-36",
+      "hanzi": "工资",
+      "pinyin": "ɡōnɡzī",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "tiền lương",
+      "example": "她的新工作工资很高。",
+      "examplePinyin": "tā de xīn gōng zuò gōng zī hěn gāo.",
+      "translation": "Công việc mới của cô ấy có mức lương cao.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L02-37",
+      "hanzi": "感",
+      "pinyin": "ɡǎn",
+      "sourcePartOfSpeech": "suf.",
+      "meaning": "cảm thấy; cảm giác",
+      "example": "发了工资后，他马上有了安全感。",
+      "examplePinyin": "fā le gōng zī hòu， tā mǎ shàng yǒu le ān quán gǎn.",
+      "translation": "Sau khi nhận lương, anh ấy lập tức có cảm giác an toàn.",
+      "partOfSpeech": "Hậu tố"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "hsk4-L02-G01",
+      "name": "Động từ / Mệnh đề",
+      "formula": "Động từ / Mệnh đề + 就是了",
+      "explanation": "Dùng cuối câu trong khẩu ngữ để khẳng định cách giải quyết đơn giản.",
+      "examples": [
+        {
+          "hanzi": "不懂的话，问一下老师就是了。",
+          "pinyin": "bù dǒng de huà， wèn yī xià lǎo shī jiù shìle.",
+          "translation": "Nếu không hiểu thì chỉ cần hỏi thầy cô là được."
+        }
+      ],
+      "usage": "就是了 đứng cuối câu để đưa ra cách xử lý đơn giản.",
+      "note": "Không dùng 就是了 như một liên từ chỉ nguyên nhân."
+    },
+    {
+      "id": "hsk4-L02-G02",
+      "name": "Mệnh đề 1，不过",
+      "formula": "Mệnh đề 1，不过 + Mệnh đề 2",
+      "explanation": "Liên kết hai vế có ý nghĩa tương phản, giống “nhưng/tuy nhiên”.",
+      "examples": [
+        {
+          "hanzi": "这件衣服很好看，不过没有我能穿的号。",
+          "pinyin": "zhè jiàn yī fú hěn hǎo kàn， bù guò méi yǒu wǒ néng chuānde hào.",
+          "translation": "Bộ quần áo này đẹp nhưng không có cỡ tôi mặc vừa."
+        }
+      ],
+      "usage": "不过 nối hai mệnh đề có ý chuyển hướng nhẹ.",
+      "note": "Không dùng 不过 để diễn đạt nguyên nhân."
+    },
+    {
+      "id": "hsk4-L02-G03",
+      "name": "并",
+      "formula": "并 + Động từ / 并不 + Phủ định",
+      "explanation": "Nối hành động song song hoặc nhấn mạnh ý phủ định.",
+      "examples": [
+        {
+          "hanzi": "我给他打了电话，并告诉他明天开会。",
+          "pinyin": "wǒ gěi tā dǎ le diàn huà， bìng gào sù tā míng tiān kāi huì.",
+          "translation": "Tôi gọi điện cho anh ấy và thông báo ngày mai có cuộc họp."
+        }
+      ],
+      "usage": "并 nối hai hành động; 并不/并没有 nhấn mạnh phủ định.",
+      "note": "Tránh ghép 并不 với thêm một từ phủ định không cần thiết."
+    },
+    {
+      "id": "hsk4-L02-G04",
+      "name": "由于",
+      "formula": "由于 + Nguyên nhân，（所以/因此）+ Kết quả",
+      "explanation": "Chỉ nguyên nhân dẫn đến sự việc.",
+      "examples": [
+        {
+          "hanzi": "由于生病，他今天没来上课。",
+          "pinyin": "yóu yú shēng bìng， tā jīn tiān méi lái shàng kè.",
+          "translation": "Vì bị ốm nên hôm nay anh ấy không đến lớp."
+        }
+      ],
+      "usage": "Đặt nguyên nhân sau 由于, kết quả ở vế sau.",
+      "note": "Không đảo 由于 sang vế kết quả."
+    }
+  ],
+  "source": "HSK 4 - Thượng - Từ vựng và ngữ pháp theo bài học.docx",
+  "supplementNote": "Bài tập, bài đọc, cách dùng và lưu ý được biên soạn bổ sung; từ vựng và ví dụ ngữ pháp theo tài liệu bạn cung cấp."
+}

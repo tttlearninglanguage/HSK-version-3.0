@@ -1,0 +1,1396 @@
+{
+  "lesson": 6,
+  "sourceType": "supplementary",
+  "vocabulary": [
+    {
+      "wordId": "hsk4-L06-01",
+      "tokens": [
+        "你",
+        "咳嗽",
+        "得",
+        "这么",
+        "厉害",
+        "，",
+        "最好",
+        "去",
+        "医院",
+        "看看",
+        "。"
+      ],
+      "cloze": "你＿＿＿得这么厉害，最好去医院看看。",
+      "answer": "咳嗽",
+      "options": [
+        "咳嗽",
+        "排队",
+        "翻译",
+        "治疗"
+      ],
+      "explanation": "Điền 咳嗽 (ho) theo cách dùng trong câu: Bạn ho nặng như thế, tốt nhất nên đến bệnh viện khám."
+    },
+    {
+      "wordId": "hsk4-L06-02",
+      "tokens": [
+        "他",
+        "一直",
+        "咳",
+        "，",
+        "晚上",
+        "也",
+        "睡",
+        "不好",
+        "。"
+      ],
+      "cloze": "他一直＿＿＿，晚上也睡不好。",
+      "answer": "咳",
+      "options": [
+        "咳",
+        "陪",
+        "降",
+        "醒"
+      ],
+      "explanation": "Điền 咳 (ho) theo cách dùng trong câu: Anh ấy ho suốt, buổi tối cũng ngủ không ngon."
+    },
+    {
+      "wordId": "hsk4-L06-03",
+      "tokens": [
+        "你",
+        "咳嗽",
+        "得",
+        "这么",
+        "厉害",
+        "，",
+        "最好",
+        "去",
+        "医院",
+        "看看",
+        "。"
+      ],
+      "cloze": "你咳嗽得这么＿＿＿，最好去医院看看。",
+      "answer": "厉害",
+      "options": [
+        "厉害",
+        "有效",
+        "低",
+        "按时"
+      ],
+      "explanation": "Điền 厉害 (dữ dội; nghiêm trọng) theo cách dùng trong câu: Bạn ho nặng như thế, tốt nhất nên đến bệnh viện khám."
+    },
+    {
+      "wordId": "hsk4-L06-04",
+      "tokens": [
+        "他",
+        "的",
+        "病",
+        "很",
+        "严重",
+        "，",
+        "需要",
+        "马上",
+        "住院",
+        "。"
+      ],
+      "cloze": "他的病很＿＿＿，需要马上住院。",
+      "answer": "严重",
+      "options": [
+        "严重",
+        "低",
+        "有效",
+        "按时"
+      ],
+      "explanation": "Điền 严重 (nghiêm trọng) theo cách dùng trong câu: Bệnh của anh ấy rất nghiêm trọng, cần nhập viện ngay."
+    },
+    {
+      "wordId": "hsk4-L06-05",
+      "tokens": [
+        "时间",
+        "不早了",
+        "，",
+        "你",
+        "赶快",
+        "回家吧",
+        "。"
+      ],
+      "cloze": "时间不早了，你＿＿＿回家吧。",
+      "answer": "赶快",
+      "options": [
+        "赶快",
+        "地址",
+        "体温",
+        "国籍"
+      ],
+      "explanation": "Điền 赶快 (nhanh lên) theo cách dùng trong câu: Muộn rồi, bạn mau về nhà đi."
+    },
+    {
+      "wordId": "hsk4-L06-06",
+      "tokens": [
+        "谢谢",
+        "你",
+        "今天",
+        "陪",
+        "我",
+        "去",
+        "买药",
+        "。"
+      ],
+      "cloze": "谢谢你今天＿＿＿我去买药。",
+      "answer": "陪",
+      "options": [
+        "陪",
+        "挂号",
+        "治疗",
+        "翻译"
+      ],
+      "explanation": "Điền 陪 (đi cùng) theo cách dùng trong câu: Cảm ơn bạn hôm nay đã đi cùng tôi mua thuốc."
+    },
+    {
+      "wordId": "hsk4-L06-07",
+      "tokens": [
+        "我",
+        "在",
+        "学习",
+        "中文",
+        "，",
+        "常常",
+        "需要",
+        "翻译",
+        "一些",
+        "生词",
+        "。"
+      ],
+      "cloze": "我在学习中文，常常需要＿＿＿一些生词。",
+      "answer": "翻译",
+      "options": [
+        "翻译",
+        "挂号",
+        "排队",
+        "打针"
+      ],
+      "explanation": "Điền 翻译 (phiên dịch; dịch thuật) theo cách dùng trong câu: Tôi đang học tiếng Trung nên thường phải dịch một số từ mới."
+    },
+    {
+      "wordId": "hsk4-L06-08",
+      "tokens": [
+        "护士",
+        "每天",
+        "都",
+        "很",
+        "忙",
+        "，",
+        "要",
+        "照顾",
+        "很多",
+        "病人",
+        "。"
+      ],
+      "cloze": "＿＿＿每天都很忙，要照顾很多病人。",
+      "answer": "护士",
+      "options": [
+        "护士",
+        "地址",
+        "体温",
+        "结果"
+      ],
+      "explanation": "Điền 护士 (y tá) theo cách dùng trong câu: Y tá ngày nào cũng rất bận, phải chăm sóc nhiều bệnh nhân."
+    },
+    {
+      "wordId": "hsk4-L06-09",
+      "tokens": [
+        "护士",
+        "让",
+        "我",
+        "在",
+        "这张",
+        "表里",
+        "写",
+        "上",
+        "我",
+        "的",
+        "信息",
+        "。"
+      ],
+      "cloze": "护士让我在这张＿＿＿里写上我的信息。",
+      "answer": "表",
+      "options": [
+        "表",
+        "身",
+        "性",
+        "步"
+      ],
+      "explanation": "Điền 表 (bảng; biểu mẫu) theo cách dùng trong câu: Y tá bảo tôi ghi thông tin vào mẫu đơn này."
+    },
+    {
+      "wordId": "hsk4-L06-10",
+      "tokens": [
+        "请",
+        "在",
+        "这张",
+        "表里",
+        "写",
+        "上",
+        "你",
+        "的",
+        "姓名",
+        "和",
+        "性别",
+        "。"
+      ],
+      "cloze": "请在这张表里写上你的姓名和＿＿＿。",
+      "answer": "性别",
+      "options": [
+        "性别",
+        "国籍",
+        "体温",
+        "结果"
+      ],
+      "explanation": "Điền 性别 (giới tính) theo cách dùng trong câu: Hãy ghi tên và giới tính của bạn vào mẫu đơn này."
+    },
+    {
+      "wordId": "hsk4-L06-11",
+      "tokens": [
+        "请",
+        "告诉",
+        "我",
+        "你",
+        "的",
+        "国籍",
+        "和",
+        "出生年月",
+        "。"
+      ],
+      "cloze": "请告诉我你的＿＿＿和出生年月。",
+      "answer": "国籍",
+      "options": [
+        "国籍",
+        "体温",
+        "地址",
+        "结果"
+      ],
+      "explanation": "Điền 国籍 (quốc tịch) theo cách dùng trong câu: Xin cho biết quốc tịch và tháng năm sinh của bạn."
+    },
+    {
+      "wordId": "hsk4-L06-12",
+      "tokens": [
+        "她",
+        "现在",
+        "的",
+        "情况",
+        "和",
+        "她",
+        "的",
+        "家庭",
+        "有",
+        "关系",
+        "。"
+      ],
+      "cloze": "她现在的情况和她的＿＿＿有关系。",
+      "answer": "家庭",
+      "options": [
+        "家庭",
+        "体温",
+        "护士",
+        "地址"
+      ],
+      "explanation": "Điền 家庭 (gia đình) theo cách dùng trong câu: Tình hình hiện tại của cô ấy có liên quan đến gia đình."
+    },
+    {
+      "wordId": "hsk4-L06-13",
+      "tokens": [
+        "请",
+        "把",
+        "你",
+        "的",
+        "地址",
+        "写",
+        "清楚",
+        "。"
+      ],
+      "cloze": "请把你的＿＿＿写清楚。",
+      "answer": "地址",
+      "options": [
+        "地址",
+        "结果",
+        "体温",
+        "汗"
+      ],
+      "explanation": "Điền 地址 (địa chỉ) theo cách dùng trong câu: Hãy viết rõ địa chỉ của bạn."
+    },
+    {
+      "wordId": "hsk4-L06-14",
+      "tokens": [
+        "我",
+        "的",
+        "耳朵",
+        "疼",
+        "，",
+        "请问",
+        "挂号",
+        "时",
+        "我",
+        "应该",
+        "挂",
+        "什么",
+        "号",
+        "？"
+      ],
+      "cloze": "我的耳朵疼，请问＿＿＿时我应该挂什么号？",
+      "answer": "挂号",
+      "options": [
+        "挂号",
+        "打针",
+        "翻译",
+        "治疗"
+      ],
+      "explanation": "Điền 挂号 (đăng ký khám bệnh) theo cách dùng trong câu: Tai tôi đau, xin hỏi khi đăng ký khám tôi nên đăng ký khoa nào?"
+    },
+    {
+      "wordId": "hsk4-L06-15",
+      "tokens": [
+        "你",
+        "站",
+        "到",
+        "后面",
+        "去",
+        "，",
+        "大家",
+        "都",
+        "在",
+        "排队",
+        "呢",
+        "。"
+      ],
+      "cloze": "你站到后面去，大家都在＿＿＿呢。",
+      "answer": "排队",
+      "options": [
+        "排队",
+        "挂号",
+        "翻译",
+        "醒"
+      ],
+      "explanation": "Điền 排队 (xếp hàng) theo cách dùng trong câu: Bạn ra phía sau đứng đi, mọi người đều đang xếp hàng."
+    },
+    {
+      "wordId": "hsk4-L06-16",
+      "tokens": [
+        "医院",
+        "大厅",
+        "里",
+        "有",
+        "很多",
+        "人",
+        "在",
+        "排队",
+        "。"
+      ],
+      "cloze": "医院＿＿＿里有很多人在排队。",
+      "answer": "大厅",
+      "options": [
+        "大厅",
+        "体温",
+        "结果",
+        "汗"
+      ],
+      "explanation": "Điền 大厅 (sảnh lớn) theo cách dùng trong câu: Rất nhiều người đang xếp hàng trong sảnh bệnh viện."
+    },
+    {
+      "wordId": "hsk4-L06-17",
+      "tokens": [
+        "我",
+        "平时",
+        "不",
+        "喝咖啡",
+        "，",
+        "偶尔",
+        "喝一杯",
+        "茶",
+        "。"
+      ],
+      "cloze": "我平时不喝咖啡，＿＿＿喝一杯茶。",
+      "answer": "偶尔",
+      "options": [
+        "偶尔",
+        "体温",
+        "地址",
+        "国籍"
+      ],
+      "explanation": "Điền 偶尔 (thỉnh thoảng) theo cách dùng trong câu: Bình thường tôi không uống cà phê, thỉnh thoảng uống một tách trà."
+    },
+    {
+      "wordId": "hsk4-L06-18",
+      "tokens": [
+        "我",
+        "跑",
+        "完步",
+        "以后",
+        "出",
+        "了",
+        "一身",
+        "汗",
+        "。"
+      ],
+      "cloze": "我跑完步以后出了一＿＿＿汗。",
+      "answer": "身",
+      "options": [
+        "身",
+        "部",
+        "步",
+        "表"
+      ],
+      "explanation": "Điền 身 (thân; cơ thể) theo cách dùng trong câu: Sau khi chạy bộ, tôi toát mồ hôi khắp người."
+    },
+    {
+      "wordId": "hsk4-L06-19",
+      "tokens": [
+        "你",
+        "的",
+        "检查",
+        "结果",
+        "应该",
+        "出来",
+        "了",
+        "吧",
+        "？"
+      ],
+      "cloze": "你的检查＿＿＿应该出来了吧？",
+      "answer": "结果",
+      "options": [
+        "结果",
+        "地址",
+        "体温",
+        "国籍"
+      ],
+      "explanation": "Điền 结果 (kết quả; hóa ra) theo cách dùng trong câu: Kết quả kiểm tra của bạn chắc đã có rồi nhỉ?"
+    },
+    {
+      "wordId": "hsk4-L06-20",
+      "tokens": [
+        "这辆",
+        "电动车",
+        "的",
+        "安全性",
+        "很",
+        "好",
+        "。"
+      ],
+      "cloze": "这辆电动车的安全＿＿＿很好。",
+      "answer": "性",
+      "options": [
+        "性",
+        "部",
+        "步",
+        "身"
+      ],
+      "explanation": "Điền 性 (tính chất) theo cách dùng trong câu: Chiếc xe điện này có độ an toàn rất tốt."
+    },
+    {
+      "wordId": "hsk4-L06-21",
+      "tokens": [
+        "我",
+        "今天",
+        "有点儿",
+        "不",
+        "舒服",
+        "，",
+        "体温",
+        "比",
+        "平时",
+        "高",
+        "。"
+      ],
+      "cloze": "我今天有点儿不舒服，＿＿＿比平时高。",
+      "answer": "体温",
+      "options": [
+        "体温",
+        "地址",
+        "国籍",
+        "护士"
+      ],
+      "explanation": "Điền 体温 (thân nhiệt) theo cách dùng trong câu: Hôm nay tôi hơi khó chịu, thân nhiệt cao hơn bình thường."
+    },
+    {
+      "wordId": "hsk4-L06-22",
+      "tokens": [
+        "这个",
+        "手机",
+        "的",
+        "价格",
+        "降",
+        "了",
+        "不少",
+        "。"
+      ],
+      "cloze": "这个手机的价格＿＿＿了不少。",
+      "answer": "降",
+      "options": [
+        "降",
+        "陪",
+        "通",
+        "醒"
+      ],
+      "explanation": "Điền 降 (giảm xuống) theo cách dùng trong câu: Giá chiếc điện thoại này đã giảm khá nhiều."
+    },
+    {
+      "wordId": "hsk4-L06-23",
+      "tokens": [
+        "他光",
+        "说话",
+        "了",
+        "，",
+        "都",
+        "没",
+        "怎么",
+        "吃饭",
+        "。"
+      ],
+      "cloze": "他＿＿＿说话了，都没怎么吃饭。",
+      "answer": "光",
+      "options": [
+        "光",
+        "地址",
+        "体温",
+        "国籍"
+      ],
+      "explanation": "Điền 光 (chỉ; đơn thuần) theo cách dùng trong câu: Anh ấy chỉ mải nói chuyện, gần như chẳng ăn gì."
+    },
+    {
+      "wordId": "hsk4-L06-24",
+      "tokens": [
+        "护士",
+        "给",
+        "我",
+        "打针",
+        "的",
+        "时候",
+        "，",
+        "我",
+        "都",
+        "不敢",
+        "看",
+        "。"
+      ],
+      "cloze": "护士给我＿＿＿的时候，我都不敢看。",
+      "answer": "打针",
+      "options": [
+        "打针",
+        "挂号",
+        "排队",
+        "翻译"
+      ],
+      "explanation": "Điền 打针 (tiêm) theo cách dùng trong câu: Khi y tá tiêm cho tôi, tôi không dám nhìn."
+    },
+    {
+      "wordId": "hsk4-L06-25",
+      "tokens": [
+        "这种",
+        "药对",
+        "大多数",
+        "病人",
+        "是",
+        "有效",
+        "的",
+        "。"
+      ],
+      "cloze": "这种药对大多数病人是＿＿＿的。",
+      "answer": "有效",
+      "options": [
+        "有效",
+        "低",
+        "按时",
+        "偶尔"
+      ],
+      "explanation": "Điền 有效 (có hiệu quả) theo cách dùng trong câu: Loại thuốc này có hiệu quả với đa số bệnh nhân."
+    },
+    {
+      "wordId": "hsk4-L06-26",
+      "tokens": [
+        "他",
+        "工作",
+        "很",
+        "忙",
+        "，",
+        "但",
+        "总能",
+        "按时",
+        "完成",
+        "。"
+      ],
+      "cloze": "他工作很忙，但总能＿＿＿完成。",
+      "answer": "按时",
+      "options": [
+        "按时",
+        "地址",
+        "体温",
+        "国籍"
+      ],
+      "explanation": "Điền 按时 (đúng giờ) theo cách dùng trong câu: Anh ấy rất bận việc nhưng luôn hoàn thành đúng giờ."
+    },
+    {
+      "wordId": "hsk4-L06-27",
+      "tokens": [
+        "我",
+        "跑",
+        "完步",
+        "以后",
+        "出",
+        "了",
+        "一身",
+        "汗",
+        "。"
+      ],
+      "cloze": "我跑完步以后出了一身＿＿＿。",
+      "answer": "汗",
+      "options": [
+        "汗",
+        "表",
+        "地址",
+        "国籍"
+      ],
+      "explanation": "Điền 汗 (mồ hôi) theo cách dùng trong câu: Sau khi chạy bộ, tôi toát mồ hôi khắp người."
+    },
+    {
+      "wordId": "hsk4-L06-28",
+      "tokens": [
+        "我",
+        "每天",
+        "早上",
+        "七点",
+        "醒来",
+        "。"
+      ],
+      "cloze": "我每天早上七点＿＿＿来。",
+      "answer": "醒",
+      "options": [
+        "醒",
+        "陪",
+        "通",
+        "降"
+      ],
+      "explanation": "Điền 醒 (tỉnh dậy) theo cách dùng trong câu: Mỗi sáng tôi thức dậy lúc bảy giờ."
+    },
+    {
+      "wordId": "hsk4-L06-29",
+      "tokens": [
+        "听",
+        "完",
+        "他",
+        "的话",
+        "，",
+        "我",
+        "心里",
+        "感觉",
+        "不太",
+        "舒服",
+        "。"
+      ],
+      "cloze": "听完他的话，我心里＿＿＿不太舒服。",
+      "answer": "感觉",
+      "options": [
+        "感觉",
+        "挂号",
+        "排队",
+        "收费"
+      ],
+      "explanation": "Điền 感觉 (cảm thấy; cảm giác) theo cách dùng trong câu: Nghe xong lời anh ấy, trong lòng tôi thấy không thoải mái."
+    },
+    {
+      "wordId": "hsk4-L06-30",
+      "tokens": [
+        "他",
+        "说话",
+        "的",
+        "声音",
+        "很",
+        "低",
+        "，",
+        "我",
+        "听",
+        "不",
+        "清楚",
+        "。"
+      ],
+      "cloze": "他说话的声音很＿＿＿，我听不清楚。",
+      "answer": "低",
+      "options": [
+        "低",
+        "有效",
+        "按时",
+        "偶尔"
+      ],
+      "explanation": "Điền 低 (thấp) theo cách dùng trong câu: Anh ấy nói rất nhỏ, tôi nghe không rõ."
+    },
+    {
+      "wordId": "hsk4-L06-31",
+      "tokens": [
+        "听到",
+        "这个",
+        "消息",
+        "，",
+        "他",
+        "心里",
+        "很",
+        "难受",
+        "。"
+      ],
+      "cloze": "听到这个消息，他心里很＿＿＿。",
+      "answer": "难受",
+      "options": [
+        "难受",
+        "按时",
+        "低",
+        "有效"
+      ],
+      "explanation": "Điền 难受 (khó chịu) theo cách dùng trong câu: Nghe tin này, trong lòng anh ấy rất buồn."
+    },
+    {
+      "wordId": "hsk4-L06-32",
+      "tokens": [
+        "她",
+        "通",
+        "三种",
+        "语言",
+        "呢",
+        "。"
+      ],
+      "cloze": "她＿＿＿三种语言呢。",
+      "answer": "通",
+      "options": [
+        "通",
+        "降",
+        "陪",
+        "醒"
+      ],
+      "explanation": "Điền 通 (thông; hiểu) theo cách dùng trong câu: Cô ấy thông thạo ba ngôn ngữ đấy."
+    },
+    {
+      "wordId": "hsk4-L06-33",
+      "tokens": [
+        "学习",
+        "中文",
+        "的",
+        "过程",
+        "很",
+        "有意思",
+        "。"
+      ],
+      "cloze": "学习中文的＿＿＿很有意思。",
+      "answer": "过程",
+      "options": [
+        "过程",
+        "地址",
+        "体温",
+        "护士"
+      ],
+      "explanation": "Điền 过程 (quá trình) theo cách dùng trong câu: Quá trình học tiếng Trung rất thú vị."
+    },
+    {
+      "wordId": "hsk4-L06-34",
+      "tokens": [
+        "我们",
+        "公司",
+        "一共",
+        "有",
+        "五个",
+        "部",
+        "。"
+      ],
+      "cloze": "我们公司一共有五个＿＿＿。",
+      "answer": "部",
+      "options": [
+        "部",
+        "步",
+        "身",
+        "表"
+      ],
+      "explanation": "Điền 部 (bộ; phòng ban) theo cách dùng trong câu: Công ty chúng tôi có tổng cộng năm bộ phận."
+    },
+    {
+      "wordId": "hsk4-L06-35",
+      "tokens": [
+        "公园",
+        "里",
+        "停车",
+        "是",
+        "收费",
+        "的",
+        "，",
+        "一",
+        "小时",
+        "五块",
+        "钱",
+        "。"
+      ],
+      "cloze": "公园里停车是＿＿＿的，一小时五块钱。",
+      "answer": "收费",
+      "options": [
+        "收费",
+        "治疗",
+        "翻译",
+        "打针"
+      ],
+      "explanation": "Điền 收费 (thu phí) theo cách dùng trong câu: Đỗ xe trong công viên này có thu phí, năm tệ một giờ."
+    },
+    {
+      "wordId": "hsk4-L06-36",
+      "tokens": [
+        "如果",
+        "发生",
+        "什么",
+        "情况",
+        "，",
+        "你",
+        "要",
+        "第一",
+        "时间",
+        "告诉",
+        "我",
+        "。"
+      ],
+      "cloze": "如果发生什么＿＿＿，你要第一时间告诉我。",
+      "answer": "情况",
+      "options": [
+        "情况",
+        "体温",
+        "地址",
+        "国籍"
+      ],
+      "explanation": "Điền 情况 (tình huống; tình trạng) theo cách dùng trong câu: Nếu có tình huống gì xảy ra, bạn phải báo cho tôi ngay."
+    },
+    {
+      "wordId": "hsk4-L06-37",
+      "tokens": [
+        "你",
+        "要",
+        "早点儿",
+        "告诉",
+        "我",
+        "，",
+        "我",
+        "好",
+        "准备",
+        "。"
+      ],
+      "cloze": "你要早点儿告诉我，我＿＿＿准备。",
+      "answer": "好",
+      "options": [
+        "好",
+        "低",
+        "身",
+        "部"
+      ],
+      "explanation": "Điền 好 (để; nhằm) theo cách dùng trong câu: Bạn nên báo cho tôi sớm hơn để tôi còn chuẩn bị."
+    },
+    {
+      "wordId": "hsk4-L06-38",
+      "tokens": [
+        "这种",
+        "病",
+        "的",
+        "治疗",
+        "时间",
+        "很长",
+        "。"
+      ],
+      "cloze": "这种病的＿＿＿时间很长。",
+      "answer": "治疗",
+      "options": [
+        "治疗",
+        "地址",
+        "体温",
+        "国籍"
+      ],
+      "explanation": "Điền 治疗 (điều trị) theo cách dùng trong câu: Thời gian điều trị bệnh này rất dài."
+    },
+    {
+      "wordId": "hsk4-L06-39",
+      "tokens": [
+        "别着急",
+        "，",
+        "咱们",
+        "一步",
+        "一步",
+        "慢慢来",
+        "。"
+      ],
+      "cloze": "别着急，咱们一＿＿＿一步慢慢来。",
+      "answer": "步",
+      "options": [
+        "步",
+        "部",
+        "表",
+        "性"
+      ],
+      "explanation": "Điền 步 (bước) theo cách dùng trong câu: Đừng vội, chúng ta cứ làm từng bước một."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "hsk4-L06-G01-Q01",
+      "pointId": "hsk4-L06-G01",
+      "question": "你咳嗽＿＿＿这么厉害，最好去医院看看。",
+      "options": [
+        "得",
+        "的",
+        "地",
+        "着"
+      ],
+      "answer": "得",
+      "sentence": "你咳嗽得这么厉害，最好去医院看看。",
+      "pinyin": "nǐ késou de zhème lìhai, zuìhǎo qù yīyuàn kànkan.",
+      "translation": "Bạn ho nặng như vậy, tốt nhất nên đến bệnh viện khám.",
+      "explanation": "Biểu đạt mức độ mạnh hoặc nghiêm trọng."
+    },
+    {
+      "id": "hsk4-L06-G02-Q01",
+      "pointId": "hsk4-L06-G02",
+      "question": "这＿＿＿什么好担心的。",
+      "options": [
+        "没",
+        "把",
+        "被",
+        "从"
+      ],
+      "answer": "没",
+      "sentence": "这没什么好担心的。",
+      "pinyin": "zhè méi shén me hǎo dān xīn de.",
+      "translation": "Chuyện này không có gì đáng lo.",
+      "explanation": "Nêu điều không cần thiết hoặc không đáng phải làm."
+    },
+    {
+      "id": "hsk4-L06-G03-Q01",
+      "pointId": "hsk4-L06-G03",
+      "question": "我平时不喝咖啡，＿＿＿喝一杯茶。",
+      "options": [
+        "偶尔",
+        "光",
+        "低",
+        "有效"
+      ],
+      "answer": "偶尔",
+      "sentence": "我平时不喝咖啡，偶尔喝一杯茶。",
+      "pinyin": "wǒ píng shí bù hē kā fēi， ǒu ěr hē yī bēichá.",
+      "translation": "Bình thường tôi không uống cà phê, thỉnh thoảng uống một tách trà.",
+      "explanation": "Thỉnh thoảng, một hành động xảy ra với tần suất thấp."
+    },
+    {
+      "id": "hsk4-L06-G04-Q01",
+      "pointId": "hsk4-L06-G04",
+      "question": "你要早点儿告诉我，我＿＿＿准备。",
+      "options": [
+        "好",
+        "的",
+        "得",
+        "被"
+      ],
+      "answer": "好",
+      "sentence": "你要早点儿告诉我，我好准备。",
+      "pinyin": "nǐ yào zǎodiǎnér gào sù wǒ， wǒ hǎo zhǔn bèi.",
+      "translation": "Bạn nên báo sớm để tôi còn chuẩn bị.",
+      "explanation": "Hành động ở vế sau là mục đích của vế trước."
+    }
+  ],
+  "readings": [
+    {
+      "id": "hsk4-L06-R01",
+      "lesson": 6,
+      "title": "Đi khám cùng bạn",
+      "text": "昨天晚上，室友一直咳嗽，体温也比平时高。我劝他赶快去医院，他担心自己中文不好，不知道怎么挂号。我说可以陪他去，需要时帮他翻译。到了医院，护士先让他填写一张表，写清楚姓名、性别、国籍和地址。接着，我们在大厅排队，按照顺序去看医生。检查结果出来后，医生说情况不严重，按时吃药、好好休息就可以。回家路上，室友说，原来把不舒服的情况说清楚，比一个人担心更有用，也感谢我一直陪着他。",
+      "pinyin": "zuó tiān wǎn shàng ， shì yǒu yì zhí ké sòu ， tǐ wēn yě bǐ píng shí gāo 。 wǒ quàn tā gǎn kuài qù yī yuàn ， tā dān xīn zì jǐ zhōng wén bù hǎo ， bù zhī dào zěn me guà hào 。 wǒ shuō kě yǐ péi tā qù ， xū yào shí bāng tā fān yì 。 dào le yī yuàn ， hù shì xiān ràng tā tián xiě yī zhāng biǎo ， xiě qīng chǔ xìng míng 、 xìng bié 、 guó jí hé dì zhǐ 。 jiē zhe ， wǒ men zài dà tīng pái duì ， àn zhào shùn xù qù kàn yī shēng 。 jiǎn chá jié guǒ chū lái hòu ， yī shēng shuō qíng kuàng bù yán zhòng ， àn shí chī yào 、 hǎo hǎo xiū xī jiù kě yǐ 。 huí jiā lù shàng ， shì yǒu shuō ， yuán lái bǎ bù shū fú de qíng kuàng shuō qīng chǔ ， bǐ yí gè rén dān xīn gèng yǒu yòng ， yě gǎn xiè wǒ yì zhí péi zhe tā 。",
+      "translation": "Bạn cùng phòng ho và sốt, lo tiếng Trung kém nên không biết đăng ký khám. Tôi đi cùng, giúp phiên dịch. Y tá cho điền tên, giới tính, quốc tịch, địa chỉ; rồi xếp hàng khám. Bác sĩ nói không nghiêm trọng, uống thuốc đúng giờ và nghỉ ngơi. Bạn thấy trình bày rõ tình trạng hữu ích hơn lo một mình, và cảm ơn tôi đã đi cùng.",
+      "questions": [
+        {
+          "id": "hsk4-L06-R01-Q01",
+          "kind": "Nội dung",
+          "question": "室友有什么不舒服？",
+          "options": [
+            "咳嗽并且体温偏高",
+            "只有脚疼",
+            "手指受伤",
+            "完全没有症状"
+          ],
+          "answer": "咳嗽并且体温偏高",
+          "explanation": "Theo đoạn: “一直咳嗽，体温也比平时高”. Đáp án phù hợp: “咳嗽并且体温偏高”."
+        },
+        {
+          "id": "hsk4-L06-R01-Q02",
+          "kind": "Nội dung",
+          "question": "护士先让他做什么？",
+          "options": [
+            "填写个人信息表",
+            "马上回家",
+            "先去打针",
+            "购买新的手机"
+          ],
+          "answer": "填写个人信息表",
+          "explanation": "Theo đoạn: “先让他填写一张表”. Đáp án phù hợp: “填写个人信息表”."
+        },
+        {
+          "id": "hsk4-L06-R01-Q03",
+          "kind": "Nội dung",
+          "question": "医生认为情况怎么样？",
+          "options": [
+            "不严重",
+            "必须马上做手术",
+            "永远不能工作",
+            "文章没有提到检查结果"
+          ],
+          "answer": "不严重",
+          "explanation": "Theo đoạn: “情况不严重”. Đáp án phù hợp: “不严重”."
+        },
+        {
+          "id": "hsk4-L06-R01-Q04",
+          "kind": "Ý chính",
+          "question": "这篇文章主要讲什么？",
+          "options": [
+            "陪室友去医院就诊的经过",
+            "怎样申请护士工作",
+            "家庭住址改变的原因",
+            "如何在大厅买食物"
+          ],
+          "answer": "陪室友去医院就诊的经过",
+          "explanation": "Theo đoạn: “可以陪他去，需要时帮他翻译”. Đáp án phù hợp: “陪室友去医院就诊的经过”."
+        },
+        {
+          "id": "hsk4-L06-R01-Q05",
+          "kind": "Suy luận",
+          "question": "室友为什么感谢作者？",
+          "options": [
+            "作者陪伴并帮助交流",
+            "作者替医生作了诊断",
+            "作者保证所有治疗免费",
+            "作者取消了检查"
+          ],
+          "answer": "作者陪伴并帮助交流",
+          "explanation": "Theo đoạn: “也感谢我一直陪着他”. Đáp án phù hợp: “作者陪伴并帮助交流”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L06-R02",
+      "lesson": 6,
+      "title": "Điền rõ thông tin trước khi khám",
+      "text": "小张第一次去医院挂号，拿到表以后只写了姓名，就准备交给护士。护士提醒他，地址、国籍等信息也需要写清楚，便于之后联系。他不明白一个问题，就请旁边的工作人员再解释一下，而不是随便填写。交表以后，他到大厅按顺序排队，没有站到别人前面。整个过程比他原来想的顺利。回家后，小张把挂号的步骤记了下来，准备下次自己完成。他觉得，不懂就问并不丢人，慢慢把每一步做好，反而能够减少很多不必要的麻烦。",
+      "pinyin": "xiǎo zhāng dì yī cì qù yī yuàn guà hào ， ná dào biǎo yǐ hòu zhǐ xiě le xìng míng ， jiù zhǔn bèi jiāo gěi hù shì 。 hù shì tí xǐng tā ， dì zhǐ 、 guó jí děng xìn xī yě xū yào xiě qīng chǔ ， biàn yú zhī hòu lián xì 。 tā bù míng bái yí gè wèn tí ， jiù qǐng páng biān de gōng zuò rén yuán zài jiě shì yī xià ， ér bú shì suí biàn tián xiě 。 jiāo biǎo yǐ hòu ， tā dào dà tīng àn shùn xù pái duì ， méi yǒu zhàn dào bié rén qián miàn 。 zhěng gè guò chéng bǐ tā yuán lái xiǎng de shùn lì 。 huí jiā hòu ， xiǎo zhāng bǎ guà hào de bù zhòu jì le xià lái ， zhǔn bèi xià cì zì jǐ wán chéng 。 tā jué de ， bù dǒng jiù wèn bìng bù diū rén ， màn màn bǎ měi yī bù zuò hǎo ， fǎn ér néng gòu jiǎn shǎo hěn duō bù bì yào de má fán 。",
+      "translation": "Lần đầu đăng ký khám, Tiểu Trương chỉ viết tên. Y tá nhắc thêm địa chỉ, quốc tịch để tiện liên hệ. Không hiểu thì anh hỏi nhân viên, không điền tùy tiện. Anh xếp hàng đúng lượt. Quá trình thuận lợi hơn tưởng tượng. Về nhà, anh ghi các bước để lần sau tự làm và thấy hỏi khi không hiểu sẽ giảm phiền phức.",
+      "questions": [
+        {
+          "id": "hsk4-L06-R02-Q01",
+          "kind": "Nội dung",
+          "question": "小张一开始只填写了什么？",
+          "options": [
+            "姓名",
+            "地址",
+            "国籍",
+            "所有项目"
+          ],
+          "answer": "姓名",
+          "explanation": "Theo đoạn: “只写了姓名”. Đáp án phù hợp: “姓名”."
+        },
+        {
+          "id": "hsk4-L06-R02-Q02",
+          "kind": "Nội dung",
+          "question": "护士为什么要求信息写清楚？",
+          "options": [
+            "便于之后联系",
+            "为了改变挂号价格",
+            "因为医院要寄礼物",
+            "为了让他重新排队"
+          ],
+          "answer": "便于之后联系",
+          "explanation": "Theo đoạn: “便于之后联系”. Đáp án phù hợp: “便于之后联系”."
+        },
+        {
+          "id": "hsk4-L06-R02-Q03",
+          "kind": "Nội dung",
+          "question": "遇到不明白的问题，小张怎么做？",
+          "options": [
+            "请工作人员解释",
+            "随便写一个答案",
+            "马上离开医院",
+            "站到队伍最前面"
+          ],
+          "answer": "请工作人员解释",
+          "explanation": "Theo đoạn: “请旁边的工作人员再解释一下”. Đáp án phù hợp: “请工作人员解释”."
+        },
+        {
+          "id": "hsk4-L06-R02-Q04",
+          "kind": "Ý chính",
+          "question": "文章主要谈什么？",
+          "options": [
+            "认真完成挂号过程",
+            "治疗咳嗽的具体方法",
+            "医院里如何提高工资",
+            "学习翻译的困难"
+          ],
+          "answer": "认真完成挂号过程",
+          "explanation": "Theo đoạn: “慢慢把每一步做好”. Đáp án phù hợp: “认真完成挂号过程”."
+        },
+        {
+          "id": "hsk4-L06-R02-Q05",
+          "kind": "Suy luận",
+          "question": "小张记录步骤的目的是什么？",
+          "options": [
+            "下次能够自己完成",
+            "把表卖给别人",
+            "替护士决定治疗",
+            "证明不用填写地址"
+          ],
+          "answer": "下次能够自己完成",
+          "explanation": "Theo đoạn: “准备下次自己完成”. Đáp án phù hợp: “下次能够自己完成”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L06-R03",
+      "lesson": 6,
+      "title": "Nhớ uống thuốc đúng giờ",
+      "text": "爸爸最近咳嗽得厉害，去医院检查后，医生让他按时吃药，并且早点儿休息。爸爸工作忙，有时只想着把任务完成，结果忘了吃药。妈妈在手机上设置提醒，还把吃药时间写在纸上，放在他每天都能看到的地方。过了几天，爸爸的情况好了不少，晚上也能睡得安稳了。他原来以为只要打针就会马上好，后来才明白，治疗是一个过程，不能光靠一次检查。现在，他偶尔工作到很晚，也会及时休息，不再让家人总是担心。",
+      "pinyin": "bà bà zuì jìn ké sòu dé lì hài ， qù yī yuàn jiǎn chá hòu ， yī shēng ràng tā àn shí chī yào ， bìng qiě zǎo diǎn ér xiū xī 。 bà bà gōng zuò máng ， yǒu shí zhǐ xiǎng zhe bǎ rèn wù wán chéng ， jié guǒ wàng le chī yào 。 mā mā zài shǒu jī shàng shè zhì tí xǐng ， hái bǎ chī yào shí jiān xiě zài zhǐ shàng ， fàng zài tā měi tiān dōu néng kàn dào de dì fāng 。 guò le jǐ tiān ， bà bà de qíng kuàng hǎo le bù shǎo ， wǎn shàng yě néng shuì dé ān wěn le 。 tā yuán lái yǐ wéi zhǐ yào dǎ zhēn jiù huì mǎ shàng hǎo ， hòu lái cái míng bái ， zhì liáo shì yí gè guò chéng ， bù néng guāng kào yī cì jiǎn chá 。 xiàn zài ， tā ǒu ěr gōng zuò dào hěn wǎn ， yě huì jí shí xiū xī ， bù zài ràng jiā rén zǒng shì dān xīn 。",
+      "translation": "Bố ho nặng, bác sĩ dặn uống thuốc đúng giờ và nghỉ sớm. Bận việc khiến bố quên thuốc, mẹ cài nhắc và viết giờ ở nơi dễ thấy. Vài ngày sau bố đỡ, ngủ tốt hơn. Bố từng nghĩ tiêm là khỏi ngay, rồi hiểu điều trị là quá trình. Bố cũng chú ý nghỉ ngơi để gia đình bớt lo.",
+      "questions": [
+        {
+          "id": "hsk4-L06-R03-Q01",
+          "kind": "Nội dung",
+          "question": "医生给爸爸什么建议？",
+          "options": [
+            "按时吃药并早点儿休息",
+            "只喝咖啡",
+            "继续每天熬夜",
+            "不用关注身体"
+          ],
+          "answer": "按时吃药并早点儿休息",
+          "explanation": "Theo đoạn: “按时吃药，并且早点儿休息”. Đáp án phù hợp: “按时吃药并早点儿休息”."
+        },
+        {
+          "id": "hsk4-L06-R03-Q02",
+          "kind": "Nội dung",
+          "question": "爸爸为什么有时忘了吃药？",
+          "options": [
+            "忙着完成工作任务",
+            "不认识药盒上的字",
+            "没有人陪他排队",
+            "医生没有告诉他时间"
+          ],
+          "answer": "忙着完成工作任务",
+          "explanation": "Theo đoạn: “只想着把任务完成”. Đáp án phù hợp: “忙着完成工作任务”."
+        },
+        {
+          "id": "hsk4-L06-R03-Q03",
+          "kind": "Nội dung",
+          "question": "妈妈怎样帮助爸爸？",
+          "options": [
+            "设置提醒并写下吃药时间",
+            "让他不再去医院",
+            "替他取消所有工作",
+            "让他一次吃完所有药"
+          ],
+          "answer": "设置提醒并写下吃药时间",
+          "explanation": "Theo đoạn: “在手机上设置提醒”. Đáp án phù hợp: “设置提醒并写下吃药时间”."
+        },
+        {
+          "id": "hsk4-L06-R03-Q04",
+          "kind": "Ý chính",
+          "question": "文章主要说明什么？",
+          "options": [
+            "治疗需要按要求持续照顾自己",
+            "一次检查就能解决所有问题",
+            "工作忙时不用吃药",
+            "打针是唯一的治疗办法"
+          ],
+          "answer": "治疗需要按要求持续照顾自己",
+          "explanation": "Theo đoạn: “治疗是一个过程”. Đáp án phù hợp: “治疗需要按要求持续照顾自己”."
+        },
+        {
+          "id": "hsk4-L06-R03-Q05",
+          "kind": "Suy luận",
+          "question": "爸爸的认识有什么变化？",
+          "options": [
+            "更重视规律治疗和休息",
+            "认为休息完全没用",
+            "决定不再听医生建议",
+            "觉得家人不应该关心他"
+          ],
+          "answer": "更重视规律治疗和休息",
+          "explanation": "Theo đoạn: “现在，他偶尔工作到很晚，也会及时休息”. Đáp án phù hợp: “更重视规律治疗和休息”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L06-R04",
+      "lesson": 6,
+      "title": "Hỏi rõ chi phí và các bước",
+      "text": "在中国工作的小安有一次身体不舒服，准备去医院。他听朋友说检查可能收费很高，心里有些紧张。到了医院以后，他先问护士应该挂什么号，再向收费处了解检查的价格。工作人员耐心地把过程说明白，还告诉他结果大约什么时候能出来。小安按照步骤完成了检查，发现实际费用在自己能够接受的范围内。他把医生的建议记在手机里，好回家以后认真照做。这次经历让他觉得，与其只听别人说，不如把自己的情况和问题向工作人员说清楚。",
+      "pinyin": "zài zhōng guó gōng zuò de xiǎo ān yǒu yī cì shēn tǐ bù shū fú ， zhǔn bèi qù yī yuàn 。 tā tīng péng yǒu shuō jiǎn chá kě néng shōu fèi hěn gāo ， xīn lǐ yǒu xiē jǐn zhāng 。 dào le yī yuàn yǐ hòu ， tā xiān wèn hù shì yīng gāi guà shén me hào ， zài xiàng shōu fèi chù liǎo jiě jiǎn chá de jià gé 。 gōng zuò rén yuán nài xīn dì bǎ guò chéng shuō míng bái ， hái gào sù tā jié guǒ dà yuē shén me shí hòu néng chū lái 。 xiǎo ān àn zhào bù zhòu wán chéng le jiǎn chá ， fā xiàn shí jì fèi yòng zài zì jǐ néng gòu jiē shòu de fàn wéi nèi 。 tā bǎ yī shēng de jiàn yì jì zài shǒu jī lǐ ， hǎo huí jiā yǐ hòu rèn zhēn zhào zuò 。 zhè cì jīng lì ràng tā jué de ， yǔ qí zhǐ tīng bié rén shuō ， bù rú bǎ zì jǐ de qíng kuàng hé wèn tí xiàng gōng zuò rén yuán shuō qīng chǔ 。",
+      "translation": "Tiểu An lo chi phí khám cao theo lời bạn. Tới viện, anh hỏi y tá khoa đăng ký và quầy thu phí về giá, được giải thích quy trình và thời gian có kết quả. Chi phí thực tế nằm trong khả năng. Anh ghi lời dặn bác sĩ để làm theo, hiểu rằng nên trực tiếp hỏi rõ hoàn cảnh và vấn đề của mình.",
+      "questions": [
+        {
+          "id": "hsk4-L06-R04-Q01",
+          "kind": "Nội dung",
+          "question": "小安开始担心什么？",
+          "options": [
+            "检查费用可能很高",
+            "医院没有大厅",
+            "手机完全不能使用",
+            "护士不让他填写信息"
+          ],
+          "answer": "检查费用可能很高",
+          "explanation": "Theo đoạn: “检查可能收费很高”. Đáp án phù hợp: “检查费用可能很高”."
+        },
+        {
+          "id": "hsk4-L06-R04-Q02",
+          "kind": "Nội dung",
+          "question": "他向收费处了解了什么？",
+          "options": [
+            "检查的价格",
+            "护士的家庭地址",
+            "朋友的国籍",
+            "医院附近的房租"
+          ],
+          "answer": "检查的价格",
+          "explanation": "Theo đoạn: “了解检查的价格”. Đáp án phù hợp: “检查的价格”."
+        },
+        {
+          "id": "hsk4-L06-R04-Q03",
+          "kind": "Nội dung",
+          "question": "他把什么记在手机里？",
+          "options": [
+            "医生的建议",
+            "所有病人的姓名",
+            "别人的支付密码",
+            "朋友的工资"
+          ],
+          "answer": "医生的建议",
+          "explanation": "Theo đoạn: “把医生的建议记在手机里”. Đáp án phù hợp: “医生的建议”."
+        },
+        {
+          "id": "hsk4-L06-R04-Q04",
+          "kind": "Ý chính",
+          "question": "文章主要介绍什么？",
+          "options": [
+            "主动询问就诊流程和费用",
+            "如何成为收费处工作人员",
+            "为什么所有检查都免费",
+            "怎样替朋友进行治疗"
+          ],
+          "answer": "主动询问就诊流程和费用",
+          "explanation": "Theo đoạn: “把自己的情况和问题向工作人员说清楚”. Đáp án phù hợp: “主动询问就诊流程和费用”."
+        },
+        {
+          "id": "hsk4-L06-R04-Q05",
+          "kind": "Suy luận",
+          "question": "小安这次就诊后可能会怎样？",
+          "options": [
+            "遇到不清楚的事情主动询问",
+            "只听别人的说法不再确认",
+            "认为价格永远不重要",
+            "不再按照医生建议休息"
+          ],
+          "answer": "遇到不清楚的事情主动询问",
+          "explanation": "Theo đoạn: “与其只听别人说，不如把自己的情况和问题向工作人员说清楚”. Đáp án phù hợp: “遇到不清楚的事情主动询问”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L06-R05",
+      "lesson": 6,
+      "title": "Thăm hỏi đúng lúc",
+      "text": "朋友小陈病了，几位同学想一起去看他。我先给他发信息，问他什么时候方便，好提前安排。小陈说自己刚吃了药，想睡一会儿，下午再来比较好。我们没有马上出发，而是等他醒了以后才去，还只留下两个人陪他说话。其他同学把准备好的水果放下就回去了。小陈说大家这样考虑他的情况，让他很感动。我觉得，关心一个人不只是多去几次，更重要的是了解对方真正需要什么。让病人好好休息，有时也是很有效的帮助。",
+      "pinyin": "péng yǒu xiǎo chén bìng le ， jǐ wèi tóng xué xiǎng yì qǐ qù kàn tā 。 wǒ xiān gěi tā fā xìn xī ， wèn tā shén me shí hòu fāng biàn ， hǎo tí qián ān pái 。 xiǎo chén shuō zì jǐ gāng chī le yào ， xiǎng shuì yī huì er ， xià wǔ zài lái bǐ jiào hǎo 。 wǒ men méi yǒu mǎ shàng chū fā ， ér shì děng tā xǐng le yǐ hòu cái qù ， hái zhǐ liú xià liǎng gè rén péi tā shuō huà 。 qí tā tóng xué bǎ zhǔn bèi hǎo de shuǐ guǒ fàng xià jiù huí qù le 。 xiǎo chén shuō dà jiā zhè yàng kǎo lǜ tā de qíng kuàng ， ràng tā hěn gǎn dòng 。 wǒ jué de ， guān xīn yí gè rén bù zhǐ shì duō qù jǐ cì ， gèng zhòng yào de shì liǎo jiě duì fāng zhēn zhèng xū yào shén me 。 ràng bìng rén hǎo hǎo xiū xī ， yǒu shí yě shì hěn yǒu xiào de bāng zhù 。",
+      "translation": "Các bạn muốn thăm Tiểu Trần bị ốm. Tôi hỏi thời gian để sắp xếp; bạn vừa uống thuốc muốn ngủ, hẹn chiều. Chúng tôi đợi bạn tỉnh mới đến, chỉ hai người ở lại trò chuyện, người khác để trái cây rồi về. Tiểu Trần cảm động. Tôi thấy quan tâm cần hiểu nhu cầu thật, đôi khi để người bệnh nghỉ ngơi cũng là giúp đỡ.",
+      "questions": [
+        {
+          "id": "hsk4-L06-R05-Q01",
+          "kind": "Nội dung",
+          "question": "作者出发前先做什么？",
+          "options": [
+            "询问朋友什么时候方便",
+            "直接叫所有人去医院",
+            "要求朋友马上起床",
+            "先给朋友安排治疗"
+          ],
+          "answer": "询问朋友什么时候方便",
+          "explanation": "Theo đoạn: “问他什么时候方便”. Đáp án phù hợp: “询问朋友什么时候方便”."
+        },
+        {
+          "id": "hsk4-L06-R05-Q02",
+          "kind": "Nội dung",
+          "question": "小陈为什么希望下午再来？",
+          "options": [
+            "刚吃药想睡一会儿",
+            "上午要去买水果",
+            "不认识这些同学",
+            "下午才能挂号"
+          ],
+          "answer": "刚吃药想睡一会儿",
+          "explanation": "Theo đoạn: “自己刚吃了药，想睡一会儿”. Đáp án phù hợp: “刚吃药想睡一会儿”."
+        },
+        {
+          "id": "hsk4-L06-R05-Q03",
+          "kind": "Nội dung",
+          "question": "最后有几个人留下陪他说话？",
+          "options": [
+            "两个人",
+            "十个人",
+            "所有同学",
+            "没有人"
+          ],
+          "answer": "两个人",
+          "explanation": "Theo đoạn: “只留下两个人陪他说话”. Đáp án phù hợp: “两个人”."
+        },
+        {
+          "id": "hsk4-L06-R05-Q04",
+          "kind": "Ý chính",
+          "question": "文章主要说明什么？",
+          "options": [
+            "关心别人要考虑实际需要",
+            "看望病人一定要人多",
+            "病人不应该休息",
+            "送水果比交流永远更重要"
+          ],
+          "answer": "关心别人要考虑实际需要",
+          "explanation": "Theo đoạn: “了解对方真正需要什么”. Đáp án phù hợp: “关心别人要考虑实际需要”."
+        },
+        {
+          "id": "hsk4-L06-R05-Q05",
+          "kind": "Suy luận",
+          "question": "作者认为哪种做法更合适？",
+          "options": [
+            "尊重病人的休息时间",
+            "随时去打扰对方",
+            "要求对方陪所有人聊天",
+            "只按照自己的时间行动"
+          ],
+          "answer": "尊重病人的休息时间",
+          "explanation": "Theo đoạn: “让病人好好休息，有时也是很有效的帮助”. Đáp án phù hợp: “尊重病人的休息时间”."
+        }
+      ],
+      "sourceType": "supplementary"
+    }
+  ],
+  "writing": {
+    "title": "Một lần đi khám bệnh",
+    "prompt": "Hãy viết khoảng 100–150 chữ Hán về một lần đi khám: tình trạng, đăng ký, trao đổi và làm theo lời dặn của bác sĩ.",
+    "suggestedWords": [
+      "咳嗽",
+      "陪",
+      "挂号",
+      "护士",
+      "按时"
+    ],
+    "suggestedGrammar": [
+      "Động từ + 得 + 厉害",
+      "（没）有什么（好）+ Động từ + 的"
+    ],
+    "outline": [
+      "Giới thiệu triệu chứng và người đi cùng.",
+      "Kể các bước đăng ký và khám.",
+      "Nêu lời dặn bác sĩ và cảm nhận.",
+      "Kiểm tra trật tự từ và các cấu trúc ngữ pháp đã học."
+    ],
+    "sample": "昨天我咳嗽得厉害，朋友陪我去医院。挂号以前，护士让我填写姓名、国籍和地址。我们在大厅排队，接着去看医生。检查结果出来后，医生说情况不严重，让我按时吃药，好好休息。我把建议记在手机上，好回家以后认真照做。朋友说没什么好担心的，有不舒服就及时说明。我很感谢他的帮助，也决定以后更加注意身体。",
+    "samplePinyin": "zuó tiān wǒ ké sòu dé lì hài ， péng yǒu péi wǒ qù yī yuàn 。 guà hào yǐ qián ， hù shì ràng wǒ tián xiě xìng míng 、 guó jí hé dì zhǐ 。 wǒ men zài dà tīng pái duì ， jiē zhe qù kàn yī shēng 。 jiǎn chá jié guǒ chū lái hòu ， yī shēng shuō qíng kuàng bù yán zhòng ， ràng wǒ àn shí chī yào ， hǎo hǎo xiū xī 。 wǒ bǎ jiàn yì jì zài shǒu jī shàng ， hǎo huí jiā yǐ hòu rèn zhēn zhào zuò 。 péng yǒu shuō méi shén me hǎo dān xīn de ， yǒu bù shū fú jiù jí shí shuō míng 。 wǒ hěn gǎn xiè tā de bāng zhù ， yě jué dìng yǐ hòu gèng jiā zhù yì shēn tǐ 。",
+    "translation": "Hôm qua tôi ho nhiều, bạn đi khám cùng. Trước khi đăng ký, y tá bảo điền tên, quốc tịch, địa chỉ. Chúng tôi xếp hàng rồi gặp bác sĩ. Kết quả không nghiêm trọng, cần uống thuốc đúng giờ và nghỉ. Tôi ghi dặn dò để về làm theo. Bạn động viên có khó chịu thì nói kịp thời. Tôi cảm ơn và quyết chú ý sức khỏe hơn."
+  }
+}

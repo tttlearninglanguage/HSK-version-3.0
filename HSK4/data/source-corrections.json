@@ -1,0 +1,356 @@
+{
+  "note": "Hiệu chỉnh các chỗ lệch rõ ràng; bản nguồn được bảo toàn trong upper-source-manifest.json và sourceOriginal/sourcePinyin. Các đoạn đọc và đề viết là nội dung biên soạn bổ sung.",
+  "words": [
+    {
+      "lesson": 2,
+      "wordId": "hsk4-L02-08",
+      "original": {
+        "translation": "Thầy giáo bây giờ có ở văn phòng không?"
+      },
+      "corrected": {
+        "translation": "Nếu không hiểu thì chỉ cần hỏi thầy cô là được."
+      }
+    },
+    {
+      "lesson": 2,
+      "wordId": "hsk4-L02-09",
+      "original": {
+        "examplePinyin": "nǎi nǎi xǐ huān zhǒng cài."
+      },
+      "corrected": {
+        "examplePinyin": "nǎi nai xǐhuan zhòng cài."
+      }
+    },
+    {
+      "lesson": 2,
+      "wordId": "hsk4-L02-05",
+      "original": {
+        "example": "房东打算出租这个房子。",
+        "examplePinyin": "fángdōng dǎ suàn chū zū zhè gè fángzǐ.",
+        "translation": "Chủ nhà dự định cho thuê căn nhà này."
+      },
+      "corrected": {
+        "example": "我想在学校附近租一间房子。",
+        "examplePinyin": "wǒ xiǎng zài xué xiào fù jìn zū yī jiān fáng zi 。",
+        "translation": "Tôi muốn thuê một căn phòng gần trường."
+      }
+    },
+    {
+      "lesson": 3,
+      "wordId": "hsk4-L03-05",
+      "original": {
+        "example": "正好我也要找王老师，咱们一起去吧。",
+        "examplePinyin": "zhèng hǎo wǒ yě yào zhǎowáng lǎo shī， zán men yī qǐ qù ba.",
+        "translation": "Tôi cũng đang muốn tìm thầy Vương, chúng ta cùng đi nhé."
+      },
+      "corrected": {
+        "example": "学校的正门在前面。",
+        "examplePinyin": "xué xiào de zhèng mén zài qián miàn 。",
+        "translation": "Cổng chính của trường ở phía trước."
+      }
+    },
+    {
+      "lesson": 4,
+      "wordId": "hsk4-L04-03",
+      "original": {
+        "example": "我现在要去交作业，你跟我一起去吗？",
+        "examplePinyin": "wǒ xiàn zài yào qù jiāo zuò yè， nǐ gēn wǒ yī qǐ qù ma？",
+        "translation": "Bây giờ tôi đi nộp bài tập, bạn đi cùng không?"
+      },
+      "corrected": {
+        "example": "这里停车每小时收费五块钱。",
+        "examplePinyin": "zhè lǐ tíng chē měi xiǎo shí shōu fèi wǔ kuài qián 。",
+        "translation": "Đỗ xe ở đây thu phí năm tệ mỗi giờ."
+      }
+    },
+    {
+      "lesson": 4,
+      "wordId": "hsk4-L04-11",
+      "original": {
+        "example": "她早上提着包去上班了。",
+        "examplePinyin": "tā zǎoshàng tí zhe bāo qù shàng bānle.",
+        "translation": "Sáng nay cô ấy xách túi đi làm."
+      },
+      "corrected": {
+        "example": "这个袋子很重，请帮我提一下。",
+        "examplePinyin": "zhè ge dài zi hěn zhòng ， qǐng bāng wǒ tí yī xià 。",
+        "translation": "Chiếc túi này rất nặng, hãy giúp tôi xách một chút."
+      }
+    },
+    {
+      "lesson": 4,
+      "wordId": "hsk4-L04-21",
+      "original": {
+        "example": "最近天气不好，可能会影响出行。",
+        "examplePinyin": "zuì jìn tiān qì bù hǎo， kě néng huì yǐng xiǎng chū xíng.",
+        "translation": "Gần đây thời tiết xấu, có thể ảnh hưởng việc đi lại."
+      },
+      "corrected": {
+        "example": "坐地铁既省钱，又方便。",
+        "examplePinyin": "zuò dì tiě jì shěng qián ， yòu fāng biàn 。",
+        "translation": "Đi tàu điện ngầm vừa tiết kiệm tiền vừa tiện lợi."
+      }
+    },
+    {
+      "lesson": 4,
+      "wordId": "hsk4-L04-24",
+      "original": {
+        "example": "我每天骑电动车去上班。",
+        "examplePinyin": "wǒ měi tiān qí diàn dòng chē qù shàng bān.",
+        "translation": "Ngày nào tôi cũng đi xe điện đi làm."
+      },
+      "corrected": {
+        "example": "出门前，别忘了给电动车充电。",
+        "examplePinyin": "chū mén qián ， bié wàng le gěi diàn dòng chē chōng diàn 。",
+        "translation": "Trước khi ra ngoài, đừng quên sạc điện cho xe điện."
+      }
+    },
+    {
+      "lesson": 4,
+      "wordId": "hsk4-L04-32",
+      "original": {
+        "example": "这家书店的书我们可以免费看。",
+        "examplePinyin": "zhè jiā shū diàn de shū wǒ men kě yǐ miǎn fèi kàn.",
+        "translation": "Chúng tôi có thể đọc sách ở hiệu sách này miễn phí."
+      },
+      "corrected": {
+        "example": "我每天早上七点吃早餐。",
+        "examplePinyin": "wǒ měi tiān zǎo shàng qī diǎn chī zǎo cān 。",
+        "translation": "Mỗi sáng tôi ăn sáng lúc bảy giờ."
+      }
+    },
+    {
+      "lesson": 5,
+      "wordId": "hsk4-L05-10",
+      "original": {
+        "example": "奶奶在菜地里种了很多辣椒。",
+        "examplePinyin": "nǎi nǎi zài cài de lǐ zhǒng le hěn duō là jiāo.",
+        "translation": "Bà trồng rất nhiều ớt ngoài vườn rau."
+      },
+      "corrected": {
+        "example": "这道菜太辣了，我不敢吃。",
+        "examplePinyin": "zhè dào cài tài là le ， wǒ bù gǎn chī 。",
+        "translation": "Món này cay quá, tôi không dám ăn."
+      }
+    },
+    {
+      "lesson": 5,
+      "wordId": "hsk4-L05-16",
+      "original": {
+        "example": "今天的天气够冷的！",
+        "examplePinyin": "jīn tiān de tiān qì gòu lěng de！",
+        "translation": "Thời tiết hôm nay lạnh thật đấy!"
+      },
+      "corrected": {
+        "example": "这些钱不够付房租。",
+        "examplePinyin": "zhè xiē qián bù gòu fù fáng zū 。",
+        "translation": "Số tiền này không đủ trả tiền thuê nhà."
+      }
+    },
+    {
+      "lesson": 5,
+      "wordId": "hsk4-L05-23",
+      "original": {
+        "example": "妈妈做的菜不太咸，很健康。",
+        "examplePinyin": "mā mā zuò de cài bù tài xián， hěn jiàn kāng.",
+        "translation": "Món mẹ nấu không mặn lắm, rất tốt cho sức khỏe."
+      },
+      "corrected": {
+        "example": "这碗汤不太咸，很好喝。",
+        "examplePinyin": "zhè wǎn tāng bù tài xián ， hěn hǎo hē 。",
+        "translation": "Bát canh này không mặn lắm, rất ngon."
+      }
+    },
+    {
+      "lesson": 6,
+      "wordId": "hsk4-L06-02",
+      "original": {
+        "example": "你咳嗽得这么厉害，最好去医院看看。",
+        "examplePinyin": "nǐ hāi sòu dé zhè me lì hài， zuì hǎo qù yī yuàn kàn kàn.",
+        "translation": "Bạn ho nặng như thế, tốt nhất nên đến bệnh viện khám."
+      },
+      "corrected": {
+        "example": "他一直咳，晚上也睡不好。",
+        "examplePinyin": "tā yì zhí ké ， wǎn shàng yě shuì bù hǎo 。",
+        "translation": "Anh ấy ho suốt, buổi tối cũng ngủ không ngon."
+      }
+    },
+    {
+      "lesson": 6,
+      "wordId": "hsk4-L06-18",
+      "original": {
+        "example": "他工作很忙，但总能按时完成。",
+        "examplePinyin": "tā gōng zuò hěn máng， dàn zǒngnéng àn shí wán chéng.",
+        "translation": "Anh ấy rất bận việc nhưng luôn hoàn thành đúng giờ."
+      },
+      "corrected": {
+        "example": "我跑完步以后出了一身汗。",
+        "examplePinyin": "wǒ pǎo wán bù yǐ hòu chū le yī shēn hàn 。",
+        "translation": "Sau khi chạy bộ, tôi toát mồ hôi khắp người."
+      }
+    },
+    {
+      "lesson": 7,
+      "wordId": "hsk4-L07-08",
+      "original": {
+        "example": "警察正在调查这件事。",
+        "examplePinyin": "jǐng chá zhèng zài diào chá zhè jiàn shì.",
+        "translation": "Cảnh sát đang điều tra chuyện này."
+      },
+      "corrected": {
+        "example": "这位客户对我们的产品很满意。",
+        "examplePinyin": "zhè wèi kè hù duì wǒ men de chǎn pǐn hěn mǎn yì 。",
+        "translation": "Vị khách hàng này rất hài lòng với sản phẩm của chúng tôi."
+      }
+    },
+    {
+      "lesson": 7,
+      "wordId": "hsk4-L07-10",
+      "original": {
+        "example": "警察正在调查这件事。",
+        "examplePinyin": "jǐng chá zhèng zài diào chá zhè jiàn shì.",
+        "translation": "Cảnh sát đang điều tra chuyện này."
+      },
+      "corrected": {
+        "example": "你有什么想法，可以告诉我。",
+        "examplePinyin": "nǐ yǒu shén me xiǎng fǎ ， kě yǐ gào sù wǒ 。",
+        "translation": "Bạn có ý tưởng gì thì có thể nói với tôi."
+      }
+    },
+    {
+      "lesson": 7,
+      "wordId": "hsk4-L07-15",
+      "original": {
+        "example": "他拒接接受采访。",
+        "examplePinyin": "tā jù jiē jiē shòu cǎi fǎng."
+      },
+      "corrected": {
+        "example": "他拒绝接受采访。",
+        "examplePinyin": "tā jùjué jiēshòu cǎifǎng."
+      }
+    },
+    {
+      "lesson": 7,
+      "wordId": "hsk4-L07-29",
+      "original": {
+        "example": "他的优点是细心。",
+        "examplePinyin": "tā de yōu diǎnshìxì xīn.",
+        "translation": "Ưu điểm của anh ấy là cẩn thận."
+      },
+      "corrected": {
+        "example": "这一点很重要，请大家注意。",
+        "examplePinyin": "zhè yì diǎn hěn zhòng yào ， qǐng dà jiā zhù yì 。",
+        "translation": "Điểm này rất quan trọng, mọi người hãy chú ý."
+      }
+    },
+    {
+      "lesson": 7,
+      "wordId": "hsk4-L07-30",
+      "original": {
+        "example": "实际上，这件事并不难。",
+        "examplePinyin": "shí jì shàng， zhè jiàn shì bìng bù nán.",
+        "translation": "Thật ra, chuyện này không khó."
+      },
+      "corrected": {
+        "example": "请你帮我看一下这份材料。",
+        "examplePinyin": "qǐng nǐ bāng wǒ kàn yī xià zhè fèn cái liào 。",
+        "translation": "Bạn hãy giúp tôi xem tài liệu này một chút."
+      }
+    },
+    {
+      "lesson": 8,
+      "wordId": "hsk4-L08-09",
+      "original": {
+        "example": "他买了一顶新帽子。",
+        "examplePinyin": "tā mǎi le yī dǐng xīn mào zǐ.",
+        "translation": "Anh ấy mua một chiếc mũ mới."
+      },
+      "corrected": {
+        "example": "外出时别忘了戴帽子。",
+        "examplePinyin": "wài chū shí bié wàng le dài mào zi 。",
+        "translation": "Khi ra ngoài đừng quên đội mũ."
+      }
+    },
+    {
+      "lesson": 8,
+      "wordId": "hsk4-L08-27",
+      "original": {
+        "example": "她这是个美丽的女孩！",
+        "examplePinyin": "tā zhè shìgè měi lì de nǚ hái！"
+      },
+      "corrected": {
+        "example": "她是个美丽的女孩！",
+        "examplePinyin": "tā shì ge měilì de nǚhái!"
+      }
+    },
+    {
+      "lesson": 9,
+      "wordId": "hsk4-L09-17",
+      "original": {
+        "example": "朋友之间要相互帮助。",
+        "examplePinyin": "péng yǒu zhī jiān yào xiānghù bāng zhù.",
+        "translation": "Bạn bè cần giúp đỡ lẫn nhau."
+      },
+      "corrected": {
+        "example": "朋友之间应该相互理解。",
+        "examplePinyin": "péng yǒu zhī jiān yīng gāi xiāng hù lǐ jiě 。",
+        "translation": "Bạn bè nên thấu hiểu lẫn nhau."
+      }
+    },
+    {
+      "lesson": 10,
+      "wordId": "hsk4-L10-03",
+      "original": {
+        "example": "夜里气温降到零下了。",
+        "examplePinyin": "yè lǐ qì wēnjiàng dào líng xià le.",
+        "translation": "Ban đêm nhiệt độ đã xuống dưới không độ."
+      },
+      "corrected": {
+        "example": "夜里气温降到了零下五度。",
+        "examplePinyin": "yè lǐ qì wēn jiàng dào le líng xià wǔ dù 。",
+        "translation": "Ban đêm nhiệt độ giảm xuống âm năm độ."
+      }
+    },
+    {
+      "lesson": 10,
+      "wordId": "hsk4-L10-07",
+      "original": {
+        "example": "今天零下十五度，非常冷。",
+        "examplePinyin": "jīn tiān líng xià shí wǔ dù， fēi cháng lěng.",
+        "translation": "Hôm nay âm mười lăm độ, rất lạnh."
+      },
+      "corrected": {
+        "example": "今天的温度是零下十五度。",
+        "examplePinyin": "jīn tiān de wēn dù shì líng xià shí wǔ dù 。",
+        "translation": "Nhiệt độ hôm nay là âm mười lăm độ."
+      }
+    },
+    {
+      "lesson": 10,
+      "wordId": "hsk4-L10-17",
+      "original": {
+        "translation": "Đặt vài cây xanh trong phòng sẽ rất đẹp."
+      },
+      "corrected": {
+        "translation": "Đặt vài cây xanh trong phòng sẽ rất đẹp. Trong vườn thực vật có đủ các loại cây."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "lesson": 4,
+      "point": 1,
+      "pinyin": "jīntiān tài máng le, wǒ qù bù liǎo."
+    },
+    {
+      "lesson": 6,
+      "point": 1,
+      "pinyin": "nǐ késou de zhème lìhai, zuìhǎo qù yīyuàn kànkan."
+    },
+    {
+      "lesson": 10,
+      "point": 1,
+      "pinyin": "gèng zhòngyào de shì, shuō shénme yě děi chuānshang hòu yìdiǎnr de yīfu."
+    }
+  ]
+}

@@ -1,0 +1,1362 @@
+{
+  "lesson": 4,
+  "sourceType": "supplementary",
+  "vocabulary": [
+    {
+      "wordId": "hsk4-L04-01",
+      "tokens": [
+        "下",
+        "大雨",
+        "了",
+        "，",
+        "我们",
+        "停",
+        "一下",
+        "，",
+        "雨",
+        "小",
+        "了",
+        "再",
+        "走",
+        "。"
+      ],
+      "cloze": "下大雨了，我们＿＿＿一下，雨小了再走。",
+      "answer": "停",
+      "options": [
+        "停",
+        "交",
+        "提",
+        "感谢"
+      ],
+      "explanation": "Điền 停 (dừng; đỗ xe) theo cách dùng trong câu: Mưa to rồi, chúng ta dừng một lát, khi mưa nhỏ hãy đi tiếp."
+    },
+    {
+      "wordId": "hsk4-L04-02",
+      "tokens": [
+        "我",
+        "现在",
+        "要",
+        "去",
+        "交",
+        "作业",
+        "，",
+        "你",
+        "跟",
+        "我",
+        "一起",
+        "去",
+        "吗",
+        "？"
+      ],
+      "cloze": "我现在要去＿＿＿作业，你跟我一起去吗？",
+      "answer": "交",
+      "options": [
+        "交",
+        "停",
+        "重",
+        "信号"
+      ],
+      "explanation": "Điền 交 (nộp; giao) theo cách dùng trong câu: Bây giờ tôi đi nộp bài tập, bạn đi cùng không?"
+    },
+    {
+      "wordId": "hsk4-L04-03",
+      "tokens": [
+        "这里",
+        "停车",
+        "每",
+        "小时",
+        "收费",
+        "五块",
+        "钱",
+        "。"
+      ],
+      "cloze": "这里停车每小时收＿＿＿五块钱。",
+      "answer": "费",
+      "options": [
+        "费",
+        "力气",
+        "心情",
+        "袋子"
+      ],
+      "explanation": "Điền 费 (phí; tốn) theo cách dùng trong câu: Đỗ xe ở đây thu phí năm tệ mỗi giờ."
+    },
+    {
+      "wordId": "hsk4-L04-04",
+      "tokens": [
+        "红灯",
+        "是",
+        "让",
+        "车",
+        "停下来",
+        "的",
+        "信号",
+        "。"
+      ],
+      "cloze": "红灯是让车停下来的＿＿＿。",
+      "answer": "信号",
+      "options": [
+        "信号",
+        "早餐",
+        "力气",
+        "鲜花"
+      ],
+      "explanation": "Điền 信号 (tín hiệu) theo cách dùng trong câu: Đèn đỏ là tín hiệu yêu cầu xe dừng lại."
+    },
+    {
+      "wordId": "hsk4-L04-05",
+      "tokens": [
+        "感谢",
+        "你",
+        "这",
+        "几天",
+        "对",
+        "我",
+        "的",
+        "照顾",
+        "。"
+      ],
+      "cloze": "＿＿＿你这几天对我的照顾。",
+      "answer": "感谢",
+      "options": [
+        "感谢",
+        "充电",
+        "购买",
+        "距离"
+      ],
+      "explanation": "Điền 感谢 (cảm ơn) theo cách dùng trong câu: Cảm ơn bạn đã chăm sóc tôi những ngày qua."
+    },
+    {
+      "wordId": "hsk4-L04-06",
+      "tokens": [
+        "这",
+        "两件事",
+        "之间",
+        "是",
+        "有",
+        "联系",
+        "的",
+        "。"
+      ],
+      "cloze": "这两件事之间是有＿＿＿的。",
+      "answer": "联系",
+      "options": [
+        "联系",
+        "重",
+        "费",
+        "省"
+      ],
+      "explanation": "Điền 联系 (liên hệ) theo cách dùng trong câu: Giữa hai chuyện này có mối liên hệ."
+    },
+    {
+      "wordId": "hsk4-L04-07",
+      "tokens": [
+        "这些",
+        "年",
+        "，",
+        "人们",
+        "的",
+        "生活",
+        "方式",
+        "发生",
+        "了",
+        "变化",
+        "。"
+      ],
+      "cloze": "这些年，人们的生活＿＿＿发生了变化。",
+      "answer": "方式",
+      "options": [
+        "方式",
+        "早餐",
+        "袋子",
+        "鲜花"
+      ],
+      "explanation": "Điền 方式 (phương thức) theo cách dùng trong câu: Những năm gần đây, lối sống của con người đã thay đổi."
+    },
+    {
+      "wordId": "hsk4-L04-08",
+      "tokens": [
+        "你别",
+        "客气",
+        "，",
+        "随便",
+        "坐",
+        "。"
+      ],
+      "cloze": "你别＿＿＿，随便坐。",
+      "answer": "客气",
+      "options": [
+        "客气",
+        "辛苦",
+        "重",
+        "免费"
+      ],
+      "explanation": "Điền 客气 (khách sáo) theo cách dùng trong câu: Bạn đừng khách sáo, cứ ngồi tự nhiên."
+    },
+    {
+      "wordId": "hsk4-L04-09",
+      "tokens": [
+        "冰箱",
+        "里",
+        "只",
+        "剩",
+        "一个",
+        "苹果",
+        "了",
+        "。"
+      ],
+      "cloze": "冰箱里只＿＿＿一个苹果了。",
+      "answer": "剩",
+      "options": [
+        "剩",
+        "提",
+        "停",
+        "交"
+      ],
+      "explanation": "Điền 剩 (còn lại) theo cách dùng trong câu: Trong tủ lạnh chỉ còn một quả táo."
+    },
+    {
+      "wordId": "hsk4-L04-10",
+      "tokens": [
+        "她",
+        "早上",
+        "提着",
+        "包去",
+        "上班",
+        "了",
+        "。"
+      ],
+      "cloze": "她早上＿＿＿着包去上班了。",
+      "answer": "提",
+      "options": [
+        "提",
+        "停",
+        "算",
+        "交"
+      ],
+      "explanation": "Điền 提 (xách; nhấc) theo cách dùng trong câu: Sáng nay cô ấy xách túi đi làm."
+    },
+    {
+      "wordId": "hsk4-L04-11",
+      "tokens": [
+        "这个",
+        "袋子",
+        "很",
+        "重",
+        "，",
+        "请",
+        "帮",
+        "我",
+        "提",
+        "一下",
+        "。"
+      ],
+      "cloze": "这个＿＿＿很重，请帮我提一下。",
+      "answer": "袋子",
+      "options": [
+        "袋子",
+        "信号",
+        "距离",
+        "心情"
+      ],
+      "explanation": "Điền 袋子 (túi) theo cách dùng trong câu: Chiếc túi này rất nặng, hãy giúp tôi xách một chút."
+    },
+    {
+      "wordId": "hsk4-L04-12",
+      "tokens": [
+        "请",
+        "帮",
+        "我",
+        "看",
+        "一下",
+        "，",
+        "这些",
+        "苹果",
+        "有",
+        "多重",
+        "。"
+      ],
+      "cloze": "请帮我看一下，这些苹果有多＿＿＿。",
+      "answer": "重",
+      "options": [
+        "重",
+        "免费",
+        "客气",
+        "互相"
+      ],
+      "explanation": "Điền 重 (nặng; trọng lượng) theo cách dùng trong câu: Bạn giúp tôi xem những quả táo này nặng bao nhiêu."
+    },
+    {
+      "wordId": "hsk4-L04-13",
+      "tokens": [
+        "儿子",
+        "也",
+        "算个",
+        "大人",
+        "了",
+        "。"
+      ],
+      "cloze": "儿子也＿＿＿个大人了。",
+      "answer": "算",
+      "options": [
+        "算",
+        "交",
+        "提",
+        "停"
+      ],
+      "explanation": "Điền 算 (tính là) theo cách dùng trong câu: Con trai cũng có thể coi là người lớn rồi."
+    },
+    {
+      "wordId": "hsk4-L04-14",
+      "tokens": [
+        "我",
+        "不想",
+        "吃",
+        "外卖",
+        "，",
+        "再说",
+        "自己",
+        "做饭",
+        "更",
+        "健康",
+        "。"
+      ],
+      "cloze": "我不想吃外卖，＿＿＿自己做饭更健康。",
+      "answer": "再说",
+      "options": [
+        "再说",
+        "互相",
+        "既",
+        "来得及"
+      ],
+      "explanation": "Điền 再说 (hơn nữa; để sau hãy nói) theo cách dùng trong câu: Tôi không muốn ăn đồ giao tận nơi, hơn nữa tự nấu sẽ lành mạnh hơn."
+    },
+    {
+      "wordId": "hsk4-L04-15",
+      "tokens": [
+        "我",
+        "和",
+        "他",
+        "之间",
+        "有",
+        "很多",
+        "问题",
+        "。"
+      ],
+      "cloze": "我和他＿＿＿有很多问题。",
+      "answer": "之间",
+      "options": [
+        "之间",
+        "食物",
+        "鲜花",
+        "早餐"
+      ],
+      "explanation": "Điền 之间 (giữa) theo cách dùng trong câu: Giữa tôi và anh ấy có nhiều vấn đề."
+    },
+    {
+      "wordId": "hsk4-L04-16",
+      "tokens": [
+        "同学",
+        "之间",
+        "应该",
+        "互相帮助",
+        "。"
+      ],
+      "cloze": "同学之间应该＿＿＿帮助。",
+      "answer": "互相",
+      "options": [
+        "互相",
+        "往往",
+        "更加",
+        "免费"
+      ],
+      "explanation": "Điền 互相 (lẫn nhau) theo cách dùng trong câu: Bạn học nên giúp đỡ lẫn nhau."
+    },
+    {
+      "wordId": "hsk4-L04-17",
+      "tokens": [
+        "老师",
+        "辛苦",
+        "了",
+        "一天",
+        "，",
+        "还",
+        "在",
+        "给",
+        "我们",
+        "改",
+        "作业",
+        "。"
+      ],
+      "cloze": "老师＿＿＿了一天，还在给我们改作业。",
+      "answer": "辛苦",
+      "options": [
+        "辛苦",
+        "免费",
+        "互相",
+        "更加"
+      ],
+      "explanation": "Điền 辛苦 (vất vả) theo cách dùng trong câu: Thầy giáo vất vả cả ngày rồi mà vẫn đang chấm bài cho chúng tôi."
+    },
+    {
+      "wordId": "hsk4-L04-18",
+      "tokens": [
+        "最近",
+        "天气",
+        "不好",
+        "，",
+        "可能",
+        "会",
+        "影响",
+        "出行",
+        "。"
+      ],
+      "cloze": "最近天气不好，可能会影响＿＿＿。",
+      "answer": "出行",
+      "options": [
+        "出行",
+        "充电",
+        "鲜花",
+        "早餐"
+      ],
+      "explanation": "Điền 出行 (đi lại) theo cách dùng trong câu: Gần đây thời tiết xấu, có thể ảnh hưởng việc đi lại."
+    },
+    {
+      "wordId": "hsk4-L04-19",
+      "tokens": [
+        "学校",
+        "和",
+        "我家",
+        "的",
+        "距离",
+        "很近",
+        "，",
+        "走路",
+        "只要",
+        "十分钟",
+        "。"
+      ],
+      "cloze": "学校和我家的＿＿＿很近，走路只要十分钟。",
+      "answer": "距离",
+      "options": [
+        "距离",
+        "力气",
+        "食物",
+        "心情"
+      ],
+      "explanation": "Điền 距离 (khoảng cách) theo cách dùng trong câu: Trường học cách nhà tôi rất gần, đi bộ chỉ mười phút."
+    },
+    {
+      "wordId": "hsk4-L04-20",
+      "tokens": [
+        "认真",
+        "准备",
+        "的",
+        "人",
+        "，",
+        "往往",
+        "更",
+        "容易",
+        "通过",
+        "考试",
+        "。"
+      ],
+      "cloze": "认真准备的人，＿＿＿更容易通过考试。",
+      "answer": "往往",
+      "options": [
+        "往往",
+        "鲜花",
+        "食物",
+        "袋子"
+      ],
+      "explanation": "Điền 往往 (thường thường) theo cách dùng trong câu: Người chuẩn bị nghiêm túc thường dễ vượt qua kỳ thi hơn."
+    },
+    {
+      "wordId": "hsk4-L04-21",
+      "tokens": [
+        "坐地铁",
+        "既",
+        "省钱",
+        "，",
+        "又",
+        "方便",
+        "。"
+      ],
+      "cloze": "坐地铁＿＿＿省钱，又方便。",
+      "answer": "既",
+      "options": [
+        "既",
+        "再说",
+        "顺便",
+        "来得及"
+      ],
+      "explanation": "Điền 既 (vừa... vừa...) theo cách dùng trong câu: Đi tàu điện ngầm vừa tiết kiệm tiền vừa tiện lợi."
+    },
+    {
+      "wordId": "hsk4-L04-22",
+      "tokens": [
+        "我",
+        "每天",
+        "骑",
+        "电动车",
+        "去",
+        "上班",
+        "。"
+      ],
+      "cloze": "我每天骑＿＿＿去上班。",
+      "answer": "电动车",
+      "options": [
+        "电动车",
+        "鲜花",
+        "食物",
+        "力气"
+      ],
+      "explanation": "Điền 电动车 (xe điện) theo cách dùng trong câu: Ngày nào tôi cũng đi xe điện đi làm."
+    },
+    {
+      "wordId": "hsk4-L04-23",
+      "tokens": [
+        "他",
+        "跑步",
+        "的",
+        "速度",
+        "很快",
+        "，",
+        "我",
+        "追不上",
+        "他",
+        "。"
+      ],
+      "cloze": "他跑步的＿＿＿很快，我追不上他。",
+      "answer": "速度",
+      "options": [
+        "速度",
+        "心情",
+        "信号",
+        "早餐"
+      ],
+      "explanation": "Điền 速度 (tốc độ) theo cách dùng trong câu: Anh ấy chạy rất nhanh, tôi không đuổi kịp."
+    },
+    {
+      "wordId": "hsk4-L04-24",
+      "tokens": [
+        "出",
+        "门前",
+        "，",
+        "别忘了",
+        "给",
+        "电动车",
+        "充电",
+        "。"
+      ],
+      "cloze": "出门前，别忘了给电动车＿＿＿。",
+      "answer": "充电",
+      "options": [
+        "充电",
+        "感谢",
+        "停",
+        "交"
+      ],
+      "explanation": "Điền 充电 (sạc điện) theo cách dùng trong câu: Trước khi ra ngoài, đừng quên sạc điện cho xe điện."
+    },
+    {
+      "wordId": "hsk4-L04-25",
+      "tokens": [
+        "这些",
+        "年",
+        "，",
+        "在",
+        "网上",
+        "购物",
+        "变得",
+        "很",
+        "流行",
+        "。"
+      ],
+      "cloze": "这些年，在网上购物变得很＿＿＿。",
+      "answer": "流行",
+      "options": [
+        "流行",
+        "免费",
+        "互相",
+        "顺便"
+      ],
+      "explanation": "Điền 流行 (thịnh hành) theo cách dùng trong câu: Những năm gần đây, mua sắm trên mạng trở nên rất thịnh hành."
+    },
+    {
+      "wordId": "hsk4-L04-26",
+      "tokens": [
+        "坐地铁",
+        "比",
+        "坐",
+        "出租车",
+        "省钱",
+        "多",
+        "了",
+        "。"
+      ],
+      "cloze": "坐地铁比坐出租车＿＿＿钱多了。",
+      "answer": "省",
+      "options": [
+        "省",
+        "提",
+        "停",
+        "交"
+      ],
+      "explanation": "Điền 省 (tiết kiệm) theo cách dùng trong câu: Đi tàu điện ngầm tiết kiệm tiền hơn đi taxi nhiều."
+    },
+    {
+      "wordId": "hsk4-L04-27",
+      "tokens": [
+        "我",
+        "今天",
+        "太累",
+        "了",
+        "，",
+        "没有",
+        "力气",
+        "再",
+        "跑步",
+        "了",
+        "。"
+      ],
+      "cloze": "我今天太累了，没有＿＿＿再跑步了。",
+      "answer": "力气",
+      "options": [
+        "力气",
+        "鲜花",
+        "信号",
+        "早餐"
+      ],
+      "explanation": "Điền 力气 (sức lực) theo cách dùng trong câu: Hôm nay tôi mệt quá, không còn sức chạy tiếp."
+    },
+    {
+      "wordId": "hsk4-L04-28",
+      "tokens": [
+        "这个",
+        "飞机",
+        "上",
+        "的",
+        "乘客",
+        "都",
+        "是",
+        "去",
+        "西安",
+        "的",
+        "。"
+      ],
+      "cloze": "这个飞机上的＿＿＿都是去西安的。",
+      "answer": "乘客",
+      "options": [
+        "乘客",
+        "早餐",
+        "鲜花",
+        "信号"
+      ],
+      "explanation": "Điền 乘客 (hành khách) theo cách dùng trong câu: Hành khách trên máy bay này đều đến Tây An."
+    },
+    {
+      "wordId": "hsk4-L04-29",
+      "tokens": [
+        "购买",
+        "一本",
+        "纸书",
+        "太贵",
+        "了",
+        "，",
+        "我",
+        "想",
+        "买",
+        "电子书",
+        "。"
+      ],
+      "cloze": "＿＿＿一本纸书太贵了，我想买电子书。",
+      "answer": "购买",
+      "options": [
+        "购买",
+        "充电",
+        "停",
+        "感谢"
+      ],
+      "explanation": "Điền 购买 (mua) theo cách dùng trong câu: Mua sách giấy đắt quá, tôi muốn mua sách điện tử."
+    },
+    {
+      "wordId": "hsk4-L04-30",
+      "tokens": [
+        "这些",
+        "食物",
+        "看起来",
+        "很",
+        "好吃",
+        "。"
+      ],
+      "cloze": "这些＿＿＿看起来很好吃。",
+      "answer": "食物",
+      "options": [
+        "食物",
+        "鲜花",
+        "距离",
+        "力气"
+      ],
+      "explanation": "Điền 食物 (thức ăn) theo cách dùng trong câu: Những món ăn này trông rất ngon."
+    },
+    {
+      "wordId": "hsk4-L04-31",
+      "tokens": [
+        "这家",
+        "书店",
+        "的",
+        "书",
+        "我们",
+        "可以",
+        "免费",
+        "看",
+        "。"
+      ],
+      "cloze": "这家书店的书我们可以＿＿＿看。",
+      "answer": "免费",
+      "options": [
+        "免费",
+        "辛苦",
+        "重",
+        "互相"
+      ],
+      "explanation": "Điền 免费 (miễn phí) theo cách dùng trong câu: Chúng tôi có thể đọc sách ở hiệu sách này miễn phí."
+    },
+    {
+      "wordId": "hsk4-L04-32",
+      "tokens": [
+        "我",
+        "每天",
+        "早上",
+        "七点",
+        "吃",
+        "早餐",
+        "。"
+      ],
+      "cloze": "我每天早上七点吃＿＿＿。",
+      "answer": "早餐",
+      "options": [
+        "早餐",
+        "鲜花",
+        "信号",
+        "方式"
+      ],
+      "explanation": "Điền 早餐 (bữa sáng) theo cách dùng trong câu: Mỗi sáng tôi ăn sáng lúc bảy giờ."
+    },
+    {
+      "wordId": "hsk4-L04-33",
+      "tokens": [
+        "别着急",
+        "，",
+        "时间",
+        "还",
+        "早",
+        "，",
+        "咱们",
+        "来得及",
+        "。"
+      ],
+      "cloze": "别着急，时间还早，咱们＿＿＿。",
+      "answer": "来得及",
+      "options": [
+        "来得及",
+        "互相",
+        "既",
+        "免费"
+      ],
+      "explanation": "Điền 来得及 (kịp) theo cách dùng trong câu: Đừng lo, vẫn còn sớm, chúng ta còn kịp."
+    },
+    {
+      "wordId": "hsk4-L04-34",
+      "tokens": [
+        "这家",
+        "花店",
+        "的",
+        "鲜花",
+        "特别",
+        "漂亮",
+        "。"
+      ],
+      "cloze": "这家花店的＿＿＿特别漂亮。",
+      "answer": "鲜花",
+      "options": [
+        "鲜花",
+        "信号",
+        "力气",
+        "距离"
+      ],
+      "explanation": "Điền 鲜花 (hoa tươi) theo cách dùng trong câu: Hoa tươi của cửa hàng này đặc biệt đẹp."
+    },
+    {
+      "wordId": "hsk4-L04-35",
+      "tokens": [
+        "我",
+        "下午",
+        "去",
+        "图书馆",
+        "看书",
+        "，",
+        "顺便",
+        "帮",
+        "你",
+        "借书",
+        "。"
+      ],
+      "cloze": "我下午去图书馆看书，＿＿＿帮你借书。",
+      "answer": "顺便",
+      "options": [
+        "顺便",
+        "鲜花",
+        "食物",
+        "距离"
+      ],
+      "explanation": "Điền 顺便 (tiện thể) theo cách dùng trong câu: Chiều nay tôi đến thư viện đọc sách, tiện thể mượn sách giúp bạn."
+    },
+    {
+      "wordId": "hsk4-L04-36",
+      "tokens": [
+        "今天天气",
+        "很",
+        "好",
+        "，",
+        "我",
+        "的",
+        "心情",
+        "也",
+        "很",
+        "愉快",
+        "。"
+      ],
+      "cloze": "今天天气很好，我的＿＿＿也很愉快。",
+      "answer": "心情",
+      "options": [
+        "心情",
+        "鲜花",
+        "距离",
+        "信号"
+      ],
+      "explanation": "Điền 心情 (tâm trạng) theo cách dùng trong câu: Hôm nay trời đẹp, tâm trạng tôi cũng rất vui vẻ."
+    },
+    {
+      "wordId": "hsk4-L04-37",
+      "tokens": [
+        "上",
+        "中学",
+        "以后",
+        "，",
+        "我",
+        "学习",
+        "更加",
+        "努力",
+        "了",
+        "。"
+      ],
+      "cloze": "上中学以后，我学习＿＿＿努力了。",
+      "answer": "更加",
+      "options": [
+        "更加",
+        "袋子",
+        "食物",
+        "信号"
+      ],
+      "explanation": "Điền 更加 (càng thêm) theo cách dùng trong câu: Sau khi lên cấp hai, tôi học hành chăm chỉ hơn."
+    },
+    {
+      "wordId": "hsk4-L04-38",
+      "tokens": [
+        "今天天气",
+        "很",
+        "好",
+        "，",
+        "我",
+        "的",
+        "心情",
+        "也",
+        "很",
+        "愉快",
+        "。"
+      ],
+      "cloze": "今天天气很好，我的心情也很＿＿＿。",
+      "answer": "愉快",
+      "options": [
+        "愉快",
+        "重",
+        "免费",
+        "互相"
+      ],
+      "explanation": "Điền 愉快 (vui vẻ) theo cách dùng trong câu: Hôm nay trời đẹp, tâm trạng tôi cũng rất vui vẻ."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "hsk4-L04-G01-Q01",
+      "pointId": "hsk4-L04-G01",
+      "question": "今天太忙了，我去＿＿＿。",
+      "options": [
+        "不了",
+        "得",
+        "了",
+        "着"
+      ],
+      "answer": "不了",
+      "sentence": "今天太忙了，我去不了。",
+      "pinyin": "jīntiān tài máng le, wǒ qù bù liǎo.",
+      "translation": "Hôm nay bận quá nên tôi không đi được.",
+      "explanation": "Bổ ngữ khả năng: có thể hoặc không thể thực hiện hành động."
+    },
+    {
+      "id": "hsk4-L04-G02-Q01",
+      "pointId": "hsk4-L04-G02",
+      "question": "我不想吃外卖，＿＿＿自己做饭更健康。",
+      "options": [
+        "再说",
+        "互相",
+        "既",
+        "来得及"
+      ],
+      "answer": "再说",
+      "sentence": "我不想吃外卖，再说自己做饭更健康。",
+      "pinyin": "wǒ bù xiǎng chī wài mài， zài shuō zì jǐ zuò fàn gèng jiàn kāng.",
+      "translation": "Tôi không muốn ăn đồ giao tận nơi, hơn nữa tự nấu ăn lành mạnh hơn.",
+      "explanation": "Bổ sung thêm một lý do hoặc tình huống."
+    },
+    {
+      "id": "hsk4-L04-G03-Q01",
+      "pointId": "hsk4-L04-G03",
+      "question": "他＿＿＿聪明，又努力。",
+      "options": [
+        "既",
+        "再说",
+        "互相",
+        "来得及"
+      ],
+      "answer": "既",
+      "sentence": "他既聪明，又努力。",
+      "pinyin": "tā jì cōng míng， yòu nǔ lì.",
+      "translation": "Anh ấy vừa thông minh vừa chăm chỉ.",
+      "explanation": "Vừa… vừa…, diễn tả hai tính chất đồng thời."
+    },
+    {
+      "id": "hsk4-L04-G04-Q01",
+      "pointId": "hsk4-L04-G04",
+      "question": "别着急，时间还早，咱们＿＿＿。",
+      "options": [
+        "来得及",
+        "互相",
+        "既",
+        "免费"
+      ],
+      "answer": "来得及",
+      "sentence": "别着急，时间还早，咱们来得及。",
+      "pinyin": "bié zhe jí， shí jiān hái zǎo， zán men lái dé jí.",
+      "translation": "Đừng vội, còn sớm, chúng ta vẫn kịp.",
+      "explanation": "Còn kịp / không kịp làm việc gì."
+    }
+  ],
+  "readings": [
+    {
+      "id": "hsk4-L04-R01",
+      "lesson": 4,
+      "title": "Giúp bạn xách túi nặng",
+      "text": "今天下班时，我看见邻居提着两个很重的袋子站在车站。她刚买了不少食物，还要回家准备晚饭。我顺便帮她提了一个袋子，一起慢慢往家走。路上，她说公交车的信号出了问题，乘客都在等下一辆。我告诉她，我们住的地方距离这里不远，走路也来得及。到了家门口，她一定要请我吃饭。我说不用客气，邻居之间本来就应该互相帮助。虽然只是一件小事，我的心情却比下班时更加愉快了。",
+      "pinyin": "jīn tiān xià bān shí ， wǒ kàn jiàn lín jū tí zhe liǎng gè hěn zhòng de dài zi zhàn zài chē zhàn 。 tā gāng mǎi le bù shǎo shí wù ， hái yào huí jiā zhǔn bèi wǎn fàn 。 wǒ shùn biàn bāng tā tí le yí gè dài zi ， yì qǐ màn màn wǎng jiā zǒu 。 lù shàng ， tā shuō gōng jiāo chē de xìn hào chū le wèn tí ， chéng kè dōu zài děng xià yī liàng 。 wǒ gào sù tā ， wǒ men zhù de dì fāng jù lí zhè lǐ bù yuǎn ， zǒu lù yě lái de jí 。 dào le jiā mén kǒu ， tā yí dìng yào qǐng wǒ chī fàn 。 wǒ shuō bù yòng kè qì ， lín jū zhī jiān běn lái jiù yīng gāi hù xiāng bāng zhù 。 suī rán zhǐ shì yī jiàn xiǎo shì ， wǒ de xīn qíng què bǐ xià bān shí gèng jiā yú kuài le 。",
+      "translation": "Tan làm, tôi gặp hàng xóm xách hai túi thức ăn nặng ở trạm xe. Tôi giúp xách một túi và cùng đi bộ về. Xe buýt có vấn đề tín hiệu nên mọi người đang chờ chuyến sau, nhưng nhà gần nên đi bộ vẫn kịp. Chị mời ăn tối, tôi bảo đừng khách sáo vì hàng xóm nên giúp nhau. Việc nhỏ khiến tôi vui hơn.",
+      "questions": [
+        {
+          "id": "hsk4-L04-R01-Q01",
+          "kind": "Nội dung",
+          "question": "邻居的袋子里主要是什么？",
+          "options": [
+            "食物",
+            "鲜花",
+            "学习材料",
+            "衣服"
+          ],
+          "answer": "食物",
+          "explanation": "Theo đoạn: “她刚买了不少食物”. Đáp án phù hợp: “食物”."
+        },
+        {
+          "id": "hsk4-L04-R01-Q02",
+          "kind": "Nội dung",
+          "question": "乘客为什么在等下一辆车？",
+          "options": [
+            "公交车的信号出了问题",
+            "大家都忘了交费",
+            "车站免费送早餐",
+            "司机在买鲜花"
+          ],
+          "answer": "公交车的信号出了问题",
+          "explanation": "Theo đoạn: “公交车的信号出了问题”. Đáp án phù hợp: “公交车的信号出了问题”."
+        },
+        {
+          "id": "hsk4-L04-R01-Q03",
+          "kind": "Nội dung",
+          "question": "作者帮邻居做了什么？",
+          "options": [
+            "提一个袋子",
+            "购买电动车",
+            "准备全部晚饭",
+            "给手机充电"
+          ],
+          "answer": "提一个袋子",
+          "explanation": "Theo đoạn: “帮她提了一个袋子”. Đáp án phù hợp: “提一个袋子”."
+        },
+        {
+          "id": "hsk4-L04-R01-Q04",
+          "kind": "Ý chính",
+          "question": "这篇文章主要讲什么？",
+          "options": [
+            "邻居之间的一次互相帮助",
+            "购买公交车的过程",
+            "改变工作方式的计划",
+            "选择食物的方法"
+          ],
+          "answer": "邻居之间的一次互相帮助",
+          "explanation": "Theo đoạn: “邻居之间本来就应该互相帮助”. Đáp án phù hợp: “邻居之间的一次互相帮助”."
+        },
+        {
+          "id": "hsk4-L04-R01-Q05",
+          "kind": "Suy luận",
+          "question": "作者帮助邻居之后感觉怎么样？",
+          "options": [
+            "心情更加愉快",
+            "觉得非常后悔",
+            "决定不再走路",
+            "不想回家吃饭"
+          ],
+          "answer": "心情更加愉快",
+          "explanation": "Theo đoạn: “我的心情却比下班时更加愉快了”. Đáp án phù hợp: “心情更加愉快”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L04-R02",
+      "lesson": 4,
+      "title": "Xe điện hết pin giữa đường",
+      "text": "小林每天骑电动车上班，觉得这种出行方式既省钱，又省力气。昨天晚上，他忘了充电，今天走到一半车就停了。他看了看时间，恐怕来不及走到公司，于是联系同事。同事告诉他，附近有地铁站，乘地铁还有可能按时到。小林把车停在允许停车的地方，按照同事说的路线去了车站，最后准时到了公司。他向同事表示感谢，也在手机上设置了充电提醒。他明白，方便的交通工具也需要提前做好准备。",
+      "pinyin": "xiǎo lín měi tiān qí diàn dòng chē shàng bān ， jué de zhè zhǒng chū xíng fāng shì jì shěng qián ， yòu shěng lì qì 。 zuó tiān wǎn shàng ， tā wàng le chōng diàn ， jīn tiān zǒu dào yí bàn chē jiù tíng le 。 tā kàn le kàn shí jiān ， kǒng pà lái bù jí zǒu dào gōng sī ， yú shì lián xì tóng shì 。 tóng shì gào sù tā ， fù jìn yǒu dì tiě zhàn ， chéng dì tiě hái yǒu kě néng àn shí dào 。 xiǎo lín bǎ chē tíng zài yǔn xǔ tíng chē de dì fāng ， àn zhào tóng shì shuō de lù xiàn qù le chē zhàn ， zuì hòu zhǔn shí dào le gōng sī 。 tā xiàng tóng shì biǎo shì gǎn xiè ， yě zài shǒu jī shàng shè zhì le chōng diàn tí xǐng 。 tā míng bái ， fāng biàn de jiāo tōng gōng jù yě xū yào tí qián zuò hǎo zhǔn bèi 。",
+      "translation": "Tiểu Lâm đi xe điện vì tiết kiệm tiền và sức. Quên sạc tối hôm trước khiến xe dừng giữa đường. Anh liên hệ đồng nghiệp và được chỉ đến ga tàu điện ngầm gần đó. Anh đỗ xe đúng nơi rồi đi tàu, cuối cùng đến đúng giờ. Anh cảm ơn và cài nhắc sạc, hiểu rằng phương tiện tiện lợi cũng cần chuẩn bị trước.",
+      "questions": [
+        {
+          "id": "hsk4-L04-R02-Q01",
+          "kind": "Nội dung",
+          "question": "电动车为什么停了？",
+          "options": [
+            "忘了充电",
+            "袋子太重",
+            "下雨没有信号",
+            "停车费太高"
+          ],
+          "answer": "忘了充电",
+          "explanation": "Theo đoạn: “他忘了充电”. Đáp án phù hợp: “忘了充电”."
+        },
+        {
+          "id": "hsk4-L04-R02-Q02",
+          "kind": "Nội dung",
+          "question": "同事建议他怎么去公司？",
+          "options": [
+            "乘地铁",
+            "一直推车走",
+            "先回家吃早餐",
+            "等晚上再去"
+          ],
+          "answer": "乘地铁",
+          "explanation": "Theo đoạn: “附近有地铁站”. Đáp án phù hợp: “乘地铁”."
+        },
+        {
+          "id": "hsk4-L04-R02-Q03",
+          "kind": "Nội dung",
+          "question": "小林最后迟到了吗？",
+          "options": [
+            "没有迟到",
+            "迟到两个小时",
+            "当天没有上班",
+            "文章没有说他到公司"
+          ],
+          "answer": "没有迟到",
+          "explanation": "Theo đoạn: “最后准时到了公司”. Đáp án phù hợp: “没有迟到”."
+        },
+        {
+          "id": "hsk4-L04-R02-Q04",
+          "kind": "Ý chính",
+          "question": "文章主要讲什么？",
+          "options": [
+            "忘记充电后及时改变出行方式",
+            "骑车一定比地铁快",
+            "公司提供免费电动车",
+            "同事帮忙购买食物"
+          ],
+          "answer": "忘记充电后及时改变出行方式",
+          "explanation": "Theo đoạn: “方便的交通工具也需要提前做好准备”. Đáp án phù hợp: “忘记充电后及时改变出行方式”."
+        },
+        {
+          "id": "hsk4-L04-R02-Q05",
+          "kind": "Suy luận",
+          "question": "小林设置提醒是为了什么？",
+          "options": [
+            "避免以后再忘记充电",
+            "让同事每天接送",
+            "增加电动车的速度",
+            "不再乘坐地铁"
+          ],
+          "answer": "避免以后再忘记充电",
+          "explanation": "Theo đoạn: “在手机上设置了充电提醒”. Đáp án phù hợp: “避免以后再忘记充电”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L04-R03",
+      "lesson": 4,
+      "title": "Một bữa sáng được gửi tặng",
+      "text": "上星期，姐姐住的地方附近开了一家早餐店。店主每天把剩下的、还没有卖出的新鲜食物送给有需要的人，而不是直接扔掉。姐姐觉得这个办法很好，周末就顺便去帮忙。她把食物装进袋子，告诉来领取的人不用交费。有位老人说，自己腿脚不方便，走这么远很辛苦。姐姐记下了他的联系方式，准备以后和邻居一起送过去。她说，帮忙不一定要花很多钱，只要多想一步，就可能让别人的生活方便一点。",
+      "pinyin": "shàng xīng qī ， jiě jiě zhù de dì fāng fù jìn kāi le yī jiā zǎo cān diàn 。 diàn zhǔ měi tiān bǎ shèng xià de 、 hái méi yǒu mài chū de xīn xiān shí wù sòng gěi yǒu xū yào de rén ， ér bú shì zhí jiē rēng diào 。 jiě jiě jué de zhè ge bàn fǎ hěn hǎo ， zhōu mò jiù shùn biàn qù bāng máng 。 tā bǎ shí wù zhuāng jìn dài zi ， gào sù lái lǐng qǔ de rén bù yòng jiāo fèi 。 yǒu wèi lǎo rén shuō ， zì jǐ tuǐ jiǎo bù fāng biàn ， zǒu zhè me yuǎn hěn xīn kǔ 。 jiě jiě jì xià le tā de lián xì fāng shì ， zhǔn bèi yǐ hòu hé lín jū yì qǐ sòng guò qù 。 tā shuō ， bāng máng bù yí dìng yào huā hěn duō qián ， zhǐ yào duō xiǎng yī bù ， jiù kě néng ràng bié rén de shēng huó fāng biàn yì diǎn 。",
+      "translation": "Một quán ăn sáng mới gần nhà chị tặng thức ăn còn mới, chưa bán hết cho người cần thay vì bỏ đi. Cuối tuần chị giúp đóng túi, giải thích không thu tiền. Một cụ già đi lại khó khăn; chị ghi liên hệ để cùng hàng xóm mang đến sau này. Chị thấy giúp người không nhất thiết tốn nhiều tiền, chỉ cần nghĩ thêm một bước.",
+      "questions": [
+        {
+          "id": "hsk4-L04-R03-Q01",
+          "kind": "Nội dung",
+          "question": "店主怎样处理没卖出的新鲜食物？",
+          "options": [
+            "送给有需要的人",
+            "全部扔掉",
+            "留到下个月卖",
+            "提高价格再卖"
+          ],
+          "answer": "送给有需要的人",
+          "explanation": "Theo đoạn: “送给有需要的人”. Đáp án phù hợp: “送给有需要的人”."
+        },
+        {
+          "id": "hsk4-L04-R03-Q02",
+          "kind": "Nội dung",
+          "question": "领取这些食物需要交费吗？",
+          "options": [
+            "不用交费",
+            "每袋十块钱",
+            "先买一台车",
+            "按距离收费"
+          ],
+          "answer": "不用交费",
+          "explanation": "Theo đoạn: “不用交费”. Đáp án phù hợp: “不用交费”."
+        },
+        {
+          "id": "hsk4-L04-R03-Q03",
+          "kind": "Nội dung",
+          "question": "姐姐为什么记下老人的联系方式？",
+          "options": [
+            "准备以后把食物送过去",
+            "想让老人帮忙开店",
+            "要向老人收取费用",
+            "请老人买鲜花"
+          ],
+          "answer": "准备以后把食物送过去",
+          "explanation": "Theo đoạn: “准备以后和邻居一起送过去”. Đáp án phù hợp: “准备以后把食物送过去”."
+        },
+        {
+          "id": "hsk4-L04-R03-Q04",
+          "kind": "Ý chính",
+          "question": "文章主要表达什么？",
+          "options": [
+            "多考虑别人的需要就能提供帮助",
+            "剩下的食物都不能吃",
+            "早餐店只需要提高速度",
+            "帮助别人必须花很多钱"
+          ],
+          "answer": "多考虑别人的需要就能提供帮助",
+          "explanation": "Theo đoạn: “只要多想一步，就可能让别人的生活方便一点”. Đáp án phù hợp: “多考虑别人的需要就能提供帮助”."
+        },
+        {
+          "id": "hsk4-L04-R03-Q05",
+          "kind": "Suy luận",
+          "question": "姐姐是个怎样的人？",
+          "options": [
+            "细心并愿意帮助别人",
+            "只在乎免费早餐",
+            "不愿意和邻居交流",
+            "认为老人不该外出"
+          ],
+          "answer": "细心并愿意帮助别人",
+          "explanation": "Theo đoạn: “自己腿脚不方便，走这么远很辛苦”. Đáp án phù hợp: “细心并愿意帮助别人”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L04-R04",
+      "lesson": 4,
+      "title": "Chọn cách đi lại phù hợp",
+      "text": "我们公司离地铁站有一段距离，很多同事以前开车上班。最近，大家发现路上的车越来越多，开车往往花的时间更长。小周建议，住得近的人可以走路或骑电动车，住得远的人可以先坐地铁，再换公交车。大家讨论后，决定先试一个星期。结果，不少人省了停车费，心情也轻松了。不过，小周提醒大家，不能只追求速度，还要注意安全，骑车前要查看车的情况。适合自己的方式，才是真正方便的出行方式。",
+      "pinyin": "wǒ men gōng sī lí dì tiě zhàn yǒu yī duàn jù lí ， hěn duō tóng shì yǐ qián kāi chē shàng bān 。 zuì jìn ， dà jiā fā xiàn lù shàng de chē yuè lái yuè duō ， kāi chē wǎng wǎng huā de shí jiān gèng zhǎng 。 xiǎo zhōu jiàn yì ， zhù dé jìn de rén kě yǐ zǒu lù huò qí diàn dòng chē ， zhù dé yuǎn de rén kě yǐ xiān zuò dì tiě ， zài huàn gōng jiāo chē 。 dà jiā tǎo lùn hòu ， jué dìng xiān shì yí gè xīng qī 。 jié guǒ ， bù shǎo rén shěng le tíng chē fèi ， xīn qíng yě qīng sōng le 。 bù guò ， xiǎo zhōu tí xǐng dà jiā ， bù néng zhǐ zhuī qiú sù dù ， hái yào zhù yì ān quán ， qí chē qián yào chá kàn chē de qíng kuàng 。 shì hé zì jǐ de fāng shì ， cái shì zhēn zhèng fāng biàn de chū xíng fāng shì 。",
+      "translation": "Công ty cách ga một đoạn, nhiều người trước kia lái xe nhưng ngày càng mất thời gian vì đông xe. Tiểu Châu đề xuất người gần đi bộ hoặc xe điện, người xa kết hợp tàu và buýt. Sau một tuần thử, nhiều người tiết kiệm phí đỗ và thấy nhẹ nhõm. Anh nhắc không chỉ chạy nhanh mà cần an toàn, kiểm tra xe và chọn cách phù hợp.",
+      "questions": [
+        {
+          "id": "hsk4-L04-R04-Q01",
+          "kind": "Nội dung",
+          "question": "开车上班为什么常常花更长时间？",
+          "options": [
+            "路上的车越来越多",
+            "公司搬到别的城市",
+            "地铁每天都停运",
+            "所有同事都走路"
+          ],
+          "answer": "路上的车越来越多",
+          "explanation": "Theo đoạn: “路上的车越来越多”. Đáp án phù hợp: “路上的车越来越多”."
+        },
+        {
+          "id": "hsk4-L04-R04-Q02",
+          "kind": "Nội dung",
+          "question": "住得远的人可以选择什么方式？",
+          "options": [
+            "地铁加公交车",
+            "只在家里办公",
+            "一直步行到公司",
+            "每天坐飞机"
+          ],
+          "answer": "地铁加公交车",
+          "explanation": "Theo đoạn: “先坐地铁，再换公交车”. Đáp án phù hợp: “地铁加公交车”."
+        },
+        {
+          "id": "hsk4-L04-R04-Q03",
+          "kind": "Nội dung",
+          "question": "试了一星期后，不少人省了什么？",
+          "options": [
+            "停车费",
+            "全部房租",
+            "午餐费",
+            "手机费"
+          ],
+          "answer": "停车费",
+          "explanation": "Theo đoạn: “不少人省了停车费”. Đáp án phù hợp: “停车费”."
+        },
+        {
+          "id": "hsk4-L04-R04-Q04",
+          "kind": "Ý chính",
+          "question": "这篇文章主要谈什么？",
+          "options": [
+            "选择安全合适的出行方式",
+            "怎样申请更高的工资",
+            "公交车一定比地铁慢",
+            "如何购买新车"
+          ],
+          "answer": "选择安全合适的出行方式",
+          "explanation": "Theo đoạn: “适合自己的方式，才是真正方便的出行方式”. Đáp án phù hợp: “选择安全合适的出行方式”."
+        },
+        {
+          "id": "hsk4-L04-R04-Q05",
+          "kind": "Suy luận",
+          "question": "小周为什么提醒大家检查车况？",
+          "options": [
+            "安全和方便同样需要考虑",
+            "车越贵速度就越快",
+            "大家不用再乘地铁",
+            "停车费已经免费了"
+          ],
+          "answer": "安全和方便同样需要考虑",
+          "explanation": "Theo đoạn: “不能只追求速度，还要注意安全”. Đáp án phù hợp: “安全和方便同样需要考虑”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L04-R05",
+      "lesson": 4,
+      "title": "Tiện đường mang niềm vui",
+      "text": "周五下午，我去医院看望一位朋友。他刚做完治疗，身体还没有力气，连下楼购买食物都不太方便。我本来只想顺便送些水果，到了以后发现他更需要有人陪着说话。我们聊了最近的生活，我还帮他给手机充电，联系了他的家人。临走时，他说：“谢谢你，今天的心情好多了。”我告诉他别客气，下次来的时候再带一束鲜花。回家的路上，我觉得帮助别人并不一定是做很大的事，有时候留下来多听几句话，就能让人感到温暖。",
+      "pinyin": "zhōu wǔ xià wǔ ， wǒ qù yī yuàn kàn wàng yī wèi péng yǒu 。 tā gāng zuò wán zhì liáo ， shēn tǐ hái méi yǒu lì qì ， lián xià lóu gòu mǎi shí wù dōu bù tài fāng biàn 。 wǒ běn lái zhǐ xiǎng shùn biàn sòng xiē shuǐ guǒ ， dào le yǐ hòu fā xiàn tā gèng xū yào yǒu rén péi zhe shuō huà 。 wǒ men liáo le zuì jìn de shēng huó ， wǒ hái bāng tā gěi shǒu jī chōng diàn ， lián xì le tā de jiā rén 。 lín zǒu shí ， tā shuō ：“ xiè xiè nǐ ， jīn tiān de xīn qíng hǎo duō le 。” wǒ gào sù tā bié kè qì ， xià cì lái de shí hòu zài dài yī shù xiān huā 。 huí jiā de lù shàng ， wǒ jué de bāng zhù bié rén bìng bù yí dìng shì zuò hěn dà de shì ， yǒu shí hòu liú xià lái duō tīng jǐ jù huà ， jiù néng ràng rén gǎn dào wēn nuǎn 。",
+      "translation": "Chiều thứ Sáu tôi thăm bạn vừa điều trị, còn yếu và khó xuống mua thức ăn. Ban đầu chỉ định tiện mang trái cây, tôi nhận ra bạn cần trò chuyện hơn. Tôi ngồi nghe, sạc điện thoại và liên hệ gia đình giúp. Bạn thấy vui hơn; tôi hẹn lần sau mang hoa. Tôi hiểu đôi khi chịu ngồi lại lắng nghe cũng đủ mang đến sự ấm áp.",
+      "questions": [
+        {
+          "id": "hsk4-L04-R05-Q01",
+          "kind": "Nội dung",
+          "question": "朋友为什么不方便下楼买食物？",
+          "options": [
+            "治疗后身体还没有力气",
+            "忘记带袋子",
+            "想在网上购买鲜花",
+            "医院外面没有商店"
+          ],
+          "answer": "治疗后身体还没有力气",
+          "explanation": "Theo đoạn: “刚做完治疗，身体还没有力气”. Đáp án phù hợp: “治疗后身体还没有力气”."
+        },
+        {
+          "id": "hsk4-L04-R05-Q02",
+          "kind": "Nội dung",
+          "question": "作者原来打算送什么？",
+          "options": [
+            "水果",
+            "早餐店的机器",
+            "一台电动车",
+            "停车证"
+          ],
+          "answer": "水果",
+          "explanation": "Theo đoạn: “本来只想顺便送些水果”. Đáp án phù hợp: “水果”."
+        },
+        {
+          "id": "hsk4-L04-R05-Q03",
+          "kind": "Nội dung",
+          "question": "作者还帮朋友做了什么？",
+          "options": [
+            "充电并联系家人",
+            "取消全部治疗",
+            "搬进新的房子",
+            "购买医院的食物"
+          ],
+          "answer": "充电并联系家人",
+          "explanation": "Theo đoạn: “给手机充电，联系了他的家人”. Đáp án phù hợp: “充电并联系家人”."
+        },
+        {
+          "id": "hsk4-L04-R05-Q04",
+          "kind": "Ý chính",
+          "question": "文章主要说明什么？",
+          "options": [
+            "陪伴和倾听也是帮助",
+            "探望病人只能送鲜花",
+            "帮助别人必须花钱",
+            "身体没有力气时不应该聊天"
+          ],
+          "answer": "陪伴和倾听也是帮助",
+          "explanation": "Theo đoạn: “留下来多听几句话，就能让人感到温暖”. Đáp án phù hợp: “陪伴和倾听也是帮助”."
+        },
+        {
+          "id": "hsk4-L04-R05-Q05",
+          "kind": "Suy luận",
+          "question": "朋友最需要的是什么？",
+          "options": [
+            "有人陪伴并关心他",
+            "一份新的工作",
+            "更快的交通工具",
+            "不用联系家人"
+          ],
+          "answer": "有人陪伴并关心他",
+          "explanation": "Theo đoạn: “发现他更需要有人陪着说话”. Đáp án phù hợp: “有人陪伴并关心他”."
+        }
+      ],
+      "sourceType": "supplementary"
+    }
+  ],
+  "writing": {
+    "title": "Một lần giúp đỡ người khác",
+    "prompt": "Hãy viết khoảng 100–150 chữ Hán về một lần giúp ai đó: hoàn cảnh, hành động và cảm nhận sau đó.",
+    "suggestedWords": [
+      "提",
+      "袋子",
+      "互相",
+      "顺便",
+      "心情"
+    ],
+    "suggestedGrammar": [
+      "Động từ + 得/不 + 了",
+      "Lý do 1，再说 + Lý do 2"
+    ],
+    "outline": [
+      "Giới thiệu người cần giúp và khó khăn.",
+      "Kể bạn đã giúp bằng cách nào.",
+      "Nêu lời cảm ơn và cảm nhận của bạn.",
+      "Kiểm tra trật tự từ và các cấu trúc ngữ pháp đã học."
+    ],
+    "sample": "昨天回家时，我看见邻居提着两个很重的袋子。她刚买完食物，走得很慢。我顺便帮她提了一个，一起走回家。她担心来不及做晚饭，我告诉她不用着急，时间还早。到了门口，她连声感谢我，还想请我吃饭。我说邻居之间应该互相帮助，不必客气。虽然只是一件小事，我的心情却更加愉快了。",
+    "samplePinyin": "zuó tiān huí jiā shí ， wǒ kàn jiàn lín jū tí zhe liǎng gè hěn zhòng de dài zi 。 tā gāng mǎi wán shí wù ， zǒu dé hěn màn 。 wǒ shùn biàn bāng tā tí le yí gè ， yì qǐ zǒu huí jiā 。 tā dān xīn lái bù jí zuò wǎn fàn ， wǒ gào sù tā bù yòng zháo jí ， shí jiān hái zǎo 。 dào le mén kǒu ， tā lián shēng gǎn xiè wǒ ， hái xiǎng qǐng wǒ chī fàn 。 wǒ shuō lín jū zhī jiān yīng gāi hù xiāng bāng zhù ， bù bì kè qì 。 suī rán zhǐ shì yī jiàn xiǎo shì ， wǒ de xīn qíng què gèng jiā yú kuài le 。",
+    "translation": "Hôm qua về nhà, tôi thấy hàng xóm xách hai túi nặng. Chị vừa mua thức ăn, đi chậm. Tôi giúp một túi và cùng về. Chị lo không kịp nấu tối, tôi bảo còn sớm. Tới cửa chị cảm ơn và mời ăn. Tôi nói hàng xóm nên giúp nhau. Việc nhỏ làm tôi vui hơn."
+  }
+}

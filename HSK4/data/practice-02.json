@@ -1,0 +1,1319 @@
+{
+  "lesson": 2,
+  "sourceType": "supplementary",
+  "vocabulary": [
+    {
+      "wordId": "hsk4-L02-01",
+      "tokens": [
+        "我",
+        "的",
+        "房东",
+        "人",
+        "很",
+        "好",
+        "，",
+        "经常",
+        "帮",
+        "我",
+        "解决问题",
+        "。"
+      ],
+      "cloze": "我的＿＿＿人很好，经常帮我解决问题。",
+      "answer": "房东",
+      "options": [
+        "房东",
+        "毛巾",
+        "厨房",
+        "工资"
+      ],
+      "explanation": "Điền 房东 (chủ nhà) theo cách dùng trong câu: Chủ nhà của tôi rất tốt, thường giúp tôi giải quyết vấn đề."
+    },
+    {
+      "wordId": "hsk4-L02-02",
+      "tokens": [
+        "房东",
+        "打算",
+        "出租",
+        "这个",
+        "房子",
+        "。"
+      ],
+      "cloze": "房东打算＿＿＿这个房子。",
+      "answer": "出租",
+      "options": [
+        "出租",
+        "日记",
+        "毛巾",
+        "整个"
+      ],
+      "explanation": "Điền 出租 (cho thuê) theo cách dùng trong câu: Chủ nhà dự định cho thuê căn nhà này."
+    },
+    {
+      "wordId": "hsk4-L02-03",
+      "tokens": [
+        "我",
+        "每个",
+        "月",
+        "要",
+        "交",
+        "两千块",
+        "钱",
+        "的",
+        "房租",
+        "。"
+      ],
+      "cloze": "我每个月要交两千块钱的＿＿＿。",
+      "answer": "房租",
+      "options": [
+        "房租",
+        "客厅",
+        "毛巾",
+        "位置"
+      ],
+      "explanation": "Điền 房租 (tiền thuê nhà) theo cách dùng trong câu: Mỗi tháng tôi phải trả hai nghìn tệ tiền thuê nhà."
+    },
+    {
+      "wordId": "hsk4-L02-04",
+      "tokens": [
+        "我花",
+        "了",
+        "半个",
+        "小时",
+        "才",
+        "把",
+        "房间",
+        "收拾",
+        "好",
+        "。"
+      ],
+      "cloze": "我花了半个小时才把房间＿＿＿好。",
+      "answer": "收拾",
+      "options": [
+        "收拾",
+        "工资",
+        "毛巾",
+        "整个"
+      ],
+      "explanation": "Điền 收拾 (dọn dẹp) theo cách dùng trong câu: Tôi mất nửa tiếng mới dọn dẹp phòng xong."
+    },
+    {
+      "wordId": "hsk4-L02-05",
+      "tokens": [
+        "我",
+        "想",
+        "在",
+        "学校",
+        "附近",
+        "租",
+        "一间",
+        "房子",
+        "。"
+      ],
+      "cloze": "我想在学校附近＿＿＿一间房子。",
+      "answer": "租",
+      "options": [
+        "租",
+        "查找",
+        "毕业",
+        "建议"
+      ],
+      "explanation": "Điền 租 (thuê) theo cách dùng trong câu: Tôi muốn thuê một căn phòng gần trường."
+    },
+    {
+      "wordId": "hsk4-L02-06",
+      "tokens": [
+        "嗯",
+        "，",
+        "我",
+        "马上",
+        "就",
+        "收拾",
+        "好",
+        "了",
+        "。"
+      ],
+      "cloze": "＿＿＿，我马上就收拾好了。",
+      "answer": "嗯",
+      "options": [
+        "嗯",
+        "厨房",
+        "工资",
+        "毛巾"
+      ],
+      "explanation": "Điền 嗯 (ừ; vâng) theo cách dùng trong câu: Ừ, tôi sắp dọn xong rồi."
+    },
+    {
+      "wordId": "hsk4-L02-07",
+      "tokens": [
+        "教室",
+        "里",
+        "的",
+        "灯",
+        "很亮",
+        "。"
+      ],
+      "cloze": "教室里的灯很＿＿＿。",
+      "answer": "亮",
+      "options": [
+        "亮",
+        "顺利",
+        "整个",
+        "同时"
+      ],
+      "explanation": "Điền 亮 (sáng; sáng lên) theo cách dùng trong câu: Đèn trong phòng học rất sáng."
+    },
+    {
+      "wordId": "hsk4-L02-08",
+      "tokens": [
+        "不",
+        "懂",
+        "的话",
+        "，",
+        "问",
+        "一下",
+        "老师",
+        "就是",
+        "了",
+        "。"
+      ],
+      "cloze": "不懂的话，问一下老师＿＿＿了。",
+      "answer": "就是",
+      "options": [
+        "就是",
+        "由于",
+        "不过",
+        "同时"
+      ],
+      "explanation": "Điền 就是 (cứ... là được) theo cách dùng trong câu: Nếu không hiểu thì chỉ cần hỏi thầy cô là được."
+    },
+    {
+      "wordId": "hsk4-L02-09",
+      "tokens": [
+        "奶奶",
+        "喜欢",
+        "种菜",
+        "。"
+      ],
+      "cloze": "奶奶喜欢＿＿＿菜。",
+      "answer": "种",
+      "options": [
+        "种",
+        "租",
+        "查找",
+        "毕业"
+      ],
+      "explanation": "Điền 种 (trồng) theo cách dùng trong câu: Bà thích trồng rau."
+    },
+    {
+      "wordId": "hsk4-L02-10",
+      "tokens": [
+        "我家",
+        "周围",
+        "有",
+        "好几个",
+        "公园",
+        "。"
+      ],
+      "cloze": "我家＿＿＿有好几个公园。",
+      "answer": "周围",
+      "options": [
+        "周围",
+        "整个",
+        "接着",
+        "同时"
+      ],
+      "explanation": "Điền 周围 (xung quanh) theo cách dùng trong câu: Quanh nhà tôi có vài công viên."
+    },
+    {
+      "wordId": "hsk4-L02-11",
+      "tokens": [
+        "这件",
+        "衣服",
+        "很",
+        "好看",
+        "，",
+        "不过",
+        "没有",
+        "我能",
+        "穿",
+        "的",
+        "号",
+        "。"
+      ],
+      "cloze": "这件衣服很好看，＿＿＿没有我能穿的号。",
+      "answer": "不过",
+      "options": [
+        "不过",
+        "毛巾",
+        "厨房",
+        "房租"
+      ],
+      "explanation": "Điền 不过 (tuy nhiên) theo cách dùng trong câu: Bộ quần áo này đẹp, nhưng không có cỡ tôi mặc vừa."
+    },
+    {
+      "wordId": "hsk4-L02-12",
+      "tokens": [
+        "他们",
+        "明年",
+        "六月",
+        "就要",
+        "大学毕业",
+        "了",
+        "。"
+      ],
+      "cloze": "他们明年六月就要大学＿＿＿了。",
+      "answer": "毕业",
+      "options": [
+        "毕业",
+        "入住",
+        "出租",
+        "收拾"
+      ],
+      "explanation": "Điền 毕业 (tốt nghiệp) theo cách dùng trong câu: Tháng Sáu năm sau họ sẽ tốt nghiệp đại học."
+    },
+    {
+      "wordId": "hsk4-L02-13",
+      "tokens": [
+        "现在",
+        "已经",
+        "很晚",
+        "了",
+        "，",
+        "他",
+        "恐怕",
+        "不会",
+        "来",
+        "了",
+        "。"
+      ],
+      "cloze": "现在已经很晚了，他＿＿＿不会来了。",
+      "answer": "恐怕",
+      "options": [
+        "恐怕",
+        "整个",
+        "毛巾",
+        "厨房"
+      ],
+      "explanation": "Điền 恐怕 (e rằng) theo cách dùng trong câu: Bây giờ đã muộn rồi, e rằng anh ấy sẽ không đến nữa."
+    },
+    {
+      "wordId": "hsk4-L02-14",
+      "tokens": [
+        "过年",
+        "咱们",
+        "要",
+        "一起",
+        "热闹",
+        "热闹",
+        "啊",
+        "。"
+      ],
+      "cloze": "过年咱们要一起＿＿＿热闹啊。",
+      "answer": "热闹",
+      "options": [
+        "热闹",
+        "顺利",
+        "理想",
+        "整个"
+      ],
+      "explanation": "Điền 热闹 (náo nhiệt) theo cách dùng trong câu: Tết đến chúng ta hãy cùng vui chơi cho náo nhiệt nhé."
+    },
+    {
+      "wordId": "hsk4-L02-15",
+      "tokens": [
+        "交完",
+        "房租",
+        "后",
+        "我们",
+        "就",
+        "可以",
+        "入住",
+        "新家",
+        "了",
+        "。"
+      ],
+      "cloze": "交完房租后我们就可以＿＿＿新家了。",
+      "answer": "入住",
+      "options": [
+        "入住",
+        "毕业",
+        "查看",
+        "查找"
+      ],
+      "explanation": "Điền 入住 (chuyển vào ở) theo cách dùng trong câu: Sau khi đóng tiền thuê, chúng tôi có thể dọn vào nhà mới."
+    },
+    {
+      "wordId": "hsk4-L02-16",
+      "tokens": [
+        "他",
+        "有",
+        "每天",
+        "写日记",
+        "的",
+        "习惯",
+        "。"
+      ],
+      "cloze": "他有每天写＿＿＿的习惯。",
+      "answer": "日记",
+      "options": [
+        "日记",
+        "房租",
+        "厨房",
+        "工资"
+      ],
+      "explanation": "Điền 日记 (nhật ký) theo cách dùng trong câu: Anh ấy có thói quen viết nhật ký hằng ngày."
+    },
+    {
+      "wordId": "hsk4-L02-17",
+      "tokens": [
+        "今天",
+        "我们",
+        "搬家",
+        "很",
+        "顺利",
+        "。"
+      ],
+      "cloze": "今天我们搬家很＿＿＿。",
+      "answer": "顺利",
+      "options": [
+        "顺利",
+        "整个",
+        "同时",
+        "由于"
+      ],
+      "explanation": "Điền 顺利 (thuận lợi) theo cách dùng trong câu: Hôm nay việc chuyển nhà của chúng tôi rất thuận lợi."
+    },
+    {
+      "wordId": "hsk4-L02-18",
+      "tokens": [
+        "我",
+        "给",
+        "他",
+        "打",
+        "了",
+        "电话",
+        "，",
+        "并",
+        "告诉",
+        "他",
+        "明天",
+        "开会",
+        "。"
+      ],
+      "cloze": "我给他打了电话，＿＿＿告诉他明天开会。",
+      "answer": "并",
+      "options": [
+        "并",
+        "由于",
+        "不过",
+        "恐怕"
+      ],
+      "explanation": "Điền 并 (và; hơn nữa; hoàn toàn không) theo cách dùng trong câu: Tôi đã gọi điện cho anh ấy và thông báo cuộc họp ngày mai."
+    },
+    {
+      "wordId": "hsk4-L02-19",
+      "tokens": [
+        "妈妈",
+        "在",
+        "客厅",
+        "看电视",
+        "呢",
+        "。"
+      ],
+      "cloze": "妈妈在＿＿＿看电视呢。",
+      "answer": "客厅",
+      "options": [
+        "客厅",
+        "工资",
+        "房租",
+        "毛巾"
+      ],
+      "explanation": "Điền 客厅 (phòng khách) theo cách dùng trong câu: Mẹ đang xem ti vi trong phòng khách."
+    },
+    {
+      "wordId": "hsk4-L02-20",
+      "tokens": [
+        "我",
+        "买",
+        "了",
+        "一台",
+        "新",
+        "电脑",
+        "。"
+      ],
+      "cloze": "我买了一＿＿＿新电脑。",
+      "answer": "台",
+      "options": [
+        "台",
+        "条",
+        "位",
+        "座"
+      ],
+      "explanation": "Điền 台 (lượng từ cho máy móc) theo cách dùng trong câu: Tôi đã mua một chiếc máy tính mới."
+    },
+    {
+      "wordId": "hsk4-L02-21",
+      "tokens": [
+        "我们",
+        "家",
+        "的",
+        "厨房",
+        "又",
+        "大",
+        "又",
+        "干净",
+        "。"
+      ],
+      "cloze": "我们家的＿＿＿又大又干净。",
+      "answer": "厨房",
+      "options": [
+        "厨房",
+        "工资",
+        "毛巾",
+        "信息"
+      ],
+      "explanation": "Điền 厨房 (nhà bếp) theo cách dùng trong câu: Bếp nhà chúng tôi vừa rộng vừa sạch."
+    },
+    {
+      "wordId": "hsk4-L02-22",
+      "tokens": [
+        "平常",
+        "我",
+        "很少",
+        "做饭",
+        "，",
+        "几乎",
+        "不用",
+        "厨房",
+        "。"
+      ],
+      "cloze": "＿＿＿我很少做饭，几乎不用厨房。",
+      "answer": "平常",
+      "options": [
+        "平常",
+        "毛巾",
+        "房租",
+        "整个"
+      ],
+      "explanation": "Điền 平常 (bình thường) theo cách dùng trong câu: Bình thường tôi rất ít nấu ăn, gần như không dùng bếp."
+    },
+    {
+      "wordId": "hsk4-L02-23",
+      "tokens": [
+        "我",
+        "基本上",
+        "每天",
+        "都",
+        "在",
+        "食堂",
+        "吃",
+        "早饭",
+        "。"
+      ],
+      "cloze": "我＿＿＿每天都在食堂吃早饭。",
+      "answer": "基本上",
+      "options": [
+        "基本上",
+        "厨房",
+        "日记",
+        "毛巾"
+      ],
+      "explanation": "Điền 基本上 (về cơ bản) theo cách dùng trong câu: Hầu như ngày nào tôi cũng ăn sáng ở căng tin."
+    },
+    {
+      "wordId": "hsk4-L02-24",
+      "tokens": [
+        "整个",
+        "上午",
+        "我",
+        "都",
+        "在",
+        "写日记",
+        "。"
+      ],
+      "cloze": "＿＿＿上午我都在写日记。",
+      "answer": "整个",
+      "options": [
+        "整个",
+        "台",
+        "接着",
+        "同时"
+      ],
+      "explanation": "Điền 整个 (toàn bộ) theo cách dùng trong câu: Cả buổi sáng tôi đều viết nhật ký."
+    },
+    {
+      "wordId": "hsk4-L02-25",
+      "tokens": [
+        "我",
+        "去",
+        "超市",
+        "买",
+        "了",
+        "两条",
+        "毛巾",
+        "。"
+      ],
+      "cloze": "我去超市买了两条＿＿＿。",
+      "answer": "毛巾",
+      "options": [
+        "毛巾",
+        "工资",
+        "信息",
+        "厨房"
+      ],
+      "explanation": "Điền 毛巾 (khăn mặt) theo cách dùng trong câu: Tôi đến siêu thị mua hai chiếc khăn mặt."
+    },
+    {
+      "wordId": "hsk4-L02-26",
+      "tokens": [
+        "大家",
+        "的",
+        "建议",
+        "对",
+        "我",
+        "帮助",
+        "很大",
+        "。"
+      ],
+      "cloze": "大家的＿＿＿对我帮助很大。",
+      "answer": "建议",
+      "options": [
+        "建议",
+        "房租",
+        "客厅",
+        "毛巾"
+      ],
+      "explanation": "Điền 建议 (đề nghị) theo cách dùng trong câu: Những lời góp ý của mọi người giúp ích cho tôi rất nhiều."
+    },
+    {
+      "wordId": "hsk4-L02-27",
+      "tokens": [
+        "请",
+        "用",
+        "手机",
+        "查看",
+        "你",
+        "的",
+        "考试成绩",
+        "。"
+      ],
+      "cloze": "请用手机＿＿＿你的考试成绩。",
+      "answer": "查看",
+      "options": [
+        "查看",
+        "出租",
+        "入住",
+        "毕业"
+      ],
+      "explanation": "Điền 查看 (kiểm tra; xem xét) theo cách dùng trong câu: Hãy dùng điện thoại kiểm tra kết quả thi của bạn."
+    },
+    {
+      "wordId": "hsk4-L02-28",
+      "tokens": [
+        "这",
+        "条",
+        "信息",
+        "对",
+        "我",
+        "来说",
+        "很",
+        "重要",
+        "。"
+      ],
+      "cloze": "这条＿＿＿对我来说很重要。",
+      "answer": "信息",
+      "options": [
+        "信息",
+        "工资",
+        "毛巾",
+        "厨房"
+      ],
+      "explanation": "Điền 信息 (thông tin) theo cách dùng trong câu: Thông tin này rất quan trọng đối với tôi."
+    },
+    {
+      "wordId": "hsk4-L02-29",
+      "tokens": [
+        "我",
+        "想",
+        "先",
+        "在",
+        "网上",
+        "查找",
+        "租房",
+        "信息",
+        "。"
+      ],
+      "cloze": "我想先在网上＿＿＿租房信息。",
+      "answer": "查找",
+      "options": [
+        "查找",
+        "入住",
+        "毕业",
+        "出租"
+      ],
+      "explanation": "Điền 查找 (tìm kiếm) theo cách dùng trong câu: Tôi muốn lên mạng tìm thông tin thuê nhà trước."
+    },
+    {
+      "wordId": "hsk4-L02-30",
+      "tokens": [
+        "这",
+        "本书",
+        "你",
+        "看",
+        "完",
+        "了",
+        "，",
+        "我",
+        "接着",
+        "看",
+        "。"
+      ],
+      "cloze": "这本书你看完了，我＿＿＿看。",
+      "answer": "接着",
+      "options": [
+        "接着",
+        "厨房",
+        "毛巾",
+        "工资"
+      ],
+      "explanation": "Điền 接着 (tiếp theo) theo cách dùng trong câu: Bạn đọc xong cuốn sách này thì tôi sẽ đọc tiếp."
+    },
+    {
+      "wordId": "hsk4-L02-31",
+      "tokens": [
+        "他",
+        "一边",
+        "听",
+        "音乐",
+        "，",
+        "一边",
+        "做作业",
+        "，",
+        "同时",
+        "还",
+        "想着",
+        "明天",
+        "的",
+        "考试",
+        "。"
+      ],
+      "cloze": "他一边听音乐，一边做作业，＿＿＿还想着明天的考试。",
+      "answer": "同时",
+      "options": [
+        "同时",
+        "毛巾",
+        "厨房",
+        "房租"
+      ],
+      "explanation": "Điền 同时 (đồng thời) theo cách dùng trong câu: Anh ấy vừa nghe nhạc vừa làm bài tập, đồng thời còn nghĩ đến kỳ thi ngày mai."
+    },
+    {
+      "wordId": "hsk4-L02-32",
+      "tokens": [
+        "在",
+        "这个",
+        "位置",
+        "可以",
+        "看到",
+        "整个",
+        "公园",
+        "。"
+      ],
+      "cloze": "在这个＿＿＿可以看到整个公园。",
+      "answer": "位置",
+      "options": [
+        "位置",
+        "毛巾",
+        "工资",
+        "日记"
+      ],
+      "explanation": "Điền 位置 (vị trí) theo cách dùng trong câu: Từ vị trí này có thể nhìn thấy toàn bộ công viên."
+    },
+    {
+      "wordId": "hsk4-L02-33",
+      "tokens": [
+        "请问",
+        "，",
+        "这",
+        "本书",
+        "的",
+        "价格",
+        "是",
+        "多少",
+        "？"
+      ],
+      "cloze": "请问，这本书的＿＿＿是多少？",
+      "answer": "价格",
+      "options": [
+        "价格",
+        "位置",
+        "毛巾",
+        "厨房"
+      ],
+      "explanation": "Điền 价格 (giá cả) theo cách dùng trong câu: Xin hỏi giá cuốn sách này là bao nhiêu?"
+    },
+    {
+      "wordId": "hsk4-L02-34",
+      "tokens": [
+        "这次",
+        "考试",
+        "我",
+        "的",
+        "成绩",
+        "很",
+        "理想",
+        "。"
+      ],
+      "cloze": "这次考试我的成绩很＿＿＿。",
+      "answer": "理想",
+      "options": [
+        "理想",
+        "热闹",
+        "整个",
+        "同时"
+      ],
+      "explanation": "Điền 理想 (lý tưởng) theo cách dùng trong câu: Kết quả kỳ thi này của tôi rất tốt như mong đợi."
+    },
+    {
+      "wordId": "hsk4-L02-35",
+      "tokens": [
+        "由于",
+        "生病",
+        "，",
+        "他",
+        "今天",
+        "没",
+        "来",
+        "上课",
+        "。"
+      ],
+      "cloze": "＿＿＿生病，他今天没来上课。",
+      "answer": "由于",
+      "options": [
+        "由于",
+        "不过",
+        "接着",
+        "并"
+      ],
+      "explanation": "Điền 由于 (do; bởi vì) theo cách dùng trong câu: Vì bị ốm nên hôm nay anh ấy không đến lớp."
+    },
+    {
+      "wordId": "hsk4-L02-36",
+      "tokens": [
+        "她",
+        "的",
+        "新",
+        "工作",
+        "工资",
+        "很",
+        "高",
+        "。"
+      ],
+      "cloze": "她的新工作＿＿＿很高。",
+      "answer": "工资",
+      "options": [
+        "工资",
+        "厨房",
+        "毛巾",
+        "日记"
+      ],
+      "explanation": "Điền 工资 (tiền lương) theo cách dùng trong câu: Công việc mới của cô ấy có mức lương cao."
+    },
+    {
+      "wordId": "hsk4-L02-37",
+      "tokens": [
+        "发了",
+        "工资",
+        "后",
+        "，",
+        "他",
+        "马上",
+        "有",
+        "了",
+        "安全感",
+        "。"
+      ],
+      "cloze": "发了工资后，他马上有了安全＿＿＿。",
+      "answer": "感",
+      "options": [
+        "感",
+        "租",
+        "台",
+        "亮"
+      ],
+      "explanation": "Điền 感 (cảm thấy; cảm giác) theo cách dùng trong câu: Sau khi nhận lương, anh ấy lập tức có cảm giác an toàn."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "hsk4-L02-G01-Q01",
+      "pointId": "hsk4-L02-G01",
+      "question": "不懂的话，问一下老师＿＿＿了。",
+      "options": [
+        "就是",
+        "由于",
+        "同时",
+        "接着"
+      ],
+      "answer": "就是",
+      "sentence": "不懂的话，问一下老师就是了。",
+      "pinyin": "bù dǒng de huà， wèn yī xià lǎo shī jiù shìle.",
+      "translation": "Nếu không hiểu thì chỉ cần hỏi thầy cô là được.",
+      "explanation": "Dùng cuối câu trong khẩu ngữ để khẳng định cách giải quyết đơn giản."
+    },
+    {
+      "id": "hsk4-L02-G02-Q01",
+      "pointId": "hsk4-L02-G02",
+      "question": "这件衣服很好看，＿＿＿没有我能穿的号。",
+      "options": [
+        "不过",
+        "由于",
+        "同时",
+        "并"
+      ],
+      "answer": "不过",
+      "sentence": "这件衣服很好看，不过没有我能穿的号。",
+      "pinyin": "zhè jiàn yī fú hěn hǎo kàn， bù guò méi yǒu wǒ néng chuānde hào.",
+      "translation": "Bộ quần áo này đẹp nhưng không có cỡ tôi mặc vừa.",
+      "explanation": "Liên kết hai vế có ý nghĩa tương phản, giống “nhưng/tuy nhiên”."
+    },
+    {
+      "id": "hsk4-L02-G03-Q01",
+      "pointId": "hsk4-L02-G03",
+      "question": "我给他打了电话，＿＿＿告诉他明天开会。",
+      "options": [
+        "并",
+        "由于",
+        "恐怕",
+        "不过"
+      ],
+      "answer": "并",
+      "sentence": "我给他打了电话，并告诉他明天开会。",
+      "pinyin": "wǒ gěi tā dǎ le diàn huà， bìng gào sù tā míng tiān kāi huì.",
+      "translation": "Tôi gọi điện cho anh ấy và thông báo ngày mai có cuộc họp.",
+      "explanation": "Nối hành động song song hoặc nhấn mạnh ý phủ định."
+    },
+    {
+      "id": "hsk4-L02-G04-Q01",
+      "pointId": "hsk4-L02-G04",
+      "question": "＿＿＿生病，他今天没来上课。",
+      "options": [
+        "由于",
+        "不过",
+        "并",
+        "接着"
+      ],
+      "answer": "由于",
+      "sentence": "由于生病，他今天没来上课。",
+      "pinyin": "yóu yú shēng bìng， tā jīn tiān méi lái shàng kè.",
+      "translation": "Vì bị ốm nên hôm nay anh ấy không đến lớp.",
+      "explanation": "Chỉ nguyên nhân dẫn đến sự việc."
+    }
+  ],
+  "readings": [
+    {
+      "id": "hsk4-L02-R01",
+      "lesson": 2,
+      "title": "Chọn căn nhà gần trường",
+      "text": "毕业以后，小林准备留在这座城市工作，先在网上查找租房信息。他看了三套房子，第一套价格低，不过周围太热闹，晚上恐怕睡不好。第二套位置好，房租却超过了他一半的工资。最后，他选了学校附近的一套小房子，客厅很亮，厨房也干净。房东建议他先查看房里的东西，有问题直接联系。小林交了房租，并约好星期六入住。他觉得，房子不一定要大，适合自己的生活才最重要。",
+      "pinyin": "bì yè yǐ hòu ， xiǎo lín zhǔn bèi liú zài zhè zuò chéng shì gōng zuò ， xiān zài wǎng shàng chá zhǎo zū fáng xìn xī 。 tā kàn le sān tào fáng zi ， dì yī tào jià gé dī ， bù guò zhōu wéi tài rè nào ， wǎn shàng kǒng pà shuì bù hǎo 。 dì èr tào wèi zhì hǎo ， fáng zū què chāo guò le tā yí bàn de gōng zī 。 zuì hòu ， tā xuǎn le xué xiào fù jìn de yī tào xiǎo fáng zi ， kè tīng hěn liàng ， chú fáng yě gān jìng 。 fáng dōng jiàn yì tā xiān chá kàn fáng lǐ de dōng xī ， yǒu wèn tí zhí jiē lián xì 。 xiǎo lín jiāo le fáng zū ， bìng yuē hǎo xīng qī liù rù zhù 。 tā jué de ， fáng zi bù yí dìng yào dà ， shì hé zì jǐ de shēng huó cái zuì zhòng yào 。",
+      "translation": "Sau khi tốt nghiệp, Tiểu Lâm tìm nhà để ở lại thành phố làm việc. Căn đầu rẻ nhưng ồn, căn thứ hai có vị trí tốt nhưng quá nửa tiền lương. Cuối cùng anh chọn căn nhỏ gần trường, phòng khách sáng và bếp sạch. Chủ nhà đề nghị kiểm tra đồ đạc và liên hệ khi cần. Anh trả tiền thuê, hẹn chuyển vào thứ Bảy và thấy nhà phù hợp quan trọng hơn nhà rộng.",
+      "questions": [
+        {
+          "id": "hsk4-L02-R01-Q01",
+          "kind": "Nội dung",
+          "question": "小林先在哪里查找租房信息？",
+          "options": [
+            "网上",
+            "食堂里",
+            "日记里",
+            "课堂上"
+          ],
+          "answer": "网上",
+          "explanation": "Theo đoạn: “先在网上查找租房信息”. Đáp án phù hợp: “网上”."
+        },
+        {
+          "id": "hsk4-L02-R01-Q02",
+          "kind": "Nội dung",
+          "question": "第一套房子有什么问题？",
+          "options": [
+            "周围太热闹",
+            "厨房太小",
+            "房租超过工资",
+            "没有客厅"
+          ],
+          "answer": "周围太热闹",
+          "explanation": "Theo đoạn: “晚上恐怕睡不好”. Đáp án phù hợp: “周围太热闹”."
+        },
+        {
+          "id": "hsk4-L02-R01-Q03",
+          "kind": "Nội dung",
+          "question": "小林约好哪天入住？",
+          "options": [
+            "星期六",
+            "星期一",
+            "星期三",
+            "星期五"
+          ],
+          "answer": "星期六",
+          "explanation": "Theo đoạn: “约好星期六入住”. Đáp án phù hợp: “星期六”."
+        },
+        {
+          "id": "hsk4-L02-R01-Q04",
+          "kind": "Ý chính",
+          "question": "这篇文章主要谈什么？",
+          "options": [
+            "选择适合自己的房子",
+            "如何提高工资",
+            "毕业考试的安排",
+            "参观学校的过程"
+          ],
+          "answer": "选择适合自己的房子",
+          "explanation": "Theo đoạn: “适合自己的生活才最重要”. Đáp án phù hợp: “选择适合自己的房子”."
+        },
+        {
+          "id": "hsk4-L02-R01-Q05",
+          "kind": "Suy luận",
+          "question": "从选房过程可以看出什么？",
+          "options": [
+            "小林考虑了价格和生活环境",
+            "小林只关心房子的大小",
+            "小林不愿意查看房里的东西",
+            "小林决定不在这座城市工作"
+          ],
+          "answer": "小林考虑了价格和生活环境",
+          "explanation": "Theo đoạn: “第二套位置好，房租却超过了他一半的工资”. Đáp án phù hợp: “小林考虑了价格和生活环境”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L02-R02",
+      "lesson": 2,
+      "title": "Ngày chuyển vào nhà mới",
+      "text": "星期六早上，我和朋友一起搬家。由于下雨，车比约好的时间晚到了半个小时，我有点儿着急。朋友说：“东西已经收拾好了，等车来就是了。”到了新家，房东给我们介绍了厨房的使用方法，接着带我们查看客厅。屋子基本上没有问题，只是少了两条毛巾。我们去周围的超市买了需要的东西，下午整个房间就收拾好了。晚上，我在日记里写道，今天虽然有点儿累，搬家还是很顺利，也很感谢朋友的帮助。",
+      "pinyin": "xīng qī liù zǎo shàng ， wǒ hé péng yǒu yì qǐ bān jiā 。 yóu yú xià yǔ ， chē bǐ yuē hǎo de shí jiān wǎn dào le bàn gè xiǎo shí ， wǒ yǒu diǎn ér zháo jí 。 péng yǒu shuō ：“ dōng xī yǐ jīng shōu shí hǎo le ， děng chē lái jiù shì le 。” dào le xīn jiā ， fáng dōng gěi wǒ men jiè shào le chú fáng de shǐ yòng fāng fǎ ， jiē zhe dài wǒ men chá kàn kè tīng 。 wū zi jī běn shàng méi yǒu wèn tí ， zhǐ shì shǎo le liǎng tiáo máo jīn 。 wǒ men qù zhōu wéi de chāo shì mǎi le xū yào de dōng xī ， xià wǔ zhěng gè fáng jiān jiù shōu shí hǎo le 。 wǎn shàng ， wǒ zài rì jì lǐ xiě dào ， jīn tiān suī rán yǒu diǎn ér lèi ， bān jiā hái shì hěn shùn lì ， yě hěn gǎn xiè péng yǒu de bāng zhù 。",
+      "translation": "Sáng thứ Bảy tôi chuyển nhà cùng bạn. Vì mưa, xe đến muộn nửa giờ. Bạn bảo đồ đã dọn xong, chỉ cần chờ xe. Tại nhà mới, chủ nhà giới thiệu cách dùng bếp và kiểm tra phòng khách. Nhà chỉ thiếu hai chiếc khăn. Chúng tôi mua đồ ở siêu thị gần đó và dọn xong vào buổi chiều. Tôi ghi nhật ký rằng tuy mệt nhưng chuyển nhà thuận lợi và biết ơn bạn.",
+      "questions": [
+        {
+          "id": "hsk4-L02-R02-Q01",
+          "kind": "Nội dung",
+          "question": "车为什么晚到？",
+          "options": [
+            "因为下雨",
+            "因为房东不在",
+            "因为朋友没收拾好",
+            "因为司机买毛巾去了"
+          ],
+          "answer": "因为下雨",
+          "explanation": "Theo đoạn: “由于下雨”. Đáp án phù hợp: “因为下雨”."
+        },
+        {
+          "id": "hsk4-L02-R02-Q02",
+          "kind": "Nội dung",
+          "question": "新家少了什么？",
+          "options": [
+            "两条毛巾",
+            "一台电脑",
+            "一张桌子",
+            "两把椅子"
+          ],
+          "answer": "两条毛巾",
+          "explanation": "Theo đoạn: “只是少了两条毛巾”. Đáp án phù hợp: “两条毛巾”."
+        },
+        {
+          "id": "hsk4-L02-R02-Q03",
+          "kind": "Nội dung",
+          "question": "他们什么时候收拾好房间？",
+          "options": [
+            "下午",
+            "第二天早上",
+            "星期天晚上",
+            "下个星期"
+          ],
+          "answer": "下午",
+          "explanation": "Theo đoạn: “下午整个房间就收拾好了”. Đáp án phù hợp: “下午”."
+        },
+        {
+          "id": "hsk4-L02-R02-Q04",
+          "kind": "Ý chính",
+          "question": "这篇日记主要记录了什么？",
+          "options": [
+            "搬进新家的经过",
+            "一次不成功的购物",
+            "厨房发生的问题",
+            "朋友毕业的经历"
+          ],
+          "answer": "搬进新家的经过",
+          "explanation": "Theo đoạn: “今天虽然有点儿累，搬家还是很顺利”. Đáp án phù hợp: “搬进新家的经过”."
+        },
+        {
+          "id": "hsk4-L02-R02-Q05",
+          "kind": "Suy luận",
+          "question": "作者对朋友是什么态度？",
+          "options": [
+            "感谢朋友的帮助",
+            "认为朋友没有耐心",
+            "希望朋友赶快离开",
+            "不愿意再联系朋友"
+          ],
+          "answer": "感谢朋友的帮助",
+          "explanation": "Theo đoạn: “也很感谢朋友的帮助”. Đáp án phù hợp: “感谢朋友的帮助”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L02-R03",
+      "lesson": 2,
+      "title": "Trao đổi rõ với chủ nhà",
+      "text": "小王入住新房以后，发现厨房里的一台机器不能用了。他平常很少做饭，不过周末想请朋友来吃饭，所以希望早点儿解决。房东接到电话后，建议他先拍张照片，再把机器的情况写清楚。小王按照建议发送了信息，并约好第二天下午见面。房东查看后发现问题不大，当天就修好了。小王原来恐怕要自己付钱，房东却说这次不用收费。这件事让他明白，遇到问题及时交流，比一个人着急更有用。",
+      "pinyin": "xiǎo wáng rù zhù xīn fáng yǐ hòu ， fā xiàn chú fáng lǐ de yī tái jī qì bù néng yòng le 。 tā píng cháng hěn shǎo zuò fàn ， bù guò zhōu mò xiǎng qǐng péng yǒu lái chī fàn ， suǒ yǐ xī wàng zǎo diǎn ér jiě jué 。 fáng dōng jiē dào diàn huà hòu ， jiàn yì tā xiān pāi zhāng zhào piān ， zài bǎ jī qì de qíng kuàng xiě qīng chǔ 。 xiǎo wáng àn zhào jiàn yì fā sòng le xìn xī ， bìng yuē hǎo dì èr tiān xià wǔ jiàn miàn 。 fáng dōng chá kàn hòu fā xiàn wèn tí bù dà ， dàng tiān jiù xiū hǎo le 。 xiǎo wáng yuán lái kǒng pà yào zì jǐ fù qián ， fáng dōng què shuō zhè cì bù yòng shōu fèi 。 zhè jiàn shì ràng tā míng bái ， yù dào wèn tí jí shí jiāo liú ， bǐ yí gè rén zháo jí gèng yǒu yòng 。",
+      "translation": "Sau khi chuyển vào, Tiểu Vương phát hiện một thiết bị trong bếp bị hỏng. Anh ít nấu nhưng muốn mời bạn ăn cuối tuần. Chủ nhà đề nghị chụp ảnh và mô tả rõ tình trạng. Hai người hẹn chiều hôm sau; thiết bị được sửa ngay trong ngày, không thu phí như anh lo. Anh nhận ra trao đổi kịp thời hữu ích hơn ngồi lo một mình.",
+      "questions": [
+        {
+          "id": "hsk4-L02-R03-Q01",
+          "kind": "Nội dung",
+          "question": "小王发现哪里有问题？",
+          "options": [
+            "厨房里的一台机器",
+            "客厅的窗户",
+            "卧室的灯",
+            "房门的钥匙"
+          ],
+          "answer": "厨房里的一台机器",
+          "explanation": "Theo đoạn: “厨房里的一台机器不能用了”. Đáp án phù hợp: “厨房里的一台机器”."
+        },
+        {
+          "id": "hsk4-L02-R03-Q02",
+          "kind": "Nội dung",
+          "question": "房东建议小王先做什么？",
+          "options": [
+            "拍照并说明情况",
+            "马上买新机器",
+            "搬到别的地方",
+            "自己把机器扔掉"
+          ],
+          "answer": "拍照并说明情况",
+          "explanation": "Theo đoạn: “先拍张照片，再把机器的情况写清楚”. Đáp án phù hợp: “拍照并说明情况”."
+        },
+        {
+          "id": "hsk4-L02-R03-Q03",
+          "kind": "Nội dung",
+          "question": "这次修理需要小王付钱吗？",
+          "options": [
+            "不用付钱",
+            "付一半房租",
+            "付全部工资",
+            "先交两百块钱"
+          ],
+          "answer": "不用付钱",
+          "explanation": "Theo đoạn: “这次不用收费”. Đáp án phù hợp: “不用付钱”."
+        },
+        {
+          "id": "hsk4-L02-R03-Q04",
+          "kind": "Ý chính",
+          "question": "文章主要说明什么？",
+          "options": [
+            "遇到问题要及时交流",
+            "租房必须自己修机器",
+            "周末不应该请朋友",
+            "厨房比客厅重要"
+          ],
+          "answer": "遇到问题要及时交流",
+          "explanation": "Theo đoạn: “遇到问题及时交流，比一个人着急更有用”. Đáp án phù hợp: “遇到问题要及时交流”."
+        },
+        {
+          "id": "hsk4-L02-R03-Q05",
+          "kind": "Suy luận",
+          "question": "房东的做法说明他怎么样？",
+          "options": [
+            "愿意帮助解决问题",
+            "不愿意听租客说话",
+            "只关心提高房租",
+            "不让租客使用厨房"
+          ],
+          "answer": "愿意帮助解决问题",
+          "explanation": "Theo đoạn: “当天就修好了”. Đáp án phù hợp: “愿意帮助解决问题”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L02-R04",
+      "lesson": 2,
+      "title": "Cân đối tiền thuê và tiền lương",
+      "text": "刚开始工作时，姐姐想租一套位置理想的大房子。她在网上看了很多信息，发现这样的房子价格很高，交完房租以后，工资基本上不剩多少。朋友建议她把每月的生活费也写下来，不能只看房子好不好看。姐姐重新查看信息，最后和同事一起租了两间卧室的房子。她们共用客厅和厨房，各自收拾自己的房间。虽然房子没有原来想的那么大，不过周围交通方便，每月还能存一些钱。姐姐说，现在的安排更适合自己。",
+      "pinyin": "gāng kāi shǐ gōng zuò shí ， jiě jiě xiǎng zū yī tào wèi zhì lǐ xiǎng de dà fáng zi 。 tā zài wǎng shàng kàn le hěn duō xìn xī ， fā xiàn zhè yàng de fáng zi jià gé hěn gāo ， jiāo wán fáng zū yǐ hòu ， gōng zī jī běn shàng bù shèng duō shǎo 。 péng yǒu jiàn yì tā bǎ měi yuè de shēng huó fèi yě xiě xià lái ， bù néng zhǐ kàn fáng zi hǎo bù hǎo kàn 。 jiě jiě chóng xīn chá kàn xìn xī ， zuì hòu hé tóng shì yì qǐ zū le liǎng jiān wò shì de fáng zi 。 tā men gòng yòng kè tīng hé chú fáng ， gè zì shōu shí zì jǐ de fáng jiān 。 suī rán fáng zi méi yǒu yuán lái xiǎng de nà me dà ， bù guò zhōu wéi jiāo tōng fāng biàn ， měi yuè hái néng cún yī xiē qián 。 jiě jiě shuō ， xiàn zài de ān pái gèng shì hé zì jǐ 。",
+      "translation": "Khi mới đi làm, chị muốn thuê căn rộng ở vị trí lý tưởng nhưng tiền thuê gần hết lương. Bạn khuyên tính cả sinh hoạt phí. Chị tìm lại và thuê chung căn hai phòng ngủ với đồng nghiệp, dùng chung phòng khách và bếp. Nhà nhỏ hơn dự tính nhưng đi lại tiện, còn tiết kiệm được tiền. Chị thấy lựa chọn này phù hợp hơn.",
+      "questions": [
+        {
+          "id": "hsk4-L02-R04-Q01",
+          "kind": "Nội dung",
+          "question": "姐姐原来想租什么样的房子？",
+          "options": [
+            "位置理想的大房子",
+            "没有厨房的房子",
+            "离公司最远的房子",
+            "只住一晚的房子"
+          ],
+          "answer": "位置理想的大房子",
+          "explanation": "Theo đoạn: “位置理想的大房子”. Đáp án phù hợp: “位置理想的大房子”."
+        },
+        {
+          "id": "hsk4-L02-R04-Q02",
+          "kind": "Nội dung",
+          "question": "朋友建议姐姐考虑什么？",
+          "options": [
+            "每月的生活费",
+            "房东的日记",
+            "同事的毕业时间",
+            "厨房里毛巾的颜色"
+          ],
+          "answer": "每月的生活费",
+          "explanation": "Theo đoạn: “把每月的生活费也写下来”. Đáp án phù hợp: “每月的生活费”."
+        },
+        {
+          "id": "hsk4-L02-R04-Q03",
+          "kind": "Nội dung",
+          "question": "姐姐最后和谁一起租房？",
+          "options": [
+            "同事",
+            "房东",
+            "老师",
+            "父母"
+          ],
+          "answer": "同事",
+          "explanation": "Theo đoạn: “最后和同事一起租了两间卧室的房子”. Đáp án phù hợp: “同事”."
+        },
+        {
+          "id": "hsk4-L02-R04-Q04",
+          "kind": "Ý chính",
+          "question": "这篇文章主要介绍什么？",
+          "options": [
+            "根据收入调整租房选择",
+            "如何出售自己的房子",
+            "同事之间的一次争吵",
+            "买厨房机器的经验"
+          ],
+          "answer": "根据收入调整租房选择",
+          "explanation": "Theo đoạn: “现在的安排更适合自己”. Đáp án phù hợp: “根据收入调整租房选择”."
+        },
+        {
+          "id": "hsk4-L02-R04-Q05",
+          "kind": "Suy luận",
+          "question": "姐姐为什么满意现在的房子？",
+          "options": [
+            "交通方便又能存钱",
+            "每月不用付房租",
+            "比所有房子都大",
+            "不需要收拾房间"
+          ],
+          "answer": "交通方便又能存钱",
+          "explanation": "Theo đoạn: “周围交通方便，每月还能存一些钱”. Đáp án phù hợp: “交通方便又能存钱”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L02-R05",
+      "lesson": 2,
+      "title": "Một góc nhỏ để viết nhật ký",
+      "text": "我平常喜欢写日记，所以租房时希望有一个安静又亮的地方。房东带我看了客厅，也介绍了周围的环境。这套房子离市场不远，买东西方便，不过晚上没有太多车经过，基本上很安静。入住以后，我把书桌放在窗边，接着收拾了厨房，买了毛巾和一台小电扇。整个过程只用了一个下午。由于白天要上班，我每天晚上才有时间写日记。朋友来看我时说，房子虽然普通，安排得却很舒服。我也觉得这里很理想。",
+      "pinyin": "wǒ píng cháng xǐ huān xiě rì jì ， suǒ yǐ zū fáng shí xī wàng yǒu yí gè ān jìng yòu liàng de dì fāng 。 fáng dōng dài wǒ kàn le kè tīng ， yě jiè shào le zhōu wéi de huán jìng 。 zhè tào fáng zi lí shì chǎng bù yuǎn ， mǎi dōng xī fāng biàn ， bù guò wǎn shàng méi yǒu tài duō chē jīng guò ， jī běn shàng hěn ān jìng 。 rù zhù yǐ hòu ， wǒ bǎ shū zhuō fàng zài chuāng biān ， jiē zhe shōu shí le chú fáng ， mǎi le máo jīn hé yī tái xiǎo diàn shàn 。 zhěng gè guò chéng zhǐ yòng le yí gè xià wǔ 。 yóu yú bái tiān yào shàng bān ， wǒ měi tiān wǎn shàng cái yǒu shí jiān xiě rì jì 。 péng yǒu lái kàn wǒ shí shuō ， fáng zi suī rán pǔ tōng ， ān pái dé què hěn shū fú 。 wǒ yě jué de zhè lǐ hěn lǐ xiǎng 。",
+      "translation": "Tôi thích viết nhật ký nên tìm nơi yên tĩnh và sáng. Nhà gần chợ, tiện mua sắm nhưng ít xe ban đêm. Sau khi chuyển vào, tôi đặt bàn cạnh cửa sổ, dọn bếp, mua khăn và quạt nhỏ, chỉ mất một buổi chiều. Vì đi làm ban ngày, tôi viết vào buổi tối. Bạn thấy căn nhà tuy bình thường nhưng bố trí dễ chịu; tôi cũng rất hài lòng.",
+      "questions": [
+        {
+          "id": "hsk4-L02-R05-Q01",
+          "kind": "Nội dung",
+          "question": "作者租房时特别希望有什么？",
+          "options": [
+            "安静又亮的地方",
+            "很大的停车场",
+            "热闹的夜市",
+            "免费的电脑"
+          ],
+          "answer": "安静又亮的地方",
+          "explanation": "Theo đoạn: “希望有一个安静又亮的地方”. Đáp án phù hợp: “安静又亮的地方”."
+        },
+        {
+          "id": "hsk4-L02-R05-Q02",
+          "kind": "Nội dung",
+          "question": "书桌被放在哪里？",
+          "options": [
+            "窗边",
+            "厨房中间",
+            "市场门口",
+            "客厅门外"
+          ],
+          "answer": "窗边",
+          "explanation": "Theo đoạn: “把书桌放在窗边”. Đáp án phù hợp: “窗边”."
+        },
+        {
+          "id": "hsk4-L02-R05-Q03",
+          "kind": "Nội dung",
+          "question": "作者为什么晚上才写日记？",
+          "options": [
+            "白天要上班",
+            "晚上房租更便宜",
+            "白天没有书桌",
+            "房东只允许晚上写"
+          ],
+          "answer": "白天要上班",
+          "explanation": "Theo đoạn: “由于白天要上班”. Đáp án phù hợp: “白天要上班”."
+        },
+        {
+          "id": "hsk4-L02-R05-Q04",
+          "kind": "Ý chính",
+          "question": "文章主要介绍什么？",
+          "options": [
+            "布置适合自己的租房生活",
+            "在市场查找工作",
+            "房东搬家的原因",
+            "如何修理电扇"
+          ],
+          "answer": "布置适合自己的租房生活",
+          "explanation": "Theo đoạn: “安排得却很舒服”. Đáp án phù hợp: “布置适合自己的租房生活”."
+        },
+        {
+          "id": "hsk4-L02-R05-Q05",
+          "kind": "Suy luận",
+          "question": "朋友觉得这套房子怎么样？",
+          "options": [
+            "普通但是舒服",
+            "热闹但是太暗",
+            "很大但是不方便",
+            "便宜但是不能入住"
+          ],
+          "answer": "普通但是舒服",
+          "explanation": "Theo đoạn: “房子虽然普通，安排得却很舒服”. Đáp án phù hợp: “普通但是舒服”."
+        }
+      ],
+      "sourceType": "supplementary"
+    }
+  ],
+  "writing": {
+    "title": "Căn nhà phù hợp",
+    "prompt": "Hãy viết khoảng 100–150 chữ Hán về việc tìm và chuyển vào một căn nhà phù hợp: vị trí, giá thuê, môi trường và lý do lựa chọn.",
+    "suggestedWords": [
+      "房租",
+      "周围",
+      "入住",
+      "位置",
+      "价格"
+    ],
+    "suggestedGrammar": [
+      "Động từ / Mệnh đề + 就是了",
+      "Mệnh đề 1，不过 + Mệnh đề 2"
+    ],
+    "outline": [
+      "Nêu nhu cầu và điều kiện thuê nhà.",
+      "So sánh giá, vị trí và môi trường.",
+      "Kể việc chuẩn bị chuyển vào và cảm nhận.",
+      "Kiểm tra trật tự từ và các cấu trúc ngữ pháp đã học."
+    ],
+    "sample": "毕业以后，我在网上查找租房信息。我希望房子离公司近一些，房租也不要太高。看了几套以后，我选了一套有小客厅和厨房的房子。由于周围交通方便，每天上班很顺利。不过，房间需要先收拾一下。房东建议我周末入住，并答应提前准备好钥匙。我觉得房子虽然不大，位置和价格都很适合自己。",
+    "samplePinyin": "bì yè yǐ hòu ， wǒ zài wǎng shàng chá zhǎo zū fáng xìn xī 。 wǒ xī wàng fáng zi lí gōng sī jìn yī xiē ， fáng zū yě bú yào tài gāo 。 kàn le jǐ tào yǐ hòu ， wǒ xuǎn le yī tào yǒu xiǎo kè tīng hé chú fáng de fáng zi 。 yóu yú zhōu wéi jiāo tōng fāng biàn ， měi tiān shàng bān hěn shùn lì 。 bù guò ， fáng jiān xū yào xiān shōu shí yī xià 。 fáng dōng jiàn yì wǒ zhōu mò rù zhù ， bìng dā yìng tí qián zhǔn bèi hǎo yào shi 。 wǒ jué de fáng zi suī rán bù dà ， wèi zhì hé jià gé dōu hěn shì hé zì jǐ 。",
+    "translation": "Sau khi tốt nghiệp, tôi tìm thông tin thuê nhà trên mạng. Tôi muốn nhà gần công ty và tiền thuê không quá cao. Sau khi xem vài căn, tôi chọn căn có phòng khách nhỏ và bếp. Nhờ giao thông thuận tiện nên đi làm dễ dàng, nhưng cần dọn phòng trước. Chủ nhà đề nghị chuyển vào cuối tuần, hứa chuẩn bị chìa khóa. Tôi thấy nhà nhỏ nhưng vị trí và giá phù hợp."
+  }
+}

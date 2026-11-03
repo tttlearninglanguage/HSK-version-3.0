@@ -1,0 +1,507 @@
+{
+  "id": 3,
+  "volume": "upper",
+  "title": "手机扫一下",
+  "subtitle": "Quét bằng điện thoại",
+  "words": [
+    {
+      "id": "hsk4-L03-01",
+      "hanzi": "直接",
+      "pinyin": "zhíjiē",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "trực tiếp",
+      "example": "你到了以后直接给我打电话。",
+      "examplePinyin": "nǐ dào le yǐ hòu zhí jiē gěi wǒ dǎ diàn huà.",
+      "translation": "Sau khi đến nơi, bạn hãy gọi điện trực tiếp cho tôi.",
+      "partOfSpeech": "Tính từ"
+    },
+    {
+      "id": "hsk4-L03-02",
+      "hanzi": "转",
+      "pinyin": "zhuǎn",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "rẽ; chuyển",
+      "example": "前面那个十字路口往左转，就能看到银行。",
+      "examplePinyin": "qián miàn nà gè shí zì lù kǒu wǎng zuǒ zhuǎn， jiù néng kàn dào yín xíng.",
+      "translation": "Đến ngã tư phía trước, rẽ trái là sẽ nhìn thấy ngân hàng.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L03-03",
+      "hanzi": "正好",
+      "pinyin": "zhènghǎo",
+      "sourcePartOfSpeech": "adv./adj.",
+      "meaning": "vừa hay; đúng lúc",
+      "example": "正好我也要找王老师，咱们一起去吧。",
+      "examplePinyin": "zhèng hǎo wǒ yě yào zhǎowáng lǎo shī， zán men yī qǐ qù ba.",
+      "translation": "Tôi cũng đang muốn tìm thầy Vương, chúng ta cùng đi nhé.",
+      "partOfSpeech": "Phó từ / Tính từ"
+    },
+    {
+      "id": "hsk4-L03-04",
+      "hanzi": "熟悉",
+      "pinyin": "shúxi",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "quen thuộc",
+      "example": "这条路我很熟悉，我带你过去。",
+      "examplePinyin": "zhè tiáo lù wǒ hěn shú xī， wǒ dài nǐ guò qù.",
+      "translation": "Tôi rất quen con đường này, để tôi dẫn bạn đi.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L03-05",
+      "hanzi": "正",
+      "pinyin": "zhèng",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "thẳng; chính",
+      "example": "学校的正门在前面。",
+      "examplePinyin": "xué xiào de zhèng mén zài qián miàn 。",
+      "translation": "Cổng chính của trường ở phía trước.",
+      "partOfSpeech": "Tính từ",
+      "sourceOriginal": {
+        "example": "正好我也要找王老师，咱们一起去吧。",
+        "examplePinyin": "zhèng hǎo wǒ yě yào zhǎowáng lǎo shī， zán men yī qǐ qù ba.",
+        "translation": "Tôi cũng đang muốn tìm thầy Vương, chúng ta cùng đi nhé."
+      },
+      "sourceNote": "Đã hiệu chỉnh ví dụ/phiên âm/dịch bị lệch trong tài liệu; bản gốc lưu trong dữ liệu đối chiếu."
+    },
+    {
+      "id": "hsk4-L03-06",
+      "hanzi": "目的地",
+      "pinyin": "mùdìdì",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "điểm đến",
+      "example": "你从这里一直向前走，就能找到目的地。",
+      "examplePinyin": "nǐ cóng zhè lǐ yī zhí xiàng qián zǒu， jiù néng zhǎodào mùde de.",
+      "translation": "Bạn cứ đi thẳng từ đây là sẽ đến đích.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L03-07",
+      "hanzi": "下载",
+      "pinyin": "xiàzài",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "tải xuống",
+      "example": "老师让我们从网上下载学习材料。",
+      "examplePinyin": "lǎo shī ràng wǒ men cóng wǎng shàng xià zài xué xí cái liào.",
+      "translation": "Thầy giáo bảo chúng tôi tải tài liệu học tập từ trên mạng.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L03-08",
+      "hanzi": "进行",
+      "pinyin": "jìnxíng",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "tiến hành",
+      "example": "我们下周要进行一次中文考试。",
+      "examplePinyin": "wǒ men xià zhōu yào jìn xíng yī cì zhōng wén kǎo shì.",
+      "translation": "Tuần tới chúng tôi sẽ có một kỳ thi tiếng Trung.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L03-09",
+      "hanzi": "支付",
+      "pinyin": "zhīfù",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "thanh toán",
+      "example": "我可以用信用卡支付吗？",
+      "examplePinyin": "wǒ kě yǐ yòngxìn yòngkǎ zhīfù ma？",
+      "translation": "Tôi có thể thanh toán bằng thẻ tín dụng không?",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L03-10",
+      "hanzi": "软件",
+      "pinyin": "ruǎnjiàn",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "phần mềm",
+      "example": "这个软件很好用。",
+      "examplePinyin": "zhè gè ruǎn jiàn hěn hǎo yòng.",
+      "translation": "Phần mềm này rất dễ sử dụng.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L03-11",
+      "hanzi": "不仅",
+      "pinyin": "bùjǐn",
+      "sourcePartOfSpeech": "conj.",
+      "meaning": "không chỉ",
+      "example": "他不仅会说中文，还会唱中文歌呢。",
+      "examplePinyin": "tā bù jǐn huì shuō zhōng wén， hái huì chàng zhōng wén gē ne.",
+      "translation": "Anh ấy không chỉ nói được tiếng Trung mà còn hát được nhạc Trung Quốc.",
+      "partOfSpeech": "Liên từ"
+    },
+    {
+      "id": "hsk4-L03-12",
+      "hanzi": "扫码",
+      "pinyin": "sǎomǎ",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "quét mã",
+      "example": "来中国后，我也学会扫码支付了。",
+      "examplePinyin": "lái zhōng guó hòu， wǒ yě xué huì sǎomǎ zhīfù le.",
+      "translation": "Sau khi đến Trung Quốc, tôi cũng đã học cách quét mã để thanh toán.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L03-13",
+      "hanzi": "结账",
+      "pinyin": "jiézhàng",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "thanh toán hóa đơn",
+      "example": "我们吃完了，现在去结账。",
+      "examplePinyin": "wǒ men chī wán le， xiàn zài qù jié zhàng.",
+      "translation": "Chúng tôi ăn xong rồi, bây giờ đi thanh toán thôi.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L03-14",
+      "hanzi": "购物",
+      "pinyin": "gòuwù",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "mua sắm",
+      "example": "很多人喜欢在网上购物。",
+      "examplePinyin": "hěn duō rén xǐ huān zài wǎng shàng gòu wù.",
+      "translation": "Rất nhiều người thích mua sắm trên mạng.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L03-15",
+      "hanzi": "订",
+      "pinyin": "dìng",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "đặt; đặt mua",
+      "example": "我想订一张明天去北京的火车票。",
+      "examplePinyin": "wǒ xiǎng dìng yī zhāng míng tiān qù běi jīng de huǒchē piào.",
+      "translation": "Tôi muốn đặt một vé tàu đi Bắc Kinh ngày mai.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L03-16",
+      "hanzi": "快递",
+      "pinyin": "kuàidì",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "chuyển phát nhanh",
+      "example": "我的快递到了，现在去拿。",
+      "examplePinyin": "wǒ de kuài dì dào le， xiàn zài qù ná.",
+      "translation": "Hàng chuyển phát nhanh của tôi đến rồi, bây giờ tôi đi nhận.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L03-17",
+      "hanzi": "现金",
+      "pinyin": "xiànjīn",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "tiền mặt",
+      "example": "现在很多人习惯用手机支付，出门很少带现金。",
+      "examplePinyin": "xiàn zài hěn duō rén xí guànyòngshǒu jīzhīfù， chū mén hěn shǎo dài xiàn jīn.",
+      "translation": "Bây giờ nhiều người quen thanh toán bằng điện thoại, ra đường ít mang tiền mặt.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L03-18",
+      "hanzi": "网购",
+      "pinyin": "wǎnggòu",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "mua sắm trực tuyến",
+      "example": "妈妈喜欢网购水果。",
+      "examplePinyin": "mā mā xǐ huān wǎng gòu shuǐ guǒ.",
+      "translation": "Mẹ thích mua hoa quả trên mạng.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L03-19",
+      "hanzi": "寄",
+      "pinyin": "jì",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "gửi",
+      "example": "他从北京寄来一本书。",
+      "examplePinyin": "tā cóng běi jīng jì lái yī běnshū.",
+      "translation": "Anh ấy gửi từ Bắc Kinh đến một cuốn sách.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L03-20",
+      "hanzi": "等",
+      "pinyin": "děng",
+      "sourcePartOfSpeech": "part.",
+      "meaning": "vân vân",
+      "example": "微信、支付宝等软件都可以扫码支付。",
+      "examplePinyin": "wēi xìn, zhīfù bǎo děng ruǎn jiàn dōu kě yǐ sǎomǎ zhīfù.",
+      "translation": "Những phần mềm như WeChat, Alipay đều có thể quét mã thanh toán.",
+      "partOfSpeech": "Trợ từ"
+    },
+    {
+      "id": "hsk4-L03-21",
+      "hanzi": "货",
+      "pinyin": "huò",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "hàng hóa",
+      "example": "这次的货都卖完了。",
+      "examplePinyin": "zhè cì de huò dōu mài wán le.",
+      "translation": "Lô hàng lần này đã bán hết.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L03-22",
+      "hanzi": "甚至",
+      "pinyin": "shènzhì",
+      "sourcePartOfSpeech": "conj.",
+      "meaning": "thậm chí",
+      "example": "这个题太难了，甚至老师也要想很久。",
+      "examplePinyin": "zhè gè tí tài nán le， shèn zhì lǎo shī yě yào xiǎng hěn jiǔ.",
+      "translation": "Câu hỏi này khó quá, ngay cả thầy giáo cũng phải nghĩ rất lâu.",
+      "partOfSpeech": "Liên từ"
+    },
+    {
+      "id": "hsk4-L03-23",
+      "hanzi": "改变",
+      "pinyin": "gǎibiàn",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "thay đổi",
+      "example": "手机改变了我们的生活。",
+      "examplePinyin": "shǒu jīgǎibiàn le wǒ men de shēng huó.",
+      "translation": "Điện thoại di động đã thay đổi cuộc sống của chúng ta.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L03-24",
+      "hanzi": "手指",
+      "pinyin": "shǒuzhǐ",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "ngón tay",
+      "example": "小妹妹的手指很可爱。",
+      "examplePinyin": "xiǎo mèi mèi de shǒu zhǐ hěn kě ài.",
+      "translation": "Ngón tay của cô em gái rất đáng yêu.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L03-25",
+      "hanzi": "乱",
+      "pinyin": "luàn",
+      "sourcePartOfSpeech": "adv./adi.",
+      "meaning": "bừa bãi; lộn xộn",
+      "example": "不要乱说话。",
+      "examplePinyin": "bù yào luàn shuō huà.",
+      "translation": "Đừng nói lung tung.",
+      "partOfSpeech": "Phó từ / Tính từ"
+    },
+    {
+      "id": "hsk4-L03-26",
+      "hanzi": "管",
+      "pinyin": "guǎn",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "quản lý",
+      "example": "你要管住自己，不要乱买东西。",
+      "examplePinyin": "nǐ yào guǎn zhù zì jǐ， bù yào luàn mǎi dōng xī.",
+      "translation": "Bạn phải tự kiềm chế mình, đừng mua đồ bừa bãi.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L03-27",
+      "hanzi": "提供",
+      "pinyin": "tígōng",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "cung cấp",
+      "example": "这个软件可以提供很多方便的服务。",
+      "examplePinyin": "zhè gè ruǎn jiàn kě yǐ tí gōng hěn duō fāngbiàn de fú wù.",
+      "translation": "Phần mềm này có thể cung cấp nhiều dịch vụ tiện lợi.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L03-28",
+      "hanzi": "身份证",
+      "pinyin": "shēnfènzhèng",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "căn cước công dân",
+      "example": "网购时有时需要提供身份证号。",
+      "examplePinyin": "wǎng gòu shí yǒu shí xū yào tí gōng shēn fèn zhèng hào.",
+      "translation": "Đôi khi mua sắm online cần cung cấp số căn cước.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L03-29",
+      "hanzi": "个人",
+      "pinyin": "gèrén",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "cá nhân",
+      "example": "不要告诉不认识的人你的个人信息。",
+      "examplePinyin": "bù yào gào sù bù rèn shí de rén nǐ de gè rén xìn xī.",
+      "translation": "Đừng nói thông tin cá nhân của bạn cho người lạ.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L03-30",
+      "hanzi": "能否",
+      "pinyin": "néngfǒu",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "có thể hay không",
+      "example": "你能否帮我一个忙？",
+      "examplePinyin": "nǐ néng fǒu bāng wǒ yī gè máng？",
+      "translation": "Bạn có thể giúp tôi một việc được không?",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L03-31",
+      "hanzi": "保护",
+      "pinyin": "bǎohù",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "bảo vệ",
+      "example": "我们要好好保护环境。",
+      "examplePinyin": "wǒ men yào hǎo hǎo bǎo hù huánjìng.",
+      "translation": "Chúng ta phải bảo vệ môi trường thật tốt.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L03-32",
+      "hanzi": "于是",
+      "pinyin": "yúshì",
+      "sourcePartOfSpeech": "conj.",
+      "meaning": "thế là",
+      "example": "下雨了，于是我们决定在家看电影。",
+      "examplePinyin": "xià yǔ le， yú shìwǒ men jué dìng zài jiā kàn diàn yǐng.",
+      "translation": "Trời mưa nên chúng tôi quyết định ở nhà xem phim.",
+      "partOfSpeech": "Liên từ"
+    },
+    {
+      "id": "hsk4-L03-33",
+      "hanzi": "密码",
+      "pinyin": "mìmǎ",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "mật khẩu",
+      "example": "这个密码不要告诉别人。",
+      "examplePinyin": "zhè gè mì mǎ bù yào gào sù bié rén.",
+      "translation": "Đừng nói mật khẩu này cho người khác.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L03-34",
+      "hanzi": "随便",
+      "pinyin": "suíbiàn",
+      "sourcePartOfSpeech": "adj./v./conj.",
+      "meaning": "tùy tiện",
+      "example": "他说话很随便，有时候让人听了不太高兴。",
+      "examplePinyin": "tā shuō huà hěn suí biàn， yǒu shí hòu ràng rén tīng le bù tài gāo xìng.",
+      "translation": "Anh ấy nói chuyện rất tùy tiện, đôi khi khiến người nghe không vui.",
+      "partOfSpeech": "Tính từ / Động từ / Liên từ"
+    },
+    {
+      "id": "hsk4-L03-35",
+      "hanzi": "技术",
+      "pinyin": "jìshù",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "kỹ thuật; công nghệ",
+      "example": "新技术改变了我们的生活。",
+      "examplePinyin": "xīn jì shùgǎibiàn le wǒ men de shēng huó.",
+      "translation": "Công nghệ mới đã thay đổi cuộc sống của chúng ta.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L03-36",
+      "hanzi": "法律",
+      "pinyin": "fǎlǜ",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "pháp luật",
+      "example": "我对法律很感兴趣。",
+      "examplePinyin": "wǒ duì fǎ lǜ hěn gǎn xìng qù.",
+      "translation": "Tôi rất quan tâm đến pháp luật.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L03-37",
+      "hanzi": "手段",
+      "pinyin": "shǒuduàn",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "phương pháp; thủ đoạn",
+      "example": "他用特别的手段解决了问题。",
+      "examplePinyin": "tā yòngtèbié de shǒu duàn jiě jué le wèn tí.",
+      "translation": "Anh ấy dùng một biện pháp đặc biệt để giải quyết vấn đề.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L03-38",
+      "hanzi": "保证",
+      "pinyin": "bǎozhèng",
+      "sourcePartOfSpeech": "v./n.",
+      "meaning": "bảo đảm",
+      "example": "我保证明天早上八点以前到学校。",
+      "examplePinyin": "wǒ bǎo zhèng míng tiān zǎoshàng bā diǎnyǐ qián dào xué xiào.",
+      "translation": "Tôi bảo đảm sẽ đến trường trước tám giờ sáng mai.",
+      "partOfSpeech": "Động từ / Danh từ"
+    },
+    {
+      "id": "hsk4-L03-39",
+      "hanzi": "网络",
+      "pinyin": "wǎngluò",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "mạng internet",
+      "example": "这里的网络不太好，我们换个地方吧。",
+      "examplePinyin": "zhè lǐ de wǎng luò bù tài hǎo， wǒ men huàn gè de fāngba.",
+      "translation": "Mạng ở đây không tốt lắm, chúng ta đổi chỗ khác nhé.",
+      "partOfSpeech": "Danh từ"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "hsk4-L03-G01",
+      "name": "X 是 X，就是/不过……",
+      "formula": "X 是 X，就是/不过……",
+      "explanation": "Thừa nhận một đặc điểm nhưng bổ sung điểm trái ngược.",
+      "examples": [
+        {
+          "hanzi": "这件衣服好看是好看，不过有点儿贵。",
+          "pinyin": "zhè jiàn yī fú hǎo kàn shìhǎo kàn， bù guò yǒu diǎnér guì.",
+          "translation": "Bộ quần áo này đẹp thì có đẹp nhưng hơi đắt."
+        }
+      ],
+      "usage": "Lặp lại đặc điểm X để thừa nhận rồi nêu hạn chế.",
+      "note": "Cần giữ X ở cả hai vị trí trong X是X."
+    },
+    {
+      "id": "hsk4-L03-G02",
+      "name": "不仅/不光……，还/而且……",
+      "formula": "不仅/不光……，还/而且……",
+      "explanation": "Không những… mà còn…, biểu thị ý tăng tiến.",
+      "examples": [
+        {
+          "hanzi": "他不仅会说中文，还会唱中文歌呢。",
+          "pinyin": "tā bù jǐn huì shuō zhōng wén， hái huì chàng zhōng wén gē ne.",
+          "translation": "Anh ấy không chỉ nói được tiếng Trung mà còn biết hát nhạc Trung Quốc."
+        }
+      ],
+      "usage": "Hai vế thường cùng chủ ngữ; vế sau bổ sung thông tin.",
+      "note": "Không nhầm quan hệ tăng tiến với quan hệ đối lập."
+    },
+    {
+      "id": "hsk4-L03-G03",
+      "name": "甚至",
+      "formula": "甚至 + Trường hợp nổi bật",
+      "explanation": "Thậm chí, nhấn mạnh mức độ vượt ngoài dự đoán.",
+      "examples": [
+        {
+          "hanzi": "这个题太难了，甚至老师也要想很久。",
+          "pinyin": "zhè gè tí tài nán le， shèn zhì lǎo shī yě yào xiǎng hěn jiǔ.",
+          "translation": "Bài này khó đến mức ngay cả giáo viên cũng phải suy nghĩ rất lâu."
+        }
+      ],
+      "usage": "甚至 nêu trường hợp nổi bật hơn các trường hợp trước.",
+      "note": "Không dùng 甚至 cho hai ý hoàn toàn không liên quan."
+    },
+    {
+      "id": "hsk4-L03-G04",
+      "name": "Sự việc 1，于是",
+      "formula": "Sự việc 1，于是 + Sự việc 2",
+      "explanation": "Biểu thị sự việc tiếp nối và kết quả xảy ra sau đó.",
+      "examples": [
+        {
+          "hanzi": "下雨了，于是我们决定在家看电影。",
+          "pinyin": "xià yǔ le， yú shìwǒ men jué dìng zài jiā kàn diàn yǐng.",
+          "translation": "Trời mưa nên chúng tôi quyết định ở nhà xem phim."
+        }
+      ],
+      "usage": "于是 nối diễn biến trước với hành động tiếp nối.",
+      "note": "Phân biệt kết quả tiếp diễn với giả thiết chưa xảy ra."
+    }
+  ],
+  "source": "HSK 4 - Thượng - Từ vựng và ngữ pháp theo bài học.docx",
+  "supplementNote": "Bài tập, bài đọc, cách dùng và lưu ý được biên soạn bổ sung; từ vựng và ví dụ ngữ pháp theo tài liệu bạn cung cấp."
+}

@@ -1,0 +1,488 @@
+{
+  "id": 9,
+  "volume": "upper",
+  "title": "遇见你，刚刚好",
+  "subtitle": "Gặp bạn, thật đúng lúc",
+  "words": [
+    {
+      "id": "hsk4-L09-01",
+      "hanzi": "祝",
+      "pinyin": "zhù",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "chúc",
+      "example": "祝你好运。",
+      "examplePinyin": "zhù nǐ hǎo yùn.",
+      "translation": "Chúc bạn may mắn.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L09-02",
+      "hanzi": "巧克力",
+      "pinyin": "qiǎokèlì",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "sô-cô-la",
+      "example": "送你一块巧克力。",
+      "examplePinyin": "sòng nǐ yī kuài qiǎo kè lì.",
+      "translation": "Tặng bạn một thanh sô-cô-la.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L09-03",
+      "hanzi": "感动",
+      "pinyin": "gǎndònɡ",
+      "sourcePartOfSpeech": "adj./v.",
+      "meaning": "cảm động; làm cảm động",
+      "example": "我内心很感动。",
+      "examplePinyin": "wǒ nèi xīn hěn gǎn dòng.",
+      "translation": "Trong lòng tôi rất xúc động.",
+      "partOfSpeech": "Tính từ / Động từ"
+    },
+    {
+      "id": "hsk4-L09-04",
+      "hanzi": "浪漫",
+      "pinyin": "làngmàn",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "lãng mạn",
+      "example": "这个夜晚很浪漫。",
+      "examplePinyin": "zhè gè yè wǎn hěn làngmàn.",
+      "translation": "Buổi tối này rất lãng mạn.",
+      "partOfSpeech": "Tính từ"
+    },
+    {
+      "id": "hsk4-L09-05",
+      "hanzi": "幽默",
+      "pinyin": "yōumò",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "hài hước",
+      "example": "小王是个幽默的人。",
+      "examplePinyin": "xiǎo wáng shìgè yōu mò de rén.",
+      "translation": "Tiểu Vương là người hài hước.",
+      "partOfSpeech": "Tính từ"
+    },
+    {
+      "id": "hsk4-L09-06",
+      "hanzi": "耐心",
+      "pinyin": "nàixīn",
+      "sourcePartOfSpeech": "adj./n.",
+      "meaning": "kiên nhẫn; lòng kiên nhẫn",
+      "example": "我们要有耐心。",
+      "examplePinyin": "wǒ men yào yǒu nài xīn.",
+      "translation": "Chúng ta cần có kiên nhẫn.",
+      "partOfSpeech": "Tính từ / Danh từ"
+    },
+    {
+      "id": "hsk4-L09-07",
+      "hanzi": "吸引",
+      "pinyin": "xīyǐn",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "thu hút",
+      "example": "这本书很吸引我。",
+      "examplePinyin": "zhè běnshū hěn xī yǐn wǒ.",
+      "translation": "Cuốn sách này rất thu hút tôi.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L09-08",
+      "hanzi": "当时",
+      "pinyin": "dāngshí",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "lúc đó",
+      "example": "当时天气不好。",
+      "examplePinyin": "dāng shí tiān qì bù hǎo.",
+      "translation": "Khi đó thời tiết không tốt.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L09-09",
+      "hanzi": "错过",
+      "pinyin": "cuòguò",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "bỏ lỡ",
+      "example": "我错过公交车了。",
+      "examplePinyin": "wǒ cuò guò gōng jiāo chē le.",
+      "translation": "Tôi bị lỡ xe buýt rồi.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L09-10",
+      "hanzi": "幸运",
+      "pinyin": "xìngyùn",
+      "sourcePartOfSpeech": "adj./n.",
+      "meaning": "may mắn",
+      "example": "他是幸运的人。",
+      "examplePinyin": "tā shìxìng yùn de rén.",
+      "translation": "Anh ấy là người may mắn.",
+      "partOfSpeech": "Tính từ / Danh từ"
+    },
+    {
+      "id": "hsk4-L09-11",
+      "hanzi": "幸福",
+      "pinyin": "xìngfú",
+      "sourcePartOfSpeech": "adj./n.",
+      "meaning": "hạnh phúc",
+      "example": "我感到很幸福。",
+      "examplePinyin": "wǒ gǎn dào hěn xìng fú.",
+      "translation": "Tôi cảm thấy rất hạnh phúc.",
+      "partOfSpeech": "Tính từ / Danh từ"
+    },
+    {
+      "id": "hsk4-L09-12",
+      "hanzi": "尽管",
+      "pinyin": "jǐnguǎn",
+      "sourcePartOfSpeech": "conj.",
+      "meaning": "mặc dù",
+      "example": "尽管很忙，但是我还要学习。",
+      "examplePinyin": "jǐn guǎn hěn máng， dàn shìwǒ hái yào xué xí.",
+      "translation": "Dù bận nhưng tôi vẫn phải học.",
+      "partOfSpeech": "Liên từ"
+    },
+    {
+      "id": "hsk4-L09-13",
+      "hanzi": "性格",
+      "pinyin": "xìnggé",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "tính cách",
+      "example": "他的性格很好。",
+      "examplePinyin": "tā de xìng géhěn hǎo.",
+      "translation": "Tính cách anh ấy rất tốt.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L09-14",
+      "hanzi": "共同",
+      "pinyin": "gòngtóng",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "chung",
+      "example": "我们俩有共同的爱好。",
+      "examplePinyin": "wǒ men liǎ yǒu gòng tóng de ài hǎo.",
+      "translation": "Hai chúng tôi có sở thích chung.",
+      "partOfSpeech": "Tính từ"
+    },
+    {
+      "id": "hsk4-L09-15",
+      "hanzi": "责任",
+      "pinyin": "zérèn",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "trách nhiệm",
+      "example": "他对工作很负责任。",
+      "examplePinyin": "tā duì gōng zuò hěn fù zé rèn.",
+      "translation": "Anh ấy rất có trách nhiệm với công việc.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L09-16",
+      "hanzi": "相互",
+      "pinyin": "xiānghù",
+      "sourcePartOfSpeech": "adv.",
+      "meaning": "lẫn nhau",
+      "example": "朋友之间要相互帮助。",
+      "examplePinyin": "péng yǒu zhī jiān yào xiānghù bāng zhù.",
+      "translation": "Bạn bè cần giúp đỡ lẫn nhau.",
+      "partOfSpeech": "Phó từ"
+    },
+    {
+      "id": "hsk4-L09-17",
+      "hanzi": "理解",
+      "pinyin": "lǐjiě",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "thấu hiểu",
+      "example": "朋友之间应该相互理解。",
+      "examplePinyin": "péng yǒu zhī jiān yīng gāi xiāng hù lǐ jiě 。",
+      "translation": "Bạn bè nên thấu hiểu lẫn nhau.",
+      "partOfSpeech": "Động từ",
+      "sourceOriginal": {
+        "example": "朋友之间要相互帮助。",
+        "examplePinyin": "péng yǒu zhī jiān yào xiānghù bāng zhù.",
+        "translation": "Bạn bè cần giúp đỡ lẫn nhau."
+      },
+      "sourceNote": "Đã hiệu chỉnh ví dụ/phiên âm/dịch bị lệch trong tài liệu; bản gốc lưu trong dữ liệu đối chiếu."
+    },
+    {
+      "id": "hsk4-L09-18",
+      "hanzi": "支持",
+      "pinyin": "zhīchí",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "ủng hộ",
+      "example": "朋友们都很支持我。",
+      "examplePinyin": "péng yǒu men dōu hěn zhīchí wǒ.",
+      "translation": "Bạn bè đều rất ủng hộ tôi.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L09-19",
+      "hanzi": "印象",
+      "pinyin": "yìnxiàng",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "ấn tượng",
+      "example": "她给我留下了好印象。",
+      "examplePinyin": "tā gěi wǒ liú xià le hǎo yìn xiàng.",
+      "translation": "Cô ấy để lại cho tôi ấn tượng tốt.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L09-20",
+      "hanzi": "实在",
+      "pinyin": "shízài",
+      "sourcePartOfSpeech": "adj./adv.",
+      "meaning": "thật thà; thật sự",
+      "example": "他是个实在人。",
+      "examplePinyin": "tā shìgè shí zài rén.",
+      "translation": "Anh ấy là người thật thà.",
+      "partOfSpeech": "Tính từ / Phó từ"
+    },
+    {
+      "id": "hsk4-L09-21",
+      "hanzi": "阳光",
+      "pinyin": "yángguāng",
+      "sourcePartOfSpeech": "adj./n.",
+      "meaning": "ánh nắng; tươi sáng",
+      "example": "她的性格很阳光。",
+      "examplePinyin": "tā de xìng géhěn yáng guāng.",
+      "translation": "Tính cách cô ấy rất cởi mở, tích cực.",
+      "partOfSpeech": "Tính từ / Danh từ"
+    },
+    {
+      "id": "hsk4-L09-22",
+      "hanzi": "负责",
+      "pinyin": "fùzé",
+      "sourcePartOfSpeech": "adj./v.",
+      "meaning": "có trách nhiệm",
+      "example": "他负责这个工作。",
+      "examplePinyin": "tā fù zé zhè gè gōng zuò.",
+      "translation": "Anh ấy phụ trách công việc này.",
+      "partOfSpeech": "Tính từ / Động từ"
+    },
+    {
+      "id": "hsk4-L09-23",
+      "hanzi": "积极",
+      "pinyin": "jījí",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "tích cực",
+      "example": "他吃饭很积极。",
+      "examplePinyin": "tā chī fàn hěn jījí.",
+      "translation": "Anh ấy rất nhiệt tình trong chuyện ăn uống.",
+      "partOfSpeech": "Tính từ"
+    },
+    {
+      "id": "hsk4-L09-24",
+      "hanzi": "此",
+      "pinyin": "cǐ",
+      "sourcePartOfSpeech": "pron.",
+      "meaning": "này",
+      "example": "此人很聪明。",
+      "examplePinyin": "cǐ rén hěn cōng míng.",
+      "translation": "Người này rất thông minh.",
+      "partOfSpeech": "Đại từ"
+    },
+    {
+      "id": "hsk4-L09-25",
+      "hanzi": "从此",
+      "pinyin": "cóngcǐ",
+      "sourcePartOfSpeech": "adv.",
+      "meaning": "từ đó",
+      "example": "从此我们成为好朋友。",
+      "examplePinyin": "cóng cǐ wǒ men chéng wèi hǎo péng yǒu.",
+      "translation": "Từ đó chúng tôi trở thành bạn tốt.",
+      "partOfSpeech": "Phó từ"
+    },
+    {
+      "id": "hsk4-L09-26",
+      "hanzi": "产生",
+      "pinyin": "chǎnshēng",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "nảy sinh; tạo ra",
+      "example": "我们产生了新想法。",
+      "examplePinyin": "wǒ men chǎn shēng le xīn xiǎng fǎ.",
+      "translation": "Chúng tôi nảy ra ý tưởng mới.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L09-27",
+      "hanzi": "爱情",
+      "pinyin": "àiqíng",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "tình yêu",
+      "example": "爱情让生活更幸福。",
+      "examplePinyin": "ài qíng ràng shēng huógèng xìng fú.",
+      "translation": "Tình yêu khiến cuộc sống hạnh phúc hơn.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L09-28",
+      "hanzi": "间",
+      "pinyin": "jiān",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "khoảng; giữa",
+      "example": "同学之间要互相帮助。",
+      "examplePinyin": "tóng xué zhī jiān yào hù xiāngbāng zhù.",
+      "translation": "Bạn học nên giúp đỡ nhau.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L09-29",
+      "hanzi": "友情",
+      "pinyin": "yǒuqíng",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "tình bạn",
+      "example": "友情对我很重要。",
+      "examplePinyin": "yǒu qíng duì wǒ hěn zhòng yào.",
+      "translation": "Tình bạn rất quan trọng đối với tôi.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L09-30",
+      "hanzi": "美好",
+      "pinyin": "měihǎo",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "tốt đẹp",
+      "example": "我们有着美好的回忆。",
+      "examplePinyin": "wǒ men yǒu zhe měi hǎo de huí yì.",
+      "translation": "Chúng tôi có những kỷ niệm đẹp.",
+      "partOfSpeech": "Tính từ"
+    },
+    {
+      "id": "hsk4-L09-31",
+      "hanzi": "人生",
+      "pinyin": "rénshēng",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "cuộc đời",
+      "example": "人生会遇到很多事情。",
+      "examplePinyin": "rén shēng huì yù dào hěn duō shì qíng.",
+      "translation": "Trong đời người sẽ gặp nhiều chuyện.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L09-32",
+      "hanzi": "精彩",
+      "pinyin": "jīngcǎi",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "đặc sắc",
+      "example": "这部电影很精彩。",
+      "examplePinyin": "zhè bù diàn yǐng hěn jīngcǎi.",
+      "translation": "Bộ phim này rất đặc sắc.",
+      "partOfSpeech": "Tính từ"
+    },
+    {
+      "id": "hsk4-L09-33",
+      "hanzi": "感情",
+      "pinyin": "gǎnqíng",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "tình cảm",
+      "example": "我们很重视这份感情。",
+      "examplePinyin": "wǒ men hěn zhòng shì zhè fèn gǎn qíng.",
+      "translation": "Chúng tôi rất coi trọng tình cảm này.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L09-34",
+      "hanzi": "深",
+      "pinyin": "shēn",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "sâu sắc",
+      "example": "我和朋友感情很深。",
+      "examplePinyin": "wǒ hé péng yǒu gǎn qíng hěn shēn.",
+      "translation": "Tôi và bạn tôi có tình cảm rất sâu sắc.",
+      "partOfSpeech": "Tính từ"
+    },
+    {
+      "id": "hsk4-L09-35",
+      "hanzi": "经营",
+      "pinyin": "jīngyíng",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "quản lý; vun đắp",
+      "example": "他经营一家小店。",
+      "examplePinyin": "tā jīng yíng yī jiā xiǎo diàn.",
+      "translation": "Anh ấy kinh doanh một cửa hàng nhỏ.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L09-36",
+      "hanzi": "对方",
+      "pinyin": "duìfāng",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "đối phương",
+      "example": "我们要相信对方。",
+      "examplePinyin": "wǒ men yào xiāngxìn duì fāng.",
+      "translation": "Chúng ta phải tin tưởng đối phương.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L09-37",
+      "hanzi": "感受",
+      "pinyin": "gǎnshòu",
+      "sourcePartOfSpeech": "n./v.",
+      "meaning": "cảm nhận",
+      "example": "我想知道你的感受。",
+      "examplePinyin": "wǒ xiǎng zhī dào nǐ de gǎn shòu.",
+      "translation": "Tôi muốn biết cảm nhận của bạn.",
+      "partOfSpeech": "Danh từ / Động từ"
+    },
+    {
+      "id": "hsk4-L09-38",
+      "hanzi": "尤其",
+      "pinyin": "yóuqí",
+      "sourcePartOfSpeech": "adv.",
+      "meaning": "đặc biệt là",
+      "example": "我尤其喜欢读书。",
+      "examplePinyin": "wǒ yóu qí xǐ huān dú shū.",
+      "translation": "Tôi đặc biệt thích đọc sách.",
+      "partOfSpeech": "Phó từ"
+    },
+    {
+      "id": "hsk4-L09-39",
+      "hanzi": "日子",
+      "pinyin": "rìzi",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "ngày; cuộc sống",
+      "example": "好日子马上就到了。",
+      "examplePinyin": "hǎo rì zǐ mǎ shàng jiù dào le.",
+      "translation": "Ngày tốt đẹp sắp đến rồi.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L09-40",
+      "hanzi": "从来",
+      "pinyin": "cónglái",
+      "sourcePartOfSpeech": "adv.",
+      "meaning": "từ trước đến nay",
+      "example": "我从来没吃过北京烤鸭。",
+      "examplePinyin": "wǒ cóng lái méi chī guò běi jīng kǎo yā.",
+      "translation": "Tôi chưa từng ăn vịt quay Bắc Kinh.",
+      "partOfSpeech": "Phó từ"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "hsk4-L09-G01",
+      "name": "不",
+      "formula": "不 + Động từ + 也 + Kết quả",
+      "explanation": "Ngay cả khi không thực hiện hành động thì kết quả vẫn xảy ra.",
+      "examples": [
+        {
+          "hanzi": "我不说你也懂我在想什么。",
+          "pinyin": "wǒ bù shuō nǐ yě dǒng wǒ zài xiǎng shén me.",
+          "translation": "Không cần tôi nói bạn cũng hiểu tôi đang nghĩ gì."
+        }
+      ],
+      "usage": "不……也…… nói kết quả vẫn xảy ra dù không làm hành động.",
+      "note": "Phân biệt với 不但……而且…… chỉ tăng tiến."
+    },
+    {
+      "id": "hsk4-L09-G02",
+      "name": "尽管",
+      "formula": "尽管 + Thực tế，但是/可是 + Kết quả",
+      "explanation": "Mặc dù… nhưng…, thể hiện ý tương phản.",
+      "examples": [
+        {
+          "hanzi": "他们尽管性格不同，但是有很多共同爱好。",
+          "pinyin": "tā men jǐn guǎn xìng gébù tóng， dàn shìyǒu hěn duō gòng tóng ài hǎo.",
+          "translation": "Mặc dù tính cách khác nhau, họ vẫn có nhiều sở thích chung."
+        }
+      ],
+      "usage": "尽管 nêu sự thật rồi 但是/可是 đưa ý trái ngược.",
+      "note": "Phân biệt 尽管 với 不管 chỉ điều kiện không ảnh hưởng kết quả."
+    }
+  ],
+  "source": "HSK 4 - Thượng - Từ vựng và ngữ pháp theo bài học.docx",
+  "supplementNote": "Bài tập, bài đọc, cách dùng và lưu ý được biên soạn bổ sung; từ vựng và ví dụ ngữ pháp theo tài liệu bạn cung cấp."
+}

@@ -1,0 +1,615 @@
+{
+  "sourceFile": "HSK 4 - Thượng - Từ vựng và ngữ pháp theo bài học.docx",
+  "sourceSha256": "f7750dbf9600803d1961cb0bd8c3e84a18990df1801f08f9444919285ef8094a",
+  "lessons": [
+    {
+      "lesson": 1,
+      "title": "我们来中国学习了",
+      "wordCount": 40,
+      "grammarCount": 4,
+      "wordFields": [
+        "hanzi",
+        "pinyin",
+        "sourcePartOfSpeech",
+        "meaning",
+        "example",
+        "examplePinyin",
+        "translation"
+      ],
+      "wordsSha256": "cff96aacb607fe9be94b877014afe3a68336d5d9268b69ee9ddc010a3efe1706",
+      "grammarSource": [
+        {
+          "id": "hsk4-L01-G01",
+          "name": "任何",
+          "formula": "任何 + Danh từ + 都/也 + …",
+          "explanation": "Nhấn mạnh bất kỳ người, sự vật hay tình huống nào cũng không ngoại lệ.",
+          "examples": [
+            {
+              "hanzi": "你们以后有任何问题都可以来找我。",
+              "pinyin": "nǐ men yǐ hòu yǒu rèn hé wèn tí dōu kě yǐ lái zhǎowǒ.",
+              "translation": "Sau này có bất cứ vấn đề gì các bạn đều có thể đến tìm tôi."
+            }
+          ]
+        },
+        {
+          "id": "hsk4-L01-G02",
+          "name": "要是",
+          "formula": "要是 + Điều kiện， 就 + Kết quả",
+          "explanation": "Đưa ra giả thiết và kết quả nếu điều kiện xảy ra.",
+          "examples": [
+            {
+              "hanzi": "要是申请到奖学金，就能减轻不少经济压力。",
+              "pinyin": "yào shìshēn qǐng dào jiǎng xué jīn， jiù néng jiǎn qīng bù shǎo jīng jì yā lì.",
+              "translation": "Nếu xin được học bổng thì có thể giảm bớt khá nhiều áp lực tài chính."
+            }
+          ]
+        },
+        {
+          "id": "hsk4-L01-G03",
+          "name": "随着",
+          "formula": "随着 + Sự thay đổi，+ Kết quả",
+          "explanation": "Nêu sự biến đổi của một sự việc kéo theo sự thay đổi khác.",
+          "examples": [
+            {
+              "hanzi": "随着中文水平的提高，我现在能看懂中文报纸了。",
+              "pinyin": "suí zhe zhōng wén shuǐ píng de tí gāo， wǒ xiàn zài néng kàn dǒng zhōng wén bào zhǐle.",
+              "translation": "Cùng với việc trình độ tiếng Trung nâng cao, nay tôi đã đọc hiểu được báo tiếng Trung."
+            }
+          ]
+        },
+        {
+          "id": "hsk4-L01-G04",
+          "name": "一方面……，另一方面……",
+          "formula": "一方面……，另一方面……",
+          "explanation": "Trình bày đồng thời hai phương diện hoặc hai lý do.",
+          "examples": [
+            {
+              "hanzi": "来到中国留学，一方面是为了学习语言和知识，另一方面也是为将来的工作和生活做准备。",
+              "pinyin": "lái dào zhōng guó liú xué， yī fāngmiàn shìwèi le xué xí yǔ yán hé zhī shí， lìng yī fāngmiàn yě shìwèi jiāng lái de gōng zuò hé shēng huózuò zhǔn bèi.",
+              "translation": "Đến Trung Quốc du học một mặt để học ngôn ngữ và kiến thức, mặt khác để chuẩn bị cho công việc và cuộc sống tương lai."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lesson": 2,
+      "title": "租到了合适的房子",
+      "wordCount": 37,
+      "grammarCount": 4,
+      "wordFields": [
+        "hanzi",
+        "pinyin",
+        "sourcePartOfSpeech",
+        "meaning",
+        "example",
+        "examplePinyin",
+        "translation"
+      ],
+      "wordsSha256": "93ee5c05ce53721d495a614ef3d35b65c51cd780f88d6a0e159a8858c051c90e",
+      "grammarSource": [
+        {
+          "id": "hsk4-L02-G01",
+          "name": "Động từ / Mệnh đề",
+          "formula": "Động từ / Mệnh đề + 就是了",
+          "explanation": "Dùng cuối câu trong khẩu ngữ để khẳng định cách giải quyết đơn giản.",
+          "examples": [
+            {
+              "hanzi": "不懂的话，问一下老师就是了。",
+              "pinyin": "bù dǒng de huà， wèn yī xià lǎo shī jiù shìle.",
+              "translation": "Nếu không hiểu thì chỉ cần hỏi thầy cô là được."
+            }
+          ]
+        },
+        {
+          "id": "hsk4-L02-G02",
+          "name": "Mệnh đề 1，不过",
+          "formula": "Mệnh đề 1，不过 + Mệnh đề 2",
+          "explanation": "Liên kết hai vế có ý nghĩa tương phản, giống “nhưng/tuy nhiên”.",
+          "examples": [
+            {
+              "hanzi": "这件衣服很好看，不过没有我能穿的号。",
+              "pinyin": "zhè jiàn yī fú hěn hǎo kàn， bù guò méi yǒu wǒ néng chuānde hào.",
+              "translation": "Bộ quần áo này đẹp nhưng không có cỡ tôi mặc vừa."
+            }
+          ]
+        },
+        {
+          "id": "hsk4-L02-G03",
+          "name": "并",
+          "formula": "并 + Động từ / 并不 + Phủ định",
+          "explanation": "Nối hành động song song hoặc nhấn mạnh ý phủ định.",
+          "examples": [
+            {
+              "hanzi": "我给他打了电话，并告诉他明天开会。",
+              "pinyin": "wǒ gěi tā dǎ le diàn huà， bìng gào sù tā míng tiān kāi huì.",
+              "translation": "Tôi gọi điện cho anh ấy và thông báo ngày mai có cuộc họp."
+            }
+          ]
+        },
+        {
+          "id": "hsk4-L02-G04",
+          "name": "由于",
+          "formula": "由于 + Nguyên nhân，（所以/因此）+ Kết quả",
+          "explanation": "Chỉ nguyên nhân dẫn đến sự việc.",
+          "examples": [
+            {
+              "hanzi": "由于生病，他今天没来上课。",
+              "pinyin": "yóu yú shēng bìng， tā jīn tiān méi lái shàng kè.",
+              "translation": "Vì bị ốm nên hôm nay anh ấy không đến lớp."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lesson": 3,
+      "title": "手机扫一下",
+      "wordCount": 39,
+      "grammarCount": 4,
+      "wordFields": [
+        "hanzi",
+        "pinyin",
+        "sourcePartOfSpeech",
+        "meaning",
+        "example",
+        "examplePinyin",
+        "translation"
+      ],
+      "wordsSha256": "b175032c72406967fe6a1404e66ab9795d90dbf99afaa2b17f6b09213811ecfe",
+      "grammarSource": [
+        {
+          "id": "hsk4-L03-G01",
+          "name": "X 是 X，就是/不过……",
+          "formula": "X 是 X，就是/不过……",
+          "explanation": "Thừa nhận một đặc điểm nhưng bổ sung điểm trái ngược.",
+          "examples": [
+            {
+              "hanzi": "这件衣服好看是好看，不过有点儿贵。",
+              "pinyin": "zhè jiàn yī fú hǎo kàn shìhǎo kàn， bù guò yǒu diǎnér guì.",
+              "translation": "Bộ quần áo này đẹp thì có đẹp nhưng hơi đắt."
+            }
+          ]
+        },
+        {
+          "id": "hsk4-L03-G02",
+          "name": "不仅/不光……，还/而且……",
+          "formula": "不仅/不光……，还/而且……",
+          "explanation": "Không những… mà còn…, biểu thị ý tăng tiến.",
+          "examples": [
+            {
+              "hanzi": "他不仅会说中文，还会唱中文歌呢。",
+              "pinyin": "tā bù jǐn huì shuō zhōng wén， hái huì chàng zhōng wén gē ne.",
+              "translation": "Anh ấy không chỉ nói được tiếng Trung mà còn biết hát nhạc Trung Quốc."
+            }
+          ]
+        },
+        {
+          "id": "hsk4-L03-G03",
+          "name": "甚至",
+          "formula": "甚至 + Trường hợp nổi bật",
+          "explanation": "Thậm chí, nhấn mạnh mức độ vượt ngoài dự đoán.",
+          "examples": [
+            {
+              "hanzi": "这个题太难了，甚至老师也要想很久。",
+              "pinyin": "zhè gè tí tài nán le， shèn zhì lǎo shī yě yào xiǎng hěn jiǔ.",
+              "translation": "Bài này khó đến mức ngay cả giáo viên cũng phải suy nghĩ rất lâu."
+            }
+          ]
+        },
+        {
+          "id": "hsk4-L03-G04",
+          "name": "Sự việc 1，于是",
+          "formula": "Sự việc 1，于是 + Sự việc 2",
+          "explanation": "Biểu thị sự việc tiếp nối và kết quả xảy ra sau đó.",
+          "examples": [
+            {
+              "hanzi": "下雨了，于是我们决定在家看电影。",
+              "pinyin": "xià yǔ le， yú shìwǒ men jué dìng zài jiā kàn diàn yǐng.",
+              "translation": "Trời mưa nên chúng tôi quyết định ở nhà xem phim."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lesson": 4,
+      "title": "很高兴能帮到你",
+      "wordCount": 38,
+      "grammarCount": 4,
+      "wordFields": [
+        "hanzi",
+        "pinyin",
+        "sourcePartOfSpeech",
+        "meaning",
+        "example",
+        "examplePinyin",
+        "translation"
+      ],
+      "wordsSha256": "6b1c30b4abdc834e231b39047b76aa6a29ceaa6611218c2f53eadb61f4b907d5",
+      "grammarSource": [
+        {
+          "id": "hsk4-L04-G01",
+          "name": "Động từ",
+          "formula": "Động từ + 得/不 + 了",
+          "explanation": "Bổ ngữ khả năng: có thể hoặc không thể thực hiện hành động.",
+          "examples": [
+            {
+              "hanzi": "今天太忙了，我去不了。",
+              "pinyin": "jīn tiān tài máng le， wǒ qù bù le.",
+              "translation": "Hôm nay bận quá nên tôi không đi được."
+            }
+          ]
+        },
+        {
+          "id": "hsk4-L04-G02",
+          "name": "Lý do 1，再说",
+          "formula": "Lý do 1，再说 + Lý do 2",
+          "explanation": "Bổ sung thêm một lý do hoặc tình huống.",
+          "examples": [
+            {
+              "hanzi": "我不想吃外卖，再说自己做饭更健康。",
+              "pinyin": "wǒ bù xiǎng chī wài mài， zài shuō zì jǐ zuò fàn gèng jiàn kāng.",
+              "translation": "Tôi không muốn ăn đồ giao tận nơi, hơn nữa tự nấu ăn lành mạnh hơn."
+            }
+          ]
+        },
+        {
+          "id": "hsk4-L04-G03",
+          "name": "既……，又/也……",
+          "formula": "既……，又/也……",
+          "explanation": "Vừa… vừa…, diễn tả hai tính chất đồng thời.",
+          "examples": [
+            {
+              "hanzi": "他既聪明，又努力。",
+              "pinyin": "tā jì cōng míng， yòu nǔ lì.",
+              "translation": "Anh ấy vừa thông minh vừa chăm chỉ."
+            }
+          ]
+        },
+        {
+          "id": "hsk4-L04-G04",
+          "name": "来得及 / 来不及",
+          "formula": "来得及 / 来不及 + Động từ",
+          "explanation": "Còn kịp / không kịp làm việc gì.",
+          "examples": [
+            {
+              "hanzi": "别着急，时间还早，咱们来得及。",
+              "pinyin": "bié zhe jí， shí jiān hái zǎo， zán men lái dé jí.",
+              "translation": "Đừng vội, còn sớm, chúng ta vẫn kịp."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lesson": 5,
+      "title": "“不怕辣”和“怕不辣”",
+      "wordCount": 37,
+      "grammarCount": 4,
+      "wordFields": [
+        "hanzi",
+        "pinyin",
+        "sourcePartOfSpeech",
+        "meaning",
+        "example",
+        "examplePinyin",
+        "translation"
+      ],
+      "wordsSha256": "842a6decc07e7efde509dad82e9c24bb21fcf14985c144e880a417d3c8678e3f",
+      "grammarSource": [
+        {
+          "id": "hsk4-L05-G01",
+          "name": "至少",
+          "formula": "至少 + Số lượng / Thời gian",
+          "explanation": "Ít nhất, không thấp hơn mức tối thiểu.",
+          "examples": [
+            {
+              "hanzi": "我每天至少学习两个小时中文。",
+              "pinyin": "wǒ měi tiān zhì shǎo xué xí liǎng gè xiǎo shí zhōng wén.",
+              "translation": "Mỗi ngày tôi học tiếng Trung ít nhất hai tiếng."
+            }
+          ]
+        },
+        {
+          "id": "hsk4-L05-G02",
+          "name": "够……的 / 够",
+          "formula": "够……的 / 够 + Động từ",
+          "explanation": "Nhấn mạnh mức độ cao hoặc sự đủ về số lượng.",
+          "examples": [
+            {
+              "hanzi": "这道菜够辣的！",
+              "pinyin": "zhè dào cài gòu là de！",
+              "translation": "Món này cay thật!"
+            }
+          ]
+        },
+        {
+          "id": "hsk4-L05-G03",
+          "name": "各",
+          "formula": "各 + Động từ + 各的",
+          "explanation": "Mỗi người tự làm việc của mình, không ảnh hưởng nhau.",
+          "examples": [
+            {
+              "hanzi": "大家各做各的事。",
+              "pinyin": "dà jiā gè zuò gè de shì.",
+              "translation": "Mọi người ai làm việc nấy."
+            }
+          ]
+        },
+        {
+          "id": "hsk4-L05-G04",
+          "name": "等",
+          "formula": "等 + Mốc thời gian / Sự việc",
+          "explanation": "Đợi đến khi điều kiện hay thời gian được đáp ứng.",
+          "examples": [
+            {
+              "hanzi": "等爸爸回来，我们就吃饭。",
+              "pinyin": "děng bàbàhuí lái， wǒ men jiù chī fàn.",
+              "translation": "Đợi bố về, chúng ta sẽ ăn cơm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lesson": 6,
+      "title": "我陪你去看病",
+      "wordCount": 39,
+      "grammarCount": 4,
+      "wordFields": [
+        "hanzi",
+        "pinyin",
+        "sourcePartOfSpeech",
+        "meaning",
+        "example",
+        "examplePinyin",
+        "translation"
+      ],
+      "wordsSha256": "8c14bbd92aec1360ea86057a2c328ee7fdfaebc43fe996c5848e344bbba97792",
+      "grammarSource": [
+        {
+          "id": "hsk4-L06-G01",
+          "name": "Động từ",
+          "formula": "Động từ + 得 + 厉害",
+          "explanation": "Biểu đạt mức độ mạnh hoặc nghiêm trọng.",
+          "examples": [
+            {
+              "hanzi": "你咳嗽得这么厉害，最好去医院看看。",
+              "pinyin": "nǐ hāi sòu dé zhè me lì hài， zuì hǎo qù yī yuàn kàn kàn.",
+              "translation": "Bạn ho nặng như vậy, tốt nhất nên đến bệnh viện khám."
+            }
+          ]
+        },
+        {
+          "id": "hsk4-L06-G02",
+          "name": "（没）有什么（好）+ Động từ",
+          "formula": "（没）有什么（好）+ Động từ + 的",
+          "explanation": "Nêu điều không cần thiết hoặc không đáng phải làm.",
+          "examples": [
+            {
+              "hanzi": "这没什么好担心的。",
+              "pinyin": "zhè méi shén me hǎo dān xīn de.",
+              "translation": "Chuyện này không có gì đáng lo."
+            }
+          ]
+        },
+        {
+          "id": "hsk4-L06-G03",
+          "name": "偶尔",
+          "formula": "偶尔 + Động từ",
+          "explanation": "Thỉnh thoảng, một hành động xảy ra với tần suất thấp.",
+          "examples": [
+            {
+              "hanzi": "我平时不喝咖啡，偶尔喝一杯茶。",
+              "pinyin": "wǒ píng shí bù hē kā fēi， ǒu ěr hē yī bēichá.",
+              "translation": "Bình thường tôi không uống cà phê, thỉnh thoảng uống một tách trà."
+            }
+          ]
+        },
+        {
+          "id": "hsk4-L06-G04",
+          "name": "Hành động 1，……好",
+          "formula": "Hành động 1，……好 + Hành động 2",
+          "explanation": "Hành động ở vế sau là mục đích của vế trước.",
+          "examples": [
+            {
+              "hanzi": "你要早点儿告诉我，我好准备。",
+              "pinyin": "nǐ yào zǎodiǎnér gào sù wǒ， wǒ hǎo zhǔn bèi.",
+              "translation": "Bạn nên báo sớm để tôi còn chuẩn bị."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lesson": 7,
+      "title": "在工作中学习",
+      "wordCount": 39,
+      "grammarCount": 3,
+      "wordFields": [
+        "hanzi",
+        "pinyin",
+        "sourcePartOfSpeech",
+        "meaning",
+        "example",
+        "examplePinyin",
+        "translation"
+      ],
+      "wordsSha256": "d129f5913ee6b88dc4736a5bdb6565a8e812d67c8bae50396f0b345088c1baa6",
+      "grammarSource": [
+        {
+          "id": "hsk4-L07-G01",
+          "name": "在",
+          "formula": "在 + Lĩnh vực + 方面",
+          "explanation": "Giới hạn phạm vi hoặc khía cạnh đang bàn đến.",
+          "examples": [
+            {
+              "hanzi": "在时间安排方面，你可以再想一想。",
+              "pinyin": "zài shí jiān ān pái fāngmiàn， nǐ kě yǐ zài xiǎng yī xiǎng.",
+              "translation": "Về mặt sắp xếp thời gian, bạn có thể cân nhắc thêm."
+            }
+          ]
+        },
+        {
+          "id": "hsk4-L07-G02",
+          "name": "既然",
+          "formula": "既然 + Tiền đề，就 + Kết luận",
+          "explanation": "Đã… thì…, đưa ra kết luận dựa trên tình huống có sẵn.",
+          "examples": [
+            {
+              "hanzi": "既然大家都同意，我们就这么做吧。",
+              "pinyin": "jì rán dà jiā dōu tóng yì， wǒ men jiù zhè me zuò ba.",
+              "translation": "Đã mọi người đều đồng ý thì chúng ta cứ làm thế nhé."
+            }
+          ]
+        },
+        {
+          "id": "hsk4-L07-G03",
+          "name": "拿",
+          "formula": "拿 + Ví dụ + 来说",
+          "explanation": "Lấy… làm ví dụ để minh họa một luận điểm.",
+          "examples": [
+            {
+              "hanzi": "拿购物来说，人们不出门就能买到想要的东西。",
+              "pinyin": "nágòu wùlái shuō， rén men bù chū mén jiù néng mǎi dào xiǎng yào de dōng xī.",
+              "translation": "Lấy việc mua sắm làm ví dụ, mọi người không ra khỏi nhà vẫn mua được đồ mình muốn."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lesson": 8,
+      "title": "该放松时就放松",
+      "wordCount": 38,
+      "grammarCount": 3,
+      "wordFields": [
+        "hanzi",
+        "pinyin",
+        "sourcePartOfSpeech",
+        "meaning",
+        "example",
+        "examplePinyin",
+        "translation"
+      ],
+      "wordsSha256": "c1175f58abdd60fa54d6f2261ae61b3343ec3aee2b34017c2903178cfba71024",
+      "grammarSource": [
+        {
+          "id": "hsk4-L08-G01",
+          "name": "不管",
+          "formula": "不管 + Điều kiện，都/也 + Kết quả",
+          "explanation": "Bất kể điều kiện thế nào, kết quả vẫn không thay đổi.",
+          "examples": [
+            {
+              "hanzi": "不管遇到多大困难，我们也要坚持，最后一定能完成任务。",
+              "pinyin": "bù guǎn yù dào duō dà kùn nán， wǒ men yě yào jiān chí， zuì hòu yī dìng néng wán chéng rèn wù.",
+              "translation": "Dù gặp khó khăn lớn đến đâu, chúng ta vẫn phải kiên trì, cuối cùng nhất định hoàn thành nhiệm vụ."
+            }
+          ]
+        },
+        {
+          "id": "hsk4-L08-G02",
+          "name": "Mệnh đề 1，否则",
+          "formula": "Mệnh đề 1，否则 + Hậu quả",
+          "explanation": "Nếu không làm như vế trước thì sẽ xảy ra hậu quả ở vế sau.",
+          "examples": [
+            {
+              "hanzi": "今晚早点儿睡吧，否则明天早上起不来，又该迟到了。",
+              "pinyin": "jīn wǎn zǎodiǎnér shuì ba， fǒu zé míng tiān zǎoshàng qǐ bù lái， yòu gāi chí dào le.",
+              "translation": "Tối nay ngủ sớm nhé, nếu không sáng mai không dậy nổi rồi lại đi muộn."
+            }
+          ]
+        },
+        {
+          "id": "hsk4-L08-G03",
+          "name": "跟 / 与",
+          "formula": "跟 / 与 + A + 相比，B……",
+          "explanation": "So sánh B với A, thường dùng để nêu khác biệt.",
+          "examples": [
+            {
+              "hanzi": "跟用现金相比，手机支付更方便些。",
+              "pinyin": "gēn yòngxiàn jīn xiāngbǐ， shǒu jīzhīfù gèng fāngbiàn xiē.",
+              "translation": "So với dùng tiền mặt, thanh toán bằng điện thoại tiện hơn."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lesson": 9,
+      "title": "遇见你，刚刚好",
+      "wordCount": 40,
+      "grammarCount": 2,
+      "wordFields": [
+        "hanzi",
+        "pinyin",
+        "sourcePartOfSpeech",
+        "meaning",
+        "example",
+        "examplePinyin",
+        "translation"
+      ],
+      "wordsSha256": "606420cb85f46f3dfbef3756d1de3e561e4da9ae387903dff2e4147c19f2fdb9",
+      "grammarSource": [
+        {
+          "id": "hsk4-L09-G01",
+          "name": "不",
+          "formula": "不 + Động từ + 也 + Kết quả",
+          "explanation": "Ngay cả khi không thực hiện hành động thì kết quả vẫn xảy ra.",
+          "examples": [
+            {
+              "hanzi": "我不说你也懂我在想什么。",
+              "pinyin": "wǒ bù shuō nǐ yě dǒng wǒ zài xiǎng shén me.",
+              "translation": "Không cần tôi nói bạn cũng hiểu tôi đang nghĩ gì."
+            }
+          ]
+        },
+        {
+          "id": "hsk4-L09-G02",
+          "name": "尽管",
+          "formula": "尽管 + Thực tế，但是/可是 + Kết quả",
+          "explanation": "Mặc dù… nhưng…, thể hiện ý tương phản.",
+          "examples": [
+            {
+              "hanzi": "他们尽管性格不同，但是有很多共同爱好。",
+              "pinyin": "tā men jǐn guǎn xìng gébù tóng， dàn shìyǒu hěn duō gòng tóng ài hǎo.",
+              "translation": "Mặc dù tính cách khác nhau, họ vẫn có nhiều sở thích chung."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lesson": 10,
+      "title": "南方不懂北方的冷",
+      "wordCount": 40,
+      "grammarCount": 1,
+      "wordFields": [
+        "hanzi",
+        "pinyin",
+        "sourcePartOfSpeech",
+        "meaning",
+        "example",
+        "examplePinyin",
+        "translation"
+      ],
+      "wordsSha256": "2a3bd80331c62a6ea712b34f1218716a54fcdf8da67d36556adf0c841f0fadcc",
+      "grammarSource": [
+        {
+          "id": "hsk4-L10-G01",
+          "name": "说什么 / 怎么着",
+          "formula": "说什么 / 怎么着 + 也得 + Động từ",
+          "explanation": "Nhất định phải làm gì, thể hiện quyết tâm mạnh trong khẩu ngữ.",
+          "examples": [
+            {
+              "hanzi": "更重要的是，说什么也得穿上厚一点儿的衣服。",
+              "pinyin": "gèng zhòng yào de shì， shuō shén me yě dé chuānshàng hòu yī diǎnér de yī fú.",
+              "translation": "Quan trọng hơn là dù thế nào cũng phải mặc quần áo dày hơn một chút."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

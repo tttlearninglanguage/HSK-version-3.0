@@ -1,0 +1,497 @@
+{
+  "id": 5,
+  "volume": "upper",
+  "title": "“不怕辣”和“怕不辣”",
+  "subtitle": "“Không sợ cay” và “sợ không cay”",
+  "words": [
+    {
+      "id": "hsk4-L05-01",
+      "hanzi": "至少",
+      "pinyin": "zhìshǎo",
+      "sourcePartOfSpeech": "adv.",
+      "meaning": "ít nhất",
+      "example": "我每天至少学习两个小时中文。",
+      "examplePinyin": "wǒ měi tiān zhì shǎo xué xí liǎng gè xiǎo shí zhōng wén.",
+      "translation": "Mỗi ngày tôi học tiếng Trung ít nhất hai tiếng.",
+      "partOfSpeech": "Phó từ"
+    },
+    {
+      "id": "hsk4-L05-02",
+      "hanzi": "中餐",
+      "pinyin": "zhōnɡcān",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "bữa ăn Trung Quốc",
+      "example": "他更习惯吃中餐。",
+      "examplePinyin": "tā gèng xí guànchī zhōng cān.",
+      "translation": "Anh ấy quen ăn món Trung Quốc hơn.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L05-03",
+      "hanzi": "专门",
+      "pinyin": "zhuānmén",
+      "sourcePartOfSpeech": "adv./adj.",
+      "meaning": "chuyên; đặc biệt",
+      "example": "前几天，他专门来北京看我。",
+      "examplePinyin": "qián jǐ tiān， tā zhuān mén lái běi jīng kàn wǒ.",
+      "translation": "Mấy hôm trước, anh ấy đặc biệt đến Bắc Kinh thăm tôi.",
+      "partOfSpeech": "Phó từ / Tính từ"
+    },
+    {
+      "id": "hsk4-L05-04",
+      "hanzi": "煮",
+      "pinyin": "zhǔ",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "luộc; nấu",
+      "example": "妈妈正在厨房里煮鸡蛋。",
+      "examplePinyin": "mā mā zhèng zài chú fánglǐ zhǔjī dàn.",
+      "translation": "Mẹ đang luộc trứng trong bếp.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L05-05",
+      "hanzi": "油",
+      "pinyin": "yóu",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "dầu",
+      "example": "妈妈倒了一点儿油，准备炒鸡蛋。",
+      "examplePinyin": "mā mā dào le yī diǎnér yóu， zhǔn bèi chǎo jī dàn.",
+      "translation": "Mẹ đổ một ít dầu vào để chuẩn bị rán trứng.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L05-06",
+      "hanzi": "道",
+      "pinyin": "dào",
+      "sourcePartOfSpeech": "m.",
+      "meaning": "lượng từ cho món ăn",
+      "example": "这道菜真好吃！",
+      "examplePinyin": "zhè dào cài zhēn hǎo chī！",
+      "translation": "Món ăn này ngon thật!",
+      "partOfSpeech": "Lượng từ"
+    },
+    {
+      "id": "hsk4-L05-07",
+      "hanzi": "熟",
+      "pinyin": "shú/shóu",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "chín; quen thuộc",
+      "example": "饺子已经熟了，可以吃了。",
+      "examplePinyin": "jiǎo zǐ yǐ jīng shú le， kě yǐ chī le.",
+      "translation": "Sủi cảo đã chín rồi, có thể ăn được.",
+      "partOfSpeech": "Tính từ"
+    },
+    {
+      "id": "hsk4-L05-08",
+      "hanzi": "倒",
+      "pinyin": "dào",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "rót; đổ",
+      "example": "妈妈倒了一点儿油，准备炒鸡蛋。",
+      "examplePinyin": "mā mā dào le yī diǎnér yóu， zhǔn bèi chǎo jī dàn.",
+      "translation": "Mẹ đổ một ít dầu vào để chuẩn bị rán trứng.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L05-09",
+      "hanzi": "辣椒",
+      "pinyin": "làjiāo",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "ớt",
+      "example": "奶奶在菜地里种了很多辣椒。",
+      "examplePinyin": "nǎi nǎi zài cài de lǐ zhǒng le hěn duō là jiāo.",
+      "translation": "Bà trồng rất nhiều ớt ngoài vườn rau.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L05-10",
+      "hanzi": "辣",
+      "pinyin": "là",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "cay",
+      "example": "这道菜太辣了，我不敢吃。",
+      "examplePinyin": "zhè dào cài tài là le ， wǒ bù gǎn chī 。",
+      "translation": "Món này cay quá, tôi không dám ăn.",
+      "partOfSpeech": "Tính từ",
+      "sourceOriginal": {
+        "example": "奶奶在菜地里种了很多辣椒。",
+        "examplePinyin": "nǎi nǎi zài cài de lǐ zhǒng le hěn duō là jiāo.",
+        "translation": "Bà trồng rất nhiều ớt ngoài vườn rau."
+      },
+      "sourceNote": "Đã hiệu chỉnh ví dụ/phiên âm/dịch bị lệch trong tài liệu; bản gốc lưu trong dữ liệu đối chiếu."
+    },
+    {
+      "id": "hsk4-L05-11",
+      "hanzi": "敢",
+      "pinyin": "ɡǎn",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "dám",
+      "example": "太晚了，我不敢一个人出门。",
+      "examplePinyin": "tài wǎn le， wǒ bù gǎn yī gè rén chū mén.",
+      "translation": "Muộn quá rồi, tôi không dám ra ngoài một mình.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L05-12",
+      "hanzi": "肚子",
+      "pinyin": "dùzi",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "bụng",
+      "example": "我早上吃得太多了，现在肚子有点儿不舒服。",
+      "examplePinyin": "wǒ zǎoshàng chī dé tài duō le， xiàn zài dù zǐ yǒu diǎnér bù shū fú.",
+      "translation": "Sáng nay tôi ăn quá nhiều, bây giờ bụng hơi khó chịu.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L05-13",
+      "hanzi": "相同",
+      "pinyin": "xiānɡtónɡ",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "giống nhau",
+      "example": "我和他的书包颜色相同。",
+      "examplePinyin": "wǒ hé tā de shū bāo yán sè xiāngtóng.",
+      "translation": "Cặp sách của tôi và anh ấy cùng màu.",
+      "partOfSpeech": "Tính từ"
+    },
+    {
+      "id": "hsk4-L05-14",
+      "hanzi": "顺序",
+      "pinyin": "shùnxù",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "thứ tự",
+      "example": "这些书的顺序放错了。",
+      "examplePinyin": "zhè xiē shū de shùn xù fàngcuò le.",
+      "translation": "Thứ tự của những cuốn sách này bị xếp sai rồi.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L05-15",
+      "hanzi": "够",
+      "pinyin": "ɡòu",
+      "sourcePartOfSpeech": "adv./v.",
+      "meaning": "đủ",
+      "example": "今天的天气够冷的！",
+      "examplePinyin": "jīn tiān de tiān qì gòu lěng de！",
+      "translation": "Thời tiết hôm nay lạnh thật đấy!",
+      "partOfSpeech": "Phó từ / Động từ"
+    },
+    {
+      "id": "hsk4-L05-16",
+      "hanzi": "不够",
+      "pinyin": "búɡòu",
+      "sourcePartOfSpeech": "adv./v.",
+      "meaning": "không đủ",
+      "example": "这些钱不够付房租。",
+      "examplePinyin": "zhè xiē qián bù gòu fù fáng zū 。",
+      "translation": "Số tiền này không đủ trả tiền thuê nhà.",
+      "partOfSpeech": "Phó từ / Động từ",
+      "sourceOriginal": {
+        "example": "今天的天气够冷的！",
+        "examplePinyin": "jīn tiān de tiān qì gòu lěng de！",
+        "translation": "Thời tiết hôm nay lạnh thật đấy!"
+      },
+      "sourceNote": "Đã hiệu chỉnh ví dụ/phiên âm/dịch bị lệch trong tài liệu; bản gốc lưu trong dữ liệu đối chiếu."
+    },
+    {
+      "id": "hsk4-L05-17",
+      "hanzi": "达到",
+      "pinyin": "dádào",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "đạt tới",
+      "example": "他每天练习中文，终于达到了很高的水平。",
+      "examplePinyin": "tā měi tiān liàn xí zhōng wén， zhōng yú dá dào le hěn gāo de shuǐ píng.",
+      "translation": "Anh ấy luyện tiếng Trung mỗi ngày, cuối cùng đạt trình độ rất cao.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L05-18",
+      "hanzi": "聚",
+      "pinyin": "jù",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "tụ họp",
+      "example": "周末我们班的同学经常聚在一起吃饭。",
+      "examplePinyin": "zhōu mòwǒ men bānde tóng xué jīng cháng jù zài yī qǐ chī fàn.",
+      "translation": "Cuối tuần các bạn trong lớp tôi thường tụ họp ăn uống.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L05-19",
+      "hanzi": "午餐",
+      "pinyin": "wǔcān",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "bữa trưa",
+      "example": "今天午餐时我吃了一碗面条儿。我每天中午一下课就去吃午餐。",
+      "examplePinyin": "jīn tiān wǔ cān shí wǒ chī le yī wǎn miàn tiáo ér. wǒ měi tiān zhōng wǔ yī xià kè jiù qù chī wǔ cān.",
+      "translation": "Trưa nay tôi ăn một bát mì. Mỗi trưa tan học tôi đều đi ăn trưa ngay.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L05-20",
+      "hanzi": "咸",
+      "pinyin": "xián",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "mặn",
+      "example": "妈妈做的菜不太咸，很健康。",
+      "examplePinyin": "mā mā zuò de cài bù tài xián， hěn jiàn kāng.",
+      "translation": "Món mẹ nấu không mặn lắm, rất tốt cho sức khỏe.",
+      "partOfSpeech": "Tính từ"
+    },
+    {
+      "id": "hsk4-L05-21",
+      "hanzi": "凉",
+      "pinyin": "liánɡ",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "mát; nguội",
+      "example": "秋天到了，天气凉了。",
+      "examplePinyin": "qiū tiān dào le， tiān qì liáng le.",
+      "translation": "Thu đến rồi, trời mát lên.",
+      "partOfSpeech": "Tính từ"
+    },
+    {
+      "id": "hsk4-L05-22",
+      "hanzi": "酸",
+      "pinyin": "suān",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "chua",
+      "example": "这个苹果太酸了，我不太喜欢吃。",
+      "examplePinyin": "zhè gè píng guǒ tài suān le， wǒ bù tài xǐ huān chī.",
+      "translation": "Quả táo này chua quá, tôi không thích ăn lắm.",
+      "partOfSpeech": "Tính từ"
+    },
+    {
+      "id": "hsk4-L05-23",
+      "hanzi": "汤",
+      "pinyin": "tānɡ",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "canh; súp",
+      "example": "这碗汤不太咸，很好喝。",
+      "examplePinyin": "zhè wǎn tāng bù tài xián ， hěn hǎo hē 。",
+      "translation": "Bát canh này không mặn lắm, rất ngon.",
+      "partOfSpeech": "Danh từ",
+      "sourceOriginal": {
+        "example": "妈妈做的菜不太咸，很健康。",
+        "examplePinyin": "mā mā zuò de cài bù tài xián， hěn jiàn kāng.",
+        "translation": "Món mẹ nấu không mặn lắm, rất tốt cho sức khỏe."
+      },
+      "sourceNote": "Đã hiệu chỉnh ví dụ/phiên âm/dịch bị lệch trong tài liệu; bản gốc lưu trong dữ liệu đối chiếu."
+    },
+    {
+      "id": "hsk4-L05-24",
+      "hanzi": "付",
+      "pinyin": "fù",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "trả tiền",
+      "example": "女士，请您先去那边付钱。",
+      "examplePinyin": "nǚ shì， qǐng nínxiān qù nà biān fù qián.",
+      "translation": "Thưa cô, mời cô đến bên kia thanh toán trước.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L05-25",
+      "hanzi": "聚餐",
+      "pinyin": "jùcān",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "ăn cùng nhau",
+      "example": "每次聚餐大家都非常开心。",
+      "examplePinyin": "měi cì jù cān dà jiā dōu fēi cháng kāi xīn.",
+      "translation": "Mỗi lần ăn uống cùng nhau, mọi người đều rất vui.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L05-26",
+      "hanzi": "随意",
+      "pinyin": "suíyì",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "tùy ý",
+      "example": "明天的会议，你随意说就好。",
+      "examplePinyin": "míng tiān de huì yì， nǐ suí yì shuō jiù hǎo.",
+      "translation": "Cuộc họp ngày mai bạn cứ thoải mái phát biểu nhé.",
+      "partOfSpeech": "Tính từ"
+    },
+    {
+      "id": "hsk4-L05-27",
+      "hanzi": "正式",
+      "pinyin": "zhènɡshì",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "chính thức",
+      "example": "明天我要参加一个很正式的晚会。",
+      "examplePinyin": "míng tiān wǒ yào cān jiā yī gè hěn zhèng shì de wǎn huì.",
+      "translation": "Ngày mai tôi sẽ tham dự một buổi dạ tiệc rất trang trọng.",
+      "partOfSpeech": "Tính từ"
+    },
+    {
+      "id": "hsk4-L05-28",
+      "hanzi": "普通",
+      "pinyin": "pǔtōnɡ",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "phổ thông; bình thường",
+      "example": "这家饭馆看起来普普通通的，但是菜很好吃。",
+      "examplePinyin": "zhè jiā fàn guǎn kàn qǐ lái pǔpǔtōng tōng de， dàn shìcài hěn hǎo chī.",
+      "translation": "Nhà hàng này trông bình thường nhưng món ăn rất ngon.",
+      "partOfSpeech": "Tính từ"
+    },
+    {
+      "id": "hsk4-L05-29",
+      "hanzi": "重视",
+      "pinyin": "zhònɡshì",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "coi trọng",
+      "example": "爸爸非常重视我的学习，经常检查我的作业。",
+      "examplePinyin": "bàbàfēi cháng zhòng shì wǒ de xué xí， jīng cháng jiǎn chá wǒ de zuò yè.",
+      "translation": "Bố rất coi trọng việc học của tôi, thường xuyên kiểm tra bài tập.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L05-30",
+      "hanzi": "座位",
+      "pinyin": "zuòwèi",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "chỗ ngồi",
+      "example": "我们的教室有40个座位。",
+      "examplePinyin": "wǒ men de jiào shì yǒu40gè zuò wèi.",
+      "translation": "Phòng học của chúng tôi có 40 chỗ ngồi.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L05-31",
+      "hanzi": "安排",
+      "pinyin": "ānpái",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "sắp xếp",
+      "example": "大卫把晚饭的安排告诉了大家。",
+      "examplePinyin": "dà wèi bǎ wǎn fàn de ān pái gào sù le dà jiā.",
+      "translation": "David đã nói với mọi người về việc sắp xếp bữa tối.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L05-32",
+      "hanzi": "按照",
+      "pinyin": "ànzhào",
+      "sourcePartOfSpeech": "prep.",
+      "meaning": "dựa theo",
+      "example": "按照妈妈的要求，我每天九点睡觉。",
+      "examplePinyin": "àn zhào mā mā de yào qiú， wǒ měi tiān jiǔ diǎnshuì jué.",
+      "translation": "Theo yêu cầu của mẹ, ngày nào tôi cũng đi ngủ lúc chín giờ.",
+      "partOfSpeech": "Giới từ"
+    },
+    {
+      "id": "hsk4-L05-33",
+      "hanzi": "年龄",
+      "pinyin": "niánlínɡ",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "tuổi tác",
+      "example": "不同年龄的人喜欢做的事情不一样。",
+      "examplePinyin": "bù tóng nián líng de rén xǐ huān zuò de shì qíng bù yī yàng.",
+      "translation": "Người ở những độ tuổi khác nhau thích làm những việc khác nhau.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L05-34",
+      "hanzi": "面对",
+      "pinyin": "miànduì",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "đối diện; đối mặt",
+      "example": "面对家里的新变化，我们都不知道该怎么做。",
+      "examplePinyin": "miàn duì jiā lǐ de xīn biàn huà， wǒ men dōu bù zhī dào gāi zěn me zuò.",
+      "translation": "Đối diện với những thay đổi mới trong gia đình, chúng tôi không biết phải làm sao.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L05-35",
+      "hanzi": "主人",
+      "pinyin": "zhǔrén",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "chủ nhà; chủ tiệc",
+      "example": "客人来了，主人热情地给他们倒茶。",
+      "examplePinyin": "kè rén lái le， zhǔ rén rèqíng de gěi tā men dào chá.",
+      "translation": "Khách đến, chủ nhà nhiệt tình rót trà cho họ.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L05-36",
+      "hanzi": "等",
+      "pinyin": "děnɡ",
+      "sourcePartOfSpeech": "prep.",
+      "meaning": "đợi; vân vân",
+      "example": "等爸爸回来，我们就吃饭。",
+      "examplePinyin": "děng bàbàhuí lái， wǒ men jiù chī fàn.",
+      "translation": "Đợi bố về, chúng ta sẽ ăn cơm.",
+      "partOfSpeech": "Giới từ"
+    },
+    {
+      "id": "hsk4-L05-37",
+      "hanzi": "尊重",
+      "pinyin": "zūnzhònɡ",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "tôn trọng",
+      "example": "孩子们很尊重家里的老人。",
+      "examplePinyin": "hái zǐ men hěn zūn zhòng jiā lǐ de lǎo rén.",
+      "translation": "Các em rất kính trọng người lớn tuổi trong nhà.",
+      "partOfSpeech": "Động từ"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "hsk4-L05-G01",
+      "name": "至少",
+      "formula": "至少 + Số lượng / Thời gian",
+      "explanation": "Ít nhất, không thấp hơn mức tối thiểu.",
+      "examples": [
+        {
+          "hanzi": "我每天至少学习两个小时中文。",
+          "pinyin": "wǒ měi tiān zhì shǎo xué xí liǎng gè xiǎo shí zhōng wén.",
+          "translation": "Mỗi ngày tôi học tiếng Trung ít nhất hai tiếng."
+        }
+      ],
+      "usage": "至少 đặt trước mức tối thiểu về số lượng hoặc thời gian.",
+      "note": "Không hiểu 至少 là số lượng tối đa."
+    },
+    {
+      "id": "hsk4-L05-G02",
+      "name": "够……的 / 够",
+      "formula": "够……的 / 够 + Động từ",
+      "explanation": "Nhấn mạnh mức độ cao hoặc sự đủ về số lượng.",
+      "examples": [
+        {
+          "hanzi": "这道菜够辣的！",
+          "pinyin": "zhè dào cài gòu là de！",
+          "translation": "Món này cay thật!"
+        }
+      ],
+      "usage": "够……的 nhấn mạnh mức độ; 够用 nói đủ để dùng.",
+      "note": "Phân biệt mức độ cao với đủ/không đủ về số lượng."
+    },
+    {
+      "id": "hsk4-L05-G03",
+      "name": "各",
+      "formula": "各 + Động từ + 各的",
+      "explanation": "Mỗi người tự làm việc của mình, không ảnh hưởng nhau.",
+      "examples": [
+        {
+          "hanzi": "大家各做各的事。",
+          "pinyin": "dà jiā gè zuò gè de shì.",
+          "translation": "Mọi người ai làm việc nấy."
+        }
+      ],
+      "usage": "各做各的 nhấn mạnh mỗi người làm phần việc riêng.",
+      "note": "各 thường gắn với đối tượng phân chia rõ ràng."
+    },
+    {
+      "id": "hsk4-L05-G04",
+      "name": "等",
+      "formula": "等 + Mốc thời gian / Sự việc",
+      "explanation": "Đợi đến khi điều kiện hay thời gian được đáp ứng.",
+      "examples": [
+        {
+          "hanzi": "等爸爸回来，我们就吃饭。",
+          "pinyin": "děng bàbàhuí lái， wǒ men jiù chī fàn.",
+          "translation": "Đợi bố về, chúng ta sẽ ăn cơm."
+        }
+      ],
+      "usage": "等 dẫn thời điểm hoặc sự việc cần chờ.",
+      "note": "Phân biệt 等 “đợi” với 等 “vân vân” sau liệt kê."
+    }
+  ],
+  "source": "HSK 4 - Thượng - Từ vựng và ngữ pháp theo bài học.docx",
+  "supplementNote": "Bài tập, bài đọc, cách dùng và lưu ý được biên soạn bổ sung; từ vựng và ví dụ ngữ pháp theo tài liệu bạn cung cấp."
+}

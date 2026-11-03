@@ -1,0 +1,486 @@
+{
+  "id": 8,
+  "volume": "upper",
+  "title": "该放松时就放松",
+  "subtitle": "Đến lúc thư giãn thì hãy thư giãn",
+  "words": [
+    {
+      "id": "hsk4-L08-01",
+      "hanzi": "紧张",
+      "pinyin": "jǐnzhāng",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "căng thẳng",
+      "example": "他心里很紧张。",
+      "examplePinyin": "tā xīn lǐ hěn jǐn zhāng.",
+      "translation": "Trong lòng anh ấy rất căng thẳng.",
+      "partOfSpeech": "Tính từ"
+    },
+    {
+      "id": "hsk4-L08-02",
+      "hanzi": "放松",
+      "pinyin": "fàngsōng",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "thư giãn",
+      "example": "听听音乐放松一下。",
+      "examplePinyin": "tīng tīng yīn lè fàngsōngyī xià.",
+      "translation": "Hãy nghe nhạc để thư giãn một chút.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L08-03",
+      "hanzi": "呀",
+      "pinyin": "yā",
+      "sourcePartOfSpeech": "int.",
+      "meaning": "ôi; nhé",
+      "example": "花儿真美呀。",
+      "examplePinyin": "huā ér zhēn měi ya.",
+      "translation": "Hoa đẹp thật đấy!",
+      "partOfSpeech": "Thán từ"
+    },
+    {
+      "id": "hsk4-L08-04",
+      "hanzi": "不管",
+      "pinyin": "bùguǎn",
+      "sourcePartOfSpeech": "conj.",
+      "meaning": "bất kể",
+      "example": "不管多忙都要休息。",
+      "examplePinyin": "bù guǎn duō máng dōu yào xiū xī.",
+      "translation": "Dù bận đến đâu cũng phải nghỉ ngơi.",
+      "partOfSpeech": "Liên từ"
+    },
+    {
+      "id": "hsk4-L08-05",
+      "hanzi": "郊区",
+      "pinyin": "jiāoqū",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "ngoại ô",
+      "example": "我家住在郊区。",
+      "examplePinyin": "wǒ jiā zhù zài jiāo qū.",
+      "translation": "Nhà tôi ở ngoại ô.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L08-06",
+      "hanzi": "游玩",
+      "pinyin": "yóuwán",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "đi chơi; tham quan",
+      "example": "朋友们假期去中国游玩。",
+      "examplePinyin": "péng yǒu men jiǎ qī qù zhōng guó yóuwán.",
+      "translation": "Các bạn đi Trung Quốc tham quan vào kỳ nghỉ.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L08-07",
+      "hanzi": "主意",
+      "pinyin": "zhǔyi",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "ý kiến; cách hay",
+      "example": "我想到一个主意。",
+      "examplePinyin": "wǒ xiǎng dào yī gè zhǔ yì.",
+      "translation": "Tôi nghĩ ra một ý hay.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L08-08",
+      "hanzi": "外出",
+      "pinyin": "wàichū",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "ra ngoài",
+      "example": "明天他要外出。",
+      "examplePinyin": "míng tiān tā yào wài chū.",
+      "translation": "Ngày mai anh ấy phải ra ngoài.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L08-09",
+      "hanzi": "戴",
+      "pinyin": "dài",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "đội; đeo",
+      "example": "外出时别忘了戴帽子。",
+      "examplePinyin": "wài chū shí bié wàng le dài mào zi 。",
+      "translation": "Khi ra ngoài đừng quên đội mũ.",
+      "partOfSpeech": "Động từ",
+      "sourceOriginal": {
+        "example": "他买了一顶新帽子。",
+        "examplePinyin": "tā mǎi le yī dǐng xīn mào zǐ.",
+        "translation": "Anh ấy mua một chiếc mũ mới."
+      },
+      "sourceNote": "Đã hiệu chỉnh ví dụ/phiên âm/dịch bị lệch trong tài liệu; bản gốc lưu trong dữ liệu đối chiếu."
+    },
+    {
+      "id": "hsk4-L08-10",
+      "hanzi": "帽子",
+      "pinyin": "màozi",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "mũ",
+      "example": "他买了一顶新帽子。",
+      "examplePinyin": "tā mǎi le yī dǐng xīn mào zǐ.",
+      "translation": "Anh ấy mua một chiếc mũ mới.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L08-11",
+      "hanzi": "项目",
+      "pinyin": "xiàngmù",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "hạng mục; dự án",
+      "example": "这个项目很重要。",
+      "examplePinyin": "zhè gè xiàng mùhěn zhòng yào.",
+      "translation": "Dự án này rất quan trọng.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L08-12",
+      "hanzi": "加班",
+      "pinyin": "jiābān",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "tăng ca",
+      "example": "他今天要加班。",
+      "examplePinyin": "tā jīn tiān yào jiā bān.",
+      "translation": "Hôm nay anh ấy phải làm thêm giờ.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L08-13",
+      "hanzi": "熬夜",
+      "pinyin": "áoyè",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "thức khuya",
+      "example": "昨晚我又熬夜了。",
+      "examplePinyin": "zuówǎn wǒ yòu áoyè le.",
+      "translation": "Đêm qua tôi lại thức khuya.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L08-14",
+      "hanzi": "否则",
+      "pinyin": "fǒuzé",
+      "sourcePartOfSpeech": "conj.",
+      "meaning": "nếu không",
+      "example": "否则，后果自负。",
+      "examplePinyin": "fǒu zé， hòu guǒ zì fù.",
+      "translation": "Nếu không, bạn phải tự chịu hậu quả.",
+      "partOfSpeech": "Liên từ"
+    },
+    {
+      "id": "hsk4-L08-15",
+      "hanzi": "失去",
+      "pinyin": "shīqù",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "mất đi",
+      "example": "他失去了信心。",
+      "examplePinyin": "tā shī qù le xìn xīn.",
+      "translation": "Anh ấy đã mất đi niềm tin.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L08-16",
+      "hanzi": "值得",
+      "pinyin": "zhídé",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "đáng",
+      "example": "这件事值得学习。",
+      "examplePinyin": "zhè jiàn shì zhí dé xué xí.",
+      "translation": "Việc này đáng để học hỏi.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L08-17",
+      "hanzi": "暂停",
+      "pinyin": "zàntíng",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "tạm dừng",
+      "example": "请暂停播放。",
+      "examplePinyin": "qǐng zàn tíng bōfàng.",
+      "translation": "Hãy tạm dừng phát lại.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L08-18",
+      "hanzi": "之后",
+      "pinyin": "zhīhòu",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "sau đó",
+      "example": "毕业之后我去了北京。",
+      "examplePinyin": "bì yè zhī hòu wǒ qù le běi jīng.",
+      "translation": "Sau khi tốt nghiệp tôi đến Bắc Kinh.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L08-19",
+      "hanzi": "风景",
+      "pinyin": "fēngjǐng",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "phong cảnh",
+      "example": "这里的风景很美。",
+      "examplePinyin": "zhè lǐ de fēng jǐnghěn měi.",
+      "translation": "Phong cảnh ở đây rất đẹp.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L08-20",
+      "hanzi": "效率",
+      "pinyin": "xiàolǜ",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "hiệu suất",
+      "example": "做事要重视效率。",
+      "examplePinyin": "zuò shì yào zhòng shì xiào lǜ.",
+      "translation": "Làm việc phải coi trọng hiệu suất.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L08-21",
+      "hanzi": "下降",
+      "pinyin": "xiàjiàng",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "giảm xuống",
+      "example": "明天气温会下降。",
+      "examplePinyin": "míng tiān qì wēnhuì xià jiàng.",
+      "translation": "Nhiệt độ ngày mai sẽ giảm.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L08-22",
+      "hanzi": "相比",
+      "pinyin": "xiāngbǐ",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "so với",
+      "example": "相比从前，他长高了不少。",
+      "examplePinyin": "xiāngbǐ cóng qián， tā zhǎng gāo le bù shǎo.",
+      "translation": "So với trước kia, anh ấy cao lên khá nhiều.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L08-23",
+      "hanzi": "因此",
+      "pinyin": "yīncǐ",
+      "sourcePartOfSpeech": "conj.",
+      "meaning": "vì vậy",
+      "example": "快要迟到了，因此我们打车去学校。",
+      "examplePinyin": "kuài yào chí dào le， yīn cǐ wǒ men dǎ chē qù xué xiào.",
+      "translation": "Sắp muộn học rồi, vì thế chúng tôi bắt taxi đến trường.",
+      "partOfSpeech": "Liên từ"
+    },
+    {
+      "id": "hsk4-L08-24",
+      "hanzi": "提醒",
+      "pinyin": "tíxǐng",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "nhắc nhở",
+      "example": "记得提醒我明天早起。",
+      "examplePinyin": "jì dé tí xǐng wǒ míng tiān zǎoqǐ.",
+      "translation": "Nhớ nhắc tôi dậy sớm ngày mai.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L08-25",
+      "hanzi": "与",
+      "pinyin": "yǔ",
+      "sourcePartOfSpeech": "prep./conj.",
+      "meaning": "với; và",
+      "example": "人类与大自然和谐相处。",
+      "examplePinyin": "rén lèiyǔ dà zì rán hé xié xiāngchù.",
+      "translation": "Con người và thiên nhiên sống hài hòa với nhau.",
+      "partOfSpeech": "Giới từ / Liên từ"
+    },
+    {
+      "id": "hsk4-L08-26",
+      "hanzi": "大自然",
+      "pinyin": "dàzìrán",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "thiên nhiên",
+      "example": "我们要爱护大自然。",
+      "examplePinyin": "wǒ men yào ài hù dà zì rán.",
+      "translation": "Chúng ta phải bảo vệ thiên nhiên.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L08-27",
+      "hanzi": "美丽",
+      "pinyin": "měilì",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "đẹp",
+      "example": "她是个美丽的女孩！",
+      "examplePinyin": "tā shì ge měilì de nǚhái!",
+      "translation": "Cô ấy là một cô gái xinh đẹp!",
+      "partOfSpeech": "Tính từ",
+      "sourceOriginal": {
+        "example": "她这是个美丽的女孩！",
+        "examplePinyin": "tā zhè shìgè měi lì de nǚ hái！"
+      },
+      "sourceNote": "Đã hiệu chỉnh ví dụ/phiên âm/dịch bị lệch trong tài liệu; bản gốc lưu trong dữ liệu đối chiếu."
+    },
+    {
+      "id": "hsk4-L08-28",
+      "hanzi": "景色",
+      "pinyin": "jǐngsè",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "cảnh sắc",
+      "example": "山上的景色很好看。",
+      "examplePinyin": "shān shàng de jǐngsè hěn hǎo kàn.",
+      "translation": "Cảnh sắc trên núi rất đẹp.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L08-29",
+      "hanzi": "首都",
+      "pinyin": "shǒudū",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "thủ đô",
+      "example": "北京是中国的首都。",
+      "examplePinyin": "běi jīng shìzhōng guó de shǒu dōu.",
+      "translation": "Bắc Kinh là thủ đô Trung Quốc.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L08-30",
+      "hanzi": "市区",
+      "pinyin": "shìqū",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "khu nội thành",
+      "example": "首都的市区很热闹。",
+      "examplePinyin": "shǒu dōu de shì qū hěn rènào.",
+      "translation": "Khu nội thành thủ đô rất náo nhiệt.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L08-31",
+      "hanzi": "眼前",
+      "pinyin": "yǎnqián",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "trước mắt",
+      "example": "美丽的景色就在眼前。",
+      "examplePinyin": "měi lì de jǐngsè jiù zài yǎnqián.",
+      "translation": "Phong cảnh đẹp ở ngay trước mắt.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L08-32",
+      "hanzi": "美景",
+      "pinyin": "měijǐng",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "cảnh đẹp",
+      "example": "我们一起去看美景。",
+      "examplePinyin": "wǒ men yī qǐ qù kàn měi jǐng.",
+      "translation": "Chúng ta cùng đi ngắm cảnh đẹp.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L08-33",
+      "hanzi": "参观",
+      "pinyin": "cānguān",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "tham quan",
+      "example": "我们参观博物馆。",
+      "examplePinyin": "wǒ men cān guān bó wùguǎn.",
+      "translation": "Chúng tôi tham quan bảo tàng.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L08-34",
+      "hanzi": "景点",
+      "pinyin": "jǐngdiǎn",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "điểm du lịch",
+      "example": "长城是北京的著名景点。",
+      "examplePinyin": "zhǎng chéng shìběi jīng de zhù míng jǐngdiǎn.",
+      "translation": "Vạn Lý Trường Thành là điểm tham quan nổi tiếng của Bắc Kinh.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L08-35",
+      "hanzi": "交通",
+      "pinyin": "jiɑ̄otōng",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "giao thông",
+      "example": "我们要遵守交通规则。",
+      "examplePinyin": "wǒ men yào zūn shǒu jiāo tōng guī zé.",
+      "translation": "Chúng ta phải tuân thủ luật giao thông.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L08-36",
+      "hanzi": "乘坐",
+      "pinyin": "chénɡzuò",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "đi bằng; ngồi",
+      "example": "他乘坐公交车回家。",
+      "examplePinyin": "tā chéng zuò gōng jiāo chē huí jiā.",
+      "translation": "Anh ấy đi xe buýt về nhà.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L08-37",
+      "hanzi": "十分",
+      "pinyin": "shífēn",
+      "sourcePartOfSpeech": "adv.",
+      "meaning": "rất; vô cùng",
+      "example": "我十分喜欢画画。",
+      "examplePinyin": "wǒ shí fēn xǐ huān huàhuà.",
+      "translation": "Tôi rất thích vẽ tranh.",
+      "partOfSpeech": "Phó từ"
+    },
+    {
+      "id": "hsk4-L08-38",
+      "hanzi": "实际上",
+      "pinyin": "shíjìshàng",
+      "sourcePartOfSpeech": "adv.",
+      "meaning": "thực tế là",
+      "example": "我以为这道题很难，实际上很简单。",
+      "examplePinyin": "wǒ yǐ wèi zhè dào tí hěn nán， shí jì shàng hěn jiǎn dān.",
+      "translation": "Tôi tưởng câu này khó, thực ra rất dễ.",
+      "partOfSpeech": "Phó từ"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "hsk4-L08-G01",
+      "name": "不管",
+      "formula": "不管 + Điều kiện，都/也 + Kết quả",
+      "explanation": "Bất kể điều kiện thế nào, kết quả vẫn không thay đổi.",
+      "examples": [
+        {
+          "hanzi": "不管遇到多大困难，我们也要坚持，最后一定能完成任务。",
+          "pinyin": "bù guǎn yù dào duō dà kùn nán， wǒ men yě yào jiān chí， zuì hòu yī dìng néng wán chéng rèn wù.",
+          "translation": "Dù gặp khó khăn lớn đến đâu, chúng ta vẫn phải kiên trì, cuối cùng nhất định hoàn thành nhiệm vụ."
+        }
+      ],
+      "usage": "不管 đi với từ nghi vấn hoặc lựa chọn rồi 都/也.",
+      "note": "Kết quả ở vế sau không đổi theo điều kiện."
+    },
+    {
+      "id": "hsk4-L08-G02",
+      "name": "Mệnh đề 1，否则",
+      "formula": "Mệnh đề 1，否则 + Hậu quả",
+      "explanation": "Nếu không làm như vế trước thì sẽ xảy ra hậu quả ở vế sau.",
+      "examples": [
+        {
+          "hanzi": "今晚早点儿睡吧，否则明天早上起不来，又该迟到了。",
+          "pinyin": "jīn wǎn zǎodiǎnér shuì ba， fǒu zé míng tiān zǎoshàng qǐ bù lái， yòu gāi chí dào le.",
+          "translation": "Tối nay ngủ sớm nhé, nếu không sáng mai không dậy nổi rồi lại đi muộn."
+        }
+      ],
+      "usage": "否则 nêu hậu quả nếu không làm theo lời khuyên phía trước.",
+      "note": "Không dùng 否则 thay cho liên từ bổ sung thông tin."
+    },
+    {
+      "id": "hsk4-L08-G03",
+      "name": "跟 / 与",
+      "formula": "跟 / 与 + A + 相比，B……",
+      "explanation": "So sánh B với A, thường dùng để nêu khác biệt.",
+      "examples": [
+        {
+          "hanzi": "跟用现金相比，手机支付更方便些。",
+          "pinyin": "gēn yòngxiàn jīn xiāngbǐ， shǒu jīzhīfù gèng fāngbiàn xiē.",
+          "translation": "So với dùng tiền mặt, thanh toán bằng điện thoại tiện hơn."
+        }
+      ],
+      "usage": "跟/与……相比 đặt đối tượng chuẩn trước 相比.",
+      "note": "Cần nêu rõ đối tượng và phương diện so sánh."
+    }
+  ],
+  "source": "HSK 4 - Thượng - Từ vựng và ngữ pháp theo bài học.docx",
+  "supplementNote": "Bài tập, bài đọc, cách dùng và lưu ý được biên soạn bổ sung; từ vựng và ví dụ ngữ pháp theo tài liệu bạn cung cấp."
+}

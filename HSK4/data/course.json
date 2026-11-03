@@ -1,0 +1,71 @@
+{
+  "id": "hsk4",
+  "volume": "upper",
+  "lessons": [
+    {
+      "id": 1,
+      "content": "lesson-01.json",
+      "practice": "practice-01.json"
+    },
+    {
+      "id": 2,
+      "content": "lesson-02.json",
+      "practice": "practice-02.json"
+    },
+    {
+      "id": 3,
+      "content": "lesson-03.json",
+      "practice": "practice-03.json"
+    },
+    {
+      "id": 4,
+      "content": "lesson-04.json",
+      "practice": "practice-04.json"
+    },
+    {
+      "id": 5,
+      "content": "lesson-05.json",
+      "practice": "practice-05.json"
+    },
+    {
+      "id": 6,
+      "content": "lesson-06.json",
+      "practice": "practice-06.json"
+    },
+    {
+      "id": 7,
+      "content": "lesson-07.json",
+      "practice": "practice-07.json"
+    },
+    {
+      "id": 8,
+      "content": "lesson-08.json",
+      "practice": "practice-08.json"
+    },
+    {
+      "id": 9,
+      "content": "lesson-09.json",
+      "practice": "practice-09.json"
+    },
+    {
+      "id": 10,
+      "content": "lesson-10.json",
+      "practice": "practice-10.json"
+    }
+  ],
+  "lower": {
+    "status": "upcoming",
+    "lessons": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ]
+  }
+}
