@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-03 — Cập nhật ngữ pháp Bài 8 HSK 4 theo ảnh
+
+- Thay toàn bộ lý thuyết/bài tập bằng bốn mẫu: 不管……都/也……; ……否则……; 跟/与……相比; 有A有B. Có 12 ví dụ có pinyin/dịch và 12 cụm cố định theo ba nhóm từ loại.
+- Tạo lại 12 câu luyện cho trắc nghiệm, sắp xếp và viết; cập nhật ôn tập và đoạn viết mẫu vận dụng đủ bốn mẫu. Giữ giao diện và tiến độ hiện có.
+- Lưu nguyên bản ba điểm DOCX được thay thế; toàn quyển có 35 điểm ngữ pháp. Bài 9–10 chờ người dùng bổ sung.
+
 ## 2026-11-03 — Bổ sung ngữ pháp 4 Bài 7 HSK 4
 
 - Thêm câu kiêm ngữ Chủ ngữ + 使 + tân ngữ + cụm động từ theo ảnh Text 4 người dùng gửi: lý thuyết Việt, lưu ý và ba ví dụ có pinyin/dịch.

@@ -37,7 +37,7 @@ for n, (a, b) in enumerate(zip(starts, starts[1:]), 1):
         source = {**word, **word.get('sourceOriginal', {})}
         assert [source[k] for k in m['wordFields']] == row[1:], word['id']
     index = rows.index('02  NGỮ PHÁP / GRAMMAR') + 2
-    for grammar in (g for g in lesson['grammar'] if g.get('sourceType') != 'user-supplement'):
+    for grammar in (g.get('sourceOriginal', g) for g in lesson['grammar'] if g.get('sourceType') != 'user-supplement' or g.get('sourceOriginal')):
         row = rows[index:index + 7]
         assert grammar['name'] == re.sub(r'^\d+\s+', '', row[0])
         assert grammar['formula'] == row[2]

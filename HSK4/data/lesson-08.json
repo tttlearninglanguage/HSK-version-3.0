@@ -436,49 +436,234 @@
   ],
   "grammar": [
     {
-      "id": "hsk4-L08-G01",
-      "name": "不管",
-      "formula": "不管 + Điều kiện，都/也 + Kết quả",
-      "explanation": "Bất kể điều kiện thế nào, kết quả vẫn không thay đổi.",
+      "name": "条件复句：不管……，都/也……",
+      "formula": "不管 + điều kiện/tình huống/thay đổi，(chủ ngữ) + 都/也 + kết quả không đổi",
+      "explanation": "Câu phức điều kiện với 不管 (bùguǎn: bất kể, dù) nêu một điều kiện có thể thay đổi, nhưng kết quả ở vế sau vẫn không thay đổi. Vế đầu thường có từ nghi vấn như 哪儿、什么、多大 hoặc các lựa chọn như 同意不同意; 都/也 nhấn mạnh kết quả không bị điều kiện chi phối.",
+      "usage": "Đặt điều kiện sau 不管; chủ ngữ của vế kết quả có thể được nêu rõ hoặc lược khi đã biết. Ví dụ: đi Bắc Kinh, Thượng Hải hay Quảng Châu đều được, miễn là có thể thư giãn. Khi nói về ý kiến, dù đồng ý hay không cũng nên nói ra.",
+      "note": "Không nhầm 不管……都/也…… (kết quả không đổi dù điều kiện thế nào) với 如果/要是……就…… (kết quả phụ thuộc vào giả thiết). Không dùng 否则 thay cho 都/也 trong mẫu này.",
       "examples": [
+        {
+          "hanzi": "不管去哪儿，能放松的地方都行。",
+          "pinyin": "Bùguǎn qù nǎr, néng fàngsōng de dìfang dōu xíng.",
+          "translation": "Bất kể đi đâu, nơi có thể thư giãn đều được."
+        },
+        {
+          "hanzi": "不管有什么想法，你都要说出来，让我们知道。",
+          "pinyin": "Bùguǎn yǒu shénme xiǎngfǎ, nǐ dōu yào shuō chūlai, ràng wǒmen zhīdào.",
+          "translation": "Bất kể có suy nghĩ gì, bạn đều cần nói ra để chúng tôi biết."
+        },
         {
           "hanzi": "不管遇到多大困难，我们也要坚持，最后一定能完成任务。",
-          "pinyin": "bù guǎn yù dào duō dà kùn nán， wǒ men yě yào jiān chí， zuì hòu yī dìng néng wán chéng rèn wù.",
-          "translation": "Dù gặp khó khăn lớn đến đâu, chúng ta vẫn phải kiên trì, cuối cùng nhất định hoàn thành nhiệm vụ."
+          "pinyin": "Bùguǎn yùdào duō dà kùnnan, wǒmen yě yào jiānchí, zuìhòu yídìng néng wánchéng rènwu.",
+          "translation": "Dù gặp khó khăn lớn đến đâu, chúng ta vẫn phải kiên trì, cuối cùng nhất định có thể hoàn thành nhiệm vụ."
         }
       ],
-      "usage": "不管 đi với từ nghi vấn hoặc lựa chọn rồi 都/也.",
-      "note": "Kết quả ở vế sau không đổi theo điều kiện."
+      "id": "hsk4-L08-G01",
+      "sourceType": "user-supplement",
+      "source": "Ảnh người dùng cung cấp — Bài 8, Text 1",
+      "sourceOriginal": {
+        "id": "hsk4-L08-G01",
+        "name": "不管",
+        "formula": "不管 + Điều kiện，都/也 + Kết quả",
+        "explanation": "Bất kể điều kiện thế nào, kết quả vẫn không thay đổi.",
+        "examples": [
+          {
+            "hanzi": "不管遇到多大困难，我们也要坚持，最后一定能完成任务。",
+            "pinyin": "bù guǎn yù dào duō dà kùn nán， wǒ men yě yào jiān chí， zuì hòu yī dìng néng wán chéng rèn wù.",
+            "translation": "Dù gặp khó khăn lớn đến đâu, chúng ta vẫn phải kiên trì, cuối cùng nhất định hoàn thành nhiệm vụ."
+          }
+        ],
+        "usage": "不管 đi với từ nghi vấn hoặc lựa chọn rồi 都/也.",
+        "note": "Kết quả ở vế sau không đổi theo điều kiện."
+      }
     },
     {
-      "id": "hsk4-L08-G02",
-      "name": "Mệnh đề 1，否则",
-      "formula": "Mệnh đề 1，否则 + Hậu quả",
-      "explanation": "Nếu không làm như vế trước thì sẽ xảy ra hậu quả ở vế sau.",
+      "name": "假设复句：……，否则……",
+      "formula": "Yêu cầu/lời khuyên/điều kiện，(chủ ngữ) + 否则 + hậu quả nếu vế trước không được thực hiện",
+      "explanation": "否则 (fǒuzé: nếu không, bằng không) nối một yêu cầu, lời khuyên hoặc điều kiện với hậu quả nếu điều đó không được thực hiện. Vế sau ngầm có nghĩa “nếu không làm như vừa nói thì…”.",
+      "usage": "Dùng 否则 để cảnh báo hoặc giải thích lý do nên làm theo lời khuyên. Chẳng hạn, khuyên ngủ sớm rồi nêu hậu quả: nếu không ngủ sớm thì sáng mai không dậy nổi và lại đi muộn. Cũng có thể nêu điều kiện bảo quản thức ăn rồi nói hậu quả nếu không làm.",
+      "note": "Chú ý hướng quan hệ: vế sau là hậu quả khi KHÔNG thực hiện vế trước, không phải kết quả khi đã làm theo. 因此/所以 nêu kết quả từ nguyên nhân đã nói; 否则 nêu tình huống ngược lại. Không thêm một vế 如果 phủ định trùng lặp không cần thiết.",
       "examples": [
+        {
+          "hanzi": "还是别给自己太大压力，否则，失去健康就不值得了。",
+          "pinyin": "Háishi bié gěi zìjǐ tài dà yālì, fǒuzé, shīqù jiànkāng jiù bù zhídé le.",
+          "translation": "Tốt hơn là đừng tạo áp lực quá lớn cho bản thân; nếu không, đánh mất sức khỏe thì không đáng."
+        },
         {
           "hanzi": "今晚早点儿睡吧，否则明天早上起不来，又该迟到了。",
-          "pinyin": "jīn wǎn zǎodiǎnér shuì ba， fǒu zé míng tiān zǎoshàng qǐ bù lái， yòu gāi chí dào le.",
+          "pinyin": "Jīnwǎn zǎodiǎnr shuì ba, fǒuzé míngtiān zǎoshang qǐ bu lái, yòu gāi chídào le.",
           "translation": "Tối nay ngủ sớm nhé, nếu không sáng mai không dậy nổi rồi lại đi muộn."
+        },
+        {
+          "hanzi": "吃不完的菜要放进冰箱，否则很容易坏。",
+          "pinyin": "Chī bu wán de cài yào fàng jìn bīngxiāng, fǒuzé hěn róngyì huài.",
+          "translation": "Món ăn không ăn hết cần cho vào tủ lạnh, nếu không rất dễ hỏng."
         }
       ],
-      "usage": "否则 nêu hậu quả nếu không làm theo lời khuyên phía trước.",
-      "note": "Không dùng 否则 thay cho liên từ bổ sung thông tin."
+      "id": "hsk4-L08-G02",
+      "sourceType": "user-supplement",
+      "source": "Ảnh người dùng cung cấp — Bài 8, Text 2",
+      "sourceOriginal": {
+        "id": "hsk4-L08-G02",
+        "name": "Mệnh đề 1，否则",
+        "formula": "Mệnh đề 1，否则 + Hậu quả",
+        "explanation": "Nếu không làm như vế trước thì sẽ xảy ra hậu quả ở vế sau.",
+        "examples": [
+          {
+            "hanzi": "今晚早点儿睡吧，否则明天早上起不来，又该迟到了。",
+            "pinyin": "jīn wǎn zǎodiǎnér shuì ba， fǒu zé míng tiān zǎoshàng qǐ bù lái， yòu gāi chí dào le.",
+            "translation": "Tối nay ngủ sớm nhé, nếu không sáng mai không dậy nổi rồi lại đi muộn."
+          }
+        ],
+        "usage": "否则 nêu hậu quả nếu không làm theo lời khuyên phía trước.",
+        "note": "Không dùng 否则 thay cho liên từ bổ sung thông tin."
+      }
     },
     {
-      "id": "hsk4-L08-G03",
-      "name": "跟 / 与",
-      "formula": "跟 / 与 + A + 相比，B……",
-      "explanation": "So sánh B với A, thường dùng để nêu khác biệt.",
+      "name": "比较句：跟/与……相比",
+      "formula": "跟/与 + đối tượng làm chuẩn + 相比，chủ ngữ + đặc điểm/kết quả so sánh",
+      "explanation": "跟……相比 hoặc 与……相比 (so với…) đặt một đối tượng, sự việc hoặc hành động làm chuẩn để so sánh với đối tượng ở vế sau. Vế sau thường nêu điểm khác biệt, có thể dùng 更、比较 hoặc một cách diễn đạt so sánh phù hợp.",
+      "usage": "跟 thường dùng trong khẩu ngữ và tình huống không quá trang trọng; 与 thường dùng trong văn viết hoặc hoàn cảnh trang trọng hơn. Đối tượng làm chuẩn có thể là một hành động như 一直加班、读研究生、用现金, không chỉ là người hoặc đồ vật.",
+      "note": "Giữ đúng trật tự 跟/与 + đối tượng chuẩn + 相比; không viết 跟相比 + đối tượng. Nêu rõ hai đối tượng và cùng phương diện so sánh. Không đặt cả 跟 và 与 nối tiếp trước cùng một đối tượng.",
       "examples": [
         {
+          "hanzi": "跟一直加班相比，休息好了再工作，效率更高。",
+          "pinyin": "Gēn yìzhí jiābān xiāngbǐ, xiūxi hǎo le zài gōngzuò, xiàolǜ gèng gāo.",
+          "translation": "So với liên tục tăng ca, nghỉ ngơi đầy đủ rồi làm việc sẽ có hiệu suất cao hơn."
+        },
+        {
+          "hanzi": "跟读研究生相比，我更想直接工作。",
+          "pinyin": "Gēn dú yánjiūshēng xiāngbǐ, wǒ gèng xiǎng zhíjiē gōngzuò.",
+          "translation": "So với học cao học, tôi muốn đi làm ngay hơn."
+        },
+        {
           "hanzi": "跟用现金相比，手机支付更方便些。",
-          "pinyin": "gēn yòngxiàn jīn xiāngbǐ， shǒu jīzhīfù gèng fāngbiàn xiē.",
-          "translation": "So với dùng tiền mặt, thanh toán bằng điện thoại tiện hơn."
+          "pinyin": "Gēn yòng xiànjīn xiāngbǐ, shǒujī zhīfù gèng fāngbiàn xiē.",
+          "translation": "So với dùng tiền mặt, thanh toán bằng điện thoại tiện hơn một chút."
         }
       ],
-      "usage": "跟/与……相比 đặt đối tượng chuẩn trước 相比.",
-      "note": "Cần nêu rõ đối tượng và phương diện so sánh."
+      "id": "hsk4-L08-G03",
+      "sourceType": "user-supplement",
+      "source": "Ảnh người dùng cung cấp — Bài 8, Text 3",
+      "sourceOriginal": {
+        "id": "hsk4-L08-G03",
+        "name": "跟 / 与",
+        "formula": "跟 / 与 + A + 相比，B……",
+        "explanation": "So sánh B với A, thường dùng để nêu khác biệt.",
+        "examples": [
+          {
+            "hanzi": "跟用现金相比，手机支付更方便些。",
+            "pinyin": "gēn yòngxiàn jīn xiāngbǐ， shǒu jīzhīfù gèng fāngbiàn xiē.",
+            "translation": "So với dùng tiền mặt, thanh toán bằng điện thoại tiện hơn."
+          }
+        ],
+        "usage": "跟/与……相比 đặt đối tượng chuẩn trước 相比.",
+        "note": "Cần nêu rõ đối tượng và phương diện so sánh."
+      }
+    },
+    {
+      "name": "固定短语：有A有B",
+      "formula": "有 + A + 有 + B",
+      "explanation": "Cụm cố định 有A有B diễn tả đồng thời có A và có B, hoặc có những đặc điểm/trạng thái khác nhau cùng tồn tại. A và B thường là từ đơn âm tiết, một số ít là từ hai âm tiết; nghĩa thường liên quan, gần nhau hoặc đối nhau.",
+      "usage": "A và B có thể là động từ (有说有笑: vừa nói vừa cười), danh từ (有山有水: có núi có nước) hoặc tính từ (有大有小: có lớn có nhỏ). Cặp từ liên quan hoặc tương phản giúp diễn tả sinh động sự đa dạng hay những hoạt động cùng diễn ra. Các nhóm cụm từ bên dưới lấy theo ảnh bài học.",
+      "note": "Giữ đủ hai chữ 有 và dùng cặp A/B phù hợp, quen dùng; không ghép tùy tiện hai từ không liên quan. Phân biệt 有A有B với 有的……有的……: mẫu sau chia đối tượng thành các nhóm. Với 有大有小、有红有绿, bản dịch tự nhiên là “có cái lớn, cái nhỏ; có cái đỏ, cái xanh”.",
+      "examples": [
+        {
+          "hanzi": "郊区有山有水，还有很多农家乐。",
+          "pinyin": "Jiāoqū yǒu shān yǒu shuǐ, hái yǒu hěn duō nóngjiālè.",
+          "translation": "Ngoại ô có núi có nước, còn có nhiều cơ sở vui chơi, ăn nghỉ kiểu nhà nông."
+        },
+        {
+          "hanzi": "超市里的苹果有大有小，有红有绿，看起来都非常好吃。",
+          "pinyin": "Chāoshì lǐ de píngguǒ yǒu dà yǒu xiǎo, yǒu hóng yǒu lǜ, kàn qǐlai dōu fēicháng hǎochī.",
+          "translation": "Táo trong siêu thị có quả lớn quả nhỏ, có quả đỏ quả xanh, trông quả nào cũng rất ngon."
+        },
+        {
+          "hanzi": "春天，公园里到处都是人，有男有女，有大人有孩子……",
+          "pinyin": "Chūntiān, gōngyuán lǐ dàochù dōu shì rén, yǒu nán yǒu nǚ, yǒu dàrén yǒu háizi…",
+          "translation": "Mùa xuân, trong công viên đâu đâu cũng có người, có nam có nữ, có người lớn có trẻ em…"
+        }
+      ],
+      "phraseGroups": [
+        {
+          "label": "Động từ",
+          "items": [
+            {
+              "hanzi": "有说有笑",
+              "pinyin": "yǒu shuō yǒu xiào",
+              "translation": "vừa nói vừa cười"
+            },
+            {
+              "hanzi": "有吃有喝",
+              "pinyin": "yǒu chī yǒu hē",
+              "translation": "có đồ ăn thức uống"
+            },
+            {
+              "hanzi": "有唱有跳",
+              "pinyin": "yǒu chàng yǒu tiào",
+              "translation": "vừa hát vừa nhảy"
+            },
+            {
+              "hanzi": "有问有答",
+              "pinyin": "yǒu wèn yǒu dá",
+              "translation": "có hỏi có đáp"
+            },
+            {
+              "hanzi": "有来有往",
+              "pinyin": "yǒu lái yǒu wǎng",
+              "translation": "có qua có lại"
+            }
+          ]
+        },
+        {
+          "label": "Danh từ",
+          "items": [
+            {
+              "hanzi": "有花有草",
+              "pinyin": "yǒu huā yǒu cǎo",
+              "translation": "có hoa có cỏ"
+            },
+            {
+              "hanzi": "有房有车",
+              "pinyin": "yǒu fáng yǒu chē",
+              "translation": "có nhà có xe"
+            },
+            {
+              "hanzi": "有酒有肉",
+              "pinyin": "yǒu jiǔ yǒu ròu",
+              "translation": "có rượu có thịt"
+            }
+          ]
+        },
+        {
+          "label": "Tính từ",
+          "items": [
+            {
+              "hanzi": "有高有低",
+              "pinyin": "yǒu gāo yǒu dī",
+              "translation": "có cao có thấp"
+            },
+            {
+              "hanzi": "有大有小",
+              "pinyin": "yǒu dà yǒu xiǎo",
+              "translation": "có lớn có nhỏ"
+            },
+            {
+              "hanzi": "有多有少",
+              "pinyin": "yǒu duō yǒu shǎo",
+              "translation": "có nhiều có ít"
+            },
+            {
+              "hanzi": "有好有坏",
+              "pinyin": "yǒu hǎo yǒu huài",
+              "translation": "có tốt có xấu"
+            }
+          ]
+        }
+      ],
+      "id": "hsk4-L08-G04",
+      "sourceType": "user-supplement",
+      "source": "Ảnh người dùng cung cấp — Bài 8, Text 4"
     }
   ],
   "source": "HSK 4 - Thượng - Từ vựng và ngữ pháp theo bài học.docx",
