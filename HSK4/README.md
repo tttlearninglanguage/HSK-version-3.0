@@ -50,10 +50,12 @@ Câu hỏi có đáp án cố định được chấm theo đáp án, bỏ khác
 - Nghe hiểu câu: nghe câu ví dụ và chọn câu tiếng Trung tương ứng, thay cho chọn bản dịch tiếng Việt.
 - Đọc hiểu đoạn: cả bốn phương án của mỗi câu hỏi đều bằng tiếng Trung; câu hỏi và giải thích vẫn bằng tiếng Việt. Bản dịch phương án cũ được giữ trong dữ liệu để đối chiếu.
 - Các lựa chọn tiếng Trung có nút tra từ độc lập và nút “Chọn đáp án”; không lồng các nút, không tự nộp khi tra từ. Tra từ vẫn dùng được sau khi chấm.
-- Thu nhỏ đề điền từ, dịch câu, sắp xếp từ; tăng cỡ đáp án điền từ bằng CSS chỉ áp dụng cho các chế độ tương ứng, kể cả câu điền từ trong ôn tập tổng hợp.
+- Đồng bộ toàn bộ 18 chế độ Bài 1 theo cỡ chữ thực tế của Trắc nghiệm ngữ pháp: đề 32px (line-height 1.9), đáp án 23px (line-height 1.7), nét thường 400; áp dụng cả ô nhập, từ sắp xếp, đáp án câu nghe/đọc, đáp án phản hồi và các câu ôn tổng hợp. Pinyin, chú thích, nút điều khiển giữ cỡ chữ riêng. Văn bản đoạn đọc/đoạn mẫu dùng cỡ nội dung 23px để dễ đọc đoạn dài.
 - Luyện nói: kết quả nhận diện được điền vào ô trả lời, có thể sửa trước khi tự đối chiếu. Không tự nộp; bỏ qua kết quả đến muộn khi đổi câu, đổi màn hình, đã nộp hoặc đã bật lượt micro mới.
 
 Kiểm thử `tests/hsk4-exercise-updates.cjs` đạt 130 kiểm tra tại 1440px/390px, gồm trọn bộ 40 câu nghe, 12 câu đọc đoạn, dữ liệu tra từ, cỡ chữ, sửa kết quả micro và các tình huống kết quả đến muộn. Micro trong bộ kiểm thử được giả lập; nhận diện âm thanh thực tế vẫn phụ thuộc thiết bị và dịch vụ trình duyệt.
+
+Kiểm thử `tests/hsk4-game-typography.cjs` đạt 171 kiểm tra, đối chiếu trực tiếp mọi chế độ và từng câu của lượt ôn tổng hợp với cỡ chữ được trình duyệt tính cho Trắc nghiệm ngữ pháp tại 1440px, 390px và 360px. Hai biến CSS `--hsk4-game-prompt-size` / `--hsk4-game-answer-size` là cấu hình chung, chỉ nằm trong giao diện HSK 4.
 
 ## Tiến độ và điều hướng
 
@@ -85,6 +87,7 @@ node tests/hsk4-content.cjs
 node tests/hsk4-smoke.cjs
 node tests/hsk4-ui-parity.cjs
 node tests/hsk4-exercise-updates.cjs
+node tests/hsk4-game-typography.cjs
 node tests/hsk3-smoke.cjs
 ```
 

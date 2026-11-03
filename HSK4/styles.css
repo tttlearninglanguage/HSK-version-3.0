@@ -57,10 +57,6 @@ button:focus-visible,a:focus-visible,input:focus-visible,textarea:focus-visible,
 #app .qh-card,#app .qh-utility{font-family:Arial,"Segoe UI",Roboto,"Helvetica Neue",sans-serif;font-size:13.3333px;font-weight:650}
 
 /* Requested HSK 4 exercise adjustments; other HSK 3 component styles stay intact. */
-#app .exercise-panel[data-question-mode="cloze"] .exercise-question,
-#app .exercise-panel[data-question-mode="translate"] .exercise-question,
-#app .exercise-panel[data-question-mode="order"] .exercise-question{font-size:clamp(25px,3vw,34px)!important;line-height:1.6!important}
-#app .exercise-panel[data-question-mode="cloze"] .exercise-options .option{font-size:clamp(22px,2vw,24px)!important}
 #app .answer-choice{display:flex;flex-direction:column;align-items:stretch;gap:14px;text-align:left;border:1px solid var(--accent-border,#d9dfea);border-radius:12px;padding:16px 18px;background:#fff}
 #app .answer-choice .answer-text{font-size:23px;line-height:1.8;font-weight:400;overflow-wrap:anywhere}
 #app .answer-choice button.choose-answer{align-self:flex-end;min-height:38px;padding:8px 12px;font-size:14px;line-height:1.4}
@@ -69,4 +65,30 @@ button:focus-visible,a:focus-visible,input:focus-visible,textarea:focus-visible,
 #app .answer-choice.correct,#app .answer-choice.is-correct{border-color:#53a76d!important;background:#eff9f0!important}
 #app .answer-choice.wrong,#app .answer-choice.is-incorrect{border-color:#d06b61!important;background:#fff0ee!important}
 #app .answer-choice .lookup:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
-@media(max-width:700px){#app .exercise-panel[data-question-mode="cloze"] .exercise-question,#app .exercise-panel[data-question-mode="translate"] .exercise-question,#app .exercise-panel[data-question-mode="order"] .exercise-question{font-size:25px!important}#app .answer-choice .answer-text{font-size:22px}}
+
+
+/* Every game uses the measured grammar-quiz scale, including mixed rounds. */
+:root{--hsk4-game-prompt-size:32px;--hsk4-game-answer-size:23px}
+#app .exercise-question,
+#app .h2-exercise .h2-question,
+#app .h2-exercise .game-prompt,
+#app .h2-reading-question>h3,
+#app .hsk4-writing .game-prompt{
+ font-size:var(--hsk4-game-prompt-size)!important;line-height:1.9!important;font-weight:400!important;overflow-wrap:anywhere;
+}
+#app .exercise-options .option,
+#app .h2-options .h2-answer,
+#app .answer-choice .answer-text,
+#app #options .answer-choice .answer-text,
+#app .exercise .tiles,
+#app .exercise .tiles button,
+#app .exercise #typed,
+#app .hsk4-writing #writingText,
+#app .exercise .result .hanzi,
+#app #feedback .hanzi,
+#app #feedback .result>strong+p,
+#app .exercise .result>strong+p,
+#app .h2-passage .h2-passage-text,
+#app .hsk4-writing #writingSample .passage{
+ font-size:var(--hsk4-game-answer-size)!important;line-height:1.7!important;font-weight:400!important;overflow-wrap:anywhere;
+}
