@@ -794,34 +794,362 @@
     {
       "id": "hsk4-L09-G01-Q01",
       "pointId": "hsk4-L09-G01",
-      "question": "我＿＿＿说你也懂我在想什么。",
+      "question": "＿＿＿用开车，我们也能坐地铁到达那里。",
       "options": [
         "不",
         "把",
         "被",
-        "从"
+        "让"
       ],
       "answer": "不",
-      "sentence": "我不说你也懂我在想什么。",
-      "pinyin": "wǒ bù shuō nǐ yě dǒng wǒ zài xiǎng shén me.",
-      "translation": "Không cần tôi nói bạn cũng hiểu tôi đang nghĩ gì.",
-      "explanation": "Ngay cả khi không thực hiện hành động thì kết quả vẫn xảy ra."
+      "sentence": "不用开车，我们也能坐地铁到达那里。",
+      "pinyin": "Bú yòng kāichē, wǒmen yě néng zuò dìtiě dàodá nàli.",
+      "translation": "Không cần lái xe, chúng ta vẫn có thể đi tàu điện ngầm đến đó.",
+      "explanation": "Điều kiện phủ định là không cần lái xe; 也能 khẳng định vẫn có cách đến nơi.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L09-G01-Q02",
+      "pointId": "hsk4-L09-G01",
+      "question": "你不提醒我，我＿＿＿记得明天的约会。",
+      "options": [
+        "也",
+        "否则",
+        "因此",
+        "于是"
+      ],
+      "answer": "也",
+      "sentence": "你不提醒我，我也记得明天的约会。",
+      "pinyin": "Nǐ bù tíxǐng wǒ, wǒ yě jìde míngtiān de yuēhuì.",
+      "translation": "Bạn không nhắc thì tôi vẫn nhớ cuộc hẹn ngày mai.",
+      "explanation": "Dù không được nhắc, kết quả vẫn là nhớ cuộc hẹn; dùng 也 trước 记得.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L09-G01-Q03",
+      "pointId": "hsk4-L09-G01",
+      "question": "这条路很熟悉，我＿＿＿看地图也能找到车站。",
+      "options": [
+        "不",
+        "把",
+        "被",
+        "让"
+      ],
+      "answer": "不",
+      "sentence": "这条路很熟悉，我不看地图也能找到车站。",
+      "pinyin": "Zhè tiáo lù hěn shúxi, wǒ bù kàn dìtú yě néng zhǎodào chēzhàn.",
+      "translation": "Con đường này rất quen, tôi không xem bản đồ cũng tìm được trạm xe.",
+      "explanation": "Không xem bản đồ là điều kiện phủ định; tìm được trạm xe là kết quả vẫn có.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L09-G01-Q04",
+      "pointId": "hsk4-L09-G01",
+      "question": "这部电影很有名，不看介绍我＿＿＿知道是谁演的。",
+      "options": [
+        "也",
+        "否则",
+        "因此",
+        "于是"
+      ],
+      "answer": "也",
+      "sentence": "这部电影很有名，不看介绍我也知道是谁演的。",
+      "pinyin": "Zhè bù diànyǐng hěn yǒumíng, bù kàn jièshào wǒ yě zhīdào shì shéi yǎn de.",
+      "translation": "Bộ phim này rất nổi tiếng, không đọc giới thiệu tôi cũng biết ai đóng.",
+      "explanation": "Chưa đọc giới thiệu nhưng vẫn biết người đóng: 不……也…… diễn đạt kết quả không phụ thuộc điều kiện ấy.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L09-G01-Q05",
+      "pointId": "hsk4-L09-G01",
+      "question": "今天的任务很简单，不用别人帮忙我＿＿＿能完成。",
+      "options": [
+        "也",
+        "否则",
+        "因此",
+        "于是"
+      ],
+      "answer": "也",
+      "sentence": "今天的任务很简单，不用别人帮忙我也能完成。",
+      "pinyin": "Jīntiān de rènwu hěn jiǎndān, bú yòng biérén bāngmáng wǒ yě néng wánchéng.",
+      "translation": "Nhiệm vụ hôm nay rất đơn giản, không cần người khác giúp tôi cũng hoàn thành được.",
+      "explanation": "Không cần người khác giúp mà vẫn có thể hoàn thành; 也 đặt trước 能.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
     },
     {
       "id": "hsk4-L09-G02-Q01",
       "pointId": "hsk4-L09-G02",
-      "question": "他们＿＿＿性格不同，但是有很多共同爱好。",
+      "question": "＿＿＿下着大雨，但是他还是按时到了公司。",
       "options": [
         "尽管",
-        "尤其",
-        "从来",
-        "共同"
+        "如果",
+        "由于",
+        "既然"
       ],
       "answer": "尽管",
-      "sentence": "他们尽管性格不同，但是有很多共同爱好。",
-      "pinyin": "tā men jǐn guǎn xìng gébù tóng， dàn shìyǒu hěn duō gòng tóng ài hǎo.",
-      "translation": "Mặc dù tính cách khác nhau, họ vẫn có nhiều sở thích chung.",
-      "explanation": "Mặc dù… nhưng…, thể hiện ý tương phản."
+      "sentence": "尽管下着大雨，但是他还是按时到了公司。",
+      "pinyin": "Jǐnguǎn xià zhe dàyǔ, dànshì tā háishi ànshí dào le gōngsī.",
+      "translation": "Mặc dù trời đang mưa to, anh ấy vẫn đến công ty đúng giờ.",
+      "explanation": "Mưa to là sự thật gây trở ngại; đến đúng giờ là kết quả trái dự đoán, dùng 尽管 phối hợp 但是.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L09-G02-Q02",
+      "pointId": "hsk4-L09-G02",
+      "question": "尽管这份工作很忙，＿＿＿她从来不对客户发脾气。",
+      "options": [
+        "但是",
+        "因此",
+        "于是",
+        "否则"
+      ],
+      "answer": "但是",
+      "sentence": "尽管这份工作很忙，但是她从来不对客户发脾气。",
+      "pinyin": "Jǐnguǎn zhè fèn gōngzuò hěn máng, dànshì tā cónglái bù duì kèhù fā píqi.",
+      "translation": "Mặc dù công việc này rất bận, cô ấy chưa bao giờ nổi nóng với khách hàng.",
+      "explanation": "Vế sau nêu thái độ vẫn điềm tĩnh dù công việc bận, cần liên từ chuyển hướng 但是.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L09-G02-Q03",
+      "pointId": "hsk4-L09-G02",
+      "question": "尽管我们住得很远，＿＿＿每个周末都会见面。",
+      "options": [
+        "可是",
+        "所以",
+        "于是",
+        "否则"
+      ],
+      "answer": "可是",
+      "sentence": "尽管我们住得很远，可是每个周末都会见面。",
+      "pinyin": "Jǐnguǎn wǒmen zhù de hěn yuǎn, kěshì měi ge zhōumò dōu huì jiànmiàn.",
+      "translation": "Mặc dù sống cách nhau xa, cuối tuần nào chúng tôi cũng gặp nhau.",
+      "explanation": "Ở xa nhưng vẫn gặp thường xuyên là quan hệ nhượng bộ, không phải nguyên nhân–kết quả.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L09-G02-Q04",
+      "pointId": "hsk4-L09-G02",
+      "question": "＿＿＿第一次做饭不太成功，但是朋友们仍然鼓励我。",
+      "options": [
+        "尽管",
+        "如果",
+        "由于",
+        "为了"
+      ],
+      "answer": "尽管",
+      "sentence": "尽管第一次做饭不太成功，但是朋友们仍然鼓励我。",
+      "pinyin": "Jǐnguǎn dì yī cì zuò fàn bú tài chénggōng, dànshì péngyoumen réngrán gǔlì wǒ.",
+      "translation": "Mặc dù lần đầu nấu ăn chưa thành công lắm, bạn bè vẫn động viên tôi.",
+      "explanation": "Lần nấu ăn đã diễn ra; thừa nhận chưa thành công rồi nêu sự động viên vẫn có, dùng 尽管.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L09-G02-Q05",
+      "pointId": "hsk4-L09-G02",
+      "question": "尽管两个人的看法不同，＿＿＿他们一直相互尊重。",
+      "options": [
+        "可是",
+        "因此",
+        "于是",
+        "否则"
+      ],
+      "answer": "可是",
+      "sentence": "尽管两个人的看法不同，可是他们一直相互尊重。",
+      "pinyin": "Jǐnguǎn liǎng ge rén de kànfǎ bùtóng, kěshì tāmen yìzhí xiānghù zūnzhòng.",
+      "translation": "Mặc dù quan điểm khác nhau, hai người vẫn luôn tôn trọng nhau.",
+      "explanation": "Khác quan điểm nhưng vẫn tôn trọng nhau: 可是 nối kết quả tương phản với điều kiện đã thừa nhận.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L09-G03-Q01",
+      "pointId": "hsk4-L09-G03",
+      "question": "请大家认真阅读＿＿＿通知，并按时参加会议。",
+      "options": [
+        "此",
+        "些",
+        "们",
+        "着"
+      ],
+      "answer": "此",
+      "sentence": "请大家认真阅读此通知，并按时参加会议。",
+      "pinyin": "Qǐng dàjiā rènzhēn yuèdú cǐ tōngzhī, bìng ànshí cānjiā huìyì.",
+      "translation": "Mời mọi người đọc kỹ thông báo này và tham gia cuộc họp đúng giờ.",
+      "explanation": "此 đứng trước 通知 để chỉ thông báo này, phù hợp văn phong thông báo trang trọng.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L09-G03-Q02",
+      "pointId": "hsk4-L09-G03",
+      "question": "＿＿＿事关系到大家的安全，不能随便决定。",
+      "options": [
+        "此",
+        "些",
+        "们",
+        "着"
+      ],
+      "answer": "此",
+      "sentence": "此事关系到大家的安全，不能随便决定。",
+      "pinyin": "Cǐ shì guānxì dào dàjiā de ānquán, bù néng suíbiàn juédìng.",
+      "translation": "Việc này liên quan đến sự an toàn của mọi người, không thể quyết định tùy tiện.",
+      "explanation": "此事 nghĩa là việc này; 此 là đại từ chỉ thị, không phải trợ từ hay từ chỉ số nhiều.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L09-G03-Q03",
+      "pointId": "hsk4-L09-G03",
+      "question": "我们认真谈了一次，从＿＿＿不再争吵，而是先听对方解释。",
+      "options": [
+        "此",
+        "也",
+        "都",
+        "着"
+      ],
+      "answer": "此",
+      "sentence": "我们认真谈了一次，从此不再争吵，而是先听对方解释。",
+      "pinyin": "Wǒmen rènzhēn tán le yí cì, cóngcǐ bú zài zhēngchǎo, ér shì xiān tīng duìfāng jiěshì.",
+      "translation": "Chúng tôi nghiêm túc trò chuyện một lần, từ đó không còn tranh cãi mà lắng nghe đối phương giải thích trước.",
+      "explanation": "从此 lấy cuộc trò chuyện làm mốc bắt đầu thay đổi, nghĩa là từ đó trở đi.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L09-G03-Q04",
+      "pointId": "hsk4-L09-G03",
+      "question": "请把行李放在＿＿＿，不要挡住门口。",
+      "options": [
+        "此处",
+        "此时",
+        "此次",
+        "此人"
+      ],
+      "answer": "此处",
+      "sentence": "请把行李放在此处，不要挡住门口。",
+      "pinyin": "Qǐng bǎ xíngli fàng zài cǐchù, bú yào dǎng zhù ménkǒu.",
+      "translation": "Hãy đặt hành lý ở chỗ này, đừng chắn cửa ra vào.",
+      "explanation": "Sau 放在 cần địa điểm: 此处 là chỗ này; 此时 chỉ thời gian, 此次 chỉ một lần, 此人 chỉ người.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L09-G03-Q05",
+      "pointId": "hsk4-L09-G03",
+      "question": "＿＿＿时，他正在开会，请稍后再打电话。",
+      "options": [
+        "此",
+        "些",
+        "们",
+        "着"
+      ],
+      "answer": "此",
+      "sentence": "此时，他正在开会，请稍后再打电话。",
+      "pinyin": "Cǐshí, tā zhèngzài kāihuì, qǐng shāohòu zài dǎ diànhuà.",
+      "translation": "Lúc này anh ấy đang họp, xin lát nữa gọi lại.",
+      "explanation": "正在开会 xác định thời điểm hiện tại, nên chọn 此时: lúc này.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L09-G04-Q01",
+      "pointId": "hsk4-L09-G04",
+      "question": "他＿＿＿不把朋友的秘密告诉别人。",
+      "options": [
+        "从来",
+        "刚才",
+        "忽然",
+        "马上"
+      ],
+      "answer": "从来",
+      "sentence": "他从来不把朋友的秘密告诉别人。",
+      "pinyin": "Tā cónglái bù bǎ péngyou de mìmì gàosu biérén.",
+      "translation": "Anh ấy từ trước đến nay không kể bí mật của bạn cho người khác.",
+      "explanation": "从来不 nói về thói quen giữ bí mật nhất quán từ trước đến nay.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L09-G04-Q02",
+      "pointId": "hsk4-L09-G04",
+      "question": "我从来＿＿＿去过那座城市，想请你带我看看。",
+      "options": [
+        "没",
+        "不",
+        "别",
+        "正在"
+      ],
+      "answer": "没",
+      "sentence": "我从来没去过那座城市，想请你带我看看。",
+      "pinyin": "Wǒ cónglái méi qù guo nà zuò chéngshì, xiǎng qǐng nǐ dài wǒ kànkan.",
+      "translation": "Tôi chưa từng đến thành phố ấy, muốn nhờ bạn dẫn đi xem.",
+      "explanation": "Phủ định trải nghiệm 去过 dùng 从来没……过, không dùng 从来不……过.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L09-G04-Q03",
+      "pointId": "hsk4-L09-G04",
+      "question": "她对工作一直很负责，＿＿＿都是提前做好准备。",
+      "options": [
+        "从来",
+        "忽然",
+        "立刻",
+        "马上"
+      ],
+      "answer": "从来",
+      "sentence": "她对工作一直很负责，从来都是提前做好准备。",
+      "pinyin": "Tā duì gōngzuò yìzhí hěn fùzé, cónglái dōu shì tíqián zuò hǎo zhǔnbèi.",
+      "translation": "Cô ấy luôn có trách nhiệm với công việc, xưa nay đều chuẩn bị sẵn từ trước.",
+      "explanation": "Câu khẳng định 从来都是 nhấn mạnh cách làm nhất quán, không chỉ hành động tức thời.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L09-G04-Q04",
+      "pointId": "hsk4-L09-G04",
+      "question": "我们认识十年了，从来＿＿＿因为钱的事情吵过架。",
+      "options": [
+        "没有",
+        "不",
+        "别",
+        "正在"
+      ],
+      "answer": "没有",
+      "sentence": "我们认识十年了，从来没有因为钱的事情吵过架。",
+      "pinyin": "Wǒmen rènshi shí nián le, cónglái méiyǒu yīnwèi qián de shìqing chǎo guo jià.",
+      "translation": "Chúng tôi quen nhau mười năm, chưa từng cãi nhau vì chuyện tiền bạc.",
+      "explanation": "从来没有……过 phủ định việc từng xảy ra trong cả khoảng thời gian mười năm.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
+    },
+    {
+      "id": "hsk4-L09-G04-Q05",
+      "pointId": "hsk4-L09-G04",
+      "question": "这位老师＿＿＿都很耐心，学生们有问题就愿意找他。",
+      "options": [
+        "从来",
+        "忽然",
+        "立刻",
+        "马上"
+      ],
+      "answer": "从来",
+      "sentence": "这位老师从来都很耐心，学生们有问题就愿意找他。",
+      "pinyin": "Zhè wèi lǎoshī cónglái dōu hěn nàixīn, xuéshengmen yǒu wèntí jiù yuànyì zhǎo tā.",
+      "translation": "Thầy giáo này xưa nay luôn kiên nhẫn, học sinh có vấn đề đều muốn tìm thầy.",
+      "explanation": "从来都很耐心 là cách khẳng định một đặc điểm bền vững; 从来 không chỉ dùng trong câu phủ định.",
+      "sourceType": "supplementary",
+      "origin": "Câu luyện mới biên soạn theo cấu trúc, không chép ví dụ trong ảnh."
     }
   ],
   "readings": [
@@ -1217,8 +1545,10 @@
       "友情"
     ],
     "suggestedGrammar": [
-      "不 + Động từ + 也 + Kết quả",
-      "尽管 + Thực tế，但是/可是 + Kết quả"
+      "不……也……",
+      "尽管……但是/可是……",
+      "此 / 从此",
+      "从来不/没(有)…… / 从来都……"
     ],
     "outline": [
       "Giới thiệu bạn và điểm giống, khác nhau.",
@@ -1226,8 +1556,8 @@
       "Nêu cảm nhận và cách duy trì tình bạn.",
       "Kiểm tra trật tự từ và các cấu trúc ngữ pháp đã học."
     ],
-    "sample": "我和小王的性格不同，他阳光幽默，我比较安静。尽管如此，我们有很多共同爱好，尤其喜欢读书。刚认识时，我错过一次重要活动，心情很差。他没有责备我，而是耐心听我说，给了我很多支持。从此，我更珍惜这份友情。有时我不说，他也懂我的感受。我觉得，美好的感情需要相互理解，也需要在普通日子里用心经营。",
-    "samplePinyin": "wǒ hé xiǎo wáng de xìng gé bù tóng ， tā yáng guāng yōu mò ， wǒ bǐ jiào ān jìng 。 jǐn guǎn rú cǐ ， wǒ men yǒu hěn duō gòng tóng ài hào ， yóu qí xǐ huān dú shū 。 gāng rèn shí shí ， wǒ cuò guò yī cì zhòng yào huó dòng ， xīn qíng hěn chà 。 tā méi yǒu zé bèi wǒ ， ér shì nài xīn tīng wǒ shuō ， gěi le wǒ hěn duō zhī chí 。 cóng cǐ ， wǒ gèng zhēn xī zhè fèn yǒu qíng 。 yǒu shí wǒ bù shuō ， tā yě dǒng wǒ de gǎn shòu 。 wǒ jué de ， měi hǎo de gǎn qíng xū yào xiāng hù lǐ jiě ， yě xū yào zài pǔ tōng rì zi lǐ yòng xīn jīng yíng 。",
-    "translation": "Tôi và Tiểu Vương khác tính: bạn vui vẻ hài hước, tôi yên lặng, nhưng cùng thích đọc. Mới quen, tôi lỡ hoạt động quan trọng nên buồn. Bạn kiên nhẫn nghe và ủng hộ thay vì trách. Tôi trân trọng tình bạn hơn. Đôi khi không nói bạn cũng hiểu. Tình cảm cần thấu hiểu và vun đắp trong ngày thường."
+    "sample": "我和小王性格不同，但都喜欢读书。去年我们一起准备比赛，尽管时间不多，可是他每天都耐心陪我练习。我们从此成了好朋友。他从来不笑话我的错误，总是认真提出建议。有时我不说，他也能发现我的心情不好。此次经历让我明白，真正的友情需要相互尊重和支持，不是只在顺利的时候才陪着对方。",
+    "samplePinyin": "Wǒ hé Xiǎo Wáng xìnggé bùtóng, dàn dōu xǐhuan dú shū. Qùnián wǒmen yìqǐ zhǔnbèi bǐsài, jǐnguǎn shíjiān bù duō, kěshì tā měitiān dōu nàixīn péi wǒ liànxí. Wǒmen cóngcǐ chéng le hǎo péngyou. Tā cónglái bù xiàohua wǒ de cuòwù, zǒngshì rènzhēn tíchū jiànyì. Yǒushí wǒ bù shuō, tā yě néng fāxiàn wǒ de xīnqíng bù hǎo. Cǐ cì jīnglì ràng wǒ míngbai, zhēnzhèng de yǒuqíng xūyào xiānghù zūnzhòng hé zhīchí, bú shì zhǐ zài shùnlì de shíhou cái péi zhe duìfāng.",
+    "translation": "Tôi và Tiểu Vương khác tính nhưng đều thích đọc. Năm ngoái chúng tôi cùng chuẩn bị cuộc thi. Tuy ít thời gian, bạn vẫn kiên nhẫn luyện cùng tôi mỗi ngày. Từ đó chúng tôi thành bạn tốt. Bạn chưa bao giờ cười nhạo lỗi của tôi mà luôn nghiêm túc góp ý. Đôi khi tôi không nói, bạn vẫn nhận ra tôi buồn. Trải nghiệm này giúp tôi hiểu tình bạn cần tôn trọng và ủng hộ nhau, không chỉ ở bên khi mọi việc thuận lợi."
   }
 }

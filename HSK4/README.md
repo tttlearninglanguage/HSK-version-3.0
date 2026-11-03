@@ -14,11 +14,11 @@ Bài 1–10 đã mở theo tài liệu **HSK 4 - Thượng - Từ vựng và ng�
 | 6 | 我陪你去看病 | 39 | 4 | 5 / 25 |
 | 7 | 在工作中学习 | 39 | 4 | 5 / 25 |
 | 8 | 该放松时就放松 | 38 | 4 | 5 / 25 |
-| 9 | 遇见你，刚刚好 | 40 | 2 | 5 / 25 |
+| 9 | 遇见你，刚刚好 | 40 | 4 | 5 / 25 |
 | 10 | 南方不懂北方的冷 | 40 | 1 | 5 / 25 |
-| **Tổng Thượng** | | **387** | **35** | **50 / 250** |
+| **Tổng Thượng** | | **387** | **37** | **50 / 250** |
 
-Số lượng gồm nội dung DOCX và các điểm được người dùng bổ sung/thay thế bằng ảnh cho Bài 7–8; không tự thêm điểm để mọi bài đều có bốn điểm. 387 là tổng mục từ theo bài; một số từ xuất hiện trong nhiều bài với ngữ cảnh/nghĩa khác nhau. Từ điển tra cứu bổ trợ không tính là từ mới của bài.
+Số lượng gồm nội dung DOCX và các điểm được người dùng bổ sung/thay thế bằng ảnh cho Bài 7–9; không tự thêm điểm để mọi bài đều có bốn điểm. 387 là tổng mục từ theo bài; một số từ xuất hiện trong nhiều bài với ngữ cảnh/nghĩa khác nhau. Từ điển tra cứu bổ trợ không tính là từ mới của bài.
 
 Mỗi mục từ có Hán tự, pinyin, loại từ bằng tiếng Việt, nghĩa, ví dụ, pinyin ví dụ và bản dịch. Mỗi điểm ngữ pháp có công thức, giải thích Việt, cách dùng, lưu ý và ví dụ. Công thức và ví dụ nguồn được đối chiếu riêng với bài tập biên soạn bổ sung.
 
@@ -91,6 +91,7 @@ node tests/hsk4-content.cjs
 node tests/hsk4-upper-content.cjs
 node tests/hsk4-lesson7-shi.cjs
 node tests/hsk4-lesson8-grammar.cjs
+node tests/hsk4-lesson9-grammar.cjs
 node tests/hsk4-upper-browser.cjs
 node tests/hsk4-smoke.cjs
 node tests/hsk4-compact-choices.cjs
@@ -100,14 +101,18 @@ node tests/hsk4-hsk1-reading-ui.cjs
 
 Các kiểm tra trình duyệt cần Playwright/Chromium, hỗ trợ `CHROMIUM_PATH`. Bộ toàn quyển kiểm tra 1440px và 390px; có thể chia bằng `HSK4_WIDTH=1440` hoặc `390`. `HSK4_SCREENSHOTS` trỏ tới thư mục đã tạo để lưu ảnh đọc hiểu từng bài.
 
-Kiểm tra nội dung xác minh 387 mục/33 ngữ pháp, hash nguồn, hiệu chỉnh, câu điền có bốn lựa chọn khác nhau, ghép lại câu sắp xếp, 50 đoạn không trùng/250 câu hỏi, đề viết và độ phủ tra cứu. Kiểm tra trình duyệt chạy các dạng câu hỏi từng bài, hoàn thành các đoạn đọc, chấm điểm, pinyin, tra từ, không tràn ngang, tiến độ cũ Bài 1, đổi bài/Back/tải lại, ôn nhiều bài, luyện lại, bản nháp riêng, xuất/nhập mới và nhập sao lưu cũ.
+Kiểm tra nội dung xác minh 387 mục/37 ngữ pháp, hash nguồn, hiệu chỉnh, câu điền có bốn lựa chọn khác nhau, ghép lại câu sắp xếp, 50 đoạn không trùng/250 câu hỏi, đề viết và độ phủ tra cứu. Kiểm tra trình duyệt chạy các dạng câu hỏi từng bài, hoàn thành các đoạn đọc, chấm điểm, pinyin, tra từ, không tràn ngang, tiến độ cũ Bài 1, đổi bài/Back/tải lại, ôn nhiều bài, luyện lại, bản nháp riêng, xuất/nhập mới và nhập sao lưu cũ.
 
 Phát âm và nhận diện thực tế phụ thuộc giọng tiếng Trung, thiết bị, dịch vụ trình duyệt và quyền micro. Kiểm thử xác minh thao tác trình duyệt, không đánh giá chất lượng âm thanh hay độ chính xác nhận diện thực tế. Thay đổi được gửi PR để duyệt trước khi merge.
 
 ## Bổ sung Bài 7 theo ảnh Text 4
 
-Bài 7 có thêm điểm 4: câu kiêm ngữ Chủ ngữ + 使 + tân ngữ + cụm động từ. Ba ví dụ giữ đúng chữ trong ảnh, kèm pinyin, dịch và lý thuyết Việt. Ba câu luyện tương ứng có trong trắc nghiệm, sắp xếp câu, viết câu, ôn tổng hợp và ôn nhiều bài. Bài 7 hiện có 4 điểm/6 câu ngữ pháp. `data/grammar-supplements.json` tách nguồn ảnh khỏi manifest DOCX gốc; ngữ pháp Bài 9–10 chờ người dùng bổ sung.
+Bài 7 có thêm điểm 4: câu kiêm ngữ Chủ ngữ + 使 + tân ngữ + cụm động từ. Ba ví dụ giữ đúng chữ trong ảnh, kèm pinyin, dịch và lý thuyết Việt. Ba câu luyện tương ứng có trong trắc nghiệm, sắp xếp câu, viết câu, ôn tổng hợp và ôn nhiều bài. Bài 7 hiện có 4 điểm/6 câu ngữ pháp. `data/grammar-supplements.json` tách nguồn ảnh khỏi manifest DOCX gốc; ngữ pháp Bài 10 chờ người dùng bổ sung.
 
 ## Cập nhật toàn bộ ngữ pháp Bài 8 theo ảnh
 
 Bốn điểm: 不管……都/也……; ……否则……; 跟/与……相比; 有A有B. Có đầy đủ lý thuyết Việt, 12 câu ví dụ theo ảnh với pinyin/dịch và 12 cụm cố định phân nhóm động từ/danh từ/tính từ. Ngân hàng cũ được thay bằng 12 câu luyện mới, mỗi điểm 3 câu; áp dụng trắc nghiệm, sắp xếp, viết câu và ôn tập. ID ba điểm cũ giữ nguyên. Các điểm thay thế lưu `sourceOriginal` để vẫn đối chiếu được DOCX; ảnh được ghi trong grammar-supplements.json.
+
+## Cập nhật ngữ pháp Bài 9 và câu luyện đa dạng
+
+Bốn điểm: 不……也……; 尽管……但是/可是……; 此; 从来. Lý thuyết Việt và 12 ví dụ theo ảnh có pinyin/dịch. Ngân hàng có 20 câu mới, mỗi điểm 5 câu, không trùng các ví dụ lý thuyết. Các câu mới có pinyin, dịch, đáp án và giải thích riêng; dùng trong trắc nghiệm, sắp xếp, viết câu và ôn tập. Đây là 20 câu độc lập được dùng ở nhiều dạng luyện, không quảng cáo thành 60 câu khác nhau. Đoạn viết mẫu vận dụng đủ bốn điểm. Giữ ID hai điểm cũ, lưu bản DOCX gốc trong sourceOriginal; ngữ pháp Bài 10 tiếp tục chờ người dùng bổ sung.

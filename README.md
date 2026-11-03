@@ -26,7 +26,7 @@ tests/                   Kiểm thử dữ liệu, giao diện và chức năng
 
 HSK 1–3 giữ nguyên cấu trúc HTML độc lập, dữ liệu học và logic trong từng trang. Việc sắp xếp thư mục không tách lại toàn bộ ứng dụng. Các trang dùng đường dẫn tương đối nên hỗ trợ cả đường dẫn gốc và tiền tố repository trên GitHub Pages.
 
-HSK 4 Thượng đã mở đủ Bài 1–10 với 387 mục từ theo bài, 35 điểm ngữ pháp, 50 bài đọc/250 câu hỏi và 18 dạng luyện tập mỗi bài. Quyển Hạ vẫn Sắp ra mắt. Xem [nội dung, nguồn và kiểm thử HSK 4](HSK4/README.md).
+HSK 4 Thượng đã mở đủ Bài 1–10 với 387 mục từ theo bài, 37 điểm ngữ pháp, 50 bài đọc/250 câu hỏi và 18 dạng luyện tập mỗi bài. Quyển Hạ vẫn Sắp ra mắt. Xem [nội dung, nguồn và kiểm thử HSK 4](HSK4/README.md).
 
 Chạy thử từ gốc repository:
 
