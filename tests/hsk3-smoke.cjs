@@ -2,10 +2,10 @@
 const {chromium}=require('playwright');
 const fs=require('node:fs'),http=require('node:http'),path=require('node:path'),assert=require('node:assert/strict'),crypto=require('node:crypto');
 const root=path.resolve(__dirname,'..');
-const topicData=JSON.parse(fs.readFileSync(path.join(root,'hsk3.html'),'utf8').match(/const TOPICS=(\[.*\]);/)[1]);
-const source=JSON.parse(fs.readFileSync(path.join(root,'hsk3-source-manifest.json'),'utf8'));
+const topicData=JSON.parse(fs.readFileSync(path.join(root,'HSK3/index.html'),'utf8').match(/const TOPICS=(\[.*\]);/)[1]);
+const source=JSON.parse(fs.readFileSync(path.join(root,'HSK3/data/source-manifest.json'),'utf8'));
 (async()=>{
- const server=http.createServer((req,res)=>{const pathname=new URL(req.url,'http://localhost').pathname;try{const file=path.join(root,pathname==='/'?'index.html':pathname);if(!file.startsWith(root+path.sep))throw Error();res.setHeader('Content-Type','text/html; charset=utf-8');res.end(fs.readFileSync(file))}catch{res.statusCode=404;res.end('Not found')}});
+ const server=http.createServer((req,res)=>{const pathname=new URL(req.url,'http://localhost').pathname;try{const file=path.join(root,pathname==='/'?'index.html':pathname);if(!file.startsWith(root+path.sep))throw Error();res.setHeader('Content-Type',file.endsWith('.js')?'text/javascript':file.endsWith('.css')?'text/css':file.endsWith('.json')?'application/json':'text/html; charset=utf-8');res.end(fs.readFileSync(file))}catch{res.statusCode=404;res.end('Not found')}});
  await new Promise(r=>server.listen(0,'127.0.0.1',r));const url='http://127.0.0.1:'+server.address().port;
  const browser=await chromium.launch({executablePath:process.env.CHROMIUM_PATH||'/usr/bin/chromium',headless:true,args:['--no-sandbox']});
  const failures=[];let checks=0;
@@ -15,7 +15,7 @@ const source=JSON.parse(fs.readFileSync(path.join(root,'hsk3-source-manifest.jso
  page.on('pageerror',e=>failures.push(e.message));page.on('dialog',d=>d.accept());await page.route('https://fonts.googleapis.com/**',r=>r.abort());
  // Capture speech calls without depending on OS voices or actual microphone input.
  await page.addInitScript(()=>{window.__spoken=[];if(window.speechSynthesis){speechSynthesis.cancel=()=>{};speechSynthesis.speak=u=>window.__spoken.push({text:u.text,lang:u.lang})}});
- await page.goto(url+'/index.html');await page.locator('a.level[href="./hsk3.html"]').click();assert.equal(await page.title(),'HSK 3 Learning Quest');assert.equal(await page.locator('.qh-card').count(),18);checks++;
+ await page.goto(url+'/index.html');await page.locator('a.level[href="./HSK3/index.html"]').click();assert.equal(await page.title(),'HSK 3 Learning Quest');assert.equal(await page.locator('.qh-card').count(),18);checks++;
  await page.evaluate(()=>{localStorage.setItem('hsk2-quest-v1','unchanged-hsk2');localStorage.setItem('hsk1-quest-v1','unchanged-hsk1');localStorage.setItem('hsk2-topics-v2','unchanged-hsk2-topics')});
  // Match every source vocabulary cell (including repeats) and every grammar example.
  const data=await page.evaluate(()=>window.HSK_LESSONS);
@@ -72,7 +72,7 @@ const source=JSON.parse(fs.readFileSync(path.join(root,'hsk3-source-manifest.jso
  const spoke=await page.evaluate(()=>window.__spoken);assert(spoke.some(x=>x.text&&x.lang==='zh-CN'));
  await page.evaluate(()=>home());assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),'home overflows');
  if(process.env.HSK3_SCREENSHOTS){await page.screenshot({path:path.join(process.env.HSK3_SCREENSHOTS,'hsk3-home-'+viewport.width+'.png'),fullPage:true});await page.evaluate(()=>{openLesson(18,'flash');document.querySelector('#hskUnitFlashCard').click()});await page.screenshot({path:path.join(process.env.HSK3_SCREENSHOTS,'hsk3-flash-'+viewport.width+'.png'),fullPage:true})}
- await Promise.all([page.waitForURL('**/index.html'),page.locator('#hsk-site-header a.hsk-logo').click()]);assert(page.url().endsWith('/index.html'));for(const level of [1,2]){await page.goto(url+'/hsk'+level+'.html');assert((await page.locator('body').innerText()).includes('HSK '+level))}
+ await Promise.all([page.waitForURL('**/index.html'),page.locator('#hsk-site-header a.hsk-logo').click()]);assert(page.url().endsWith('/index.html'));for(const level of [1,2]){await page.goto(url+'/HSK'+level+'/index.html');assert((await page.locator('body').innerText()).includes('HSK '+level))}
  console.log('PASS '+viewport.width+'px: all 18 lessons, 36 topics, flashcards, game answers, grammar, reading completion, progress isolation, writing draft, navigation, speech invocation');await context.close();
  }
  assert.deepEqual(failures,[]);console.log('PASS '+checks+' checks; no uncaught browser errors.');

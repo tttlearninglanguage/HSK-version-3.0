@@ -5,7 +5,7 @@
   let startTimer = null;
   let voices = [];
   let preferred = '';
-  const voiceKey = /(?:^|\/)hsk3\.html$/i.test(location.pathname) ? 'hsk3-voice' : 'hsk-voice';
+  const voiceKey = /(?:^|\/)(?:hsk3\.html|HSK3\/(?:index\.html)?)$/i.test(location.pathname) ? 'hsk3-voice' : 'hsk-voice';
   try { preferred = localStorage.getItem(voiceKey) || ''; } catch {}
 
   function hideNotice() { document.getElementById('hsk-speech-notice')?.remove(); }
