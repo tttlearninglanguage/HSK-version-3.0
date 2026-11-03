@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-03 — Bổ sung ngữ pháp 4 Bài 7 HSK 4
+
+- Thêm câu kiêm ngữ Chủ ngữ + 使 + tân ngữ + cụm động từ theo ảnh Text 4 người dùng gửi: lý thuyết Việt, lưu ý và ba ví dụ có pinyin/dịch.
+- Ba câu luyện tương ứng tham gia trắc nghiệm, sắp xếp, viết câu và ôn tập. Bài 7 có 4 điểm ngữ pháp/6 câu luyện; toàn quyển có 34 điểm.
+- Giữ riêng nguồn ảnh trong grammar-supplements.json và nguyên manifest DOCX. Bài 8–10 chờ bổ sung.
+
 ## 2026-11-03 — Hoàn thiện HSK 4 Thượng Bài 2–10
 
 - Mở đủ 10 bài Thượng theo tài liệu người dùng: tổng 387 mục từ và 33 điểm ngữ pháp; mỗi bài có 18 chế độ, 5 đoạn đọc độc lập/25 câu hỏi và đề viết riêng.

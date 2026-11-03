@@ -6,17 +6,17 @@ const lessons=catalog.lessons.map(e=>read(e.content)),practices=catalog.lessons.
 const dictionary=new Map([...read('dictionary.json'),...read('dictionary-upper.json'),...lessons.flatMap(l=>l.words),...read('dictionary-overrides.json')].map(w=>[w.hanzi,w]));
 const ids=new Set(),texts=new Set();let words=0,grammar=0,questions=0,checkedTexts=0;
 for(const [index,l]of lessons.entries()){
- const m=manifest.lessons[index],p=practices[index];assert.equal(l.id,index+1);assert.equal(l.volume,'upper');assert.equal(p.lesson,l.id);assert.equal(l.words.length,m.wordCount);assert.equal(l.grammar.length,m.grammarCount);
+ const m=manifest.lessons[index],p=practices[index];assert.equal(l.id,index+1);assert.equal(l.volume,'upper');assert.equal(p.lesson,l.id);assert.equal(l.words.length,m.wordCount);assert.equal(l.grammar.filter(g=>g.sourceType!=='user-supplement').length,m.grammarCount);
  const raw=l.words.map(w=>m.wordFields.map(k=>w.sourceOriginal?.[k]??w[k]));assert.equal(crypto.createHash('sha256').update(JSON.stringify(raw)).digest('hex'),m.wordsSha256,'original source hash lesson '+l.id);
- assert.deepEqual(l.grammar.map(g=>({id:g.id,name:g.name,formula:g.formula,explanation:g.explanation,examples:g.examples.map(e=>({hanzi:e.hanzi,pinyin:e.sourcePinyin??e.pinyin,translation:e.translation}))})),m.grammarSource,'source grammar lesson '+l.id);
- assert.equal(p.vocabulary.length,l.words.length);assert.equal(p.grammar.length,l.grammar.length);words+=l.words.length;grammar+=l.grammar.length;
+ assert.deepEqual(l.grammar.filter(g=>g.sourceType!=='user-supplement').map(g=>({id:g.id,name:g.name,formula:g.formula,explanation:g.explanation,examples:g.examples.map(e=>({hanzi:e.hanzi,pinyin:e.sourcePinyin??e.pinyin,translation:e.translation}))})),m.grammarSource,'source grammar lesson '+l.id);
+ assert.equal(p.vocabulary.length,l.words.length);assert(l.grammar.every(g=>p.grammar.some(q=>q.pointId===g.id)));words+=l.words.length;grammar+=l.grammar.length;
  for(const [i,w]of l.words.entries()){
   assert(!ids.has(w.id));ids.add(w.id);assert.equal(w.id,`hsk4-L${String(l.id).padStart(2,'0')}-${String(i+1).padStart(2,'0')}`);assert(m.wordFields.every(k=>typeof w[k]==='string'&&w[k].trim()));assert(w.partOfSpeech);assert(w.example.includes(w.hanzi));
   const q=p.vocabulary[i];assert.equal(q.wordId,w.id);assert.equal(q.tokens.join(''),w.example);assert.equal(q.cloze.replace('＿＿＿',q.answer),w.example);assert.equal(q.answer,w.hanzi);assert.equal(new Set(q.options).size,4);assert.equal(q.options.filter(o=>o===q.answer).length,1);
   if(w.sourceOriginal)assert(corrections.words.some(c=>c.wordId===w.id));
  }
  for(const [i,g]of l.grammar.entries()){
-  const q=p.grammar[i];assert.equal(q.pointId,g.id);assert.equal(new Set(q.options).size,4);assert(q.options.includes(q.answer));assert.equal(q.question.replace('＿＿＿',q.answer),q.sentence);assert.equal(q.sentence,g.examples[0].hanzi);assert(g.usage&&g.note);
+  const q=p.grammar.find(q=>q.pointId===g.id);assert.equal(q.pointId,g.id);assert.equal(new Set(q.options).size,4);assert(q.options.includes(q.answer));assert.equal(q.question.replace('＿＿＿',q.answer),q.sentence);assert.equal(q.sentence,g.examples[0].hanzi);assert(g.usage&&g.note);
  }
  assert.equal(p.readings.length,5);const active=new Map(dictionary);for(const w of l.words)active.set(w.hanzi,w);const keys=[...active.keys()].sort((a,b)=>b.length-a.length);
  const checkLookup=text=>{let i=0;while(i<text.length){if(!/[\u3400-\u9fff]/.test(text[i])){i++;continue}const key=keys.find(k=>text.startsWith(k,i));assert(key,`Missing lookup in lesson ${l.id}: ${text.slice(i,i+15)}`);const w=active.get(key);assert(w.pinyin&&w.meaning);i+=key.length}checkedTexts++};
@@ -24,7 +24,7 @@ for(const [index,l]of lessons.entries()){
   for(const q of r.questions){questions++;assert(!ids.has(q.id));ids.add(q.id);assert(/[\u3400-\u9fff]/.test(q.question));assert(!/[àáảãạăâđêôơư]/i.test(q.question));assert.equal(new Set(q.options).size,4);assert(q.options.includes(q.answer));assert(q.options.every(o=>/[\u3400-\u9fff]/.test(o)));assert(q.explanation);if(l.id>1){checkLookup(q.question);q.options.forEach(checkLookup)}}
  }
  const w=p.writing;assert(w.sample&&w.samplePinyin&&w.translation);assert(w.suggestedWords.every(h=>l.words.some(x=>x.hanzi===h)));if(l.id>1){assert(w.sample.length>=100&&w.sample.length<=150);assert(w.outline.length>=3);checkLookup(w.sample)}
- console.log(`PASS lesson ${l.id}: ${l.words.length} source words, ${l.grammar.length} grammar points, source audit/corrections, cloze/order, 5 independent readings/25 questions, writing and lookup`);
+ console.log(`PASS lesson ${l.id}: ${l.words.length} source words, ${l.grammar.length} grammar points (DOCX + recorded supplements), source audit/corrections, cloze/order, 5 independent readings/25 questions, writing and lookup`);
 }
-assert.equal(words,387);assert.equal(grammar,33);assert.equal(questions,250);assert.equal(texts.size,50);
+assert.equal(words,387);assert.equal(grammar,34);assert.equal(questions,250);assert.equal(texts.size,50);
 console.log(`PASS upper course: ${words} words, ${grammar} grammar points, 50 unique readings/${questions} questions, ${checkedTexts} lookup texts; lower remains upcoming.`);

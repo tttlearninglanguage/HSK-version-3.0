@@ -12,13 +12,13 @@ Bài 1–10 đã mở theo tài liệu **HSK 4 - Thượng - Từ vựng và ng�
 | 4 | 很高兴能帮到你 | 38 | 4 | 5 / 25 |
 | 5 | “不怕辣”和“怕不辣” | 37 | 4 | 5 / 25 |
 | 6 | 我陪你去看病 | 39 | 4 | 5 / 25 |
-| 7 | 在工作中学习 | 39 | 3 | 5 / 25 |
+| 7 | 在工作中学习 | 39 | 4 | 5 / 25 |
 | 8 | 该放松时就放松 | 38 | 3 | 5 / 25 |
 | 9 | 遇见你，刚刚好 | 40 | 2 | 5 / 25 |
 | 10 | 南方不懂北方的冷 | 40 | 1 | 5 / 25 |
-| **Tổng Thượng** | | **387** | **33** | **50 / 250** |
+| **Tổng Thượng** | | **387** | **34** | **50 / 250** |
 
-Số lượng bám tài liệu, không bổ sung ngữ pháp giả để mọi bài đều có bốn điểm. 387 là tổng mục từ theo bài; một số từ xuất hiện trong nhiều bài với ngữ cảnh/nghĩa khác nhau. Từ điển tra cứu bổ trợ không tính là từ mới của bài.
+Số lượng gồm 33 điểm ngữ pháp trong DOCX và điểm thứ 4 Bài 7 từ ảnh người dùng bổ sung; không tự thêm điểm để mọi bài đều có bốn điểm. 387 là tổng mục từ theo bài; một số từ xuất hiện trong nhiều bài với ngữ cảnh/nghĩa khác nhau. Từ điển tra cứu bổ trợ không tính là từ mới của bài.
 
 Mỗi mục từ có Hán tự, pinyin, loại từ bằng tiếng Việt, nghĩa, ví dụ, pinyin ví dụ và bản dịch. Mỗi điểm ngữ pháp có công thức, giải thích Việt, cách dùng, lưu ý và ví dụ. Công thức và ví dụ nguồn được đối chiếu riêng với bài tập biên soạn bổ sung.
 
@@ -89,6 +89,7 @@ JS/CSS/JSON dùng cùng tham số phiên bản để tránh dữ liệu cũ tron
 node --check HSK4/app.js
 node tests/hsk4-content.cjs
 node tests/hsk4-upper-content.cjs
+node tests/hsk4-lesson7-shi.cjs
 node tests/hsk4-upper-browser.cjs
 node tests/hsk4-smoke.cjs
 node tests/hsk4-compact-choices.cjs
@@ -101,3 +102,7 @@ Các kiểm tra trình duyệt cần Playwright/Chromium, hỗ trợ `CHROMIUM_P
 Kiểm tra nội dung xác minh 387 mục/33 ngữ pháp, hash nguồn, hiệu chỉnh, câu điền có bốn lựa chọn khác nhau, ghép lại câu sắp xếp, 50 đoạn không trùng/250 câu hỏi, đề viết và độ phủ tra cứu. Kiểm tra trình duyệt chạy các dạng câu hỏi từng bài, hoàn thành các đoạn đọc, chấm điểm, pinyin, tra từ, không tràn ngang, tiến độ cũ Bài 1, đổi bài/Back/tải lại, ôn nhiều bài, luyện lại, bản nháp riêng, xuất/nhập mới và nhập sao lưu cũ.
 
 Phát âm và nhận diện thực tế phụ thuộc giọng tiếng Trung, thiết bị, dịch vụ trình duyệt và quyền micro. Kiểm thử xác minh thao tác trình duyệt, không đánh giá chất lượng âm thanh hay độ chính xác nhận diện thực tế. Thay đổi được gửi PR để duyệt trước khi merge.
+
+## Bổ sung Bài 7 theo ảnh Text 4
+
+Bài 7 có thêm điểm 4: câu kiêm ngữ Chủ ngữ + 使 + tân ngữ + cụm động từ. Ba ví dụ giữ đúng chữ trong ảnh, kèm pinyin, dịch và lý thuyết Việt. Ba câu luyện tương ứng có trong trắc nghiệm, sắp xếp câu, viết câu, ôn tổng hợp và ôn nhiều bài. Bài 7 hiện có 4 điểm/6 câu ngữ pháp. `data/grammar-supplements.json` tách nguồn ảnh khỏi manifest DOCX gốc; ngữ pháp Bài 8–10 chờ người dùng bổ sung.
