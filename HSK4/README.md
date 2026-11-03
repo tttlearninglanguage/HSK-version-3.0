@@ -48,7 +48,7 @@ Câu hỏi có đáp án cố định được chấm theo đáp án, bỏ khác
 ## Điều chỉnh bài tập theo phản hồi
 
 - Nghe hiểu câu: nghe câu ví dụ và chọn câu tiếng Trung tương ứng, thay cho chọn bản dịch tiếng Việt.
-- Đọc hiểu đoạn: cả bốn phương án của mỗi câu hỏi đều bằng tiếng Trung; câu hỏi và giải thích vẫn bằng tiếng Việt. Bản dịch phương án cũ được giữ trong dữ liệu để đối chiếu.
+- Đọc hiểu đoạn: cả bốn phương án của mỗi câu hỏi đều bằng tiếng Trung; toàn bộ câu hỏi cũng bằng tiếng Trung, còn giải thích giữ tiếng Việt. Bản dịch phương án cũ được giữ trong dữ liệu để đối chiếu.
 - Các lựa chọn tiếng Trung có nút tra từ độc lập và nút “Chọn đáp án”; không lồng các nút, không tự nộp khi tra từ. Tra từ vẫn dùng được sau khi chấm.
 - Đồng bộ toàn bộ 18 chế độ Bài 1 theo cỡ chữ thực tế của Trắc nghiệm ngữ pháp: đề 32px (line-height 1.9), đáp án 23px (line-height 1.7), nét thường 400; áp dụng cả ô nhập, từ sắp xếp, đáp án câu nghe/đọc, đáp án phản hồi và các câu ôn tổng hợp. Pinyin, chú thích, nút điều khiển giữ cỡ chữ riêng. Văn bản đoạn đọc/đoạn mẫu dùng cỡ nội dung 23px để dễ đọc đoạn dài.
 - Luyện nói: kết quả nhận diện được điền vào ô trả lời, có thể sửa trước khi tự đối chiếu. Không tự nộp; bỏ qua kết quả đến muộn khi đổi câu, đổi màn hình, đã nộp hoặc đã bật lượt micro mới.
@@ -56,6 +56,10 @@ Câu hỏi có đáp án cố định được chấm theo đáp án, bỏ khác
 Kiểm thử `tests/hsk4-exercise-updates.cjs` đạt 130 kiểm tra tại 1440px/390px, gồm trọn bộ 40 câu nghe, 12 câu đọc đoạn, dữ liệu tra từ, cỡ chữ, sửa kết quả micro và các tình huống kết quả đến muộn. Micro trong bộ kiểm thử được giả lập; nhận diện âm thanh thực tế vẫn phụ thuộc thiết bị và dịch vụ trình duyệt.
 
 Kiểm thử `tests/hsk4-game-typography.cjs` đạt 171 kiểm tra, đối chiếu trực tiếp mọi chế độ và từng câu của lượt ôn tổng hợp với cỡ chữ được trình duyệt tính cho Trắc nghiệm ngữ pháp tại 1440px, 390px và 360px. Hai biến CSS `--hsk4-game-prompt-size` / `--hsk4-game-answer-size` là cấu hình chung, chỉ nằm trong giao diện HSK 4.
+
+Phần đọc hiểu được thu gọn riêng: giãn dòng câu hỏi/đáp án 1.35, đoạn đọc 1.5, khoảng cách lựa chọn 8px, giảm đệm và đặt nút “Chọn” cạnh nội dung đáp án. Giữ nguyên cỡ chữ đề 32px và đáp án 23px. Cả 12 câu hỏi đã chuyển sang tiếng Trung, giữ bản Việt trong `questionVietnamese` để đối chiếu; bổ sung tra từ cho 项 và 符合.
+
+`tests/hsk4-reading-layout.cjs` đạt 48 kiểm tra: cả 12 câu ở 1440×900, 1280×800, 390×844 và 360×640; xác minh cụm câu hỏi/bốn lựa chọn vừa chiều cao màn hình, không tràn ngang, tra từ không nộp và hoàn thành đúng 12/12. Trên điện thoại đoạn đọc và câu hỏi vẫn xếp dọc, nên toàn trang có thể cần cuộn giữa hai phần.
 
 ## Tiến độ và điều hướng
 
@@ -88,6 +92,7 @@ node tests/hsk4-smoke.cjs
 node tests/hsk4-ui-parity.cjs
 node tests/hsk4-exercise-updates.cjs
 node tests/hsk4-game-typography.cjs
+node tests/hsk4-reading-layout.cjs
 node tests/hsk3-smoke.cjs
 ```
 
