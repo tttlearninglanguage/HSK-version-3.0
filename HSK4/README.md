@@ -105,3 +105,7 @@ Các thành phần giao diện chung đạt 142 kiểm tra đối chiếu thực
 Kết quả Bài 1: kiểm tra nội dung và hash đạt; bộ trình duyệt đạt 284 kiểm tra trên 1440px/390px, không có lỗi JavaScript, không tràn ngang trong các chế độ, đủ dữ liệu tra cứu cho ba bài đọc. Kiểm thử hồi quy HSK 3 đạt 1.190 kiểm tra trên 1440px/390px, bao gồm mở HSK 1/2, không có lỗi JavaScript chưa xử lý.
 
 Phát âm thực tế cần giọng tiếng Trung trên thiết bị; nhận diện cần trình duyệt hỗ trợ, kết nối dịch vụ và quyền micro. Kiểm thử tự động xác minh lời gọi phát âm, không xác nhận âm thanh nghe thực tế hay chất lượng nhận diện. Việc xuất bản GitHub Pages phụ thuộc nhánh được cấu hình trong repository; bản sửa được gửi qua PR để duyệt trước khi merge.
+
+## Làm mới tài nguyên khi phát hành
+
+Trang HSK 4 gắn tham số phiên bản cho `app.js` và `styles.css`; JSON dùng cùng phiên bản của script và `cache: no-cache` để trình duyệt kiểm tra lại dữ liệu, tránh tiếp tục hiển thị câu hỏi cũ sau khi triển khai. Khi phát hành thay đổi giao diện/logic, cập nhật phiên bản trong `HSK4/index.html`. Không xóa hoặc thay đổi khóa tiến độ localStorage.
