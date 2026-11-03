@@ -1079,9 +1079,30 @@
             "她要求每个人都读博士": "Cô yêu cầu ai cũng học tiến sĩ"
           },
           "questionVietnamese": "Có thể nhận xét gì về cô giáo?"
+        },
+        {
+          "id": "hsk4-L01-R01-Q05",
+          "kind": "Nội dung",
+          "question": "“我”的证件放在哪里？",
+          "questionVietnamese": "Giấy tờ của người kể ở đâu?",
+          "options": [
+            "在包里",
+            "在食堂里",
+            "在老师家里",
+            "在教室的桌子上"
+          ],
+          "answer": "在包里",
+          "optionsVietnamese": {
+            "在包里": "Trong túi",
+            "在食堂里": "Trong nhà ăn",
+            "在老师家里": "Ở nhà cô giáo",
+            "在教室的桌子上": "Trên bàn trong lớp"
+          },
+          "explanation": "Đoạn văn nói 我的证件都在包里: giấy tờ đều ở trong túi."
         }
       ],
-      "sourceType": "supplementary"
+      "sourceType": "supplementary",
+      "lesson": 1
     },
     {
       "id": "hsk4-L01-R02",
@@ -1169,9 +1190,30 @@
             "只为了申请奖学金而学习": "Chỉ học để xin học bổng"
           },
           "questionVietnamese": "Theo người kể, cách học nào hiệu quả hơn?"
+        },
+        {
+          "id": "hsk4-L01-R02-Q05",
+          "kind": "Nội dung",
+          "question": "随着交流机会的增加，“我”有什么变化？",
+          "questionVietnamese": "Khi cơ hội giao tiếp tăng lên, người kể thay đổi thế nào?",
+          "options": [
+            "中文水平提高了",
+            "不再参加学校活动了",
+            "越来越不喜欢说中文了",
+            "换了一个专业"
+          ],
+          "answer": "中文水平提高了",
+          "optionsVietnamese": {
+            "中文水平提高了": "Trình độ tiếng Trung tiến bộ",
+            "不再参加学校活动了": "Không tham gia hoạt động nữa",
+            "越来越不喜欢说中文了": "Ngày càng không thích nói tiếng Trung",
+            "换了一个专业": "Đổi chuyên ngành"
+          },
+          "explanation": "随着交流的机会越来越多，我的中文水平也提高了 nêu rõ sự tiến bộ."
         }
       ],
-      "sourceType": "supplementary"
+      "sourceType": "supplementary",
+      "lesson": 1
     },
     {
       "id": "hsk4-L01-R03",
@@ -1259,9 +1301,252 @@
             "只关心奖学金": "Chỉ quan tâm đến tiền học bổng"
           },
           "questionVietnamese": "Qua lời nói cuối đoạn, chị là người thế nào?"
+        },
+        {
+          "id": "hsk4-L01-R03-Q05",
+          "kind": "Nội dung",
+          "question": "爸爸为什么支持姐姐的选择？",
+          "questionVietnamese": "Vì sao bố ủng hộ lựa chọn của chị?",
+          "options": [
+            "他认为国际交流越来越重要",
+            "他不希望姐姐继续学习",
+            "他要求姐姐马上去公司工作",
+            "他只关心姐姐能不能拿到奖学金"
+          ],
+          "answer": "他认为国际交流越来越重要",
+          "optionsVietnamese": {
+            "他认为国际交流越来越重要": "Bố cho rằng giao lưu quốc tế ngày càng quan trọng",
+            "他不希望姐姐继续学习": "Bố không muốn chị học tiếp",
+            "他要求姐姐马上去公司工作": "Bố yêu cầu chị đi làm ngay",
+            "他只关心姐姐能不能拿到奖学金": "Bố chỉ quan tâm chị có nhận học bổng không"
+          },
+          "explanation": "Bố thấy 国际交流越来越重要 nên ủng hộ lựa chọn của chị."
         }
       ],
-      "sourceType": "supplementary"
+      "sourceType": "supplementary",
+      "lesson": 1
+    },
+    {
+      "id": "hsk4-L01-R04",
+      "lesson": 1,
+      "title": "Lập kế hoạch xin học bổng",
+      "sourceType": "supplementary",
+      "text": "我想申请学校的奖学金，可是听说申请的人很多，心里有些着急。老师看了我的学习材料，说我这个学期表现得不错，可以试一试。她还提醒我，申请以前要认真检查证件和材料，不能只关心最后的结果。回去以后，我给自己做了一个学习计划。一方面，我每天复习课程中的重要知识；另一方面，我通过参加活动练习中文。要是这次没有获得奖学金，我也会继续努力。对我来说，申请奖学金不只是为了减轻经济压力，也是了解自己、学会安排时间的机会。",
+      "pinyin": "Wǒ xiǎng shēnqǐng xuéxiào de jiǎngxuéjīn, kěshì tīngshuō shēnqǐng de rén hěn duō, xīnli yǒuxiē zháojí. Lǎoshī kàn le wǒ de xuéxí cáiliào, shuō wǒ zhège xuéqī biǎoxiàn de búcuò, kěyǐ shì yi shì. Tā hái tíxǐng wǒ, shēnqǐng yǐqián yào rènzhēn jiǎnchá zhèngjiàn hé cáiliào, bù néng zhǐ guānxīn zuìhòu de jiéguǒ. Huíqù yǐhòu, wǒ gěi zìjǐ zuò le yí ge xuéxí jìhuà. Yì fāngmiàn, wǒ měitiān fùxí kèchéng zhōng de zhòngyào zhīshi; lìng yì fāngmiàn, wǒ tōngguò cānjiā huódòng liànxí Zhōngwén. Yàoshi zhè cì méiyǒu huòdé jiǎngxuéjīn, wǒ yě huì jìxù nǔlì. Duì wǒ lái shuō, shēnqǐng jiǎngxuéjīn bù zhǐ shì wèile jiǎnqīng jīngjì yālì, yě shì liǎojiě zìjǐ, xuéhuì ānpái shíjiān de jīhuì.",
+      "translation": "Tôi muốn xin học bổng của trường nhưng nghe nói có nhiều người nộp đơn nên hơi sốt ruột. Giáo viên xem tài liệu học tập của tôi, nhận xét học kỳ này tôi thể hiện khá tốt và có thể thử sức. Cô còn nhắc trước khi nộp đơn phải kiểm tra kỹ giấy tờ và tài liệu, không nên chỉ quan tâm đến kết quả cuối cùng. Về nhà, tôi lập kế hoạch học tập: một mặt ôn kiến thức quan trọng trong các môn học mỗi ngày, mặt khác luyện tiếng Trung qua hoạt động. Nếu lần này không nhận được học bổng, tôi vẫn tiếp tục cố gắng. Với tôi, xin học bổng không chỉ để giảm áp lực tài chính mà còn là cơ hội hiểu bản thân và học cách sắp xếp thời gian.",
+      "questions": [
+        {
+          "id": "hsk4-L01-R04-Q01",
+          "kind": "Nội dung",
+          "question": "“我”为什么有些着急？",
+          "questionVietnamese": "Vì sao người kể hơi sốt ruột?",
+          "options": [
+            "听说申请奖学金的人很多",
+            "把证件放在了食堂",
+            "不喜欢这个学期的课程",
+            "老师不让“我”申请"
+          ],
+          "answer": "听说申请奖学金的人很多",
+          "optionsVietnamese": {
+            "听说申请奖学金的人很多": "Nghe nói nhiều người xin học bổng",
+            "把证件放在了食堂": "Để giấy tờ ở nhà ăn",
+            "不喜欢这个学期的课程": "Không thích môn học",
+            "老师不让“我”申请": "Cô không cho nộp đơn"
+          },
+          "explanation": "Ngay đầu đoạn, người kể lo vì nghe nói nhiều người nộp đơn."
+        },
+        {
+          "id": "hsk4-L01-R04-Q02",
+          "kind": "Nội dung",
+          "question": "老师提醒“我”申请以前要做什么？",
+          "questionVietnamese": "Cô nhắc làm gì trước khi nộp đơn?",
+          "options": [
+            "认真检查证件和材料",
+            "先换一个专业",
+            "只关心能不能获得奖学金",
+            "不要参加学校活动"
+          ],
+          "answer": "认真检查证件和材料",
+          "optionsVietnamese": {
+            "认真检查证件和材料": "Kiểm tra kỹ giấy tờ và tài liệu",
+            "先换一个专业": "Đổi chuyên ngành trước",
+            "只关心能不能获得奖学金": "Chỉ nghĩ đến việc nhận học bổng",
+            "不要参加学校活动": "Không tham gia hoạt động"
+          },
+          "explanation": "Cô nói 申请以前要认真检查证件和材料."
+        },
+        {
+          "id": "hsk4-L01-R04-Q03",
+          "kind": "Ý chính",
+          "question": "这段话主要讲什么？",
+          "questionVietnamese": "Nội dung chính của đoạn là gì?",
+          "options": [
+            "申请奖学金前的准备和学习计划",
+            "学校食堂的变化",
+            "一位教师的工作经历",
+            "国际贸易公司的活动"
+          ],
+          "answer": "申请奖学金前的准备和学习计划",
+          "optionsVietnamese": {
+            "申请奖学金前的准备和学习计划": "Chuẩn bị và lập kế hoạch học để xin học bổng",
+            "学校食堂的变化": "Thay đổi của nhà ăn",
+            "一位教师的工作经历": "Kinh nghiệm của giáo viên",
+            "国际贸易公司的活动": "Hoạt động của công ty thương mại"
+          },
+          "explanation": "Đoạn văn xoay quanh việc chuẩn bị hồ sơ, kế hoạch học và ý nghĩa của việc xin học bổng."
+        },
+        {
+          "id": "hsk4-L01-R04-Q04",
+          "kind": "Suy luận",
+          "question": "没申请到奖学金，“我”会怎样？",
+          "questionVietnamese": "Nếu không nhận học bổng lần này, người kể sẽ làm gì?",
+          "options": [
+            "继续努力学习",
+            "马上放弃学习中文",
+            "不再和老师交流",
+            "只关心经济压力"
+          ],
+          "answer": "继续努力学习",
+          "optionsVietnamese": {
+            "继续努力学习": "Tiếp tục cố gắng học",
+            "马上放弃学习中文": "Bỏ học tiếng Trung ngay",
+            "不再和老师交流": "Không giao tiếp với cô nữa",
+            "只关心经济压力": "Chỉ quan tâm áp lực tài chính"
+          },
+          "explanation": "Người kể nói rõ dù không nhận được học bổng vẫn tiếp tục cố gắng, cho thấy không chỉ coi trọng tiền học bổng."
+        },
+        {
+          "id": "hsk4-L01-R04-Q05",
+          "kind": "Nội dung",
+          "question": "“我”的学习计划有哪两方面？",
+          "questionVietnamese": "Kế hoạch học gồm hai mặt nào?",
+          "options": [
+            "复习课程知识和参加活动练习中文",
+            "只看申请结果和换专业",
+            "在食堂工作和读博士",
+            "研究贸易和准备国际会议"
+          ],
+          "answer": "复习课程知识和参加活动练习中文",
+          "optionsVietnamese": {
+            "复习课程知识和参加活动练习中文": "Ôn kiến thức môn học và tham gia hoạt động luyện tiếng Trung",
+            "只看申请结果和换专业": "Chỉ xem kết quả và đổi ngành",
+            "在食堂工作和读博士": "Làm tại nhà ăn và học tiến sĩ",
+            "研究贸易和准备国际会议": "Nghiên cứu thương mại và chuẩn bị hội nghị"
+          },
+          "explanation": "Hai vế 一方面……另一方面…… liệt kê ôn kiến thức và tham gia hoạt động luyện tiếng Trung."
+        }
+      ]
+    },
+    {
+      "id": "hsk4-L01-R05",
+      "lesson": 1,
+      "title": "Cùng nhau thích nghi với cuộc sống mới",
+      "sourceType": "supplementary",
+      "text": "入学后的第一个星期，我和几个新同学都不太适应这里的生活。我们不知道在哪座楼上课，也不清楚怎样选择课程。老师发现以后，安排了一次交流活动，让已经在学校学习一年的同学介绍经验。他们带我们参观教室和食堂，还告诉我们怎样准备学习材料。有任何问题，我们都可以向他们请教。随着了解的事情越来越多，我的压力减轻了，也开始帮助别的新同学。我发现，适应新生活不能只靠自己。主动交流、互相帮助，能让学习和生活变得更容易。",
+      "pinyin": "Rùxué hòu de dì yī ge xīngqī, wǒ hé jǐ ge xīn tóngxué dōu bú tài shìyìng zhèlǐ de shēnghuó. Wǒmen bù zhīdào zài nǎ zuò lóu shàngkè, yě bù qīngchu zěnyàng xuǎnzé kèchéng. Lǎoshī fāxiàn yǐhòu, ānpái le yí cì jiāoliú huódòng, ràng yǐjīng zài xuéxiào xuéxí yì nián de tóngxué jièshào jīngyàn. Tāmen dài wǒmen cānguān jiàoshì hé shítáng, hái gàosu wǒmen zěnyàng zhǔnbèi xuéxí cáiliào. Yǒu rènhé wèntí, wǒmen dōu kěyǐ xiàng tāmen qǐngjiào. Suízhe liǎojiě de shìqing yuèláiyuè duō, wǒ de yālì jiǎnqīng le, yě kāishǐ bāngzhù bié de xīn tóngxué. Wǒ fāxiàn, shìyìng xīn shēnghuó bù néng zhǐ kào zìjǐ. Zhǔdòng jiāoliú, hùxiāng bāngzhù, néng ràng xuéxí hé shēnghuó biàn de gèng róngyì.",
+      "translation": "Tuần đầu sau khi nhập học, tôi và vài bạn mới đều chưa quen cuộc sống ở đây. Chúng tôi không biết học ở tòa nhà nào và chưa rõ cách chọn môn. Biết chuyện, giáo viên tổ chức một buổi giao lưu để các bạn đã học ở trường một năm chia sẻ kinh nghiệm. Họ đưa chúng tôi tham quan lớp học, nhà ăn và chỉ cách chuẩn bị tài liệu học tập. Có bất kỳ vấn đề gì chúng tôi cũng có thể hỏi họ. Khi hiểu biết tăng lên, áp lực của tôi giảm bớt và tôi bắt đầu giúp các bạn mới khác. Tôi nhận ra thích nghi với cuộc sống mới không thể chỉ dựa vào bản thân. Chủ động giao lưu và giúp đỡ lẫn nhau sẽ khiến việc học và sinh hoạt dễ dàng hơn.",
+      "questions": [
+        {
+          "id": "hsk4-L01-R05-Q01",
+          "kind": "Nội dung",
+          "question": "第一个星期，新同学遇到了什么问题？",
+          "questionVietnamese": "Tuần đầu các bạn mới gặp vấn đề gì?",
+          "options": [
+            "不清楚上课地点和怎样选择课程",
+            "已经学完了所有课程",
+            "不能申请任何证件",
+            "不想认识别的同学"
+          ],
+          "answer": "不清楚上课地点和怎样选择课程",
+          "optionsVietnamese": {
+            "不清楚上课地点和怎样选择课程": "Chưa rõ nơi học và cách chọn môn",
+            "已经学完了所有课程": "Đã học xong mọi môn",
+            "不能申请任何证件": "Không thể xin giấy tờ",
+            "不想认识别的同学": "Không muốn quen bạn khác"
+          },
+          "explanation": "Đoạn đầu nói chưa biết tòa nhà học và cách chọn môn."
+        },
+        {
+          "id": "hsk4-L01-R05-Q02",
+          "kind": "Nội dung",
+          "question": "老师请谁介绍经验？",
+          "questionVietnamese": "Cô nhờ ai chia sẻ kinh nghiệm?",
+          "options": [
+            "已经在学校学习一年的同学",
+            "刚入学的新同学",
+            "贸易公司的经理",
+            "来参加国际会议的人"
+          ],
+          "answer": "已经在学校学习一年的同学",
+          "optionsVietnamese": {
+            "已经在学校学习一年的同学": "Các bạn đã học ở trường một năm",
+            "刚入学的新同学": "Sinh viên vừa nhập học",
+            "贸易公司的经理": "Giám đốc công ty thương mại",
+            "来参加国际会议的人": "Người dự hội nghị quốc tế"
+          },
+          "explanation": "Cô mời 已经在学校学习一年的同学 giới thiệu kinh nghiệm."
+        },
+        {
+          "id": "hsk4-L01-R05-Q03",
+          "kind": "Ý chính",
+          "question": "这段话主要说明什么？",
+          "questionVietnamese": "Đoạn văn chủ yếu nêu điều gì?",
+          "options": [
+            "交流和互相帮助能让人适应新生活",
+            "选择课程只需要看教室在哪儿",
+            "申请奖学金不需要准备材料",
+            "每个新同学都必须自己解决所有问题"
+          ],
+          "answer": "交流和互相帮助能让人适应新生活",
+          "optionsVietnamese": {
+            "交流和互相帮助能让人适应新生活": "Giao lưu và giúp nhau hỗ trợ thích nghi cuộc sống mới",
+            "选择课程只需要看教室在哪儿": "Chọn môn chỉ cần xem vị trí lớp",
+            "申请奖学金不需要准备材料": "Xin học bổng không cần tài liệu",
+            "每个新同学都必须自己解决所有问题": "Mọi sinh viên mới phải tự giải quyết hết"
+          },
+          "explanation": "Từ khó khăn ban đầu đến được giúp rồi giúp người khác, đoạn văn nhấn mạnh giá trị của giao lưu và hỗ trợ lẫn nhau."
+        },
+        {
+          "id": "hsk4-L01-R05-Q04",
+          "kind": "Suy luận",
+          "question": "“我”为什么帮助新同学？",
+          "questionVietnamese": "Vì sao sau đó người kể bắt đầu giúp sinh viên mới?",
+          "options": [
+            "更了解学校，知道帮助很重要",
+            "老师让“我”放弃课程",
+            "“我”已经成为博士",
+            "“我”不需要学习了"
+          ],
+          "answer": "更了解学校，知道帮助很重要",
+          "optionsVietnamese": {
+            "更了解学校，知道帮助很重要": "Hiểu trường hơn và biết sự giúp đỡ rất quan trọng",
+            "老师让“我”放弃课程": "Cô yêu cầu bỏ môn học",
+            "“我”已经成为博士": "Đã trở thành tiến sĩ",
+            "“我”不需要学习了": "Không cần học nữa"
+          },
+          "explanation": "Người kể được hỗ trợ, hiểu biết thêm và giảm áp lực; việc giúp bạn mới cho thấy đã nhận ra ý nghĩa của sự hỗ trợ."
+        },
+        {
+          "id": "hsk4-L01-R05-Q05",
+          "kind": "Nội dung",
+          "question": "“我”的压力随着什么变化而减轻？",
+          "questionVietnamese": "Áp lực của người kể giảm theo thay đổi nào?",
+          "options": [
+            "了解的事情越来越多",
+            "学习材料越来越少",
+            "课程全部取消了",
+            "不再参加交流活动了"
+          ],
+          "answer": "了解的事情越来越多",
+          "optionsVietnamese": {
+            "了解的事情越来越多": "Ngày càng hiểu thêm nhiều điều",
+            "学习材料越来越少": "Tài liệu ngày càng ít",
+            "课程全部取消了": "Mọi môn bị hủy",
+            "不再参加交流活动了": "Không còn tham gia giao lưu"
+          },
+          "explanation": "Câu 随着了解的事情越来越多，我的压力减轻了 nêu rõ mối liên hệ."
+        }
+      ]
     }
   ],
   "writing": {
