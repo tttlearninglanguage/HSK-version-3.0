@@ -1,0 +1,1345 @@
+{
+  "lesson": 5,
+  "sourceType": "supplementary",
+  "vocabulary": [
+    {
+      "wordId": "hsk4-L05-01",
+      "tokens": [
+        "我",
+        "每天",
+        "至少",
+        "学习",
+        "两个",
+        "小时",
+        "中文",
+        "。"
+      ],
+      "cloze": "我每天＿＿＿学习两个小时中文。",
+      "answer": "至少",
+      "options": [
+        "至少",
+        "按照",
+        "随意",
+        "面对"
+      ],
+      "explanation": "Điền 至少 (ít nhất) theo cách dùng trong câu: Mỗi ngày tôi học tiếng Trung ít nhất hai tiếng."
+    },
+    {
+      "wordId": "hsk4-L05-02",
+      "tokens": [
+        "他",
+        "更",
+        "习惯",
+        "吃",
+        "中餐",
+        "。"
+      ],
+      "cloze": "他更习惯吃＿＿＿。",
+      "answer": "中餐",
+      "options": [
+        "中餐",
+        "座位",
+        "年龄",
+        "顺序"
+      ],
+      "explanation": "Điền 中餐 (bữa ăn Trung Quốc) theo cách dùng trong câu: Anh ấy quen ăn món Trung Quốc hơn."
+    },
+    {
+      "wordId": "hsk4-L05-03",
+      "tokens": [
+        "前",
+        "几天",
+        "，",
+        "他",
+        "专门",
+        "来",
+        "北京",
+        "看",
+        "我",
+        "。"
+      ],
+      "cloze": "前几天，他＿＿＿来北京看我。",
+      "answer": "专门",
+      "options": [
+        "专门",
+        "座位",
+        "年龄",
+        "顺序"
+      ],
+      "explanation": "Điền 专门 (chuyên; đặc biệt) theo cách dùng trong câu: Mấy hôm trước, anh ấy đặc biệt đến Bắc Kinh thăm tôi."
+    },
+    {
+      "wordId": "hsk4-L05-04",
+      "tokens": [
+        "妈妈",
+        "正在",
+        "厨房",
+        "里",
+        "煮",
+        "鸡蛋",
+        "。"
+      ],
+      "cloze": "妈妈正在厨房里＿＿＿鸡蛋。",
+      "answer": "煮",
+      "options": [
+        "煮",
+        "倒",
+        "付",
+        "聚"
+      ],
+      "explanation": "Điền 煮 (luộc; nấu) theo cách dùng trong câu: Mẹ đang luộc trứng trong bếp."
+    },
+    {
+      "wordId": "hsk4-L05-05",
+      "tokens": [
+        "妈妈",
+        "倒",
+        "了",
+        "一点儿",
+        "油",
+        "，",
+        "准备",
+        "炒鸡蛋",
+        "。"
+      ],
+      "cloze": "妈妈倒了一点儿＿＿＿，准备炒鸡蛋。",
+      "answer": "油",
+      "options": [
+        "油",
+        "座位",
+        "顺序",
+        "年龄"
+      ],
+      "explanation": "Điền 油 (dầu) theo cách dùng trong câu: Mẹ đổ một ít dầu vào để chuẩn bị rán trứng."
+    },
+    {
+      "wordId": "hsk4-L05-06",
+      "tokens": [
+        "这",
+        "道菜",
+        "真",
+        "好吃",
+        "！"
+      ],
+      "cloze": "这＿＿＿菜真好吃！",
+      "answer": "道",
+      "options": [
+        "道",
+        "位",
+        "条",
+        "台"
+      ],
+      "explanation": "Điền 道 (lượng từ cho món ăn) theo cách dùng trong câu: Món ăn này ngon thật!"
+    },
+    {
+      "wordId": "hsk4-L05-07",
+      "tokens": [
+        "饺子",
+        "已经",
+        "熟",
+        "了",
+        "，",
+        "可以",
+        "吃",
+        "了",
+        "。"
+      ],
+      "cloze": "饺子已经＿＿＿了，可以吃了。",
+      "answer": "熟",
+      "options": [
+        "熟",
+        "咸",
+        "相同",
+        "正式"
+      ],
+      "explanation": "Điền 熟 (chín; quen thuộc) theo cách dùng trong câu: Sủi cảo đã chín rồi, có thể ăn được."
+    },
+    {
+      "wordId": "hsk4-L05-08",
+      "tokens": [
+        "妈妈",
+        "倒",
+        "了",
+        "一点儿",
+        "油",
+        "，",
+        "准备",
+        "炒鸡蛋",
+        "。"
+      ],
+      "cloze": "妈妈＿＿＿了一点儿油，准备炒鸡蛋。",
+      "answer": "倒",
+      "options": [
+        "倒",
+        "煮",
+        "付",
+        "聚"
+      ],
+      "explanation": "Điền 倒 (rót; đổ) theo cách dùng trong câu: Mẹ đổ một ít dầu vào để chuẩn bị rán trứng."
+    },
+    {
+      "wordId": "hsk4-L05-09",
+      "tokens": [
+        "奶奶",
+        "在",
+        "菜地",
+        "里种",
+        "了",
+        "很多",
+        "辣椒",
+        "。"
+      ],
+      "cloze": "奶奶在菜地里种了很多＿＿＿。",
+      "answer": "辣椒",
+      "options": [
+        "辣椒",
+        "座位",
+        "年龄",
+        "顺序"
+      ],
+      "explanation": "Điền 辣椒 (ớt) theo cách dùng trong câu: Bà trồng rất nhiều ớt ngoài vườn rau."
+    },
+    {
+      "wordId": "hsk4-L05-10",
+      "tokens": [
+        "这",
+        "道菜",
+        "太辣",
+        "了",
+        "，",
+        "我",
+        "不敢",
+        "吃",
+        "。"
+      ],
+      "cloze": "这道菜太＿＿＿了，我不敢吃。",
+      "answer": "辣",
+      "options": [
+        "辣",
+        "熟",
+        "凉",
+        "普通"
+      ],
+      "explanation": "Điền 辣 (cay) theo cách dùng trong câu: Món này cay quá, tôi không dám ăn."
+    },
+    {
+      "wordId": "hsk4-L05-11",
+      "tokens": [
+        "太晚",
+        "了",
+        "，",
+        "我",
+        "不敢",
+        "一个",
+        "人",
+        "出门",
+        "。"
+      ],
+      "cloze": "太晚了，我不＿＿＿一个人出门。",
+      "answer": "敢",
+      "options": [
+        "敢",
+        "付",
+        "倒",
+        "煮"
+      ],
+      "explanation": "Điền 敢 (dám) theo cách dùng trong câu: Muộn quá rồi, tôi không dám ra ngoài một mình."
+    },
+    {
+      "wordId": "hsk4-L05-12",
+      "tokens": [
+        "我",
+        "早上",
+        "吃",
+        "得",
+        "太",
+        "多",
+        "了",
+        "，",
+        "现在",
+        "肚子",
+        "有点儿",
+        "不",
+        "舒服",
+        "。"
+      ],
+      "cloze": "我早上吃得太多了，现在＿＿＿有点儿不舒服。",
+      "answer": "肚子",
+      "options": [
+        "肚子",
+        "顺序",
+        "年龄",
+        "座位"
+      ],
+      "explanation": "Điền 肚子 (bụng) theo cách dùng trong câu: Sáng nay tôi ăn quá nhiều, bây giờ bụng hơi khó chịu."
+    },
+    {
+      "wordId": "hsk4-L05-13",
+      "tokens": [
+        "我",
+        "和",
+        "他",
+        "的",
+        "书包",
+        "颜色",
+        "相同",
+        "。"
+      ],
+      "cloze": "我和他的书包颜色＿＿＿。",
+      "answer": "相同",
+      "options": [
+        "相同",
+        "咸",
+        "正式",
+        "随意"
+      ],
+      "explanation": "Điền 相同 (giống nhau) theo cách dùng trong câu: Cặp sách của tôi và anh ấy cùng màu."
+    },
+    {
+      "wordId": "hsk4-L05-14",
+      "tokens": [
+        "这些",
+        "书",
+        "的",
+        "顺序",
+        "放错",
+        "了",
+        "。"
+      ],
+      "cloze": "这些书的＿＿＿放错了。",
+      "answer": "顺序",
+      "options": [
+        "顺序",
+        "年龄",
+        "主人",
+        "午餐"
+      ],
+      "explanation": "Điền 顺序 (thứ tự) theo cách dùng trong câu: Thứ tự của những cuốn sách này bị xếp sai rồi."
+    },
+    {
+      "wordId": "hsk4-L05-15",
+      "tokens": [
+        "今天",
+        "的",
+        "天气",
+        "够",
+        "冷",
+        "的",
+        "！"
+      ],
+      "cloze": "今天的天气＿＿＿冷的！",
+      "answer": "够",
+      "options": [
+        "够",
+        "咸",
+        "相同",
+        "正式"
+      ],
+      "explanation": "Điền 够 (đủ) theo cách dùng trong câu: Thời tiết hôm nay lạnh thật đấy!"
+    },
+    {
+      "wordId": "hsk4-L05-16",
+      "tokens": [
+        "这些",
+        "钱",
+        "不够",
+        "付",
+        "房租",
+        "。"
+      ],
+      "cloze": "这些钱＿＿＿付房租。",
+      "answer": "不够",
+      "options": [
+        "不够",
+        "普通",
+        "正式",
+        "随意"
+      ],
+      "explanation": "Điền 不够 (không đủ) theo cách dùng trong câu: Số tiền này không đủ trả tiền thuê nhà."
+    },
+    {
+      "wordId": "hsk4-L05-17",
+      "tokens": [
+        "他",
+        "每天",
+        "练习",
+        "中文",
+        "，",
+        "终于",
+        "达到",
+        "了",
+        "很",
+        "高",
+        "的",
+        "水平",
+        "。"
+      ],
+      "cloze": "他每天练习中文，终于＿＿＿了很高的水平。",
+      "answer": "达到",
+      "options": [
+        "达到",
+        "付",
+        "煮",
+        "倒"
+      ],
+      "explanation": "Điền 达到 (đạt tới) theo cách dùng trong câu: Anh ấy luyện tiếng Trung mỗi ngày, cuối cùng đạt trình độ rất cao."
+    },
+    {
+      "wordId": "hsk4-L05-18",
+      "tokens": [
+        "周末",
+        "我们",
+        "班",
+        "的",
+        "同学",
+        "经常",
+        "聚在一起",
+        "吃饭",
+        "。"
+      ],
+      "cloze": "周末我们班的同学经常＿＿＿在一起吃饭。",
+      "answer": "聚",
+      "options": [
+        "聚",
+        "付",
+        "煮",
+        "倒"
+      ],
+      "explanation": "Điền 聚 (tụ họp) theo cách dùng trong câu: Cuối tuần các bạn trong lớp tôi thường tụ họp ăn uống."
+    },
+    {
+      "wordId": "hsk4-L05-19",
+      "tokens": [
+        "今天",
+        "午餐",
+        "时",
+        "我",
+        "吃",
+        "了",
+        "一碗",
+        "面条儿",
+        "。",
+        "我",
+        "每天",
+        "中午",
+        "一下",
+        "课",
+        "就",
+        "去",
+        "吃",
+        "午餐",
+        "。"
+      ],
+      "cloze": "今天＿＿＿时我吃了一碗面条儿。我每天中午一下课就去吃午餐。",
+      "answer": "午餐",
+      "options": [
+        "午餐",
+        "年龄",
+        "顺序",
+        "座位"
+      ],
+      "explanation": "Điền 午餐 (bữa trưa) theo cách dùng trong câu: Trưa nay tôi ăn một bát mì. Mỗi trưa tan học tôi đều đi ăn trưa ngay."
+    },
+    {
+      "wordId": "hsk4-L05-20",
+      "tokens": [
+        "妈妈",
+        "做",
+        "的",
+        "菜",
+        "不",
+        "太",
+        "咸",
+        "，",
+        "很",
+        "健康",
+        "。"
+      ],
+      "cloze": "妈妈做的菜不太＿＿＿，很健康。",
+      "answer": "咸",
+      "options": [
+        "咸",
+        "相同",
+        "正式",
+        "普通"
+      ],
+      "explanation": "Điền 咸 (mặn) theo cách dùng trong câu: Món mẹ nấu không mặn lắm, rất tốt cho sức khỏe."
+    },
+    {
+      "wordId": "hsk4-L05-21",
+      "tokens": [
+        "秋天",
+        "到",
+        "了",
+        "，",
+        "天气",
+        "凉",
+        "了",
+        "。"
+      ],
+      "cloze": "秋天到了，天气＿＿＿了。",
+      "answer": "凉",
+      "options": [
+        "凉",
+        "熟",
+        "咸",
+        "普通"
+      ],
+      "explanation": "Điền 凉 (mát; nguội) theo cách dùng trong câu: Thu đến rồi, trời mát lên."
+    },
+    {
+      "wordId": "hsk4-L05-22",
+      "tokens": [
+        "这个",
+        "苹果",
+        "太酸",
+        "了",
+        "，",
+        "我",
+        "不",
+        "太",
+        "喜欢",
+        "吃",
+        "。"
+      ],
+      "cloze": "这个苹果太＿＿＿了，我不太喜欢吃。",
+      "answer": "酸",
+      "options": [
+        "酸",
+        "熟",
+        "正式",
+        "相同"
+      ],
+      "explanation": "Điền 酸 (chua) theo cách dùng trong câu: Quả táo này chua quá, tôi không thích ăn lắm."
+    },
+    {
+      "wordId": "hsk4-L05-23",
+      "tokens": [
+        "这碗",
+        "汤",
+        "不",
+        "太",
+        "咸",
+        "，",
+        "很",
+        "好喝",
+        "。"
+      ],
+      "cloze": "这碗＿＿＿不太咸，很好喝。",
+      "answer": "汤",
+      "options": [
+        "汤",
+        "年龄",
+        "座位",
+        "顺序"
+      ],
+      "explanation": "Điền 汤 (canh; súp) theo cách dùng trong câu: Bát canh này không mặn lắm, rất ngon."
+    },
+    {
+      "wordId": "hsk4-L05-24",
+      "tokens": [
+        "女士",
+        "，",
+        "请",
+        "您",
+        "先",
+        "去",
+        "那边",
+        "付钱",
+        "。"
+      ],
+      "cloze": "女士，请您先去那边＿＿＿钱。",
+      "answer": "付",
+      "options": [
+        "付",
+        "煮",
+        "倒",
+        "聚"
+      ],
+      "explanation": "Điền 付 (trả tiền) theo cách dùng trong câu: Thưa cô, mời cô đến bên kia thanh toán trước."
+    },
+    {
+      "wordId": "hsk4-L05-25",
+      "tokens": [
+        "每次",
+        "聚餐",
+        "大家",
+        "都",
+        "非常",
+        "开心",
+        "。"
+      ],
+      "cloze": "每次＿＿＿大家都非常开心。",
+      "answer": "聚餐",
+      "options": [
+        "聚餐",
+        "年龄",
+        "顺序",
+        "座位"
+      ],
+      "explanation": "Điền 聚餐 (ăn cùng nhau) theo cách dùng trong câu: Mỗi lần ăn uống cùng nhau, mọi người đều rất vui."
+    },
+    {
+      "wordId": "hsk4-L05-26",
+      "tokens": [
+        "明天",
+        "的",
+        "会议",
+        "，",
+        "你",
+        "随意",
+        "说",
+        "就",
+        "好",
+        "。"
+      ],
+      "cloze": "明天的会议，你＿＿＿说就好。",
+      "answer": "随意",
+      "options": [
+        "随意",
+        "座位",
+        "年龄",
+        "午餐"
+      ],
+      "explanation": "Điền 随意 (tùy ý) theo cách dùng trong câu: Cuộc họp ngày mai bạn cứ thoải mái phát biểu nhé."
+    },
+    {
+      "wordId": "hsk4-L05-27",
+      "tokens": [
+        "明天",
+        "我要",
+        "参加",
+        "一个",
+        "很",
+        "正式",
+        "的",
+        "晚会",
+        "。"
+      ],
+      "cloze": "明天我要参加一个很＿＿＿的晚会。",
+      "answer": "正式",
+      "options": [
+        "正式",
+        "咸",
+        "酸",
+        "凉"
+      ],
+      "explanation": "Điền 正式 (chính thức) theo cách dùng trong câu: Ngày mai tôi sẽ tham dự một buổi dạ tiệc rất trang trọng."
+    },
+    {
+      "wordId": "hsk4-L05-28",
+      "tokens": [
+        "这家",
+        "饭馆",
+        "看起来",
+        "普普通通",
+        "的",
+        "，",
+        "但是",
+        "菜",
+        "很",
+        "好吃",
+        "。"
+      ],
+      "cloze": "这家饭馆看起来普＿＿＿通的，但是菜很好吃。",
+      "answer": "普通",
+      "options": [
+        "普通",
+        "酸",
+        "咸",
+        "凉"
+      ],
+      "explanation": "Điền 普通 (phổ thông; bình thường) theo cách dùng trong câu: Nhà hàng này trông bình thường nhưng món ăn rất ngon."
+    },
+    {
+      "wordId": "hsk4-L05-29",
+      "tokens": [
+        "爸爸",
+        "非常重视",
+        "我",
+        "的",
+        "学习",
+        "，",
+        "经常",
+        "检查",
+        "我",
+        "的",
+        "作业",
+        "。"
+      ],
+      "cloze": "爸爸非常＿＿＿我的学习，经常检查我的作业。",
+      "answer": "重视",
+      "options": [
+        "重视",
+        "煮",
+        "倒",
+        "付"
+      ],
+      "explanation": "Điền 重视 (coi trọng) theo cách dùng trong câu: Bố rất coi trọng việc học của tôi, thường xuyên kiểm tra bài tập."
+    },
+    {
+      "wordId": "hsk4-L05-30",
+      "tokens": [
+        "我们",
+        "的",
+        "教室",
+        "有",
+        "40",
+        "个",
+        "座位",
+        "。"
+      ],
+      "cloze": "我们的教室有40个＿＿＿。",
+      "answer": "座位",
+      "options": [
+        "座位",
+        "主人",
+        "年龄",
+        "油"
+      ],
+      "explanation": "Điền 座位 (chỗ ngồi) theo cách dùng trong câu: Phòng học của chúng tôi có 40 chỗ ngồi."
+    },
+    {
+      "wordId": "hsk4-L05-31",
+      "tokens": [
+        "大卫",
+        "把",
+        "晚饭",
+        "的",
+        "安排",
+        "告诉",
+        "了",
+        "大家",
+        "。"
+      ],
+      "cloze": "大卫把晚饭的＿＿＿告诉了大家。",
+      "answer": "安排",
+      "options": [
+        "安排",
+        "倒",
+        "煮",
+        "付"
+      ],
+      "explanation": "Điền 安排 (sắp xếp) theo cách dùng trong câu: David đã nói với mọi người về việc sắp xếp bữa tối."
+    },
+    {
+      "wordId": "hsk4-L05-32",
+      "tokens": [
+        "按照",
+        "妈妈",
+        "的",
+        "要求",
+        "，",
+        "我",
+        "每天",
+        "九点",
+        "睡觉",
+        "。"
+      ],
+      "cloze": "＿＿＿妈妈的要求，我每天九点睡觉。",
+      "answer": "按照",
+      "options": [
+        "按照",
+        "至少",
+        "随意",
+        "相同"
+      ],
+      "explanation": "Điền 按照 (dựa theo) theo cách dùng trong câu: Theo yêu cầu của mẹ, ngày nào tôi cũng đi ngủ lúc chín giờ."
+    },
+    {
+      "wordId": "hsk4-L05-33",
+      "tokens": [
+        "不同",
+        "年龄",
+        "的",
+        "人",
+        "喜欢",
+        "做",
+        "的",
+        "事情",
+        "不",
+        "一样",
+        "。"
+      ],
+      "cloze": "不同＿＿＿的人喜欢做的事情不一样。",
+      "answer": "年龄",
+      "options": [
+        "年龄",
+        "油",
+        "汤",
+        "顺序"
+      ],
+      "explanation": "Điền 年龄 (tuổi tác) theo cách dùng trong câu: Người ở những độ tuổi khác nhau thích làm những việc khác nhau."
+    },
+    {
+      "wordId": "hsk4-L05-34",
+      "tokens": [
+        "面对",
+        "家里",
+        "的",
+        "新",
+        "变化",
+        "，",
+        "我们",
+        "都",
+        "不",
+        "知道",
+        "该",
+        "怎么",
+        "做",
+        "。"
+      ],
+      "cloze": "＿＿＿家里的新变化，我们都不知道该怎么做。",
+      "answer": "面对",
+      "options": [
+        "面对",
+        "煮",
+        "倒",
+        "付"
+      ],
+      "explanation": "Điền 面对 (đối diện; đối mặt) theo cách dùng trong câu: Đối diện với những thay đổi mới trong gia đình, chúng tôi không biết phải làm sao."
+    },
+    {
+      "wordId": "hsk4-L05-35",
+      "tokens": [
+        "客人",
+        "来",
+        "了",
+        "，",
+        "主人",
+        "热情",
+        "地",
+        "给",
+        "他们",
+        "倒",
+        "茶",
+        "。"
+      ],
+      "cloze": "客人来了，＿＿＿热情地给他们倒茶。",
+      "answer": "主人",
+      "options": [
+        "主人",
+        "座位",
+        "油",
+        "年龄"
+      ],
+      "explanation": "Điền 主人 (chủ nhà; chủ tiệc) theo cách dùng trong câu: Khách đến, chủ nhà nhiệt tình rót trà cho họ."
+    },
+    {
+      "wordId": "hsk4-L05-36",
+      "tokens": [
+        "等",
+        "爸爸",
+        "回来",
+        "，",
+        "我们",
+        "就",
+        "吃饭",
+        "。"
+      ],
+      "cloze": "＿＿＿爸爸回来，我们就吃饭。",
+      "answer": "等",
+      "options": [
+        "等",
+        "各",
+        "够",
+        "至少"
+      ],
+      "explanation": "Điền 等 (đợi; vân vân) theo cách dùng trong câu: Đợi bố về, chúng ta sẽ ăn cơm."
+    },
+    {
+      "wordId": "hsk4-L05-37",
+      "tokens": [
+        "孩子",
+        "们",
+        "很",
+        "尊重",
+        "家里",
+        "的",
+        "老人",
+        "。"
+      ],
+      "cloze": "孩子们很＿＿＿家里的老人。",
+      "answer": "尊重",
+      "options": [
+        "尊重",
+        "倒",
+        "煮",
+        "付"
+      ],
+      "explanation": "Điền 尊重 (tôn trọng) theo cách dùng trong câu: Các em rất kính trọng người lớn tuổi trong nhà."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "hsk4-L05-G01-Q01",
+      "pointId": "hsk4-L05-G01",
+      "question": "我每天＿＿＿学习两个小时中文。",
+      "options": [
+        "至少",
+        "按照",
+        "面对",
+        "各"
+      ],
+      "answer": "至少",
+      "sentence": "我每天至少学习两个小时中文。",
+      "pinyin": "wǒ měi tiān zhì shǎo xué xí liǎng gè xiǎo shí zhōng wén.",
+      "translation": "Mỗi ngày tôi học tiếng Trung ít nhất hai tiếng.",
+      "explanation": "Ít nhất, không thấp hơn mức tối thiểu."
+    },
+    {
+      "id": "hsk4-L05-G02-Q01",
+      "pointId": "hsk4-L05-G02",
+      "question": "这道菜＿＿＿辣的！",
+      "options": [
+        "够",
+        "各",
+        "等",
+        "至少"
+      ],
+      "answer": "够",
+      "sentence": "这道菜够辣的！",
+      "pinyin": "zhè dào cài gòu là de！",
+      "translation": "Món này cay thật!",
+      "explanation": "Nhấn mạnh mức độ cao hoặc sự đủ về số lượng."
+    },
+    {
+      "id": "hsk4-L05-G03-Q01",
+      "pointId": "hsk4-L05-G03",
+      "question": "大家＿＿＿做各的事。",
+      "options": [
+        "各",
+        "够",
+        "至少",
+        "等"
+      ],
+      "answer": "各",
+      "sentence": "大家各做各的事。",
+      "pinyin": "dà jiā gè zuò gè de shì.",
+      "translation": "Mọi người ai làm việc nấy.",
+      "explanation": "Mỗi người tự làm việc của mình, không ảnh hưởng nhau."
+    },
+    {
+      "id": "hsk4-L05-G04-Q01",
+      "pointId": "hsk4-L05-G04",
+      "question": "＿＿＿爸爸回来，我们就吃饭。",
+      "options": [
+        "等",
+        "各",
+        "够",
+        "至少"
+      ],
+      "answer": "等",
+      "sentence": "等爸爸回来，我们就吃饭。",
+      "pinyin": "děng bàbàhuí lái， wǒ men jiù chī fàn.",
+      "translation": "Đợi bố về, chúng ta sẽ ăn cơm.",
+      "explanation": "Đợi đến khi điều kiện hay thời gian được đáp ứng."
+    }
+  ],
+  "readings": [
+    {
+      "id": "hsk4-L05-R01",
+      "lesson": 5,
+      "title": "Bữa cơm đầu tiên cùng bạn mới",
+      "text": "刚来学校时，老师安排我们和中国同学一起聚餐。主人专门准备了几道中餐，有鱼、鸡蛋和一碗热汤。我看见红色的辣椒，以为每道菜都很辣，不敢动筷子。旁边的同学告诉我，可以先尝一点儿，不必勉强自己。他还请主人把不辣的菜放在我面前。饭后，大家各说各的饮食习惯，发现不同国家的人虽然口味不同，却都重视和朋友一起吃饭的时间。这顿饭让我明白，尊重别人的习惯，比要求大家吃相同的食物更重要。",
+      "pinyin": "gāng lái xué xiào shí ， lǎo shī ān pái wǒ men hé zhōng guó tóng xué yì qǐ jù cān 。 zhǔ rén zhuān mén zhǔn bèi le jǐ dào zhōng cān ， yǒu yú 、 jī dàn hé yī wǎn rè tāng 。 wǒ kàn jiàn hóng sè de là jiāo ， yǐ wéi měi dào cài dōu hěn là ， bù gǎn dòng kuài zi 。 páng biān de tóng xué gào sù wǒ ， kě yǐ xiān cháng yì diǎn ér ， bù bì miǎn qiǎng zì jǐ 。 tā hái qǐng zhǔ rén bǎ bù là de cài fàng zài wǒ miàn qián 。 fàn hòu ， dà jiā gè shuō gè de yǐn shí xí guàn ， fā xiàn bù tóng guó jiā de rén suī rán kǒu wèi bù tóng ， què dōu zhòng shì hé péng yǒu yì qǐ chī fàn de shí jiān 。 zhè dùn fàn ràng wǒ míng bái ， zūn zhòng bié rén de xí guàn ， bǐ yāo qiú dà jiā chī xiàng tóng de shí wù gèng zhòng yào 。",
+      "translation": "Giáo viên sắp xếp chúng tôi ăn cùng bạn Trung Quốc. Chủ tiệc chuẩn bị cá, trứng và canh. Thấy ớt, tôi tưởng món nào cũng cay nên không dám ăn. Bạn bảo thử ít, không cần ép mình, rồi nhờ đặt món không cay trước mặt tôi. Sau bữa ăn mọi người kể thói quen ăn uống. Tôi hiểu tôn trọng khẩu vị quan trọng hơn bắt mọi người ăn giống nhau.",
+      "questions": [
+        {
+          "id": "hsk4-L05-R01-Q01",
+          "kind": "Nội dung",
+          "question": "谁安排了这次聚餐？",
+          "options": [
+            "老师",
+            "房东",
+            "护士",
+            "司机"
+          ],
+          "answer": "老师",
+          "explanation": "Theo đoạn: “老师安排我们和中国同学一起聚餐”. Đáp án phù hợp: “老师”."
+        },
+        {
+          "id": "hsk4-L05-R01-Q02",
+          "kind": "Nội dung",
+          "question": "作者开始为什么不敢吃？",
+          "options": [
+            "以为每道菜都很辣",
+            "觉得所有菜都凉了",
+            "没有找到座位",
+            "主人不让他吃"
+          ],
+          "answer": "以为每道菜都很辣",
+          "explanation": "Theo đoạn: “以为每道菜都很辣”. Đáp án phù hợp: “以为每道菜都很辣”."
+        },
+        {
+          "id": "hsk4-L05-R01-Q03",
+          "kind": "Nội dung",
+          "question": "同学怎样帮助作者？",
+          "options": [
+            "请主人把不辣的菜放到他面前",
+            "让他只喝冷水",
+            "要求他吃完所有辣椒",
+            "让他先付钱"
+          ],
+          "answer": "请主人把不辣的菜放到他面前",
+          "explanation": "Theo đoạn: “把不辣的菜放在我面前”. Đáp án phù hợp: “请主人把不辣的菜放到他面前”."
+        },
+        {
+          "id": "hsk4-L05-R01-Q04",
+          "kind": "Ý chính",
+          "question": "文章主要说明什么？",
+          "options": [
+            "吃饭时应尊重不同的习惯",
+            "所有中餐都非常辣",
+            "聚餐只适合相同年龄的人",
+            "每个人都应该吃一样的菜"
+          ],
+          "answer": "吃饭时应尊重不同的习惯",
+          "explanation": "Theo đoạn: “尊重别人的习惯”. Đáp án phù hợp: “吃饭时应尊重不同的习惯”."
+        },
+        {
+          "id": "hsk4-L05-R01-Q05",
+          "kind": "Suy luận",
+          "question": "作者对这顿饭有什么收获？",
+          "options": [
+            "更理解与朋友相处的方法",
+            "决定再也不吃中餐",
+            "认为朋友不该谈饮食",
+            "学会了种辣椒"
+          ],
+          "answer": "更理解与朋友相处的方法",
+          "explanation": "Theo đoạn: “都重视和朋友一起吃饭的时间”. Đáp án phù hợp: “更理解与朋友相处的方法”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L05-R02",
+      "lesson": 5,
+      "title": "Học nấu món ăn ít dầu",
+      "text": "周末，我请妈妈教我煮午餐。妈妈说，先把材料按照使用的顺序放好，再开始做饭。我想多倒一些油，妈妈提醒我，油够用就行，太多并不健康。等水开了，我们把面条放进去，煮熟以后再加青菜。我尝了一口汤，觉得有点儿咸，于是没有再放盐。最后，我们一共做了两道菜和一碗面。虽然只是普通的午餐，我却很高兴，因为第一次知道了做饭不只是把食物放在一起，还需要耐心和安排。",
+      "pinyin": "zhōu mò ， wǒ qǐng mā mā jiào wǒ zhǔ wǔ cān 。 mā mā shuō ， xiān bǎ cái liào àn zhào shǐ yòng de shùn xù fàng hǎo ， zài kāi shǐ zuò fàn 。 wǒ xiǎng duō dào yī xiē yóu ， mā mā tí xǐng wǒ ， yóu gòu yòng jiù xíng ， tài duō bìng bù jiàn kāng 。 děng shuǐ kāi le ， wǒ men bǎ miàn tiáo fàng jìn qù ， zhǔ shú yǐ hòu zài jiā qīng cài 。 wǒ cháng le yī kǒu tāng ， jué de yǒu diǎn ér xián ， yú shì méi yǒu zài fàng yán 。 zuì hòu ， wǒ men yī gòng zuò le liǎng dào cài hé yī wǎn miàn 。 suī rán zhǐ shì pǔ tōng de wǔ cān ， wǒ què hěn gāo xìng ， yīn wèi dì yī cì zhī dào le zuò fàn bù zhǐ shì bǎ shí wù fàng zài yì qǐ ， hái xū yào nài xīn hé ān pái 。",
+      "translation": "Cuối tuần mẹ dạy tôi nấu bữa trưa. Mẹ bảo xếp nguyên liệu theo thứ tự, chỉ cho lượng dầu vừa đủ. Đợi nước sôi, chúng tôi luộc mì, chín mới cho rau. Nếm thấy canh hơi mặn, tôi không thêm muối. Hai mẹ con làm hai món và một bát mì. Bữa ăn bình thường nhưng tôi vui vì hiểu nấu ăn cần kiên nhẫn và sắp xếp.",
+      "questions": [
+        {
+          "id": "hsk4-L05-R02-Q01",
+          "kind": "Nội dung",
+          "question": "妈妈先让作者做什么？",
+          "options": [
+            "按照使用顺序放好材料",
+            "把所有油倒进去",
+            "先去安排座位",
+            "先付午餐的钱"
+          ],
+          "answer": "按照使用顺序放好材料",
+          "explanation": "Theo đoạn: “把材料按照使用的顺序放好”. Đáp án phù hợp: “按照使用顺序放好材料”."
+        },
+        {
+          "id": "hsk4-L05-R02-Q02",
+          "kind": "Nội dung",
+          "question": "什么时候放面条？",
+          "options": [
+            "水开了以后",
+            "水还没倒进去时",
+            "午餐吃完以后",
+            "青菜放了一个小时以后"
+          ],
+          "answer": "水开了以后",
+          "explanation": "Theo đoạn: “等水开了，我们把面条放进去”. Đáp án phù hợp: “水开了以后”."
+        },
+        {
+          "id": "hsk4-L05-R02-Q03",
+          "kind": "Nội dung",
+          "question": "作者为什么没有再放盐？",
+          "options": [
+            "汤已经有点儿咸",
+            "妈妈不喜欢面条",
+            "没有找到辣椒",
+            "午餐还没有煮熟"
+          ],
+          "answer": "汤已经有点儿咸",
+          "explanation": "Theo đoạn: “觉得有点儿咸”. Đáp án phù hợp: “汤已经有点儿咸”."
+        },
+        {
+          "id": "hsk4-L05-R02-Q04",
+          "kind": "Ý chính",
+          "question": "文章主要介绍什么？",
+          "options": [
+            "第一次学习做午餐的经历",
+            "购买中餐的价格",
+            "聚餐座位的顺序",
+            "各种年龄的饮食差别"
+          ],
+          "answer": "第一次学习做午餐的经历",
+          "explanation": "Theo đoạn: “周末，我请妈妈教我煮午餐”. Đáp án phù hợp: “第一次学习做午餐的经历”."
+        },
+        {
+          "id": "hsk4-L05-R02-Q05",
+          "kind": "Suy luận",
+          "question": "作者明白了什么？",
+          "options": [
+            "做饭也需要安排和耐心",
+            "油越多食物越健康",
+            "普通午餐不值得做",
+            "做菜不需要尝味道"
+          ],
+          "answer": "做饭也需要安排和耐心",
+          "explanation": "Theo đoạn: “还需要耐心和安排”. Đáp án phù hợp: “做饭也需要安排和耐心”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L05-R03",
+      "lesson": 5,
+      "title": "Sắp xếp chỗ ngồi trong bữa tiệc",
+      "text": "公司周五晚上举行一次正式聚餐，小李负责安排座位。他原来觉得大家随意坐就可以，可是同事提醒他，要先了解客人的需要。两位年纪大的客人不喜欢坐在门口，因为那里风大，菜也容易凉。还有一位客人不能吃辣，需要提前告诉厨房。小李按照这些情况重新安排，并请主人先向大家介绍菜的特点。聚餐进行得很顺利，客人都觉得受到尊重。小李发现，好的安排不是让所有人相同，而是多考虑每个人的实际情况。",
+      "pinyin": "gōng sī zhōu wǔ wǎn shàng jǔ xíng yī cì zhèng shì jù cān ， xiǎo lǐ fù zé ān pái zuò wèi 。 tā yuán lái jué de dà jiā suí yì zuò jiù kě yǐ ， kě shì tóng shì tí xǐng tā ， yào xiān liǎo jiě kè rén de xū yào 。 liǎng wèi nián jì dà de kè rén bù xǐ huān zuò zài mén kǒu ， yīn wèi nà lǐ fēng dà ， cài yě róng yì liáng 。 hái yǒu yī wèi kè rén bù néng chī là ， xū yào tí qián gào sù chú fáng 。 xiǎo lǐ àn zhào zhè xiē qíng kuàng chóng xīn ān pái ， bìng qǐng zhǔ rén xiān xiàng dà jiā jiè shào cài de tè diǎn 。 jù cān jìn xíng dé hěn shùn lì ， kè rén dōu jué de shòu dào zūn zhòng 。 xiǎo lǐ fā xiàn ， hǎo de ān pái bú shì ràng suǒ yǒu rén xiāng tóng ， ér shì duō kǎo lǜ měi gè rén de shí jì qíng kuàng 。",
+      "translation": "Tiểu Lý xếp chỗ cho bữa tiệc công ty. Anh định để ngồi tùy ý nhưng được nhắc tìm hiểu nhu cầu khách. Hai người lớn tuổi tránh cửa vì gió và đồ ăn nguội; một người không ăn cay cần báo bếp. Anh điều chỉnh, nhờ chủ tiệc giới thiệu món. Khách thấy được tôn trọng. Anh hiểu sắp xếp tốt là quan tâm hoàn cảnh từng người.",
+      "questions": [
+        {
+          "id": "hsk4-L05-R03-Q01",
+          "kind": "Nội dung",
+          "question": "小李负责什么？",
+          "options": [
+            "安排聚餐座位",
+            "购买公司的产品",
+            "调查市场价格",
+            "给客人挂号"
+          ],
+          "answer": "安排聚餐座位",
+          "explanation": "Theo đoạn: “小李负责安排座位”. Đáp án phù hợp: “安排聚餐座位”."
+        },
+        {
+          "id": "hsk4-L05-R03-Q02",
+          "kind": "Nội dung",
+          "question": "两位年纪大的客人为什么不想坐门口？",
+          "options": [
+            "那里风大",
+            "看不到厨房",
+            "座位不够高",
+            "不喜欢主人"
+          ],
+          "answer": "那里风大",
+          "explanation": "Theo đoạn: “因为那里风大”. Đáp án phù hợp: “那里风大”."
+        },
+        {
+          "id": "hsk4-L05-R03-Q03",
+          "kind": "Nội dung",
+          "question": "有位客人的饮食需要是什么？",
+          "options": [
+            "不能吃辣",
+            "只吃冷汤",
+            "不吃午餐",
+            "必须多放油"
+          ],
+          "answer": "不能吃辣",
+          "explanation": "Theo đoạn: “还有一位客人不能吃辣”. Đáp án phù hợp: “不能吃辣”."
+        },
+        {
+          "id": "hsk4-L05-R03-Q04",
+          "kind": "Ý chính",
+          "question": "文章主要介绍什么？",
+          "options": [
+            "根据客人需要安排聚餐",
+            "如何提高餐厅收费",
+            "为什么公司不该聚餐",
+            "如何按照工资安排座位"
+          ],
+          "answer": "根据客人需要安排聚餐",
+          "explanation": "Theo đoạn: “多考虑每个人的实际情况”. Đáp án phù hợp: “根据客人需要安排聚餐”."
+        },
+        {
+          "id": "hsk4-L05-R03-Q05",
+          "kind": "Suy luận",
+          "question": "客人为什么觉得受到尊重？",
+          "options": [
+            "个人需要被认真考虑",
+            "每个人吃的东西完全相同",
+            "所有人都坐在门口",
+            "主人要求大家吃很多辣椒"
+          ],
+          "answer": "个人需要被认真考虑",
+          "explanation": "Theo đoạn: “小李按照这些情况重新安排”. Đáp án phù hợp: “个人需要被认真考虑”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L05-R04",
+      "lesson": 5,
+      "title": "Gọi món vừa đủ để không lãng phí",
+      "text": "四个朋友周末去饭馆吃中餐。小周怕大家吃不够，一开始想点八道菜。小陈建议先点四道，再要一份汤，如果不够可以接着点。等菜上来，大家发现分量比想象中大得多。他们一边吃一边谈最近的生活，最后四个人都吃饱了，还剩下一点儿。小周请服务员把剩下的食物装好，带回家作为第二天的午餐。这次聚餐花的钱不多，大家却很开心。小周说，下次点菜之前，至少应该先问问菜的分量和朋友的口味。",
+      "pinyin": "sì gè péng yǒu zhōu mò qù fàn guǎn chī zhōng cān 。 xiǎo zhōu pà dà jiā chī bù gòu ， yī kāi shǐ xiǎng diǎn bā dào cài 。 xiǎo chén jiàn yì xiān diǎn sì dào ， zài yào yī fèn tāng ， rú guǒ bù gòu kě yǐ jiē zhe diǎn 。 děng cài shàng lái ， dà jiā fā xiàn fèn liàng bǐ xiǎng xiàng zhōng dà dé duō 。 tā men yī biān chī yī biān tán zuì jìn de shēng huó ， zuì hòu sì gè rén dōu chī bǎo le ， hái shèng xià yì diǎn ér 。 xiǎo zhōu qǐng fú wù yuán bǎ shèng xià de shí wù zhuāng hǎo ， dài huí jiā zuò wéi dì èr tiān de wǔ cān 。 zhè cì jù cān huā de qián bù duō ， dà jiā què hěn kāi xīn 。 xiǎo zhōu shuō ， xià cì diǎn cài zhī qián ， zhì shǎo yīng gāi xiān wèn wèn cài de fèn liàng hé péng yǒu de kǒu wèi 。",
+      "translation": "Bốn người đi ăn. Tiểu Châu sợ thiếu nên muốn gọi tám món; Tiểu Trần đề nghị bốn món và canh trước, thiếu gọi thêm. Khẩu phần lớn, mọi người đều no và còn thừa ít. Tiểu Châu mang phần còn lại về ăn trưa hôm sau. Bữa ăn ít tốn mà vui; anh rút kinh nghiệm nên hỏi lượng món và khẩu vị trước khi gọi.",
+      "questions": [
+        {
+          "id": "hsk4-L05-R04-Q01",
+          "kind": "Nội dung",
+          "question": "小周一开始想点几道菜？",
+          "options": [
+            "八道",
+            "四道",
+            "两道",
+            "一道"
+          ],
+          "answer": "八道",
+          "explanation": "Theo đoạn: “一开始想点八道菜”. Đáp án phù hợp: “八道”."
+        },
+        {
+          "id": "hsk4-L05-R04-Q02",
+          "kind": "Nội dung",
+          "question": "小陈的建议是什么？",
+          "options": [
+            "先点四道，不够再点",
+            "只喝汤不吃菜",
+            "先点十二道菜",
+            "每人自己去煮饭"
+          ],
+          "answer": "先点四道，不够再点",
+          "explanation": "Theo đoạn: “先点四道，再要一份汤”. Đáp án phù hợp: “先点四道，不够再点”."
+        },
+        {
+          "id": "hsk4-L05-R04-Q03",
+          "kind": "Nội dung",
+          "question": "剩下的食物怎么处理？",
+          "options": [
+            "装好带回家",
+            "直接扔掉",
+            "送回厨房再卖",
+            "留在桌上不管"
+          ],
+          "answer": "装好带回家",
+          "explanation": "Theo đoạn: “把剩下的食物装好，带回家”. Đáp án phù hợp: “装好带回家”."
+        },
+        {
+          "id": "hsk4-L05-R04-Q04",
+          "kind": "Ý chính",
+          "question": "文章主要谈什么？",
+          "options": [
+            "根据实际需要点菜",
+            "正式聚餐的座位顺序",
+            "不同年龄的工资",
+            "怎样煮一锅辣汤"
+          ],
+          "answer": "根据实际需要点菜",
+          "explanation": "Theo đoạn: “先问问菜的分量和朋友的口味”. Đáp án phù hợp: “根据实际需要点菜”."
+        },
+        {
+          "id": "hsk4-L05-R04-Q05",
+          "kind": "Suy luận",
+          "question": "这次经历给小周什么提醒？",
+          "options": [
+            "多点菜不一定更合适",
+            "点八道菜才够四个人吃",
+            "聚餐必须花很多钱",
+            "不应该和朋友一起吃饭"
+          ],
+          "answer": "多点菜不一定更合适",
+          "explanation": "Theo đoạn: “大家发现分量比想象中大得多”. Đáp án phù hợp: “多点菜不一定更合适”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L05-R05",
+      "lesson": 5,
+      "title": "Cùng chữ nhưng khác ý",
+      "text": "中文课上，老师在黑板上写了“不怕辣”和“怕不辣”。我觉得这几个字基本相同，意思应该也一样。老师笑着请我们按照字的顺序再读一遍，然后解释，前一句表示能接受辣的食物，后一句却表示希望食物一定要辣。有位同学说，他以前听到朋友讲“怕不辣”，就专门准备了不辣的菜，结果大家都笑了。下课以后，我们一起去吃午餐，各选自己喜欢的口味。我明白了，学习语言不能只认识单个字，还要注意顺序和整个句子的意思。",
+      "pinyin": "zhōng wén kè shàng ， lǎo shī zài hēi bǎn shàng xiě le “ bù pà là ” hé “ pà bù là ”。 wǒ jué de zhè jǐ gè zì jī běn xiàng tóng ， yì si yīng gāi yě yī yàng 。 lǎo shī xiào zhe qǐng wǒ men àn zhào zì de shùn xù zài dú yī biàn ， rán hòu jiě shì ， qián yī jù biǎo shì néng jiē shòu là de shí wù ， hòu yī jù què biǎo shì xī wàng shí wù yí dìng yào là 。 yǒu wèi tóng xué shuō ， tā yǐ qián tīng dào péng yǒu jiǎng “ pà bù là ”， jiù zhuān mén zhǔn bèi le bù là de cài ， jié guǒ dà jiā dōu xiào le 。 xià kè yǐ hòu ， wǒ men yì qǐ qù chī wǔ cān ， gè xuǎn zì jǐ xǐ huān de kǒu wèi 。 wǒ míng bái le ， xué xí yǔ yán bù néng zhǐ rèn shí dān gè zì ， hái yào zhù yì shùn xù hé zhěng gè jù zi de yì si 。",
+      "translation": "Trong giờ học, giáo viên viết “不怕辣” và “怕不辣”. Tôi tưởng cùng chữ thì cùng nghĩa. Cô giải thích câu đầu không sợ cay, câu sau mong món nhất định phải cay. Một bạn từng hiểu nhầm nên chuẩn bị món không cay. Sau giờ học chúng tôi chọn khẩu vị riêng khi ăn trưa. Tôi hiểu học ngôn ngữ cần chú ý thứ tự và ý cả câu.",
+      "questions": [
+        {
+          "id": "hsk4-L05-R05-Q01",
+          "kind": "Nội dung",
+          "question": "作者开始怎样理解两个说法？",
+          "options": [
+            "以为意思一样",
+            "认为一个是汤的名字",
+            "觉得都不能吃辣",
+            "已经完全理解差别"
+          ],
+          "answer": "以为意思一样",
+          "explanation": "Theo đoạn: “意思应该也一样”. Đáp án phù hợp: “以为意思一样”."
+        },
+        {
+          "id": "hsk4-L05-R05-Q02",
+          "kind": "Nội dung",
+          "question": "“不怕辣”表示什么？",
+          "options": [
+            "能接受辣的食物",
+            "害怕所有中餐",
+            "希望菜一定不辣",
+            "不想和朋友吃饭"
+          ],
+          "answer": "能接受辣的食物",
+          "explanation": "Theo đoạn: “前一句表示能接受辣的食物”. Đáp án phù hợp: “能接受辣的食物”."
+        },
+        {
+          "id": "hsk4-L05-R05-Q03",
+          "kind": "Nội dung",
+          "question": "那位同学以前准备了什么菜？",
+          "options": [
+            "不辣的菜",
+            "很咸的汤",
+            "没有煮熟的菜",
+            "八道凉菜"
+          ],
+          "answer": "不辣的菜",
+          "explanation": "Theo đoạn: “专门准备了不辣的菜”. Đáp án phù hợp: “不辣的菜”."
+        },
+        {
+          "id": "hsk4-L05-R05-Q04",
+          "kind": "Ý chính",
+          "question": "文章主要告诉我们什么？",
+          "options": [
+            "字的顺序会影响句子的意思",
+            "学习中文只需要认字",
+            "所有朋友的口味相同",
+            "中餐至少要放八个辣椒"
+          ],
+          "answer": "字的顺序会影响句子的意思",
+          "explanation": "Theo đoạn: “注意顺序和整个句子的意思”. Đáp án phù hợp: “字的顺序会影响句子的意思”."
+        },
+        {
+          "id": "hsk4-L05-R05-Q05",
+          "kind": "Suy luận",
+          "question": "作者以后遇到类似表达应该怎样做？",
+          "options": [
+            "结合顺序理解整句话",
+            "只看其中一个字",
+            "随便改变字的顺序",
+            "不再参加中文课"
+          ],
+          "answer": "结合顺序理解整句话",
+          "explanation": "Theo đoạn: “学习语言不能只认识单个字”. Đáp án phù hợp: “结合顺序理解整句话”."
+        }
+      ],
+      "sourceType": "supplementary"
+    }
+  ],
+  "writing": {
+    "title": "Một bữa ăn đáng nhớ",
+    "prompt": "Hãy viết khoảng 100–150 chữ Hán về một bữa ăn cùng bạn bè, dùng từ chỉ khẩu vị và thể hiện sự tôn trọng thói quen khác nhau.",
+    "suggestedWords": [
+      "聚餐",
+      "辣",
+      "安排",
+      "主人",
+      "尊重"
+    ],
+    "suggestedGrammar": [
+      "至少 + Số lượng / Thời gian",
+      "够……的 / 够 + Động từ"
+    ],
+    "outline": [
+      "Nêu dịp ăn cùng nhau và ai tham gia.",
+      "Mô tả món ăn và khác biệt khẩu vị.",
+      "Nêu cách quan tâm nhau và điều bạn học được.",
+      "Kiểm tra trật tự từ và các cấu trúc ngữ pháp đã học."
+    ],
+    "sample": "周末，我和三个朋友一起聚餐。主人专门安排了几道中餐，还煮了一碗汤。有位朋友不敢吃辣，主人就把不辣的菜放在他面前，让大家各选各的口味。我们没有点太多菜，不够再加，最后每个人都吃饱了。我觉得，好的聚餐不一定要很正式，最重要的是尊重每个人的习惯，让大家都感到舒服。",
+    "samplePinyin": "zhōu mò ， wǒ hé sān gè péng yǒu yì qǐ jù cān 。 zhǔ rén zhuān mén ān pái le jǐ dào zhōng cān ， hái zhǔ le yī wǎn tāng 。 yǒu wèi péng yǒu bù gǎn chī là ， zhǔ rén jiù bǎ bù là de cài fàng zài tā miàn qián ， ràng dà jiā gè xuǎn gè de kǒu wèi 。 wǒ men méi yǒu diǎn tài duō cài ， bù gòu zài jiā ， zuì hòu měi gè rén dōu chī bǎo le 。 wǒ jué de ， hǎo de jù cān bù yí dìng yào hěn zhèng shì ， zuì zhòng yào de shì zūn zhòng měi gè rén de xí guàn ， ràng dà jiā dōu gǎn dào shū fú 。",
+    "translation": "Cuối tuần tôi ăn cùng ba bạn. Chủ tiệc chuẩn bị món Trung và canh. Một bạn không dám ăn cay nên được đặt món không cay trước mặt. Ai chọn khẩu vị người nấy. Chúng tôi gọi vừa đủ, thiếu thêm, cuối cùng đều no. Bữa ăn tốt không nhất thiết trang trọng, quan trọng là tôn trọng thói quen và để mọi người dễ chịu."
+  }
+}

@@ -1,0 +1,521 @@
+{
+  "id": 4,
+  "volume": "upper",
+  "title": "很高兴能帮到你",
+  "subtitle": "Rất vui vì có thể giúp bạn",
+  "words": [
+    {
+      "id": "hsk4-L04-01",
+      "hanzi": "停",
+      "pinyin": "tínɡ",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "dừng; đỗ xe",
+      "example": "下大雨了，我们停一下，雨小了再走。",
+      "examplePinyin": "xià dà yǔ le， wǒ men tíng yī xià， yǔ xiǎo le zài zǒu.",
+      "translation": "Mưa to rồi, chúng ta dừng một lát, khi mưa nhỏ hãy đi tiếp.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L04-02",
+      "hanzi": "交",
+      "pinyin": "jiāo",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "nộp; giao",
+      "example": "我现在要去交作业，你跟我一起去吗？",
+      "examplePinyin": "wǒ xiàn zài yào qù jiāo zuò yè， nǐ gēn wǒ yī qǐ qù ma？",
+      "translation": "Bây giờ tôi đi nộp bài tập, bạn đi cùng không?",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L04-03",
+      "hanzi": "费",
+      "pinyin": "fèi",
+      "sourcePartOfSpeech": "n./v.",
+      "meaning": "phí; tốn",
+      "example": "这里停车每小时收费五块钱。",
+      "examplePinyin": "zhè lǐ tíng chē měi xiǎo shí shōu fèi wǔ kuài qián 。",
+      "translation": "Đỗ xe ở đây thu phí năm tệ mỗi giờ.",
+      "partOfSpeech": "Danh từ / Động từ",
+      "sourceOriginal": {
+        "example": "我现在要去交作业，你跟我一起去吗？",
+        "examplePinyin": "wǒ xiàn zài yào qù jiāo zuò yè， nǐ gēn wǒ yī qǐ qù ma？",
+        "translation": "Bây giờ tôi đi nộp bài tập, bạn đi cùng không?"
+      },
+      "sourceNote": "Đã hiệu chỉnh ví dụ/phiên âm/dịch bị lệch trong tài liệu; bản gốc lưu trong dữ liệu đối chiếu."
+    },
+    {
+      "id": "hsk4-L04-04",
+      "hanzi": "信号",
+      "pinyin": "xìnhào",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "tín hiệu",
+      "example": "红灯是让车停下来的信号。",
+      "examplePinyin": "hóng dēngshìràng chē tíng xià lái de xìn hào.",
+      "translation": "Đèn đỏ là tín hiệu yêu cầu xe dừng lại.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L04-05",
+      "hanzi": "感谢",
+      "pinyin": "ɡǎnxiè",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "cảm ơn",
+      "example": "感谢你这几天对我的照顾。",
+      "examplePinyin": "gǎn xiè nǐ zhè jǐ tiān duì wǒ de zhào gù.",
+      "translation": "Cảm ơn bạn đã chăm sóc tôi những ngày qua.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L04-06",
+      "hanzi": "联系",
+      "pinyin": "liánxì",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "liên hệ",
+      "example": "这两件事之间是有联系的。",
+      "examplePinyin": "zhè liǎng jiàn shì zhī jiān shìyǒu lián xìde.",
+      "translation": "Giữa hai chuyện này có mối liên hệ.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L04-07",
+      "hanzi": "方式",
+      "pinyin": "fānɡshì",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "phương thức",
+      "example": "这些年，人们的生活方式发生了变化。",
+      "examplePinyin": "zhè xiē nián， rén men de shēng huófāngshì fā shēng le biàn huà.",
+      "translation": "Những năm gần đây, lối sống của con người đã thay đổi.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L04-08",
+      "hanzi": "客气",
+      "pinyin": "kèqi",
+      "sourcePartOfSpeech": "v./adj.",
+      "meaning": "khách sáo",
+      "example": "你别客气，随便坐。",
+      "examplePinyin": "nǐ bié kè qì， suí biàn zuò.",
+      "translation": "Bạn đừng khách sáo, cứ ngồi tự nhiên.",
+      "partOfSpeech": "Động từ / Tính từ"
+    },
+    {
+      "id": "hsk4-L04-09",
+      "hanzi": "剩",
+      "pinyin": "shènɡ",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "còn lại",
+      "example": "冰箱里只剩一个苹果了。",
+      "examplePinyin": "bīng xiāng lǐ zhǐ shèng yī gè píng guǒ le.",
+      "translation": "Trong tủ lạnh chỉ còn một quả táo.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L04-10",
+      "hanzi": "提",
+      "pinyin": "tí",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "xách; nhấc",
+      "example": "她早上提着包去上班了。",
+      "examplePinyin": "tā zǎoshàng tí zhe bāo qù shàng bānle.",
+      "translation": "Sáng nay cô ấy xách túi đi làm.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L04-11",
+      "hanzi": "袋子",
+      "pinyin": "dàizi",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "túi",
+      "example": "这个袋子很重，请帮我提一下。",
+      "examplePinyin": "zhè ge dài zi hěn zhòng ， qǐng bāng wǒ tí yī xià 。",
+      "translation": "Chiếc túi này rất nặng, hãy giúp tôi xách một chút.",
+      "partOfSpeech": "Danh từ",
+      "sourceOriginal": {
+        "example": "她早上提着包去上班了。",
+        "examplePinyin": "tā zǎoshàng tí zhe bāo qù shàng bānle.",
+        "translation": "Sáng nay cô ấy xách túi đi làm."
+      },
+      "sourceNote": "Đã hiệu chỉnh ví dụ/phiên âm/dịch bị lệch trong tài liệu; bản gốc lưu trong dữ liệu đối chiếu."
+    },
+    {
+      "id": "hsk4-L04-12",
+      "hanzi": "重",
+      "pinyin": "zhònɡ",
+      "sourcePartOfSpeech": "adj./n.",
+      "meaning": "nặng; trọng lượng",
+      "example": "请帮我看一下，这些苹果有多重。",
+      "examplePinyin": "qǐng bāng wǒ kàn yī xià， zhè xiē píng guǒ yǒu duō zhòng.",
+      "translation": "Bạn giúp tôi xem những quả táo này nặng bao nhiêu.",
+      "partOfSpeech": "Tính từ / Danh từ"
+    },
+    {
+      "id": "hsk4-L04-13",
+      "hanzi": "算",
+      "pinyin": "suàn",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "tính là",
+      "example": "儿子也算个大人了。",
+      "examplePinyin": "ér zǐ yě suàn gè dà rén le.",
+      "translation": "Con trai cũng có thể coi là người lớn rồi.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L04-14",
+      "hanzi": "再说",
+      "pinyin": "zàishuō",
+      "sourcePartOfSpeech": "conj.",
+      "meaning": "hơn nữa; để sau hãy nói",
+      "example": "我不想吃外卖，再说自己做饭更健康。",
+      "examplePinyin": "wǒ bù xiǎng chī wài mài， zài shuō zì jǐ zuò fàn gèng jiàn kāng.",
+      "translation": "Tôi không muốn ăn đồ giao tận nơi, hơn nữa tự nấu sẽ lành mạnh hơn.",
+      "partOfSpeech": "Liên từ"
+    },
+    {
+      "id": "hsk4-L04-15",
+      "hanzi": "之间",
+      "pinyin": "zhījiān",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "giữa",
+      "example": "我和他之间有很多问题。",
+      "examplePinyin": "wǒ hé tā zhī jiān yǒu hěn duō wèn tí.",
+      "translation": "Giữa tôi và anh ấy có nhiều vấn đề.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L04-16",
+      "hanzi": "互相",
+      "pinyin": "hùxiānɡ",
+      "sourcePartOfSpeech": "adv.",
+      "meaning": "lẫn nhau",
+      "example": "同学之间应该互相帮助。",
+      "examplePinyin": "tóng xué zhī jiān yīng gāi hù xiāngbāng zhù.",
+      "translation": "Bạn học nên giúp đỡ lẫn nhau.",
+      "partOfSpeech": "Phó từ"
+    },
+    {
+      "id": "hsk4-L04-17",
+      "hanzi": "辛苦",
+      "pinyin": "xīnkǔ",
+      "sourcePartOfSpeech": "v./adj.",
+      "meaning": "vất vả",
+      "example": "老师辛苦了一天，还在给我们改作业。",
+      "examplePinyin": "lǎo shī xīn kǔ le yī tiān， hái zài gěi wǒ men gǎizuò yè.",
+      "translation": "Thầy giáo vất vả cả ngày rồi mà vẫn đang chấm bài cho chúng tôi.",
+      "partOfSpeech": "Động từ / Tính từ"
+    },
+    {
+      "id": "hsk4-L04-18",
+      "hanzi": "出行",
+      "pinyin": "chūxínɡ",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "đi lại",
+      "example": "最近天气不好，可能会影响出行。",
+      "examplePinyin": "zuì jìn tiān qì bù hǎo， kě néng huì yǐng xiǎng chū xíng.",
+      "translation": "Gần đây thời tiết xấu, có thể ảnh hưởng việc đi lại.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L04-19",
+      "hanzi": "距离",
+      "pinyin": "jùlí",
+      "sourcePartOfSpeech": "n./v.",
+      "meaning": "khoảng cách",
+      "example": "学校和我家的距离很近，走路只要十分钟。",
+      "examplePinyin": "xué xiào hé wǒ jiā de jù líhěn jìn， zǒu lù zhǐ yào shí fēn zhōng.",
+      "translation": "Trường học cách nhà tôi rất gần, đi bộ chỉ mười phút.",
+      "partOfSpeech": "Danh từ / Động từ"
+    },
+    {
+      "id": "hsk4-L04-20",
+      "hanzi": "往往",
+      "pinyin": "wǎnɡwǎnɡ",
+      "sourcePartOfSpeech": "adv.",
+      "meaning": "thường thường",
+      "example": "认真准备的人，往往更容易通过考试。",
+      "examplePinyin": "rèn zhēn zhǔn bèi de rén， wǎng wǎng gèng róng yì tōng guò kǎo shì.",
+      "translation": "Người chuẩn bị nghiêm túc thường dễ vượt qua kỳ thi hơn.",
+      "partOfSpeech": "Phó từ"
+    },
+    {
+      "id": "hsk4-L04-21",
+      "hanzi": "既",
+      "pinyin": "jì",
+      "sourcePartOfSpeech": "adv.",
+      "meaning": "vừa... vừa...",
+      "example": "坐地铁既省钱，又方便。",
+      "examplePinyin": "zuò dì tiě jì shěng qián ， yòu fāng biàn 。",
+      "translation": "Đi tàu điện ngầm vừa tiết kiệm tiền vừa tiện lợi.",
+      "partOfSpeech": "Phó từ",
+      "sourceOriginal": {
+        "example": "最近天气不好，可能会影响出行。",
+        "examplePinyin": "zuì jìn tiān qì bù hǎo， kě néng huì yǐng xiǎng chū xíng.",
+        "translation": "Gần đây thời tiết xấu, có thể ảnh hưởng việc đi lại."
+      },
+      "sourceNote": "Đã hiệu chỉnh ví dụ/phiên âm/dịch bị lệch trong tài liệu; bản gốc lưu trong dữ liệu đối chiếu."
+    },
+    {
+      "id": "hsk4-L04-22",
+      "hanzi": "电动车",
+      "pinyin": "diàndònɡchē",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "xe điện",
+      "example": "我每天骑电动车去上班。",
+      "examplePinyin": "wǒ měi tiān qí diàn dòng chē qù shàng bān.",
+      "translation": "Ngày nào tôi cũng đi xe điện đi làm.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L04-23",
+      "hanzi": "速度",
+      "pinyin": "sùdù",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "tốc độ",
+      "example": "他跑步的速度很快，我追不上他。",
+      "examplePinyin": "tā pǎo bù de sù dù hěn kuài， wǒ zhuī bù shàng tā.",
+      "translation": "Anh ấy chạy rất nhanh, tôi không đuổi kịp.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L04-24",
+      "hanzi": "充电",
+      "pinyin": "chōnɡdiàn",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "sạc điện",
+      "example": "出门前，别忘了给电动车充电。",
+      "examplePinyin": "chū mén qián ， bié wàng le gěi diàn dòng chē chōng diàn 。",
+      "translation": "Trước khi ra ngoài, đừng quên sạc điện cho xe điện.",
+      "partOfSpeech": "Động từ",
+      "sourceOriginal": {
+        "example": "我每天骑电动车去上班。",
+        "examplePinyin": "wǒ měi tiān qí diàn dòng chē qù shàng bān.",
+        "translation": "Ngày nào tôi cũng đi xe điện đi làm."
+      },
+      "sourceNote": "Đã hiệu chỉnh ví dụ/phiên âm/dịch bị lệch trong tài liệu; bản gốc lưu trong dữ liệu đối chiếu."
+    },
+    {
+      "id": "hsk4-L04-25",
+      "hanzi": "流行",
+      "pinyin": "liúxínɡ",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "thịnh hành",
+      "example": "这些年，在网上购物变得很流行。",
+      "examplePinyin": "zhè xiē nián， zài wǎng shàng gòu wùbiàn dé hěn liú xíng.",
+      "translation": "Những năm gần đây, mua sắm trên mạng trở nên rất thịnh hành.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L04-26",
+      "hanzi": "省",
+      "pinyin": "shěnɡ",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "tiết kiệm",
+      "example": "坐地铁比坐出租车省钱多了。",
+      "examplePinyin": "zuò de tiě bǐ zuò chū zū chē shěng qián duō le.",
+      "translation": "Đi tàu điện ngầm tiết kiệm tiền hơn đi taxi nhiều.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L04-27",
+      "hanzi": "力气",
+      "pinyin": "lìqi",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "sức lực",
+      "example": "我今天太累了，没有力气再跑步了。",
+      "examplePinyin": "wǒ jīn tiān tài lèile， méi yǒu lì qì zài pǎo bù le.",
+      "translation": "Hôm nay tôi mệt quá, không còn sức chạy tiếp.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L04-28",
+      "hanzi": "乘客",
+      "pinyin": "chénɡkè",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "hành khách",
+      "example": "这个飞机上的乘客都是去西安的。",
+      "examplePinyin": "zhè gè fēi jīshàng de chéng kè dōu shìqù xī ān de.",
+      "translation": "Hành khách trên máy bay này đều đến Tây An.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L04-29",
+      "hanzi": "购买",
+      "pinyin": "ɡòumǎi",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "mua",
+      "example": "购买一本纸书太贵了，我想买电子书。",
+      "examplePinyin": "gòu mǎi yī běnzhǐshū tài guì le， wǒ xiǎng mǎi diàn zǐ shū.",
+      "translation": "Mua sách giấy đắt quá, tôi muốn mua sách điện tử.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L04-30",
+      "hanzi": "食物",
+      "pinyin": "shíwù",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "thức ăn",
+      "example": "这些食物看起来很好吃。",
+      "examplePinyin": "zhè xiē shí wùkàn qǐ lái hěn hǎo chī.",
+      "translation": "Những món ăn này trông rất ngon.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L04-31",
+      "hanzi": "免费",
+      "pinyin": "miǎnfèi",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "miễn phí",
+      "example": "这家书店的书我们可以免费看。",
+      "examplePinyin": "zhè jiā shū diàn de shū wǒ men kě yǐ miǎn fèi kàn.",
+      "translation": "Chúng tôi có thể đọc sách ở hiệu sách này miễn phí.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L04-32",
+      "hanzi": "早餐",
+      "pinyin": "zǎocān",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "bữa sáng",
+      "example": "我每天早上七点吃早餐。",
+      "examplePinyin": "wǒ měi tiān zǎo shàng qī diǎn chī zǎo cān 。",
+      "translation": "Mỗi sáng tôi ăn sáng lúc bảy giờ.",
+      "partOfSpeech": "Danh từ",
+      "sourceOriginal": {
+        "example": "这家书店的书我们可以免费看。",
+        "examplePinyin": "zhè jiā shū diàn de shū wǒ men kě yǐ miǎn fèi kàn.",
+        "translation": "Chúng tôi có thể đọc sách ở hiệu sách này miễn phí."
+      },
+      "sourceNote": "Đã hiệu chỉnh ví dụ/phiên âm/dịch bị lệch trong tài liệu; bản gốc lưu trong dữ liệu đối chiếu."
+    },
+    {
+      "id": "hsk4-L04-33",
+      "hanzi": "来得及",
+      "pinyin": "láidejí",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "kịp",
+      "example": "别着急，时间还早，咱们来得及。",
+      "examplePinyin": "bié zhe jí， shí jiān hái zǎo， zán men lái dé jí.",
+      "translation": "Đừng lo, vẫn còn sớm, chúng ta còn kịp.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L04-34",
+      "hanzi": "鲜花",
+      "pinyin": "xiānhuā",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "hoa tươi",
+      "example": "这家花店的鲜花特别漂亮。",
+      "examplePinyin": "zhè jiā huā diàn de xiān huā tèbié piào liàng.",
+      "translation": "Hoa tươi của cửa hàng này đặc biệt đẹp.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L04-35",
+      "hanzi": "顺便",
+      "pinyin": "shùnbiàn",
+      "sourcePartOfSpeech": "adv.",
+      "meaning": "tiện thể",
+      "example": "我下午去图书馆看书，顺便帮你借书。",
+      "examplePinyin": "wǒ xià wǔ qù tú shū guǎn kàn shū， shùn biàn bāng nǐ jiè shū.",
+      "translation": "Chiều nay tôi đến thư viện đọc sách, tiện thể mượn sách giúp bạn.",
+      "partOfSpeech": "Phó từ"
+    },
+    {
+      "id": "hsk4-L04-36",
+      "hanzi": "心情",
+      "pinyin": "xīnqínɡ",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "tâm trạng",
+      "example": "今天天气很好，我的心情也很愉快。",
+      "examplePinyin": "jīn tiān tiān qì hěn hǎo， wǒ de xīn qíng yě hěn yú kuài.",
+      "translation": "Hôm nay trời đẹp, tâm trạng tôi cũng rất vui vẻ.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L04-37",
+      "hanzi": "更加",
+      "pinyin": "ɡènɡjiā",
+      "sourcePartOfSpeech": "adv.",
+      "meaning": "càng thêm",
+      "example": "上中学以后，我学习更加努力了。",
+      "examplePinyin": "shàng zhōng xué yǐ hòu， wǒ xué xí gèng jiā nǔ lì le.",
+      "translation": "Sau khi lên cấp hai, tôi học hành chăm chỉ hơn.",
+      "partOfSpeech": "Phó từ"
+    },
+    {
+      "id": "hsk4-L04-38",
+      "hanzi": "愉快",
+      "pinyin": "yúkuài",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "vui vẻ",
+      "example": "今天天气很好，我的心情也很愉快。",
+      "examplePinyin": "jīn tiān tiān qì hěn hǎo， wǒ de xīn qíng yě hěn yú kuài.",
+      "translation": "Hôm nay trời đẹp, tâm trạng tôi cũng rất vui vẻ.",
+      "partOfSpeech": "Tính từ"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "hsk4-L04-G01",
+      "name": "Động từ",
+      "formula": "Động từ + 得/不 + 了",
+      "explanation": "Bổ ngữ khả năng: có thể hoặc không thể thực hiện hành động.",
+      "examples": [
+        {
+          "hanzi": "今天太忙了，我去不了。",
+          "pinyin": "jīntiān tài máng le, wǒ qù bù liǎo.",
+          "translation": "Hôm nay bận quá nên tôi không đi được.",
+          "sourcePinyin": "jīn tiān tài máng le， wǒ qù bù le."
+        }
+      ],
+      "usage": "了 trong bổ ngữ khả năng đọc liǎo: 去得了/去不了.",
+      "note": "Phân biệt 了 liǎo với trợ từ 了 le cuối câu."
+    },
+    {
+      "id": "hsk4-L04-G02",
+      "name": "Lý do 1，再说",
+      "formula": "Lý do 1，再说 + Lý do 2",
+      "explanation": "Bổ sung thêm một lý do hoặc tình huống.",
+      "examples": [
+        {
+          "hanzi": "我不想吃外卖，再说自己做饭更健康。",
+          "pinyin": "wǒ bù xiǎng chī wài mài， zài shuō zì jǐ zuò fàn gèng jiàn kāng.",
+          "translation": "Tôi không muốn ăn đồ giao tận nơi, hơn nữa tự nấu ăn lành mạnh hơn."
+        }
+      ],
+      "usage": "再说 bổ sung lý do thứ hai cho quyết định.",
+      "note": "Không hiểu mọi 再说 là “nói lại”."
+    },
+    {
+      "id": "hsk4-L04-G03",
+      "name": "既……，又/也……",
+      "formula": "既……，又/也……",
+      "explanation": "Vừa… vừa…, diễn tả hai tính chất đồng thời.",
+      "examples": [
+        {
+          "hanzi": "他既聪明，又努力。",
+          "pinyin": "tā jì cōng míng， yòu nǔ lì.",
+          "translation": "Anh ấy vừa thông minh vừa chăm chỉ."
+        }
+      ],
+      "usage": "既 và 又/也 kết hợp hai tính chất song song.",
+      "note": "Các thành phần sau 既 và 又 nên tương ứng."
+    },
+    {
+      "id": "hsk4-L04-G04",
+      "name": "来得及 / 来不及",
+      "formula": "来得及 / 来不及 + Động từ",
+      "explanation": "Còn kịp / không kịp làm việc gì.",
+      "examples": [
+        {
+          "hanzi": "别着急，时间还早，咱们来得及。",
+          "pinyin": "bié zhe jí， shí jiān hái zǎo， zán men lái dé jí.",
+          "translation": "Đừng vội, còn sớm, chúng ta vẫn kịp."
+        }
+      ],
+      "usage": "来得及/来不及 nói thời gian còn đủ hay không.",
+      "note": "Không dùng 来不及 chỉ vì thiếu khả năng hoặc sức lực."
+    }
+  ],
+  "source": "HSK 4 - Thượng - Từ vựng và ngữ pháp theo bài học.docx",
+  "supplementNote": "Bài tập, bài đọc, cách dùng và lưu ý được biên soạn bổ sung; từ vựng và ví dụ ngữ pháp theo tài liệu bạn cung cấp."
+}

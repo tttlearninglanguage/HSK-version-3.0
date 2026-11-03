@@ -1,0 +1,514 @@
+{
+  "id": 6,
+  "volume": "upper",
+  "title": "我陪你去看病",
+  "subtitle": "Tôi đi khám bệnh cùng bạn",
+  "words": [
+    {
+      "id": "hsk4-L06-01",
+      "hanzi": "咳嗽",
+      "pinyin": "késou",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "ho",
+      "example": "你咳嗽得这么厉害，最好去医院看看。",
+      "examplePinyin": "nǐ hāi sòu dé zhè me lì hài， zuì hǎo qù yī yuàn kàn kàn.",
+      "translation": "Bạn ho nặng như thế, tốt nhất nên đến bệnh viện khám.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L06-02",
+      "hanzi": "咳",
+      "pinyin": "ké",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "ho",
+      "example": "他一直咳，晚上也睡不好。",
+      "examplePinyin": "tā yì zhí ké ， wǎn shàng yě shuì bù hǎo 。",
+      "translation": "Anh ấy ho suốt, buổi tối cũng ngủ không ngon.",
+      "partOfSpeech": "Động từ",
+      "sourceOriginal": {
+        "example": "你咳嗽得这么厉害，最好去医院看看。",
+        "examplePinyin": "nǐ hāi sòu dé zhè me lì hài， zuì hǎo qù yī yuàn kàn kàn.",
+        "translation": "Bạn ho nặng như thế, tốt nhất nên đến bệnh viện khám."
+      },
+      "sourceNote": "Đã hiệu chỉnh ví dụ/phiên âm/dịch bị lệch trong tài liệu; bản gốc lưu trong dữ liệu đối chiếu."
+    },
+    {
+      "id": "hsk4-L06-03",
+      "hanzi": "厉害",
+      "pinyin": "lìhɑi",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "dữ dội; nghiêm trọng",
+      "example": "你咳嗽得这么厉害，最好去医院看看。",
+      "examplePinyin": "nǐ hāi sòu dé zhè me lì hài， zuì hǎo qù yī yuàn kàn kàn.",
+      "translation": "Bạn ho nặng như thế, tốt nhất nên đến bệnh viện khám.",
+      "partOfSpeech": "Tính từ"
+    },
+    {
+      "id": "hsk4-L06-04",
+      "hanzi": "严重",
+      "pinyin": "yánzhònɡ",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "nghiêm trọng",
+      "example": "他的病很严重，需要马上住院。",
+      "examplePinyin": "tā de bìng hěn yán zhòng， xū yào mǎ shàng zhù yuàn.",
+      "translation": "Bệnh của anh ấy rất nghiêm trọng, cần nhập viện ngay.",
+      "partOfSpeech": "Tính từ"
+    },
+    {
+      "id": "hsk4-L06-05",
+      "hanzi": "赶快",
+      "pinyin": "ɡǎnkuài",
+      "sourcePartOfSpeech": "adv.",
+      "meaning": "nhanh lên",
+      "example": "时间不早了，你赶快回家吧。",
+      "examplePinyin": "shí jiān bù zǎole， nǐ gǎn kuài huí jiā ba.",
+      "translation": "Muộn rồi, bạn mau về nhà đi.",
+      "partOfSpeech": "Phó từ"
+    },
+    {
+      "id": "hsk4-L06-06",
+      "hanzi": "陪",
+      "pinyin": "péi",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "đi cùng",
+      "example": "谢谢你今天陪我去买药。",
+      "examplePinyin": "xiè xiè nǐ jīn tiān péi wǒ qù mǎi yào.",
+      "translation": "Cảm ơn bạn hôm nay đã đi cùng tôi mua thuốc.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L06-07",
+      "hanzi": "翻译",
+      "pinyin": "fānyì",
+      "sourcePartOfSpeech": "v./n.",
+      "meaning": "phiên dịch; dịch thuật",
+      "example": "我在学习中文，常常需要翻译一些生词。",
+      "examplePinyin": "wǒ zài xué xí zhōng wén， cháng cháng xū yào fānyì yī xiē shēng cí.",
+      "translation": "Tôi đang học tiếng Trung nên thường phải dịch một số từ mới.",
+      "partOfSpeech": "Động từ / Danh từ"
+    },
+    {
+      "id": "hsk4-L06-08",
+      "hanzi": "护士",
+      "pinyin": "hùshi",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "y tá",
+      "example": "护士每天都很忙，要照顾很多病人。",
+      "examplePinyin": "hù shì měi tiān dōu hěn máng， yào zhào gù hěn duō bìng rén.",
+      "translation": "Y tá ngày nào cũng rất bận, phải chăm sóc nhiều bệnh nhân.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L06-09",
+      "hanzi": "表",
+      "pinyin": "biǎo",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "bảng; biểu mẫu",
+      "example": "护士让我在这张表里写上我的信息。",
+      "examplePinyin": "hù shì ràng wǒ zài zhè zhāng biǎo lǐ xiě shàng wǒ de xìn xī.",
+      "translation": "Y tá bảo tôi ghi thông tin vào mẫu đơn này.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L06-10",
+      "hanzi": "性别",
+      "pinyin": "xìnɡbié",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "giới tính",
+      "example": "请在这张表里写上你的姓名和性别。",
+      "examplePinyin": "qǐng zài zhè zhāng biǎo lǐ xiě shàng nǐ de xìng míng hé xìng bié.",
+      "translation": "Hãy ghi tên và giới tính của bạn vào mẫu đơn này.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L06-11",
+      "hanzi": "国籍",
+      "pinyin": "ɡuójí",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "quốc tịch",
+      "example": "请告诉我你的国籍和出生年月。",
+      "examplePinyin": "qǐng gào sù wǒ nǐ de guó jí hé chū shēng nián yuè.",
+      "translation": "Xin cho biết quốc tịch và tháng năm sinh của bạn.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L06-12",
+      "hanzi": "家庭",
+      "pinyin": "jiātínɡ",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "gia đình",
+      "example": "她现在的情况和她的家庭有关系。",
+      "examplePinyin": "tā xiàn zài de qíng kuàng hé tā de jiā tíng yǒu guān xì.",
+      "translation": "Tình hình hiện tại của cô ấy có liên quan đến gia đình.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L06-13",
+      "hanzi": "地址",
+      "pinyin": "dìzhǐ",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "địa chỉ",
+      "example": "请把你的地址写清楚。",
+      "examplePinyin": "qǐng bǎ nǐ de de zhǐ xiě qīng chǔ.",
+      "translation": "Hãy viết rõ địa chỉ của bạn.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L06-14",
+      "hanzi": "挂号",
+      "pinyin": "ɡuàhào",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "đăng ký khám bệnh",
+      "example": "我的耳朵疼，请问挂号时我应该挂什么号？",
+      "examplePinyin": "wǒ de ěr duǒ téng， qǐng wèn guà hào shí wǒ yīng gāi guà shén me hào？",
+      "translation": "Tai tôi đau, xin hỏi khi đăng ký khám tôi nên đăng ký khoa nào?",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L06-15",
+      "hanzi": "排队",
+      "pinyin": "páiduì",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "xếp hàng",
+      "example": "你站到后面去，大家都在排队呢。",
+      "examplePinyin": "nǐ zhàn dào hòu miàn qù， dà jiā dōu zài pái duì ne.",
+      "translation": "Bạn ra phía sau đứng đi, mọi người đều đang xếp hàng.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L06-16",
+      "hanzi": "大厅",
+      "pinyin": "dàtīnɡ",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "sảnh lớn",
+      "example": "医院大厅里有很多人在排队。",
+      "examplePinyin": "yī yuàn dà tīng lǐ yǒu hěn duō rén zài pái duì.",
+      "translation": "Rất nhiều người đang xếp hàng trong sảnh bệnh viện.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L06-17",
+      "hanzi": "偶尔",
+      "pinyin": "ǒu’ěr",
+      "sourcePartOfSpeech": "adv./adj.",
+      "meaning": "thỉnh thoảng",
+      "example": "我平时不喝咖啡，偶尔喝一杯茶。",
+      "examplePinyin": "wǒ píng shí bù hē kā fēi， ǒu ěr hē yī bēichá.",
+      "translation": "Bình thường tôi không uống cà phê, thỉnh thoảng uống một tách trà.",
+      "partOfSpeech": "Phó từ / Tính từ"
+    },
+    {
+      "id": "hsk4-L06-18",
+      "hanzi": "身",
+      "pinyin": "shēn",
+      "sourcePartOfSpeech": "n./m.",
+      "meaning": "thân; cơ thể",
+      "example": "我跑完步以后出了一身汗。",
+      "examplePinyin": "wǒ pǎo wán bù yǐ hòu chū le yī shēn hàn 。",
+      "translation": "Sau khi chạy bộ, tôi toát mồ hôi khắp người.",
+      "partOfSpeech": "Danh từ / Lượng từ",
+      "sourceOriginal": {
+        "example": "他工作很忙，但总能按时完成。",
+        "examplePinyin": "tā gōng zuò hěn máng， dàn zǒngnéng àn shí wán chéng.",
+        "translation": "Anh ấy rất bận việc nhưng luôn hoàn thành đúng giờ."
+      },
+      "sourceNote": "Đã hiệu chỉnh ví dụ/phiên âm/dịch bị lệch trong tài liệu; bản gốc lưu trong dữ liệu đối chiếu."
+    },
+    {
+      "id": "hsk4-L06-19",
+      "hanzi": "结果",
+      "pinyin": "jiéɡuǒ",
+      "sourcePartOfSpeech": "n./conj.",
+      "meaning": "kết quả; hóa ra",
+      "example": "你的检查结果应该出来了吧？",
+      "examplePinyin": "nǐ de jiǎn chá jié guǒ yīng gāi chū lái le ba？",
+      "translation": "Kết quả kiểm tra của bạn chắc đã có rồi nhỉ?",
+      "partOfSpeech": "Danh từ / Liên từ"
+    },
+    {
+      "id": "hsk4-L06-20",
+      "hanzi": "性",
+      "pinyin": "xìnɡ",
+      "sourcePartOfSpeech": "suf.",
+      "meaning": "tính chất",
+      "example": "这辆电动车的安全性很好。",
+      "examplePinyin": "zhè liàng diàn dòng chē de ān quán xìng hěn hǎo.",
+      "translation": "Chiếc xe điện này có độ an toàn rất tốt.",
+      "partOfSpeech": "Hậu tố"
+    },
+    {
+      "id": "hsk4-L06-21",
+      "hanzi": "体温",
+      "pinyin": "tǐwēn",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "thân nhiệt",
+      "example": "我今天有点儿不舒服，体温比平时高。",
+      "examplePinyin": "wǒ jīn tiān yǒu diǎnér bù shū fú， tǐ wēnbǐ píng shí gāo.",
+      "translation": "Hôm nay tôi hơi khó chịu, thân nhiệt cao hơn bình thường.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L06-22",
+      "hanzi": "降",
+      "pinyin": "jiànɡ",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "giảm xuống",
+      "example": "这个手机的价格降了不少。",
+      "examplePinyin": "zhè gè shǒu jīde jià géjiàng le bù shǎo.",
+      "translation": "Giá chiếc điện thoại này đã giảm khá nhiều.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L06-23",
+      "hanzi": "光",
+      "pinyin": "guānɡ",
+      "sourcePartOfSpeech": "adv.",
+      "meaning": "chỉ; đơn thuần",
+      "example": "他光说话了，都没怎么吃饭。",
+      "examplePinyin": "tā guāng shuō huà le， dōu méi zěn me chī fàn.",
+      "translation": "Anh ấy chỉ mải nói chuyện, gần như chẳng ăn gì.",
+      "partOfSpeech": "Phó từ"
+    },
+    {
+      "id": "hsk4-L06-24",
+      "hanzi": "打针",
+      "pinyin": "dǎzhēn",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "tiêm",
+      "example": "护士给我打针的时候，我都不敢看。",
+      "examplePinyin": "hù shì gěi wǒ dǎ zhēn de shí hòu， wǒ dōu bù gǎn kàn.",
+      "translation": "Khi y tá tiêm cho tôi, tôi không dám nhìn.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L06-25",
+      "hanzi": "有效",
+      "pinyin": "yǒuxiào",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "có hiệu quả",
+      "example": "这种药对大多数病人是有效的。",
+      "examplePinyin": "zhè zhǒng yào duì dà duō shù bìng rén shìyǒu xiào de.",
+      "translation": "Loại thuốc này có hiệu quả với đa số bệnh nhân.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L06-26",
+      "hanzi": "按时",
+      "pinyin": "ànshí",
+      "sourcePartOfSpeech": "adv.",
+      "meaning": "đúng giờ",
+      "example": "他工作很忙，但总能按时完成。",
+      "examplePinyin": "tā gōng zuò hěn máng， dàn zǒngnéng àn shí wán chéng.",
+      "translation": "Anh ấy rất bận việc nhưng luôn hoàn thành đúng giờ.",
+      "partOfSpeech": "Phó từ"
+    },
+    {
+      "id": "hsk4-L06-27",
+      "hanzi": "汗",
+      "pinyin": "hàn",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "mồ hôi",
+      "example": "我跑完步以后出了一身汗。",
+      "examplePinyin": "wǒ pǎo wán bù yǐ hòu chū le yī shēn hàn.",
+      "translation": "Sau khi chạy bộ, tôi toát mồ hôi khắp người.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L06-28",
+      "hanzi": "醒",
+      "pinyin": "xǐnɡ",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "tỉnh dậy",
+      "example": "我每天早上七点醒来。",
+      "examplePinyin": "wǒ měi tiān zǎoshàng qī diǎnxǐng lái.",
+      "translation": "Mỗi sáng tôi thức dậy lúc bảy giờ.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L06-29",
+      "hanzi": "感觉",
+      "pinyin": "ɡǎnjué",
+      "sourcePartOfSpeech": "v./n.",
+      "meaning": "cảm thấy; cảm giác",
+      "example": "听完他的话，我心里感觉不太舒服。",
+      "examplePinyin": "tīng wán tā de huà， wǒ xīn lǐ gǎn jué bù tài shū fú.",
+      "translation": "Nghe xong lời anh ấy, trong lòng tôi thấy không thoải mái.",
+      "partOfSpeech": "Động từ / Danh từ"
+    },
+    {
+      "id": "hsk4-L06-30",
+      "hanzi": "低",
+      "pinyin": "dī",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "thấp",
+      "example": "他说话的声音很低，我听不清楚。",
+      "examplePinyin": "tā shuō huà de shēng yīn hěn dī， wǒ tīng bù qīng chǔ.",
+      "translation": "Anh ấy nói rất nhỏ, tôi nghe không rõ.",
+      "partOfSpeech": "Tính từ"
+    },
+    {
+      "id": "hsk4-L06-31",
+      "hanzi": "难受",
+      "pinyin": "nánshòu",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "khó chịu",
+      "example": "听到这个消息，他心里很难受。",
+      "examplePinyin": "tīng dào zhè gè xiāo xī， tā xīn lǐ hěn nán shòu.",
+      "translation": "Nghe tin này, trong lòng anh ấy rất buồn.",
+      "partOfSpeech": "Tính từ"
+    },
+    {
+      "id": "hsk4-L06-32",
+      "hanzi": "通",
+      "pinyin": "tōnɡ",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "thông; hiểu",
+      "example": "她通三种语言呢。",
+      "examplePinyin": "tā tōng sān zhǒng yǔ yán ne.",
+      "translation": "Cô ấy thông thạo ba ngôn ngữ đấy.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L06-33",
+      "hanzi": "过程",
+      "pinyin": "ɡuòchénɡ",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "quá trình",
+      "example": "学习中文的过程很有意思。",
+      "examplePinyin": "xué xí zhōng wén de guò chéng hěn yǒu yì sī.",
+      "translation": "Quá trình học tiếng Trung rất thú vị.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L06-34",
+      "hanzi": "部",
+      "pinyin": "bù",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "bộ; phòng ban",
+      "example": "我们公司一共有五个部。",
+      "examplePinyin": "wǒ men gōng sī yī gòng yǒu wǔ gè bù.",
+      "translation": "Công ty chúng tôi có tổng cộng năm bộ phận.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L06-35",
+      "hanzi": "收费",
+      "pinyin": "shōufèi",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "thu phí",
+      "example": "公园里停车是收费的，一小时五块钱。",
+      "examplePinyin": "gōng yuán lǐ tíng chē shìshōu fèi de， yī xiǎo shí wǔ kuài qián.",
+      "translation": "Đỗ xe trong công viên này có thu phí, năm tệ một giờ.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L06-36",
+      "hanzi": "情况",
+      "pinyin": "qínɡkuànɡ",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "tình huống; tình trạng",
+      "example": "如果发生什么情况，你要第一时间告诉我。",
+      "examplePinyin": "rú guǒ fā shēng shén me qíng kuàng， nǐ yào dìyī shí jiān gào sù wǒ.",
+      "translation": "Nếu có tình huống gì xảy ra, bạn phải báo cho tôi ngay.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L06-37",
+      "hanzi": "好",
+      "pinyin": "hǎo",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "để; nhằm",
+      "example": "你要早点儿告诉我，我好准备。",
+      "examplePinyin": "nǐ yào zǎodiǎnér gào sù wǒ， wǒ hǎo zhǔn bèi.",
+      "translation": "Bạn nên báo cho tôi sớm hơn để tôi còn chuẩn bị.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L06-38",
+      "hanzi": "治疗",
+      "pinyin": "zhìliáo",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "điều trị",
+      "example": "这种病的治疗时间很长。",
+      "examplePinyin": "zhè zhǒng bìng de zhìliáo shí jiān hěn zhǎng.",
+      "translation": "Thời gian điều trị bệnh này rất dài.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L06-39",
+      "hanzi": "步",
+      "pinyin": "bù",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "bước",
+      "example": "别着急，咱们一步一步慢慢来。",
+      "examplePinyin": "bié zhe jí， zán men yī bù yī bù màn màn lái.",
+      "translation": "Đừng vội, chúng ta cứ làm từng bước một.",
+      "partOfSpeech": "Danh từ"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "hsk4-L06-G01",
+      "name": "Động từ",
+      "formula": "Động từ + 得 + 厉害",
+      "explanation": "Biểu đạt mức độ mạnh hoặc nghiêm trọng.",
+      "examples": [
+        {
+          "hanzi": "你咳嗽得这么厉害，最好去医院看看。",
+          "pinyin": "nǐ késou de zhème lìhai, zuìhǎo qù yīyuàn kànkan.",
+          "translation": "Bạn ho nặng như vậy, tốt nhất nên đến bệnh viện khám.",
+          "sourcePinyin": "nǐ hāi sòu dé zhè me lì hài， zuì hǎo qù yī yuàn kàn kàn."
+        }
+      ],
+      "usage": "得 nối động từ với mức độ, như 咳嗽得厉害.",
+      "note": "Không nhầm 得 với 的 đứng trước danh từ."
+    },
+    {
+      "id": "hsk4-L06-G02",
+      "name": "（没）有什么（好）+ Động từ",
+      "formula": "（没）有什么（好）+ Động từ + 的",
+      "explanation": "Nêu điều không cần thiết hoặc không đáng phải làm.",
+      "examples": [
+        {
+          "hanzi": "这没什么好担心的。",
+          "pinyin": "zhè méi shén me hǎo dān xīn de.",
+          "translation": "Chuyện này không có gì đáng lo."
+        }
+      ],
+      "usage": "没什么好……的 cho biết không cần lo hoặc làm việc ấy.",
+      "note": "Chọn động từ phù hợp ngữ cảnh, không ghép máy móc."
+    },
+    {
+      "id": "hsk4-L06-G03",
+      "name": "偶尔",
+      "formula": "偶尔 + Động từ",
+      "explanation": "Thỉnh thoảng, một hành động xảy ra với tần suất thấp.",
+      "examples": [
+        {
+          "hanzi": "我平时不喝咖啡，偶尔喝一杯茶。",
+          "pinyin": "wǒ píng shí bù hē kā fēi， ǒu ěr hē yī bēichá.",
+          "translation": "Bình thường tôi không uống cà phê, thỉnh thoảng uống một tách trà."
+        }
+      ],
+      "usage": "偶尔 dùng cho hành động ít xảy ra.",
+      "note": "Không dùng 偶尔 cùng 每天 để nói cùng một tần suất."
+    },
+    {
+      "id": "hsk4-L06-G04",
+      "name": "Hành động 1，……好",
+      "formula": "Hành động 1，……好 + Hành động 2",
+      "explanation": "Hành động ở vế sau là mục đích của vế trước.",
+      "examples": [
+        {
+          "hanzi": "你要早点儿告诉我，我好准备。",
+          "pinyin": "nǐ yào zǎodiǎnér gào sù wǒ， wǒ hǎo zhǔn bèi.",
+          "translation": "Bạn nên báo sớm để tôi còn chuẩn bị."
+        }
+      ],
+      "usage": "好 ở vế sau nghĩa là “để/nhằm”, nói mục đích.",
+      "note": "Phân biệt 好 chỉ mục đích với 好 “tốt”."
+    }
+  ],
+  "source": "HSK 4 - Thượng - Từ vựng và ngữ pháp theo bài học.docx",
+  "supplementNote": "Bài tập, bài đọc, cách dùng và lưu ý được biên soạn bổ sung; từ vựng và ví dụ ngữ pháp theo tài liệu bạn cung cấp."
+}

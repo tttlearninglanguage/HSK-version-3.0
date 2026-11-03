@@ -1,0 +1,1233 @@
+{
+  "lesson": 9,
+  "sourceType": "supplementary",
+  "vocabulary": [
+    {
+      "wordId": "hsk4-L09-01",
+      "tokens": [
+        "祝你好运",
+        "。"
+      ],
+      "cloze": "＿＿＿你好运。",
+      "answer": "祝",
+      "options": [
+        "祝",
+        "经营",
+        "错过",
+        "理解"
+      ],
+      "explanation": "Điền 祝 (chúc) theo cách dùng trong câu: Chúc bạn may mắn."
+    },
+    {
+      "wordId": "hsk4-L09-02",
+      "tokens": [
+        "送",
+        "你",
+        "一块",
+        "巧克力",
+        "。"
+      ],
+      "cloze": "送你一块＿＿＿。",
+      "answer": "巧克力",
+      "options": [
+        "巧克力",
+        "责任",
+        "性格",
+        "日子"
+      ],
+      "explanation": "Điền 巧克力 (sô-cô-la) theo cách dùng trong câu: Tặng bạn một thanh sô-cô-la."
+    },
+    {
+      "wordId": "hsk4-L09-03",
+      "tokens": [
+        "我",
+        "内心",
+        "很",
+        "感动",
+        "。"
+      ],
+      "cloze": "我内心很＿＿＿。",
+      "answer": "感动",
+      "options": [
+        "感动",
+        "幽默",
+        "实在",
+        "共同"
+      ],
+      "explanation": "Điền 感动 (cảm động; làm cảm động) theo cách dùng trong câu: Trong lòng tôi rất xúc động."
+    },
+    {
+      "wordId": "hsk4-L09-04",
+      "tokens": [
+        "这个",
+        "夜晚",
+        "很",
+        "浪漫",
+        "。"
+      ],
+      "cloze": "这个夜晚很＿＿＿。",
+      "answer": "浪漫",
+      "options": [
+        "浪漫",
+        "负责",
+        "共同",
+        "从来"
+      ],
+      "explanation": "Điền 浪漫 (lãng mạn) theo cách dùng trong câu: Buổi tối này rất lãng mạn."
+    },
+    {
+      "wordId": "hsk4-L09-05",
+      "tokens": [
+        "小王",
+        "是",
+        "个",
+        "幽默",
+        "的",
+        "人",
+        "。"
+      ],
+      "cloze": "小王是个＿＿＿的人。",
+      "answer": "幽默",
+      "options": [
+        "幽默",
+        "负责",
+        "共同",
+        "从来"
+      ],
+      "explanation": "Điền 幽默 (hài hước) theo cách dùng trong câu: Tiểu Vương là người hài hước."
+    },
+    {
+      "wordId": "hsk4-L09-06",
+      "tokens": [
+        "我们",
+        "要",
+        "有",
+        "耐心",
+        "。"
+      ],
+      "cloze": "我们要有＿＿＿。",
+      "answer": "耐心",
+      "options": [
+        "耐心",
+        "性格",
+        "巧克力",
+        "印象"
+      ],
+      "explanation": "Điền 耐心 (kiên nhẫn; lòng kiên nhẫn) theo cách dùng trong câu: Chúng ta cần có kiên nhẫn."
+    },
+    {
+      "wordId": "hsk4-L09-07",
+      "tokens": [
+        "这",
+        "本书",
+        "很",
+        "吸引",
+        "我",
+        "。"
+      ],
+      "cloze": "这本书很＿＿＿我。",
+      "answer": "吸引",
+      "options": [
+        "吸引",
+        "支持",
+        "错过",
+        "经营"
+      ],
+      "explanation": "Điền 吸引 (thu hút) theo cách dùng trong câu: Cuốn sách này rất thu hút tôi."
+    },
+    {
+      "wordId": "hsk4-L09-08",
+      "tokens": [
+        "当时",
+        "天气",
+        "不好",
+        "。"
+      ],
+      "cloze": "＿＿＿天气不好。",
+      "answer": "当时",
+      "options": [
+        "当时",
+        "共同",
+        "对方",
+        "实在"
+      ],
+      "explanation": "Điền 当时 (lúc đó) theo cách dùng trong câu: Khi đó thời tiết không tốt."
+    },
+    {
+      "wordId": "hsk4-L09-09",
+      "tokens": [
+        "我",
+        "错过",
+        "公交车",
+        "了",
+        "。"
+      ],
+      "cloze": "我＿＿＿公交车了。",
+      "answer": "错过",
+      "options": [
+        "错过",
+        "经营",
+        "产生",
+        "理解"
+      ],
+      "explanation": "Điền 错过 (bỏ lỡ) theo cách dùng trong câu: Tôi bị lỡ xe buýt rồi."
+    },
+    {
+      "wordId": "hsk4-L09-10",
+      "tokens": [
+        "他",
+        "是",
+        "幸运",
+        "的",
+        "人",
+        "。"
+      ],
+      "cloze": "他是＿＿＿的人。",
+      "answer": "幸运",
+      "options": [
+        "幸运",
+        "负责",
+        "共同",
+        "从来"
+      ],
+      "explanation": "Điền 幸运 (may mắn) theo cách dùng trong câu: Anh ấy là người may mắn."
+    },
+    {
+      "wordId": "hsk4-L09-11",
+      "tokens": [
+        "我",
+        "感到",
+        "很",
+        "幸福",
+        "。"
+      ],
+      "cloze": "我感到很＿＿＿。",
+      "answer": "幸福",
+      "options": [
+        "幸福",
+        "共同",
+        "负责",
+        "从来"
+      ],
+      "explanation": "Điền 幸福 (hạnh phúc) theo cách dùng trong câu: Tôi cảm thấy rất hạnh phúc."
+    },
+    {
+      "wordId": "hsk4-L09-12",
+      "tokens": [
+        "尽管",
+        "很",
+        "忙",
+        "，",
+        "但是",
+        "我",
+        "还要",
+        "学习",
+        "。"
+      ],
+      "cloze": "＿＿＿很忙，但是我还要学习。",
+      "answer": "尽管",
+      "options": [
+        "尽管",
+        "尤其",
+        "从来",
+        "共同"
+      ],
+      "explanation": "Điền 尽管 (mặc dù) theo cách dùng trong câu: Dù bận nhưng tôi vẫn phải học."
+    },
+    {
+      "wordId": "hsk4-L09-13",
+      "tokens": [
+        "他",
+        "的",
+        "性格",
+        "很",
+        "好",
+        "。"
+      ],
+      "cloze": "他的＿＿＿很好。",
+      "answer": "性格",
+      "options": [
+        "性格",
+        "巧克力",
+        "责任",
+        "日子"
+      ],
+      "explanation": "Điền 性格 (tính cách) theo cách dùng trong câu: Tính cách anh ấy rất tốt."
+    },
+    {
+      "wordId": "hsk4-L09-14",
+      "tokens": [
+        "我们",
+        "俩",
+        "有",
+        "共同",
+        "的",
+        "爱好",
+        "。"
+      ],
+      "cloze": "我们俩有＿＿＿的爱好。",
+      "answer": "共同",
+      "options": [
+        "共同",
+        "实在",
+        "幽默",
+        "阳光"
+      ],
+      "explanation": "Điền 共同 (chung) theo cách dùng trong câu: Hai chúng tôi có sở thích chung."
+    },
+    {
+      "wordId": "hsk4-L09-15",
+      "tokens": [
+        "他",
+        "对",
+        "工作",
+        "很",
+        "负责",
+        "任",
+        "。"
+      ],
+      "cloze": "他对工作很负＿＿＿。",
+      "answer": "责任",
+      "options": [
+        "责任",
+        "性格",
+        "巧克力",
+        "日子"
+      ],
+      "explanation": "Điền 责任 (trách nhiệm) theo cách dùng trong câu: Anh ấy rất có trách nhiệm với công việc."
+    },
+    {
+      "wordId": "hsk4-L09-16",
+      "tokens": [
+        "朋友",
+        "之间",
+        "要",
+        "相互",
+        "帮助",
+        "。"
+      ],
+      "cloze": "朋友之间要＿＿＿帮助。",
+      "answer": "相互",
+      "options": [
+        "相互",
+        "共同",
+        "尽管",
+        "尤其"
+      ],
+      "explanation": "Điền 相互 (lẫn nhau) theo cách dùng trong câu: Bạn bè cần giúp đỡ lẫn nhau."
+    },
+    {
+      "wordId": "hsk4-L09-17",
+      "tokens": [
+        "朋友",
+        "之间",
+        "应该",
+        "相互理解",
+        "。"
+      ],
+      "cloze": "朋友之间应该相互＿＿＿。",
+      "answer": "理解",
+      "options": [
+        "理解",
+        "产生",
+        "经营",
+        "吸引"
+      ],
+      "explanation": "Điền 理解 (thấu hiểu) theo cách dùng trong câu: Bạn bè nên thấu hiểu lẫn nhau."
+    },
+    {
+      "wordId": "hsk4-L09-18",
+      "tokens": [
+        "朋友",
+        "们",
+        "都",
+        "很",
+        "支持",
+        "我",
+        "。"
+      ],
+      "cloze": "朋友们都很＿＿＿我。",
+      "answer": "支持",
+      "options": [
+        "支持",
+        "经营",
+        "产生",
+        "错过"
+      ],
+      "explanation": "Điền 支持 (ủng hộ) theo cách dùng trong câu: Bạn bè đều rất ủng hộ tôi."
+    },
+    {
+      "wordId": "hsk4-L09-19",
+      "tokens": [
+        "她",
+        "给",
+        "我",
+        "留下",
+        "了",
+        "好",
+        "印象",
+        "。"
+      ],
+      "cloze": "她给我留下了好＿＿＿。",
+      "answer": "印象",
+      "options": [
+        "印象",
+        "责任",
+        "日子",
+        "巧克力"
+      ],
+      "explanation": "Điền 印象 (ấn tượng) theo cách dùng trong câu: Cô ấy để lại cho tôi ấn tượng tốt."
+    },
+    {
+      "wordId": "hsk4-L09-20",
+      "tokens": [
+        "他",
+        "是",
+        "个",
+        "实在",
+        "人",
+        "。"
+      ],
+      "cloze": "他是个＿＿＿人。",
+      "answer": "实在",
+      "options": [
+        "实在",
+        "巧克力",
+        "责任",
+        "日子"
+      ],
+      "explanation": "Điền 实在 (thật thà; thật sự) theo cách dùng trong câu: Anh ấy là người thật thà."
+    },
+    {
+      "wordId": "hsk4-L09-21",
+      "tokens": [
+        "她",
+        "的",
+        "性格",
+        "很",
+        "阳光",
+        "。"
+      ],
+      "cloze": "她的性格很＿＿＿。",
+      "answer": "阳光",
+      "options": [
+        "阳光",
+        "实在",
+        "共同",
+        "负责"
+      ],
+      "explanation": "Điền 阳光 (ánh nắng; tươi sáng) theo cách dùng trong câu: Tính cách cô ấy rất cởi mở, tích cực."
+    },
+    {
+      "wordId": "hsk4-L09-22",
+      "tokens": [
+        "他",
+        "负责",
+        "这个",
+        "工作",
+        "。"
+      ],
+      "cloze": "他＿＿＿这个工作。",
+      "answer": "负责",
+      "options": [
+        "负责",
+        "产生",
+        "错过",
+        "祝"
+      ],
+      "explanation": "Điền 负责 (có trách nhiệm) theo cách dùng trong câu: Anh ấy phụ trách công việc này."
+    },
+    {
+      "wordId": "hsk4-L09-23",
+      "tokens": [
+        "他",
+        "吃饭",
+        "很",
+        "积极",
+        "。"
+      ],
+      "cloze": "他吃饭很＿＿＿。",
+      "answer": "积极",
+      "options": [
+        "积极",
+        "巧克力",
+        "责任",
+        "日子"
+      ],
+      "explanation": "Điền 积极 (tích cực) theo cách dùng trong câu: Anh ấy rất nhiệt tình trong chuyện ăn uống."
+    },
+    {
+      "wordId": "hsk4-L09-24",
+      "tokens": [
+        "此人",
+        "很",
+        "聪明",
+        "。"
+      ],
+      "cloze": "＿＿＿人很聪明。",
+      "answer": "此",
+      "options": [
+        "此",
+        "对方",
+        "共同",
+        "从来"
+      ],
+      "explanation": "Điền 此 (này) theo cách dùng trong câu: Người này rất thông minh."
+    },
+    {
+      "wordId": "hsk4-L09-25",
+      "tokens": [
+        "从此",
+        "我们",
+        "成为",
+        "好",
+        "朋友",
+        "。"
+      ],
+      "cloze": "＿＿＿我们成为好朋友。",
+      "answer": "从此",
+      "options": [
+        "从此",
+        "尤其",
+        "尽管",
+        "共同"
+      ],
+      "explanation": "Điền 从此 (từ đó) theo cách dùng trong câu: Từ đó chúng tôi trở thành bạn tốt."
+    },
+    {
+      "wordId": "hsk4-L09-26",
+      "tokens": [
+        "我们",
+        "产生",
+        "了",
+        "新",
+        "想法",
+        "。"
+      ],
+      "cloze": "我们＿＿＿了新想法。",
+      "answer": "产生",
+      "options": [
+        "产生",
+        "经营",
+        "错过",
+        "祝"
+      ],
+      "explanation": "Điền 产生 (nảy sinh; tạo ra) theo cách dùng trong câu: Chúng tôi nảy ra ý tưởng mới."
+    },
+    {
+      "wordId": "hsk4-L09-27",
+      "tokens": [
+        "爱情",
+        "让",
+        "生活",
+        "更",
+        "幸福",
+        "。"
+      ],
+      "cloze": "＿＿＿让生活更幸福。",
+      "answer": "爱情",
+      "options": [
+        "爱情",
+        "友情",
+        "责任",
+        "印象"
+      ],
+      "explanation": "Điền 爱情 (tình yêu) theo cách dùng trong câu: Tình yêu khiến cuộc sống hạnh phúc hơn."
+    },
+    {
+      "wordId": "hsk4-L09-28",
+      "tokens": [
+        "同学",
+        "之间",
+        "要",
+        "互相帮助",
+        "。"
+      ],
+      "cloze": "同学之＿＿＿要互相帮助。",
+      "answer": "间",
+      "options": [
+        "间",
+        "份",
+        "此",
+        "从来"
+      ],
+      "explanation": "Điền 间 (khoảng; giữa) theo cách dùng trong câu: Bạn học nên giúp đỡ nhau."
+    },
+    {
+      "wordId": "hsk4-L09-29",
+      "tokens": [
+        "友情",
+        "对",
+        "我",
+        "很",
+        "重要",
+        "。"
+      ],
+      "cloze": "＿＿＿对我很重要。",
+      "answer": "友情",
+      "options": [
+        "友情",
+        "性格",
+        "日子",
+        "印象"
+      ],
+      "explanation": "Điền 友情 (tình bạn) theo cách dùng trong câu: Tình bạn rất quan trọng đối với tôi."
+    },
+    {
+      "wordId": "hsk4-L09-30",
+      "tokens": [
+        "我们",
+        "有着",
+        "美好",
+        "的",
+        "回忆",
+        "。"
+      ],
+      "cloze": "我们有着＿＿＿的回忆。",
+      "answer": "美好",
+      "options": [
+        "美好",
+        "负责",
+        "共同",
+        "从来"
+      ],
+      "explanation": "Điền 美好 (tốt đẹp) theo cách dùng trong câu: Chúng tôi có những kỷ niệm đẹp."
+    },
+    {
+      "wordId": "hsk4-L09-31",
+      "tokens": [
+        "人生",
+        "会",
+        "遇到",
+        "很多",
+        "事情",
+        "。"
+      ],
+      "cloze": "＿＿＿会遇到很多事情。",
+      "answer": "人生",
+      "options": [
+        "人生",
+        "巧克力",
+        "对方",
+        "责任"
+      ],
+      "explanation": "Điền 人生 (cuộc đời) theo cách dùng trong câu: Trong đời người sẽ gặp nhiều chuyện."
+    },
+    {
+      "wordId": "hsk4-L09-32",
+      "tokens": [
+        "这部",
+        "电影",
+        "很",
+        "精彩",
+        "。"
+      ],
+      "cloze": "这部电影很＿＿＿。",
+      "answer": "精彩",
+      "options": [
+        "精彩",
+        "负责",
+        "共同",
+        "从来"
+      ],
+      "explanation": "Điền 精彩 (đặc sắc) theo cách dùng trong câu: Bộ phim này rất đặc sắc."
+    },
+    {
+      "wordId": "hsk4-L09-33",
+      "tokens": [
+        "我们",
+        "很",
+        "重视",
+        "这份",
+        "感情",
+        "。"
+      ],
+      "cloze": "我们很重视这份＿＿＿。",
+      "answer": "感情",
+      "options": [
+        "感情",
+        "性格",
+        "责任",
+        "日子"
+      ],
+      "explanation": "Điền 感情 (tình cảm) theo cách dùng trong câu: Chúng tôi rất coi trọng tình cảm này."
+    },
+    {
+      "wordId": "hsk4-L09-34",
+      "tokens": [
+        "我",
+        "和",
+        "朋友",
+        "感情",
+        "很深",
+        "。"
+      ],
+      "cloze": "我和朋友感情很＿＿＿。",
+      "answer": "深",
+      "options": [
+        "深",
+        "共同",
+        "负责",
+        "从来"
+      ],
+      "explanation": "Điền 深 (sâu sắc) theo cách dùng trong câu: Tôi và bạn tôi có tình cảm rất sâu sắc."
+    },
+    {
+      "wordId": "hsk4-L09-35",
+      "tokens": [
+        "他",
+        "经营",
+        "一家",
+        "小店",
+        "。"
+      ],
+      "cloze": "他＿＿＿一家小店。",
+      "answer": "经营",
+      "options": [
+        "经营",
+        "产生",
+        "错过",
+        "祝"
+      ],
+      "explanation": "Điền 经营 (quản lý; vun đắp) theo cách dùng trong câu: Anh ấy kinh doanh một cửa hàng nhỏ."
+    },
+    {
+      "wordId": "hsk4-L09-36",
+      "tokens": [
+        "我们",
+        "要",
+        "相信",
+        "对方",
+        "。"
+      ],
+      "cloze": "我们要相信＿＿＿。",
+      "answer": "对方",
+      "options": [
+        "对方",
+        "共同",
+        "尤其",
+        "从来"
+      ],
+      "explanation": "Điền 对方 (đối phương) theo cách dùng trong câu: Chúng ta phải tin tưởng đối phương."
+    },
+    {
+      "wordId": "hsk4-L09-37",
+      "tokens": [
+        "我",
+        "想",
+        "知道",
+        "你",
+        "的",
+        "感受",
+        "。"
+      ],
+      "cloze": "我想知道你的＿＿＿。",
+      "answer": "感受",
+      "options": [
+        "感受",
+        "责任",
+        "巧克力",
+        "日子"
+      ],
+      "explanation": "Điền 感受 (cảm nhận) theo cách dùng trong câu: Tôi muốn biết cảm nhận của bạn."
+    },
+    {
+      "wordId": "hsk4-L09-38",
+      "tokens": [
+        "我",
+        "尤其",
+        "喜欢",
+        "读书",
+        "。"
+      ],
+      "cloze": "我＿＿＿喜欢读书。",
+      "answer": "尤其",
+      "options": [
+        "尤其",
+        "巧克力",
+        "责任",
+        "日子"
+      ],
+      "explanation": "Điền 尤其 (đặc biệt là) theo cách dùng trong câu: Tôi đặc biệt thích đọc sách."
+    },
+    {
+      "wordId": "hsk4-L09-39",
+      "tokens": [
+        "好日子",
+        "马上",
+        "就",
+        "到",
+        "了",
+        "。"
+      ],
+      "cloze": "好＿＿＿马上就到了。",
+      "answer": "日子",
+      "options": [
+        "日子",
+        "性格",
+        "责任",
+        "对方"
+      ],
+      "explanation": "Điền 日子 (ngày; cuộc sống) theo cách dùng trong câu: Ngày tốt đẹp sắp đến rồi."
+    },
+    {
+      "wordId": "hsk4-L09-40",
+      "tokens": [
+        "我",
+        "从来",
+        "没吃过",
+        "北京烤鸭",
+        "。"
+      ],
+      "cloze": "我＿＿＿没吃过北京烤鸭。",
+      "answer": "从来",
+      "options": [
+        "从来",
+        "共同",
+        "尽管",
+        "尤其"
+      ],
+      "explanation": "Điền 从来 (từ trước đến nay) theo cách dùng trong câu: Tôi chưa từng ăn vịt quay Bắc Kinh."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "hsk4-L09-G01-Q01",
+      "pointId": "hsk4-L09-G01",
+      "question": "我＿＿＿说你也懂我在想什么。",
+      "options": [
+        "不",
+        "把",
+        "被",
+        "从"
+      ],
+      "answer": "不",
+      "sentence": "我不说你也懂我在想什么。",
+      "pinyin": "wǒ bù shuō nǐ yě dǒng wǒ zài xiǎng shén me.",
+      "translation": "Không cần tôi nói bạn cũng hiểu tôi đang nghĩ gì.",
+      "explanation": "Ngay cả khi không thực hiện hành động thì kết quả vẫn xảy ra."
+    },
+    {
+      "id": "hsk4-L09-G02-Q01",
+      "pointId": "hsk4-L09-G02",
+      "question": "他们＿＿＿性格不同，但是有很多共同爱好。",
+      "options": [
+        "尽管",
+        "尤其",
+        "从来",
+        "共同"
+      ],
+      "answer": "尽管",
+      "sentence": "他们尽管性格不同，但是有很多共同爱好。",
+      "pinyin": "tā men jǐn guǎn xìng gébù tóng， dàn shìyǒu hěn duō gòng tóng ài hǎo.",
+      "translation": "Mặc dù tính cách khác nhau, họ vẫn có nhiều sở thích chung.",
+      "explanation": "Mặc dù… nhưng…, thể hiện ý tương phản."
+    }
+  ],
+  "readings": [
+    {
+      "id": "hsk4-L09-R01",
+      "lesson": 9,
+      "title": "Tình bạn bắt đầu từ một lần lỡ xe",
+      "text": "上大学的第一天，我因为不熟悉路线，错过了去学校的公交车。当时我站在车站十分着急，一个小伙子主动过来问需不需要帮助。他耐心地告诉我另一种走法，还陪我走到地铁站。后来在教室里，我发现他竟然是自己的同学。从此，我们成了朋友。他性格阳光又幽默，我却比较安静，尽管如此，我们有很多共同爱好，经常一起读书和跑步。我一直记得第一次见面时的感受。真正吸引人的，不只是说了多少好听的话，更是愿意在需要时伸出手。",
+      "pinyin": "shàng dà xué de dì yī tiān ， wǒ yīn wèi bù shú xī lù xiàn ， cuò guò le qù xué xiào de gōng jiāo chē 。 dāng shí wǒ zhàn zài chē zhàn shí fēn zháo jí ， yí gè xiǎo huǒ zi zhǔ dòng guò lái wèn xū bù xū yào bāng zhù 。 tā nài xīn dì gào sù wǒ lìng yī zhǒng zǒu fǎ ， hái péi wǒ zǒu dào dì tiě zhàn 。 hòu lái zài jiào shì lǐ ， wǒ fā xiàn tā jìng rán shì zì jǐ de tóng xué 。 cóng cǐ ， wǒ men chéng le péng yǒu 。 tā xìng gé yáng guāng yòu yōu mò ， wǒ què bǐ jiào ān jìng ， jǐn guǎn rú cǐ ， wǒ men yǒu hěn duō gòng tóng ài hào ， jīng cháng yì qǐ dú shū hé pǎo bù 。 wǒ yì zhí jì de dì yī cì jiàn miàn shí de gǎn shòu 。 zhēn zhèng xī yǐn rén de ， bù zhǐ shì shuō le duō shǎo hǎo tīng de huà ， gèng shì yuàn yì zài xū yào shí shēn chū shǒu 。",
+      "translation": "Ngày đầu đại học tôi lỡ xe buýt, một chàng trai chỉ đường và đưa tới ga. Vào lớp mới biết anh là bạn học. Chúng tôi thành bạn: anh vui vẻ hài hước, tôi yên lặng nhưng cùng thích đọc và chạy. Tôi nhớ sự kiên nhẫn hôm gặp; điều thu hút không chỉ lời hay mà là sẵn lòng giúp đúng lúc.",
+      "questions": [
+        {
+          "id": "hsk4-L09-R01-Q01",
+          "kind": "Nội dung",
+          "question": "作者第一天遇到了什么困难？",
+          "options": [
+            "错过公交车",
+            "忘了所有书本",
+            "丢了身份证",
+            "不知道自己的姓名"
+          ],
+          "answer": "错过公交车",
+          "explanation": "Theo đoạn: “错过了去学校的公交车”. Đáp án phù hợp: “错过公交车”."
+        },
+        {
+          "id": "hsk4-L09-R01-Q02",
+          "kind": "Nội dung",
+          "question": "那个小伙子怎样帮助作者？",
+          "options": [
+            "指路并陪他到地铁站",
+            "替他参加考试",
+            "让他一直等下一天",
+            "给他购买一辆车"
+          ],
+          "answer": "指路并陪他到地铁站",
+          "explanation": "Theo đoạn: “陪我走到地铁站”. Đáp án phù hợp: “指路并陪他到地铁站”."
+        },
+        {
+          "id": "hsk4-L09-R01-Q03",
+          "kind": "Nội dung",
+          "question": "后来作者在哪里又看见了他？",
+          "options": [
+            "教室里",
+            "医院大厅",
+            "贸易公司",
+            "火车上"
+          ],
+          "answer": "教室里",
+          "explanation": "Theo đoạn: “后来在教室里”. Đáp án phù hợp: “教室里”."
+        },
+        {
+          "id": "hsk4-L09-R01-Q04",
+          "kind": "Ý chính",
+          "question": "这篇文章主要讲什么？",
+          "options": [
+            "一次帮助带来的友情",
+            "公交线路的正式调查",
+            "如何改变所有性格",
+            "大学毕业后的工作"
+          ],
+          "answer": "一次帮助带来的友情",
+          "explanation": "Theo đoạn: “从此，我们成了朋友”. Đáp án phù hợp: “一次帮助带来的友情”."
+        },
+        {
+          "id": "hsk4-L09-R01-Q05",
+          "kind": "Suy luận",
+          "question": "作者看重朋友的什么特点？",
+          "options": [
+            "愿意耐心帮助别人",
+            "只会说好听的话",
+            "与自己性格完全相同",
+            "拥有最多的巧克力"
+          ],
+          "answer": "愿意耐心帮助别人",
+          "explanation": "Theo đoạn: “愿意在需要时伸出手”. Đáp án phù hợp: “愿意耐心帮助别人”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L09-R02",
+      "lesson": 9,
+      "title": "Một món quà được chuẩn bị bằng sự quan tâm",
+      "text": "姐姐生日那天，哥哥没有安排浪漫的晚餐，只提前回家，做了她最喜欢的几道菜，还把一块巧克力放在桌上。姐姐最近工作忙，已经连续几天很晚才回家。她看到这一切，心里十分感动。哥哥说，礼物贵不贵并不是最重要的，关键是了解对方真正的感受。尽管两个人的性格不同，一个喜欢热闹，一个喜欢安静，他们一直相互理解、支持。我觉得，幸福有时就是普通日子里的一点耐心和关心，不一定要有特别精彩的安排。",
+      "pinyin": "jiě jiě shēng rì nà tiān ， gē gē méi yǒu ān pái làng màn de wǎn cān ， zhǐ tí qián huí jiā ， zuò le tā zuì xǐ huān de jǐ dào cài ， hái bǎ yī kuài qiǎo kè lì fàng zài zhuō shàng 。 jiě jiě zuì jìn gōng zuò máng ， yǐ jīng lián xù jǐ tiān hěn wǎn cái huí jiā 。 tā kàn dào zhè yī qiè ， xīn lǐ shí fēn gǎn dòng 。 gē gē shuō ， lǐ wù guì bù guì bìng bú shì zuì zhòng yào de ， guān jiàn shì liǎo jiě duì fāng zhēn zhèng de gǎn shòu 。 jǐn guǎn liǎng gè rén de xìng gé bù tóng ， yí gè xǐ huān rè nào ， yí gè xǐ huān ān jìng ， tā men yì zhí xiāng hù lǐ jiě 、 zhī chí 。 wǒ jué de ， xìng fú yǒu shí jiù shì pǔ tōng rì zi lǐ de yì diǎn nài xīn hé guān xīn ， bù yí dìng yào yǒu tè bié jīng cǎi de ān pái 。",
+      "translation": "Sinh nhật chị, anh về sớm nấu món chị thích và đặt sô-cô-la trên bàn thay vì bữa tối lãng mạn. Chị bận nhiều ngày nên rất cảm động. Anh nói quan trọng là hiểu cảm nhận hơn giá quà. Tuy khác tính, hai người thấu hiểu và ủng hộ nhau. Tôi thấy hạnh phúc có trong sự quan tâm và kiên nhẫn hằng ngày.",
+      "questions": [
+        {
+          "id": "hsk4-L09-R02-Q01",
+          "kind": "Nội dung",
+          "question": "哥哥为姐姐准备了什么？",
+          "options": [
+            "喜欢的菜和巧克力",
+            "一张出差计划",
+            "一套新的工作软件",
+            "医院的挂号单"
+          ],
+          "answer": "喜欢的菜和巧克力",
+          "explanation": "Theo đoạn: “做了她最喜欢的几道菜”. Đáp án phù hợp: “喜欢的菜和巧克力”."
+        },
+        {
+          "id": "hsk4-L09-R02-Q02",
+          "kind": "Nội dung",
+          "question": "姐姐最近为什么常常晚回家？",
+          "options": [
+            "工作很忙",
+            "每天都去看电影",
+            "一直在外地游玩",
+            "不喜欢家里的菜"
+          ],
+          "answer": "工作很忙",
+          "explanation": "Theo đoạn: “姐姐最近工作忙”. Đáp án phù hợp: “工作很忙”."
+        },
+        {
+          "id": "hsk4-L09-R02-Q03",
+          "kind": "Nội dung",
+          "question": "哥哥认为礼物最重要的是什么？",
+          "options": [
+            "了解对方真正的感受",
+            "一定要非常贵",
+            "必须让所有人知道",
+            "每次都要安排旅行"
+          ],
+          "answer": "了解对方真正的感受",
+          "explanation": "Theo đoạn: “关键是了解对方真正的感受”. Đáp án phù hợp: “了解对方真正的感受”."
+        },
+        {
+          "id": "hsk4-L09-R02-Q04",
+          "kind": "Ý chính",
+          "question": "文章主要表达什么？",
+          "options": [
+            "平常日子中的关心也能带来幸福",
+            "性格不同就不能相处",
+            "生日必须有浪漫晚餐",
+            "巧克力比所有食物都重要"
+          ],
+          "answer": "平常日子中的关心也能带来幸福",
+          "explanation": "Theo đoạn: “普通日子里的一点耐心和关心”. Đáp án phù hợp: “平常日子中的关心也能带来幸福”."
+        },
+        {
+          "id": "hsk4-L09-R02-Q05",
+          "kind": "Suy luận",
+          "question": "姐姐为什么感动？",
+          "options": [
+            "自己的需要被理解和照顾",
+            "礼物的价格非常高",
+            "哥哥要求她早点下班",
+            "所有朋友都来参加晚餐"
+          ],
+          "answer": "自己的需要被理解和照顾",
+          "explanation": "Theo đoạn: “她看到这一切，心里十分感动”. Đáp án phù hợp: “自己的需要被理解和照顾”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L09-R03",
+      "lesson": 9,
+      "title": "Giải thích để hóa giải hiểu lầm",
+      "text": "小林和朋友约好周六一起去看电影，朋友却临时没有来，也没有及时说明。小林当时很失望，觉得对方不重视这份友情。第二天，朋友主动联系，解释家人生病，自己忙着去医院，手机也没有电了。他为没有提前告诉小林而道歉。小林听完以后，没有继续生气，而是问朋友是否需要帮助。两个人把各自的感受说清楚，又重新约了时间。这件事让小林明白，相互理解不是从来不产生误会，而是愿意耐心听对方解释，不轻易下结论。",
+      "pinyin": "xiǎo lín hé péng yǒu yuē hǎo zhōu liù yī qǐ qù kàn diàn yǐng ， péng yǒu què lín shí méi yǒu lái ， yě méi yǒu jí shí shuō míng 。 xiǎo lín dāng shí hěn shī wàng ， jué de duì fāng bù zhòng shì zhè fèn yǒu qíng 。 dì èr tiān ， péng yǒu zhǔ dòng lián xì ， jiě shì jiā rén shēng bìng ， zì jǐ máng zhe qù yī yuàn ， shǒu jī yě méi yǒu diàn le 。 tā wèi méi yǒu tí qián gào sù xiǎo lín ér dào qiàn 。 xiǎo lín tīng wán yǐ hòu ， méi yǒu jì xù shēng qì ， ér shì wèn péng yǒu shì fǒu xū yào bāng zhù 。 liǎng gè rén bǎ gè zì de gǎn shòu shuō qīng chǔ ， yòu chóng xīn yuē le shí jiān 。 zhè jiàn shì ràng xiǎo lín míng bái ， xiāng hù lǐ jiě bú shì cóng lái bù chǎn shēng wù huì ， ér shì yuàn yì nài xīn tīng duì fāng jiě shì ， bù qīng yì xià jié lùn 。",
+      "translation": "Bạn không đến buổi hẹn xem phim và không báo, khiến Tiểu Lâm thất vọng. Hôm sau bạn giải thích người nhà bị ốm, bận đi viện và điện thoại hết pin, rồi xin lỗi. Tiểu Lâm nghe xong hỏi có cần giúp không. Hai người nói rõ cảm nhận và hẹn lại. Anh hiểu thấu hiểu không phải không bao giờ hiểu lầm, mà là kiên nhẫn nghe giải thích.",
+      "questions": [
+        {
+          "id": "hsk4-L09-R03-Q01",
+          "kind": "Nội dung",
+          "question": "两个人原来约好周六做什么？",
+          "options": [
+            "看电影",
+            "去公司出差",
+            "参加市场调查",
+            "购买新手机"
+          ],
+          "answer": "看电影",
+          "explanation": "Theo đoạn: “一起去看电影”. Đáp án phù hợp: “看电影”."
+        },
+        {
+          "id": "hsk4-L09-R03-Q02",
+          "kind": "Nội dung",
+          "question": "朋友临时没来的原因是什么？",
+          "options": [
+            "家人生病要去医院",
+            "忘了小林是谁",
+            "不再喜欢看电影",
+            "想去买巧克力"
+          ],
+          "answer": "家人生病要去医院",
+          "explanation": "Theo đoạn: “家人生病，自己忙着去医院”. Đáp án phù hợp: “家人生病要去医院”."
+        },
+        {
+          "id": "hsk4-L09-R03-Q03",
+          "kind": "Nội dung",
+          "question": "听完解释后，小林怎么做？",
+          "options": [
+            "询问朋友是否需要帮助",
+            "拒绝再说任何话",
+            "立刻责备朋友家人",
+            "要求对方赔偿全部工资"
+          ],
+          "answer": "询问朋友是否需要帮助",
+          "explanation": "Theo đoạn: “问朋友是否需要帮助”. Đáp án phù hợp: “询问朋友是否需要帮助”."
+        },
+        {
+          "id": "hsk4-L09-R03-Q04",
+          "kind": "Ý chính",
+          "question": "这篇文章主要说明什么？",
+          "options": [
+            "耐心交流有助于消除误会",
+            "朋友不能改变任何计划",
+            "手机没电就可以不道歉",
+            "友情不需要共同感受"
+          ],
+          "answer": "耐心交流有助于消除误会",
+          "explanation": "Theo đoạn: “愿意耐心听对方解释”. Đáp án phù hợp: “耐心交流有助于消除误会”."
+        },
+        {
+          "id": "hsk4-L09-R03-Q05",
+          "kind": "Suy luận",
+          "question": "作者认为相互理解意味着什么？",
+          "options": [
+            "愿意听解释再判断",
+            "永远不会产生误会",
+            "要求朋友和自己完全相同",
+            "只表达自己的不满"
+          ],
+          "answer": "愿意听解释再判断",
+          "explanation": "Theo đoạn: “不轻易下结论”. Đáp án phù hợp: “愿意听解释再判断”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L09-R04",
+      "lesson": 9,
+      "title": "Ủng hộ nhau bằng hành động",
+      "text": "妹妹准备参加一次比赛，练习了很久，还是担心自己表现不好。她的好朋友小周没有只说“你一定会赢”，而是每天耐心听她练习，指出需要改进的地方。比赛当天，妹妹没有获得第一名，却比以前表现得自然多了。小周送给她一张卡片，写着“祝你今后继续进步”。妹妹说，自己虽然没有赢，却觉得十分幸运，因为身边有愿意支持自己的朋友。我觉得，美好的友情不是保证对方每次成功，而是在精彩和普通的日子里，都让对方知道自己并不孤单。",
+      "pinyin": "mèi mèi zhǔn bèi cān jiā yī cì bǐ sài ， liàn xí le hěn jiǔ ， hái shì dān xīn zì jǐ biǎo xiàn bù hǎo 。 tā de hǎo péng yǒu xiǎo zhōu méi yǒu zhǐ shuō “ nǐ yí dìng huì yíng ”， ér shì měi tiān nài xīn tīng tā liàn xí ， zhǐ chū xū yào gǎi jìn de dì fāng 。 bǐ sài dàng tiān ， mèi mèi méi yǒu huò dé dì yì míng ， què bǐ yǐ qián biǎo xiàn dé zì rán duō le 。 xiǎo zhōu sòng gěi tā yī zhāng kǎ piàn ， xiě zhe “ zhù nǐ jīn hòu jì xù jìn bù ”。 mèi mèi shuō ， zì jǐ suī rán méi yǒu yíng ， què jué de shí fēn xìng yùn ， yīn wèi shēn biān yǒu yuàn yì zhī chí zì jǐ de péng yǒu 。 wǒ jué de ， měi hǎo de yǒu qíng bú shì bǎo zhèng duì fāng měi cì chéng gōng ， ér shì zài jīng cǎi hé pǔ tōng de rì zi lǐ ， dōu ràng duì fāng zhī dào zì jǐ bìng bù gū dān 。",
+      "translation": "Em gái lo thi không tốt. Bạn Tiểu Châu không chỉ hứa em sẽ thắng mà kiên nhẫn nghe luyện và góp ý. Em không nhất nhưng tự nhiên hơn trước. Bạn tặng thiệp chúc tiếp tục tiến bộ. Em thấy may mắn được ủng hộ. Tôi nghĩ tình bạn không bảo đảm luôn thành công mà giúp nhau không cô đơn trong mọi ngày.",
+      "questions": [
+        {
+          "id": "hsk4-L09-R04-Q01",
+          "kind": "Nội dung",
+          "question": "妹妹为什么担心？",
+          "options": [
+            "怕比赛表现不好",
+            "忘了朋友的生日",
+            "不想收到卡片",
+            "没有找到比赛地址"
+          ],
+          "answer": "怕比赛表现不好",
+          "explanation": "Theo đoạn: “担心自己表现不好”. Đáp án phù hợp: “怕比赛表现不好”."
+        },
+        {
+          "id": "hsk4-L09-R04-Q02",
+          "kind": "Nội dung",
+          "question": "小周怎样支持妹妹？",
+          "options": [
+            "耐心听练习并提出建议",
+            "保证比赛一定取消",
+            "只让妹妹不要参加",
+            "替妹妹上台比赛"
+          ],
+          "answer": "耐心听练习并提出建议",
+          "explanation": "Theo đoạn: “指出需要改进的地方”. Đáp án phù hợp: “耐心听练习并提出建议”."
+        },
+        {
+          "id": "hsk4-L09-R04-Q03",
+          "kind": "Nội dung",
+          "question": "比赛结果怎么样？",
+          "options": [
+            "没有第一名但表现进步了",
+            "妹妹获得第一名",
+            "妹妹完全没有参加",
+            "朋友不再联系她"
+          ],
+          "answer": "没有第一名但表现进步了",
+          "explanation": "Theo đoạn: “却比以前表现得自然多了”. Đáp án phù hợp: “没有第一名但表现进步了”."
+        },
+        {
+          "id": "hsk4-L09-R04-Q04",
+          "kind": "Ý chính",
+          "question": "文章主要谈什么？",
+          "options": [
+            "用实际行动支持朋友",
+            "友情必须保证每次成功",
+            "参加比赛只为了礼物",
+            "没有第一名就没有价值"
+          ],
+          "answer": "用实际行动支持朋友",
+          "explanation": "Theo đoạn: “身边有愿意支持自己的朋友”. Đáp án phù hợp: “用实际行动支持朋友”."
+        },
+        {
+          "id": "hsk4-L09-R04-Q05",
+          "kind": "Suy luận",
+          "question": "妹妹觉得幸运的原因是什么？",
+          "options": [
+            "有人一直支持自己",
+            "得到了最贵的奖品",
+            "不用再练习了",
+            "比赛没有评出结果"
+          ],
+          "answer": "有人一直支持自己",
+          "explanation": "Theo đoạn: “因为身边有愿意支持自己的朋友”. Đáp án phù hợp: “有人一直支持自己”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L09-R05",
+      "lesson": 9,
+      "title": "Vun đắp tình cảm trong ngày thường",
+      "text": "爸爸妈妈在一起很多年了，性格却一直不太相同。爸爸喜欢提前计划，妈妈更愿意随时改变安排。以前，他们常为小事争论，后来慢慢学会先说清自己的想法，再听听对方的需要。拿周末来说，爸爸安排上午买东西，下午就留给妈妈决定。尽管生活普通，两个人都愿意承担家庭责任，也从来不把对方的帮助当成理所当然。妈妈说，感情深不是不需要经营，恰恰是每天多一点理解，才让日子越来越美好。这些话给我留下了很深的印象。",
+      "pinyin": "bà bà mā mā zài yì qǐ hěn duō nián le ， xìng gé què yì zhí bù tài xiāng tóng 。 bà bà xǐ huān tí qián jì huà ， mā mā gèng yuàn yì suí shí gǎi biàn ān pái 。 yǐ qián ， tā men cháng wèi xiǎo shì zhēng lùn ， hòu lái màn màn xué huì xiān shuō qīng zì jǐ de xiǎng fǎ ， zài tīng tīng duì fāng de xū yào 。 ná zhōu mò lái shuō ， bà bà ān pái shàng wǔ mǎi dōng xī ， xià wǔ jiù liú gěi mā mā jué dìng 。 jǐn guǎn shēng huó pǔ tōng ， liǎng gè rén dōu yuàn yì chéng dān jiā tíng zé rèn ， yě cóng lái bù bǎ duì fāng de bāng zhù dàng chéng lǐ suǒ dāng rán 。 mā mā shuō ， gǎn qíng shēn bú shì bù xū yào jīng yíng ， qià qià shì měi tiān duō yì diǎn lǐ jiě ， cái ràng rì zi yuè lái yuè měi hǎo 。 zhè xiē huà gěi wǒ liú xià le hěn shēn de yìn xiàng 。",
+      "translation": "Bố thích lên kế hoạch, mẹ thích linh hoạt nên từng hay tranh luận. Sau này họ học nói rõ ý và nghe nhu cầu nhau. Cuối tuần bố sắp buổi sáng, chiều để mẹ quyết định. Cả hai chia trách nhiệm, không xem sự giúp đỡ là đương nhiên. Mẹ nói tình cảm sâu vẫn cần vun đắp bằng thấu hiểu mỗi ngày, khiến tôi nhớ mãi.",
+      "questions": [
+        {
+          "id": "hsk4-L09-R05-Q01",
+          "kind": "Nội dung",
+          "question": "爸爸喜欢怎样安排生活？",
+          "options": [
+            "提前计划",
+            "从来不做计划",
+            "只听别人的决定",
+            "每次都取消安排"
+          ],
+          "answer": "提前计划",
+          "explanation": "Theo đoạn: “爸爸喜欢提前计划”. Đáp án phù hợp: “提前计划”."
+        },
+        {
+          "id": "hsk4-L09-R05-Q02",
+          "kind": "Nội dung",
+          "question": "现在周末下午通常由谁决定安排？",
+          "options": [
+            "妈妈",
+            "作者的老师",
+            "爸爸的客户",
+            "邻居"
+          ],
+          "answer": "妈妈",
+          "explanation": "Theo đoạn: “下午就留给妈妈决定”. Đáp án phù hợp: “妈妈”."
+        },
+        {
+          "id": "hsk4-L09-R05-Q03",
+          "kind": "Nội dung",
+          "question": "两个人都愿意做什么？",
+          "options": [
+            "承担家庭责任",
+            "拒绝所有家务",
+            "不听对方说话",
+            "每天参加比赛"
+          ],
+          "answer": "承担家庭责任",
+          "explanation": "Theo đoạn: “愿意承担家庭责任”. Đáp án phù hợp: “承担家庭责任”."
+        },
+        {
+          "id": "hsk4-L09-R05-Q04",
+          "kind": "Ý chính",
+          "question": "文章主要说明什么？",
+          "options": [
+            "长久的感情需要日常理解和经营",
+            "性格不同一定不能生活在一起",
+            "家庭责任只能交给一个人",
+            "争论越多感情就越好"
+          ],
+          "answer": "长久的感情需要日常理解和经营",
+          "explanation": "Theo đoạn: “每天多一点理解”. Đáp án phù hợp: “长久的感情需要日常理解和经营”."
+        },
+        {
+          "id": "hsk4-L09-R05-Q05",
+          "kind": "Suy luận",
+          "question": "妈妈认为感情深就不需要经营吗？",
+          "options": [
+            "仍然需要经营",
+            "完全不需要",
+            "只需要买礼物",
+            "只需要提前计划"
+          ],
+          "answer": "仍然需要经营",
+          "explanation": "Theo đoạn: “感情深不是不需要经营”. Đáp án phù hợp: “仍然需要经营”."
+        }
+      ],
+      "sourceType": "supplementary"
+    }
+  ],
+  "writing": {
+    "title": "Vun đắp một tình bạn",
+    "prompt": "Hãy viết khoảng 100–150 chữ Hán về một người bạn, sở thích chung và một hành động thể hiện thấu hiểu hoặc ủng hộ.",
+    "suggestedWords": [
+      "性格",
+      "共同",
+      "理解",
+      "支持",
+      "友情"
+    ],
+    "suggestedGrammar": [
+      "不 + Động từ + 也 + Kết quả",
+      "尽管 + Thực tế，但是/可是 + Kết quả"
+    ],
+    "outline": [
+      "Giới thiệu bạn và điểm giống, khác nhau.",
+      "Kể một việc thể hiện quan tâm hoặc hỗ trợ.",
+      "Nêu cảm nhận và cách duy trì tình bạn.",
+      "Kiểm tra trật tự từ và các cấu trúc ngữ pháp đã học."
+    ],
+    "sample": "我和小王的性格不同，他阳光幽默，我比较安静。尽管如此，我们有很多共同爱好，尤其喜欢读书。刚认识时，我错过一次重要活动，心情很差。他没有责备我，而是耐心听我说，给了我很多支持。从此，我更珍惜这份友情。有时我不说，他也懂我的感受。我觉得，美好的感情需要相互理解，也需要在普通日子里用心经营。",
+    "samplePinyin": "wǒ hé xiǎo wáng de xìng gé bù tóng ， tā yáng guāng yōu mò ， wǒ bǐ jiào ān jìng 。 jǐn guǎn rú cǐ ， wǒ men yǒu hěn duō gòng tóng ài hào ， yóu qí xǐ huān dú shū 。 gāng rèn shí shí ， wǒ cuò guò yī cì zhòng yào huó dòng ， xīn qíng hěn chà 。 tā méi yǒu zé bèi wǒ ， ér shì nài xīn tīng wǒ shuō ， gěi le wǒ hěn duō zhī chí 。 cóng cǐ ， wǒ gèng zhēn xī zhè fèn yǒu qíng 。 yǒu shí wǒ bù shuō ， tā yě dǒng wǒ de gǎn shòu 。 wǒ jué de ， měi hǎo de gǎn qíng xū yào xiāng hù lǐ jiě ， yě xū yào zài pǔ tōng rì zi lǐ yòng xīn jīng yíng 。",
+    "translation": "Tôi và Tiểu Vương khác tính: bạn vui vẻ hài hước, tôi yên lặng, nhưng cùng thích đọc. Mới quen, tôi lỡ hoạt động quan trọng nên buồn. Bạn kiên nhẫn nghe và ủng hộ thay vì trách. Tôi trân trọng tình bạn hơn. Đôi khi không nói bạn cũng hiểu. Tình cảm cần thấu hiểu và vun đắp trong ngày thường."
+  }
+}

@@ -1,0 +1,1261 @@
+{
+  "lesson": 7,
+  "sourceType": "supplementary",
+  "vocabulary": [
+    {
+      "wordId": "hsk4-L07-01",
+      "tokens": [
+        "请勿打扰",
+        "！"
+      ],
+      "cloze": "请勿＿＿＿！",
+      "answer": "打扰",
+      "options": [
+        "打扰",
+        "采访",
+        "积累",
+        "进入"
+      ],
+      "explanation": "Điền 打扰 (làm phiền) theo cách dùng trong câu: Xin đừng làm phiền!"
+    },
+    {
+      "wordId": "hsk4-L07-02",
+      "tokens": [
+        "我们",
+        "明天",
+        "去",
+        "做",
+        "市场",
+        "调查",
+        "。"
+      ],
+      "cloze": "我们明天去做＿＿＿调查。",
+      "answer": "市场",
+      "options": [
+        "市场",
+        "社会",
+        "基础",
+        "内容"
+      ],
+      "explanation": "Điền 市场 (thị trường) theo cách dùng trong câu: Ngày mai chúng tôi đi khảo sát thị trường."
+    },
+    {
+      "wordId": "hsk4-L07-03",
+      "tokens": [
+        "警察",
+        "正在",
+        "调查",
+        "这件",
+        "事",
+        "。"
+      ],
+      "cloze": "警察正在＿＿＿这件事。",
+      "answer": "调查",
+      "options": [
+        "调查",
+        "管理",
+        "积累",
+        "进入"
+      ],
+      "explanation": "Điền 调查 (điều tra) theo cách dùng trong câu: Cảnh sát đang điều tra chuyện này."
+    },
+    {
+      "wordId": "hsk4-L07-04",
+      "tokens": [
+        "我们",
+        "计划",
+        "周末",
+        "回家",
+        "。"
+      ],
+      "cloze": "我们＿＿＿周末回家。",
+      "answer": "计划",
+      "options": [
+        "计划",
+        "管理",
+        "采访",
+        "积累"
+      ],
+      "explanation": "Điền 计划 (kế hoạch; lập kế hoạch) theo cách dùng trong câu: Chúng tôi dự định cuối tuần về nhà."
+    },
+    {
+      "wordId": "hsk4-L07-05",
+      "tokens": [
+        "今天",
+        "会议",
+        "的",
+        "内容",
+        "很多",
+        "。"
+      ],
+      "cloze": "今天会议的＿＿＿很多。",
+      "answer": "内容",
+      "options": [
+        "内容",
+        "产品",
+        "客户",
+        "市场"
+      ],
+      "explanation": "Điền 内容 (nội dung) theo cách dùng trong câu: Cuộc họp hôm nay có nhiều nội dung."
+    },
+    {
+      "wordId": "hsk4-L07-06",
+      "tokens": [
+        "请",
+        "你",
+        "改",
+        "一下",
+        "时间",
+        "。"
+      ],
+      "cloze": "请你＿＿＿一下时间。",
+      "answer": "改",
+      "options": [
+        "改",
+        "积累",
+        "进入",
+        "采访"
+      ],
+      "explanation": "Điền 改 (sửa; thay đổi) theo cách dùng trong câu: Bạn hãy sửa thời gian một chút."
+    },
+    {
+      "wordId": "hsk4-L07-07",
+      "tokens": [
+        "做",
+        "工作",
+        "一定",
+        "要",
+        "细心",
+        "。"
+      ],
+      "cloze": "做工作一定要＿＿＿。",
+      "answer": "细心",
+      "options": [
+        "细心",
+        "真正",
+        "提前",
+        "及时"
+      ],
+      "explanation": "Điền 细心 (tỉ mỉ) theo cách dùng trong câu: Làm việc nhất định phải cẩn thận."
+    },
+    {
+      "wordId": "hsk4-L07-08",
+      "tokens": [
+        "这位",
+        "客户",
+        "对",
+        "我们",
+        "的",
+        "产品",
+        "很",
+        "满意",
+        "。"
+      ],
+      "cloze": "这位＿＿＿对我们的产品很满意。",
+      "answer": "客户",
+      "options": [
+        "客户",
+        "任务",
+        "内容",
+        "基础"
+      ],
+      "explanation": "Điền 客户 (khách hàng) theo cách dùng trong câu: Vị khách hàng này rất hài lòng với sản phẩm của chúng tôi."
+    },
+    {
+      "wordId": "hsk4-L07-09",
+      "tokens": [
+        "这才",
+        "是",
+        "真正",
+        "的",
+        "原因",
+        "。"
+      ],
+      "cloze": "这才是＿＿＿的原因。",
+      "answer": "真正",
+      "options": [
+        "真正",
+        "客户",
+        "市场",
+        "产品"
+      ],
+      "explanation": "Điền 真正 (thực sự) theo cách dùng trong câu: Đây mới là nguyên nhân thực sự."
+    },
+    {
+      "wordId": "hsk4-L07-10",
+      "tokens": [
+        "你",
+        "有",
+        "什么",
+        "想法",
+        "，",
+        "可以",
+        "告诉",
+        "我",
+        "。"
+      ],
+      "cloze": "你有什么＿＿＿，可以告诉我。",
+      "answer": "想法",
+      "options": [
+        "想法",
+        "市场",
+        "客户",
+        "产品"
+      ],
+      "explanation": "Điền 想法 (ý tưởng) theo cách dùng trong câu: Bạn có ý tưởng gì thì có thể nói với tôi."
+    },
+    {
+      "wordId": "hsk4-L07-11",
+      "tokens": [
+        "这个",
+        "任务",
+        "有点",
+        "难",
+        "。"
+      ],
+      "cloze": "这个＿＿＿有点难。",
+      "answer": "任务",
+      "options": [
+        "任务",
+        "客户",
+        "优点",
+        "社会"
+      ],
+      "explanation": "Điền 任务 (nhiệm vụ) theo cách dùng trong câu: Nhiệm vụ này hơi khó."
+    },
+    {
+      "wordId": "hsk4-L07-12",
+      "tokens": [
+        "幸好",
+        "你",
+        "及时",
+        "告诉",
+        "我",
+        "。"
+      ],
+      "cloze": "幸好你＿＿＿告诉我。",
+      "answer": "及时",
+      "options": [
+        "及时",
+        "客户",
+        "产品",
+        "社会"
+      ],
+      "explanation": "Điền 及时 (kịp thời) theo cách dùng trong câu: May mà bạn đã thông báo kịp thời cho tôi."
+    },
+    {
+      "wordId": "hsk4-L07-13",
+      "tokens": [
+        "爸爸",
+        "下周",
+        "去",
+        "出差",
+        "。"
+      ],
+      "cloze": "爸爸下周去＿＿＿。",
+      "answer": "出差",
+      "options": [
+        "出差",
+        "调查",
+        "采访",
+        "积累"
+      ],
+      "explanation": "Điền 出差 (đi công tác) theo cách dùng trong câu: Tuần tới bố đi công tác."
+    },
+    {
+      "wordId": "hsk4-L07-14",
+      "tokens": [
+        "请问",
+        "你",
+        "有",
+        "相关",
+        "经验",
+        "吗",
+        "？"
+      ],
+      "cloze": "请问你有相关＿＿＿吗？",
+      "answer": "经验",
+      "options": [
+        "经验",
+        "内容",
+        "产品",
+        "社会"
+      ],
+      "explanation": "Điền 经验 (kinh nghiệm) theo cách dùng trong câu: Xin hỏi bạn có kinh nghiệm liên quan không?"
+    },
+    {
+      "wordId": "hsk4-L07-15",
+      "tokens": [
+        "他",
+        "拒绝接受",
+        "采访",
+        "。"
+      ],
+      "cloze": "他拒绝接受＿＿＿。",
+      "answer": "采访",
+      "options": [
+        "采访",
+        "积累",
+        "管理",
+        "进入"
+      ],
+      "explanation": "Điền 采访 (phỏng vấn) theo cách dùng trong câu: Anh ấy từ chối trả lời phỏng vấn."
+    },
+    {
+      "wordId": "hsk4-L07-16",
+      "tokens": [
+        "这家",
+        "公司",
+        "的",
+        "产品",
+        "很",
+        "好",
+        "用",
+        "。"
+      ],
+      "cloze": "这家公司的＿＿＿很好用。",
+      "answer": "产品",
+      "options": [
+        "产品",
+        "客户",
+        "能力",
+        "基础"
+      ],
+      "explanation": "Điền 产品 (sản phẩm) theo cách dùng trong câu: Sản phẩm của công ty này rất dễ sử dụng."
+    },
+    {
+      "wordId": "hsk4-L07-17",
+      "tokens": [
+        "我",
+        "说",
+        "说",
+        "我",
+        "的",
+        "看法",
+        "。"
+      ],
+      "cloze": "我说说我的＿＿＿。",
+      "answer": "看法",
+      "options": [
+        "看法",
+        "客户",
+        "任务",
+        "社会"
+      ],
+      "explanation": "Điền 看法 (quan điểm) theo cách dùng trong câu: Tôi xin nói một chút quan điểm của mình."
+    },
+    {
+      "wordId": "hsk4-L07-18",
+      "tokens": [
+        "明天",
+        "可以",
+        "提前",
+        "下班",
+        "。"
+      ],
+      "cloze": "明天可以＿＿＿下班。",
+      "answer": "提前",
+      "options": [
+        "提前",
+        "客户",
+        "产品",
+        "社会"
+      ],
+      "explanation": "Điền 提前 (trước thời hạn) theo cách dùng trong câu: Ngày mai có thể tan làm sớm."
+    },
+    {
+      "wordId": "hsk4-L07-19",
+      "tokens": [
+        "这个",
+        "包",
+        "很小",
+        "，",
+        "便于",
+        "旅行",
+        "。"
+      ],
+      "cloze": "这个包很小，＿＿＿旅行。",
+      "answer": "便于",
+      "options": [
+        "便于",
+        "客户",
+        "市场",
+        "产品"
+      ],
+      "explanation": "Điền 便于 (tiện cho) theo cách dùng trong câu: Chiếc túi này rất nhỏ, tiện cho việc đi du lịch."
+    },
+    {
+      "wordId": "hsk4-L07-20",
+      "tokens": [
+        "既然",
+        "来",
+        "了",
+        "，",
+        "就",
+        "坐",
+        "一会儿",
+        "吧",
+        "。"
+      ],
+      "cloze": "＿＿＿来了，就坐一会儿吧。",
+      "answer": "既然",
+      "options": [
+        "既然",
+        "及时",
+        "提前",
+        "便于"
+      ],
+      "explanation": "Điền 既然 (đã... thì) theo cách dùng trong câu: Đã đến rồi thì ngồi chơi một lát đi."
+    },
+    {
+      "wordId": "hsk4-L07-21",
+      "tokens": [
+        "我们",
+        "正在",
+        "谈",
+        "事情",
+        "。"
+      ],
+      "cloze": "我们正在＿＿＿事情。",
+      "answer": "谈",
+      "options": [
+        "谈",
+        "改",
+        "使",
+        "进入"
+      ],
+      "explanation": "Điền 谈 (nói chuyện; bàn bạc) theo cách dùng trong câu: Chúng tôi đang bàn một chuyện."
+    },
+    {
+      "wordId": "hsk4-L07-22",
+      "tokens": [
+        "我们",
+        "在",
+        "谈",
+        "一笔",
+        "生意",
+        "。"
+      ],
+      "cloze": "我们在谈一＿＿＿生意。",
+      "answer": "笔",
+      "options": [
+        "笔",
+        "份",
+        "点",
+        "下"
+      ],
+      "explanation": "Điền 笔 (lượng từ cho khoản tiền) theo cách dùng trong câu: Chúng tôi đang bàn một thương vụ."
+    },
+    {
+      "wordId": "hsk4-L07-23",
+      "tokens": [
+        "我",
+        "爸爸",
+        "是",
+        "个",
+        "生意人",
+        "。"
+      ],
+      "cloze": "我爸爸是个＿＿＿人。",
+      "answer": "生意",
+      "options": [
+        "生意",
+        "产品",
+        "客户",
+        "基础"
+      ],
+      "explanation": "Điền 生意 (kinh doanh) theo cách dùng trong câu: Bố tôi là người kinh doanh."
+    },
+    {
+      "wordId": "hsk4-L07-24",
+      "tokens": [
+        "这件",
+        "事",
+        "做",
+        "起来",
+        "很",
+        "困难",
+        "。"
+      ],
+      "cloze": "这件事做起来很＿＿＿。",
+      "answer": "困难",
+      "options": [
+        "困难",
+        "细心",
+        "真正",
+        "及时"
+      ],
+      "explanation": "Điền 困难 (khó khăn) theo cách dùng trong câu: Làm việc này khá khó khăn."
+    },
+    {
+      "wordId": "hsk4-L07-25",
+      "tokens": [
+        "他",
+        "的",
+        "优点",
+        "是",
+        "细心",
+        "。"
+      ],
+      "cloze": "他的＿＿＿是细心。",
+      "answer": "优点",
+      "options": [
+        "优点",
+        "客户",
+        "市场",
+        "产品"
+      ],
+      "explanation": "Điền 优点 (ưu điểm) theo cách dùng trong câu: Ưu điểm của anh ấy là cẩn thận."
+    },
+    {
+      "wordId": "hsk4-L07-26",
+      "tokens": [
+        "每个",
+        "人",
+        "都",
+        "有",
+        "缺点",
+        "。"
+      ],
+      "cloze": "每个人都有＿＿＿。",
+      "answer": "缺点",
+      "options": [
+        "缺点",
+        "任务",
+        "内容",
+        "客户"
+      ],
+      "explanation": "Điền 缺点 (khuyết điểm) theo cách dùng trong câu: Ai cũng có khuyết điểm."
+    },
+    {
+      "wordId": "hsk4-L07-27",
+      "tokens": [
+        "实际上",
+        "，",
+        "这件",
+        "事",
+        "并",
+        "不难",
+        "。"
+      ],
+      "cloze": "＿＿＿上，这件事并不难。",
+      "answer": "实际",
+      "options": [
+        "实际",
+        "客户",
+        "产品",
+        "社会"
+      ],
+      "explanation": "Điền 实际 (thực tế) theo cách dùng trong câu: Thật ra, chuyện này không khó."
+    },
+    {
+      "wordId": "hsk4-L07-28",
+      "tokens": [
+        "这个",
+        "药",
+        "的",
+        "效果",
+        "很",
+        "明显",
+        "。",
+        "坚持",
+        "练习",
+        "，",
+        "才",
+        "会",
+        "有",
+        "效果",
+        "。"
+      ],
+      "cloze": "这个药的＿＿＿很明显。坚持练习，才会有效果。",
+      "answer": "效果",
+      "options": [
+        "效果",
+        "客户",
+        "任务",
+        "社会"
+      ],
+      "explanation": "Điền 效果 (hiệu quả) theo cách dùng trong câu: Tác dụng của thuốc này rất rõ rệt. Kiên trì tập luyện mới có kết quả."
+    },
+    {
+      "wordId": "hsk4-L07-29",
+      "tokens": [
+        "这",
+        "一点",
+        "很",
+        "重要",
+        "，",
+        "请",
+        "大家",
+        "注意",
+        "。"
+      ],
+      "cloze": "这一＿＿＿很重要，请大家注意。",
+      "answer": "点",
+      "options": [
+        "点",
+        "份",
+        "笔",
+        "下"
+      ],
+      "explanation": "Điền 点 (điểm) theo cách dùng trong câu: Điểm này rất quan trọng, mọi người hãy chú ý."
+    },
+    {
+      "wordId": "hsk4-L07-30",
+      "tokens": [
+        "请",
+        "你",
+        "帮",
+        "我",
+        "看",
+        "一下",
+        "这份",
+        "材料",
+        "。"
+      ],
+      "cloze": "请你帮我看＿＿＿这份材料。",
+      "answer": "一下",
+      "options": [
+        "一下",
+        "客户",
+        "社会",
+        "基础"
+      ],
+      "explanation": "Điền 一下 (một chút; một lần) theo cách dùng trong câu: Bạn hãy giúp tôi xem tài liệu này một chút."
+    },
+    {
+      "wordId": "hsk4-L07-31",
+      "tokens": [
+        "请",
+        "给",
+        "我",
+        "这份",
+        "文件",
+        "。"
+      ],
+      "cloze": "请给我这＿＿＿文件。",
+      "answer": "份",
+      "options": [
+        "份",
+        "笔",
+        "点",
+        "下"
+      ],
+      "explanation": "Điền 份 (phần; bản) theo cách dùng trong câu: Hãy đưa cho tôi tài liệu này."
+    },
+    {
+      "wordId": "hsk4-L07-32",
+      "tokens": [
+        "学习",
+        "汉语",
+        "要",
+        "慢慢",
+        "积累",
+        "。"
+      ],
+      "cloze": "学习汉语要慢慢＿＿＿。",
+      "answer": "积累",
+      "options": [
+        "积累",
+        "采访",
+        "管理",
+        "进入"
+      ],
+      "explanation": "Điền 积累 (tích lũy) theo cách dùng trong câu: Học tiếng Trung cần tích lũy dần dần."
+    },
+    {
+      "wordId": "hsk4-L07-33",
+      "tokens": [
+        "学习",
+        "使",
+        "我",
+        "进步",
+        "。"
+      ],
+      "cloze": "学习＿＿＿我进步。",
+      "answer": "使",
+      "options": [
+        "使",
+        "改",
+        "谈",
+        "采访"
+      ],
+      "explanation": "Điền 使 (khiến; làm cho) theo cách dùng trong câu: Việc học giúp tôi tiến bộ."
+    },
+    {
+      "wordId": "hsk4-L07-34",
+      "tokens": [
+        "他",
+        "今年",
+        "进入",
+        "大学",
+        "学习",
+        "。"
+      ],
+      "cloze": "他今年＿＿＿大学学习。",
+      "answer": "进入",
+      "options": [
+        "进入",
+        "管理",
+        "积累",
+        "调查"
+      ],
+      "explanation": "Điền 进入 (đi vào) theo cách dùng trong câu: Năm nay anh ấy vào đại học."
+    },
+    {
+      "wordId": "hsk4-L07-35",
+      "tokens": [
+        "他",
+        "毕业",
+        "后",
+        "进入",
+        "了",
+        "社会",
+        "。"
+      ],
+      "cloze": "他毕业后进入了＿＿＿。",
+      "answer": "社会",
+      "options": [
+        "社会",
+        "产品",
+        "内容",
+        "客户"
+      ],
+      "explanation": "Điền 社会 (xã hội) theo cách dùng trong câu: Sau khi tốt nghiệp, anh ấy bước vào xã hội."
+    },
+    {
+      "wordId": "hsk4-L07-36",
+      "tokens": [
+        "他",
+        "管理",
+        "着",
+        "两家",
+        "公司",
+        "。"
+      ],
+      "cloze": "他＿＿＿着两家公司。",
+      "answer": "管理",
+      "options": [
+        "管理",
+        "采访",
+        "积累",
+        "进入"
+      ],
+      "explanation": "Điền 管理 (quản lý) theo cách dùng trong câu: Anh ấy quản lý hai công ty."
+    },
+    {
+      "wordId": "hsk4-L07-37",
+      "tokens": [
+        "我们",
+        "要",
+        "打",
+        "好",
+        "基础",
+        "。"
+      ],
+      "cloze": "我们要打好＿＿＿。",
+      "answer": "基础",
+      "options": [
+        "基础",
+        "客户",
+        "产品",
+        "任务"
+      ],
+      "explanation": "Điền 基础 (nền tảng; cơ sở) theo cách dùng trong câu: Chúng ta phải xây dựng nền tảng thật tốt."
+    },
+    {
+      "wordId": "hsk4-L07-38",
+      "tokens": [
+        "他",
+        "有",
+        "解决问题",
+        "的",
+        "能力",
+        "。"
+      ],
+      "cloze": "他有解决问题的＿＿＿。",
+      "answer": "能力",
+      "options": [
+        "能力",
+        "客户",
+        "产品",
+        "社会"
+      ],
+      "explanation": "Điền 能力 (năng lực) theo cách dùng trong câu: Anh ấy có khả năng giải quyết vấn đề."
+    },
+    {
+      "wordId": "hsk4-L07-39",
+      "tokens": [
+        "今后",
+        "我要",
+        "努力学习",
+        "。"
+      ],
+      "cloze": "＿＿＿我要努力学习。",
+      "answer": "今后",
+      "options": [
+        "今后",
+        "客户",
+        "产品",
+        "社会"
+      ],
+      "explanation": "Điền 今后 (sau này) theo cách dùng trong câu: Từ nay tôi sẽ cố gắng học tập."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "hsk4-L07-G01-Q01",
+      "pointId": "hsk4-L07-G01",
+      "question": "在时间安排＿＿＿，你可以再想一想。",
+      "options": [
+        "方面",
+        "份",
+        "笔",
+        "点"
+      ],
+      "answer": "方面",
+      "sentence": "在时间安排方面，你可以再想一想。",
+      "pinyin": "zài shí jiān ān pái fāngmiàn， nǐ kě yǐ zài xiǎng yī xiǎng.",
+      "translation": "Về mặt sắp xếp thời gian, bạn có thể cân nhắc thêm.",
+      "explanation": "Giới hạn phạm vi hoặc khía cạnh đang bàn đến."
+    },
+    {
+      "id": "hsk4-L07-G02-Q01",
+      "pointId": "hsk4-L07-G02",
+      "question": "＿＿＿大家都同意，我们就这么做吧。",
+      "options": [
+        "既然",
+        "拿",
+        "便于",
+        "及时"
+      ],
+      "answer": "既然",
+      "sentence": "既然大家都同意，我们就这么做吧。",
+      "pinyin": "jì rán dà jiā dōu tóng yì， wǒ men jiù zhè me zuò ba.",
+      "translation": "Đã mọi người đều đồng ý thì chúng ta cứ làm thế nhé.",
+      "explanation": "Đã… thì…, đưa ra kết luận dựa trên tình huống có sẵn."
+    },
+    {
+      "id": "hsk4-L07-G03-Q01",
+      "pointId": "hsk4-L07-G03",
+      "question": "＿＿＿购物来说，人们不出门就能买到想要的东西。",
+      "options": [
+        "拿",
+        "使",
+        "改",
+        "谈"
+      ],
+      "answer": "拿",
+      "sentence": "拿购物来说，人们不出门就能买到想要的东西。",
+      "pinyin": "nágòu wùlái shuō， rén men bù chū mén jiù néng mǎi dào xiǎng yào de dōng xī.",
+      "translation": "Lấy việc mua sắm làm ví dụ, mọi người không ra khỏi nhà vẫn mua được đồ mình muốn.",
+      "explanation": "Lấy… làm ví dụ để minh họa một luận điểm."
+    }
+  ],
+  "readings": [
+    {
+      "id": "hsk4-L07-R01",
+      "lesson": 7,
+      "title": "Nhiệm vụ khảo sát đầu tiên",
+      "text": "进入公司以后，小林接到的第一个任务是做市场调查。他原来以为只要问客户喜不喜欢产品就可以，真正开始采访时才发现，问题太简单，得到的内容也很少。同事建议他提前写好计划，既问产品的优点，也了解使用中的困难。小林改了问题，再把客户的看法分类整理。交材料以前，他还细心地检查了一遍。经理说，这份调查比第一次具体多了。小林明白，工作经验不是等来的，而是在实际任务中不断发现问题、改进方法积累起来的。",
+      "pinyin": "jìn rù gōng sī yǐ hòu ， xiǎo lín jiē dào de dì yí gè rèn wù shì zuò shì chǎng diào chá 。 tā yuán lái yǐ wéi zhǐ yào wèn kè hù xǐ bù xǐ huān chǎn pǐn jiù kě yǐ ， zhēn zhèng kāi shǐ cǎi fǎng shí cái fā xiàn ， wèn tí tài jiǎn dān ， dé dào de nèi róng yě hěn shǎo 。 tóng shì jiàn yì tā tí qián xiě hǎo jì huà ， jì wèn chǎn pǐn de yōu diǎn ， yě liǎo jiě shǐ yòng zhōng de kùn nán 。 xiǎo lín gǎi le wèn tí ， zài bǎ kè hù de kàn fǎ fēn lèi zhěng lǐ 。 jiāo cái liào yǐ qián ， tā hái xì xīn dì jiǎn chá le yī biàn 。 jīng lǐ shuō ， zhè fèn diào chá bǐ dì yī cì jù tǐ duō le 。 xiǎo lín míng bái ， gōng zuò jīng yàn bú shì děng lái de ， ér shì zài shí jì rèn wù zhōng bù duàn fā xiàn wèn tí 、 gǎi jìn fāng fǎ jī lěi qǐ lái de 。",
+      "translation": "Tiểu Lâm nhận nhiệm vụ khảo sát thị trường đầu tiên. Anh tưởng chỉ hỏi khách có thích sản phẩm không, nhưng thông tin quá ít. Đồng nghiệp khuyên chuẩn bị cả câu hỏi ưu điểm và khó khăn sử dụng. Anh sửa, phân loại ý kiến và kiểm tra kỹ trước khi nộp. Quản lý khen cụ thể hơn. Anh hiểu kinh nghiệm đến từ làm việc thực tế và cải tiến.",
+      "questions": [
+        {
+          "id": "hsk4-L07-R01-Q01",
+          "kind": "Nội dung",
+          "question": "小林的第一个任务是什么？",
+          "options": [
+            "做市场调查",
+            "管理两家公司",
+            "购买新的办公室",
+            "为客户安排旅行"
+          ],
+          "answer": "做市场调查",
+          "explanation": "Theo đoạn: “第一个任务是做市场调查”. Đáp án phù hợp: “做市场调查”."
+        },
+        {
+          "id": "hsk4-L07-R01-Q02",
+          "kind": "Nội dung",
+          "question": "第一次采访的问题有什么不足？",
+          "options": [
+            "太简单，得到的内容少",
+            "太多，客户回答不完",
+            "只问客户的国籍",
+            "全部写错了字"
+          ],
+          "answer": "太简单，得到的内容少",
+          "explanation": "Theo đoạn: “问题太简单，得到的内容也很少”. Đáp án phù hợp: “太简单，得到的内容少”."
+        },
+        {
+          "id": "hsk4-L07-R01-Q03",
+          "kind": "Nội dung",
+          "question": "同事建议他还要了解什么？",
+          "options": [
+            "使用产品时的困难",
+            "客户的支付密码",
+            "客户家里的房租",
+            "经理的寒假安排"
+          ],
+          "answer": "使用产品时的困难",
+          "explanation": "Theo đoạn: “也了解使用中的困难”. Đáp án phù hợp: “使用产品时的困难”."
+        },
+        {
+          "id": "hsk4-L07-R01-Q04",
+          "kind": "Ý chính",
+          "question": "文章主要讲什么？",
+          "options": [
+            "在实际任务中学习调查方法",
+            "怎样避免所有工作任务",
+            "公司的产品没有缺点",
+            "采访客户不需要准备"
+          ],
+          "answer": "在实际任务中学习调查方法",
+          "explanation": "Theo đoạn: “在实际任务中不断发现问题、改进方法”. Đáp án phù hợp: “在实际任务中学习调查方法”."
+        },
+        {
+          "id": "hsk4-L07-R01-Q05",
+          "kind": "Suy luận",
+          "question": "经理为什么肯定第二份调查？",
+          "options": [
+            "内容比第一次具体",
+            "小林没有再检查",
+            "客户都说完全没问题",
+            "材料比第一次更短"
+          ],
+          "answer": "内容比第一次具体",
+          "explanation": "Theo đoạn: “这份调查比第一次具体多了”. Đáp án phù hợp: “内容比第一次具体”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L07-R02",
+      "lesson": 7,
+      "title": "Chuẩn bị trước chuyến công tác",
+      "text": "姐姐下周要出差，和一位新客户谈生意。她提前查看对方的产品信息，把想了解的内容写成一份材料，便于见面时及时提问。同事认为她准备得太多，姐姐却说，既然公司把任务交给自己，就应该认真做好。出发前一天，客户临时改了见面时间，她马上联系同事调整计划，没有等到最后才处理。回来以后，姐姐告诉我，谈成生意固然重要，更重要的是让客户看到自己负责的态度。每次出差遇到的事情，都能成为今后工作的经验。",
+      "pinyin": "jiě jiě xià zhōu yào chū chāi ， hé yī wèi xīn kè hù tán shēng yì 。 tā tí qián chá kàn duì fāng de chǎn pǐn xìn xī ， bǎ xiǎng liǎo jiě de nèi róng xiě chéng yī fèn cái liào ， biàn yú jiàn miàn shí jí shí tí wèn 。 tóng shì rèn wéi tā zhǔn bèi dé tài duō ， jiě jiě què shuō ， jì rán gōng sī bǎ rèn wù jiāo gěi zì jǐ ， jiù yīng gāi rèn zhēn zuò hǎo 。 chū fā qián yī tiān ， kè hù lín shí gǎi le jiàn miàn shí jiān ， tā mǎ shàng lián xì tóng shì tiáo zhěng jì huà ， méi yǒu děng dào zuì hòu cái chǔ lǐ 。 huí lái yǐ hòu ， jiě jiě gào sù wǒ ， tán chéng shēng yì gù rán zhòng yào ， gèng zhòng yào de shì ràng kè hù kàn dào zì jǐ fù zé de tài dù 。 měi cì chū chāi yù dào de shì qíng ， dōu néng chéng wéi jīn hòu gōng zuò de jīng yàn 。",
+      "translation": "Chị sắp công tác gặp khách mới. Chị tìm hiểu sản phẩm, ghi câu hỏi trước. Khi khách đổi lịch, chị liên hệ đồng nghiệp điều chỉnh ngay. Chị nói đã được giao việc thì phải làm nghiêm túc; ngoài kết quả thương vụ, thái độ có trách nhiệm cũng quan trọng, và mỗi chuyến đi giúp tích lũy kinh nghiệm.",
+      "questions": [
+        {
+          "id": "hsk4-L07-R02-Q01",
+          "kind": "Nội dung",
+          "question": "姐姐出差主要做什么？",
+          "options": [
+            "和新客户谈生意",
+            "参观所有景点",
+            "申请新的学校",
+            "给家人挂号"
+          ],
+          "answer": "和新客户谈生意",
+          "explanation": "Theo đoạn: “和一位新客户谈生意”. Đáp án phù hợp: “和新客户谈生意”."
+        },
+        {
+          "id": "hsk4-L07-R02-Q02",
+          "kind": "Nội dung",
+          "question": "她为什么把内容写成材料？",
+          "options": [
+            "便于见面时提问",
+            "为了不再见客户",
+            "准备卖给同事",
+            "让客户替她做全部工作"
+          ],
+          "answer": "便于见面时提问",
+          "explanation": "Theo đoạn: “便于见面时及时提问”. Đáp án phù hợp: “便于见面时提问”."
+        },
+        {
+          "id": "hsk4-L07-R02-Q03",
+          "kind": "Nội dung",
+          "question": "客户改时间后，姐姐怎样处理？",
+          "options": [
+            "马上联系同事调整计划",
+            "一直等到最后",
+            "不再去出差",
+            "没有告诉任何人"
+          ],
+          "answer": "马上联系同事调整计划",
+          "explanation": "Theo đoạn: “马上联系同事调整计划”. Đáp án phù hợp: “马上联系同事调整计划”."
+        },
+        {
+          "id": "hsk4-L07-R02-Q04",
+          "kind": "Ý chính",
+          "question": "文章主要介绍什么？",
+          "options": [
+            "认真准备并及时处理工作变化",
+            "只要出差就能成功",
+            "做生意不需要了解产品",
+            "客户应该替员工安排所有任务"
+          ],
+          "answer": "认真准备并及时处理工作变化",
+          "explanation": "Theo đoạn: “就应该认真做好”. Đáp án phù hợp: “认真准备并及时处理工作变化”."
+        },
+        {
+          "id": "hsk4-L07-R02-Q05",
+          "kind": "Suy luận",
+          "question": "姐姐认为出差还能带来什么？",
+          "options": [
+            "今后可以使用的工作经验",
+            "所有问题的最终答案",
+            "不用准备材料的机会",
+            "永远不改时间的保证"
+          ],
+          "answer": "今后可以使用的工作经验",
+          "explanation": "Theo đoạn: “都能成为今后工作的经验”. Đáp án phù hợp: “今后可以使用的工作经验”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L07-R03",
+      "lesson": 7,
+      "title": "Lắng nghe góp ý để sửa sản phẩm",
+      "text": "公司准备改进一款产品，经理请大家说说自己的看法。小周只介绍优点，不好意思提缺点。经理提醒他，真正有用的意见不一定都是好听的话，发现问题才能改进。于是，小周把客户使用时遇到的困难详细说明，还提出一个新的想法。同事们一起讨论，决定先做一个小范围的测试，再根据实际效果调整。几周以后，客户说产品更方便了。小周发现，细心听取不同的意见，不仅不会影响合作，反而能使团队更快找到合适的方法。",
+      "pinyin": "gōng sī zhǔn bèi gǎi jìn yī kuǎn chǎn pǐn ， jīng lǐ qǐng dà jiā shuō shuō zì jǐ de kàn fǎ 。 xiǎo zhōu zhǐ jiè shào yōu diǎn ， bù hǎo yì sī tí quē diǎn 。 jīng lǐ tí xǐng tā ， zhēn zhèng yǒu yòng de yì jiàn bù yí dìng dōu shì hǎo tīng de huà ， fā xiàn wèn tí cái néng gǎi jìn 。 yú shì ， xiǎo zhōu bǎ kè hù shǐ yòng shí yù dào de kùn nán xiáng xì shuō míng ， hái tí chū yí gè xīn de xiǎng fǎ 。 tóng shì men yì qǐ tǎo lùn ， jué dìng xiān zuò yí gè xiǎo fàn wéi de cè shì ， zài gēn jù shí jì xiào guǒ tiáo zhěng 。 jǐ zhōu yǐ hòu ， kè hù shuō chǎn pǐn gèng fāng biàn le 。 xiǎo zhōu fā xiàn ， xì xīn tīng qǔ bù tóng de yì jiàn ， bù jǐn bú huì yǐng xiǎng hé zuò ， fǎn ér néng shǐ tuán duì gèng kuài zhǎo dào hé shì de fāng fǎ 。",
+      "translation": "Công ty muốn cải tiến sản phẩm. Tiểu Châu ngại nói nhược điểm, được quản lý nhắc rằng ý kiến hữu ích không phải lúc nào cũng dễ nghe. Anh nêu khó khăn của khách và ý tưởng mới. Nhóm thử ở phạm vi nhỏ rồi điều chỉnh theo hiệu quả. Khách thấy tiện hơn. Anh hiểu lắng nghe nhiều ý kiến giúp hợp tác và tìm cách phù hợp.",
+      "questions": [
+        {
+          "id": "hsk4-L07-R03-Q01",
+          "kind": "Nội dung",
+          "question": "小周开始为什么只说优点？",
+          "options": [
+            "不好意思提缺点",
+            "完全没有用过产品",
+            "经理不让他说话",
+            "客户从来没有意见"
+          ],
+          "answer": "不好意思提缺点",
+          "explanation": "Theo đoạn: “不好意思提缺点”. Đáp án phù hợp: “不好意思提缺点”."
+        },
+        {
+          "id": "hsk4-L07-R03-Q02",
+          "kind": "Nội dung",
+          "question": "经理认为怎样才能改进？",
+          "options": [
+            "先发现问题",
+            "只听好听的话",
+            "不让客户使用产品",
+            "停止所有讨论"
+          ],
+          "answer": "先发现问题",
+          "explanation": "Theo đoạn: “发现问题才能改进”. Đáp án phù hợp: “先发现问题”."
+        },
+        {
+          "id": "hsk4-L07-R03-Q03",
+          "kind": "Nội dung",
+          "question": "团队决定先做什么？",
+          "options": [
+            "小范围测试",
+            "马上停止生产",
+            "让客户重新购买",
+            "更换所有同事"
+          ],
+          "answer": "小范围测试",
+          "explanation": "Theo đoạn: “先做一个小范围的测试”. Đáp án phù hợp: “小范围测试”."
+        },
+        {
+          "id": "hsk4-L07-R03-Q04",
+          "kind": "Ý chính",
+          "question": "文章主要说明什么？",
+          "options": [
+            "听取不同意见有助于改进工作",
+            "提出缺点一定会影响合作",
+            "产品的优点不需要了解",
+            "客户只能接受现有产品"
+          ],
+          "answer": "听取不同意见有助于改进工作",
+          "explanation": "Theo đoạn: “细心听取不同的意见”. Đáp án phù hợp: “听取不同意见有助于改进工作”."
+        },
+        {
+          "id": "hsk4-L07-R03-Q05",
+          "kind": "Suy luận",
+          "question": "客户的反馈说明了什么？",
+          "options": [
+            "改进取得了实际效果",
+            "所有测试都没有作用",
+            "产品比以前更难使用",
+            "公司没有采纳任何建议"
+          ],
+          "answer": "改进取得了实际效果",
+          "explanation": "Theo đoạn: “客户说产品更方便了”. Đáp án phù hợp: “改进取得了实际效果”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L07-R04",
+      "lesson": 7,
+      "title": "Thông báo kịp thời khi gặp khó khăn",
+      "text": "实习第一周，我负责整理一份客户材料。为了不打扰同事，我遇到不明白的内容也没有问，结果花了很长时间，还是整理错了。负责人没有生气，只是告诉我，及时说明困难也是工作能力的一部分。第二次接到任务时，我先确认要求，再把计划交给同事看。有问题就集中写下来，在约好的时间一起问清楚。材料提前完成了，也没有影响别人的工作。我慢慢明白，独立工作不是所有事情都自己猜，而是知道什么时候需要交流。",
+      "pinyin": "shí xí dì yī zhōu ， wǒ fù zé zhěng lǐ yī fèn kè hù cái liào 。 wèi le bù dǎ rǎo tóng shì ， wǒ yù dào bù míng bái de nèi róng yě méi yǒu wèn ， jié guǒ huā le hěn zhǎng shí jiān ， hái shì zhěng lǐ cuò le 。 fù zé rén méi yǒu shēng qì ， zhǐ shì gào sù wǒ ， jí shí shuō míng kùn nán yě shì gōng zuò néng lì de yī bù fèn 。 dì èr cì jiē dào rèn wù shí ， wǒ xiān què rèn yāo qiú ， zài bǎ jì huà jiāo gěi tóng shì kàn 。 yǒu wèn tí jiù jí zhōng xiě xià lái ， zài yuē hǎo de shí jiān yì qǐ wèn qīng chǔ 。 cái liào tí qián wán chéng le ， yě méi yǒu yǐng xiǎng bié rén de gōng zuò 。 wǒ màn màn míng bái ， dú lì gōng zuò bú shì suǒ yǒu shì qíng dōu zì jǐ cāi ， ér shì zhī dào shén me shí hòu xū yào jiāo liú 。",
+      "translation": "Tuần thực tập đầu tôi không hỏi đồng nghiệp vì sợ làm phiền, nên mất lâu vẫn làm sai tài liệu. Người phụ trách nói nêu khó khăn kịp thời cũng là năng lực. Lần sau tôi xác nhận yêu cầu, lập kế hoạch và gom câu hỏi để hỏi vào giờ hẹn. Tài liệu xong sớm, không ảnh hưởng người khác. Tôi hiểu độc lập không có nghĩa tự đoán mọi việc.",
+      "questions": [
+        {
+          "id": "hsk4-L07-R04-Q01",
+          "kind": "Nội dung",
+          "question": "作者第一次整理材料时为什么没有提问？",
+          "options": [
+            "怕打扰同事",
+            "已经完全理解任务",
+            "同事不在这座城市",
+            "负责人禁止交流"
+          ],
+          "answer": "怕打扰同事",
+          "explanation": "Theo đoạn: “为了不打扰同事”. Đáp án phù hợp: “怕打扰同事”."
+        },
+        {
+          "id": "hsk4-L07-R04-Q02",
+          "kind": "Nội dung",
+          "question": "第一次任务的结果怎么样？",
+          "options": [
+            "花很久还是整理错了",
+            "提前完成并受到表扬",
+            "根本没有开始",
+            "由客户全部完成"
+          ],
+          "answer": "花很久还是整理错了",
+          "explanation": "Theo đoạn: “还是整理错了”. Đáp án phù hợp: “花很久还是整理错了”."
+        },
+        {
+          "id": "hsk4-L07-R04-Q03",
+          "kind": "Nội dung",
+          "question": "第二次接到任务，作者先做什么？",
+          "options": [
+            "确认要求",
+            "马上猜答案",
+            "等到最后再处理",
+            "让客户修改时间"
+          ],
+          "answer": "确认要求",
+          "explanation": "Theo đoạn: “先确认要求”. Đáp án phù hợp: “确认要求”."
+        },
+        {
+          "id": "hsk4-L07-R04-Q04",
+          "kind": "Ý chính",
+          "question": "文章主要谈什么？",
+          "options": [
+            "工作中及时沟通的重要性",
+            "实习生不能独立完成任务",
+            "整理材料只需要速度",
+            "负责人不喜欢别人提问"
+          ],
+          "answer": "工作中及时沟通的重要性",
+          "explanation": "Theo đoạn: “知道什么时候需要交流”. Đáp án phù hợp: “工作中及时沟通的重要性”."
+        },
+        {
+          "id": "hsk4-L07-R04-Q05",
+          "kind": "Suy luận",
+          "question": "作者怎样理解独立工作？",
+          "options": [
+            "也需要在合适的时候交流",
+            "永远不能向别人请教",
+            "只要自己猜就可以",
+            "所有任务都应该交给同事"
+          ],
+          "answer": "也需要在合适的时候交流",
+          "explanation": "Theo đoạn: “独立工作不是所有事情都自己猜”. Đáp án phù hợp: “也需要在合适的时候交流”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L07-R05",
+      "lesson": 7,
+      "title": "Nhìn lại một tháng làm việc",
+      "text": "进入社会后的第一个月，小安每天都很忙，却说不清自己学到了什么。老师建议他每周写一次工作记录，分清完成的任务、遇到的困难和解决的方法。小安照着做，慢慢发现自己在时间管理方面还有很多需要改进的地方。拿整理资料来说，以前他总是最后才开始，现在会提前分成几步完成。一个月以后，他不再经常加班，交出的内容也更细心。他觉得，积累经验不只是做过多少事，还要想一想为什么这样做，以及今后可以怎样做得更好。",
+      "pinyin": "jìn rù shè huì hòu de dì yí gè yuè ， xiǎo ān měi tiān dōu hěn máng ， què shuō bù qīng zì jǐ xué dào le shén me 。 lǎo shī jiàn yì tā měi zhōu xiě yī cì gōng zuò jì lù ， fēn qīng wán chéng de rèn wù 、 yù dào de kùn nán hé jiě jué de fāng fǎ 。 xiǎo ān zhào zhe zuò ， màn màn fā xiàn zì jǐ zài shí jiān guǎn lǐ fāng miàn hái yǒu hěn duō xū yào gǎi jìn de dì fāng 。 ná zhěng lǐ zī liào lái shuō ， yǐ qián tā zǒng shì zuì hòu cái kāi shǐ ， xiàn zài huì tí qián fēn chéng jǐ bù wán chéng 。 yí gè yuè yǐ hòu ， tā bù zài jīng cháng jiā bān ， jiāo chū de nèi róng yě gèng xì xīn 。 tā jué de ， jī lěi jīng yàn bù zhǐ shì zuò guò duō shǎo shì ， hái yào xiǎng yī xiǎng wèi shén me zhè yàng zuò ， yǐ jí jīn hòu kě yǐ zěn yàng zuò dé gèng hǎo 。",
+      "translation": "Tháng đầu đi làm, Tiểu An bận nhưng không rõ đã học gì. Giáo viên khuyên ghi việc, khó khăn, cách giải quyết mỗi tuần. Anh nhận ra cần cải thiện quản lý thời gian. Với việc sắp tài liệu, anh chia bước làm sớm thay vì để cuối. Một tháng sau ít tăng ca và cẩn thận hơn. Anh hiểu tích lũy cần nhìn lại lý do và cách cải tiến.",
+      "questions": [
+        {
+          "id": "hsk4-L07-R05-Q01",
+          "kind": "Nội dung",
+          "question": "老师建议小安做什么？",
+          "options": [
+            "每周写工作记录",
+            "停止整理所有资料",
+            "每天换一家公司",
+            "不要再想工作内容"
+          ],
+          "answer": "每周写工作记录",
+          "explanation": "Theo đoạn: “每周写一次工作记录”. Đáp án phù hợp: “每周写工作记录”."
+        },
+        {
+          "id": "hsk4-L07-R05-Q02",
+          "kind": "Nội dung",
+          "question": "小安发现自己在哪方面需要改进？",
+          "options": [
+            "时间管理",
+            "客户的国籍",
+            "产品的颜色",
+            "办公室的位置"
+          ],
+          "answer": "时间管理",
+          "explanation": "Theo đoạn: “在时间管理方面还有很多需要改进的地方”. Đáp án phù hợp: “时间管理”."
+        },
+        {
+          "id": "hsk4-L07-R05-Q03",
+          "kind": "Nội dung",
+          "question": "现在他怎样整理资料？",
+          "options": [
+            "提前分成几步完成",
+            "最后一天才开始",
+            "完全交给老师做",
+            "每天只整理一张纸"
+          ],
+          "answer": "提前分成几步完成",
+          "explanation": "Theo đoạn: “提前分成几步完成”. Đáp án phù hợp: “提前分成几步完成”."
+        },
+        {
+          "id": "hsk4-L07-R05-Q04",
+          "kind": "Ý chính",
+          "question": "文章主要说明什么？",
+          "options": [
+            "通过总结工作积累经验",
+            "只要加班就能提高能力",
+            "所有记录都会浪费时间",
+            "进入社会后不用再学习"
+          ],
+          "answer": "通过总结工作积累经验",
+          "explanation": "Theo đoạn: “还要想一想为什么这样做”. Đáp án phù hợp: “通过总结工作积累经验”."
+        },
+        {
+          "id": "hsk4-L07-R05-Q05",
+          "kind": "Suy luận",
+          "question": "从小安的变化可以看出什么？",
+          "options": [
+            "反思方法能改善工作效果",
+            "工作记录只能增加压力",
+            "提前安排没有实际作用",
+            "做过的事情越少经验越多"
+          ],
+          "answer": "反思方法能改善工作效果",
+          "explanation": "Theo đoạn: “不再经常加班，交出的内容也更细心”. Đáp án phù hợp: “反思方法能改善工作效果”."
+        }
+      ],
+      "sourceType": "supplementary"
+    }
+  ],
+  "writing": {
+    "title": "Điều học được từ một nhiệm vụ",
+    "prompt": "Hãy viết khoảng 100–150 chữ Hán về một nhiệm vụ học tập hoặc công việc, khó khăn và kinh nghiệm tích lũy.",
+    "suggestedWords": [
+      "调查",
+      "任务",
+      "客户",
+      "经验",
+      "能力"
+    ],
+    "suggestedGrammar": [
+      "在 + Lĩnh vực + 方面",
+      "既然 + Tiền đề，就 + Kết luận"
+    ],
+    "outline": [
+      "Giới thiệu nhiệm vụ và kế hoạch.",
+      "Nêu khó khăn, cách hỏi hoặc điều chỉnh.",
+      "Rút ra kinh nghiệm cho lần sau.",
+      "Kiểm tra trật tự từ và các cấu trúc ngữ pháp đã học."
+    ],
+    "sample": "进入公司以后，我第一次负责市场调查。开始，我不清楚客户真正需要什么，采访内容也不够具体。同事建议我先写计划，在问题安排方面多想一想。我改了材料，再去了解产品的优点和缺点。既然接到了任务，就应该认真完成。最后，经理说调查的效果不错。我明白，积累经验需要实际行动，也需要及时向别人请教。",
+    "samplePinyin": "jìn rù gōng sī yǐ hòu ， wǒ dì yī cì fù zé shì chǎng diào chá 。 kāi shǐ ， wǒ bù qīng chǔ kè hù zhēn zhèng xū yào shén me ， cǎi fǎng nèi róng yě bù gòu jù tǐ 。 tóng shì jiàn yì wǒ xiān xiě jì huà ， zài wèn tí ān pái fāng miàn duō xiǎng yī xiǎng 。 wǒ gǎi le cái liào ， zài qù liǎo jiě chǎn pǐn de yōu diǎn hé quē diǎn 。 jì rán jiē dào le rèn wù ， jiù yīng gāi rèn zhēn wán chéng 。 zuì hòu ， jīng lǐ shuō diào chá de xiào guǒ bù cuò 。 wǒ míng bái ， jī lěi jīng yàn xū yào shí jì xíng dòng ， yě xū yào jí shí xiàng bié rén qǐng jiào 。",
+    "translation": "Khi vào công ty, tôi lần đầu phụ trách khảo sát. Ban đầu chưa rõ nhu cầu khách, nội dung phỏng vấn chưa cụ thể. Đồng nghiệp khuyên lập kế hoạch, cân nhắc câu hỏi. Tôi sửa rồi tìm hiểu ưu nhược sản phẩm. Đã nhận nhiệm vụ thì cần làm nghiêm túc. Quản lý khen hiệu quả. Tôi hiểu tích lũy cần làm thực tế và hỏi kịp thời."
+  }
+}

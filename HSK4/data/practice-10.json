@@ -1,0 +1,1253 @@
+{
+  "lesson": 10,
+  "sourceType": "supplementary",
+  "vocabulary": [
+    {
+      "wordId": "hsk4-L10-01",
+      "tokens": [
+        "那个",
+        "小伙子",
+        "很帅",
+        "。"
+      ],
+      "cloze": "那个＿＿＿很帅。",
+      "answer": "小伙子",
+      "options": [
+        "小伙子",
+        "植物",
+        "资源",
+        "气温"
+      ],
+      "explanation": "Điền 小伙子 (chàng trai trẻ) theo cách dùng trong câu: Anh chàng đó rất đẹp trai."
+    },
+    {
+      "wordId": "hsk4-L10-02",
+      "tokens": [
+        "明天",
+        "气温",
+        "会",
+        "下降",
+        "。"
+      ],
+      "cloze": "明天＿＿＿会下降。",
+      "answer": "气温",
+      "options": [
+        "气温",
+        "垃圾",
+        "方言",
+        "资源"
+      ],
+      "explanation": "Điền 气温 (nhiệt độ không khí) theo cách dùng trong câu: Nhiệt độ ngày mai sẽ giảm."
+    },
+    {
+      "wordId": "hsk4-L10-03",
+      "tokens": [
+        "夜里",
+        "气温",
+        "降到",
+        "了",
+        "零下",
+        "五度",
+        "。"
+      ],
+      "cloze": "夜里气温降到了零下五＿＿＿。",
+      "answer": "度",
+      "options": [
+        "度",
+        "公里",
+        "垃圾",
+        "分类"
+      ],
+      "explanation": "Điền 度 (độ) theo cách dùng trong câu: Ban đêm nhiệt độ giảm xuống âm năm độ."
+    },
+    {
+      "wordId": "hsk4-L10-04",
+      "tokens": [
+        "不",
+        "穿",
+        "外套",
+        "会冻",
+        "感冒",
+        "的",
+        "。"
+      ],
+      "cloze": "不穿外套会＿＿＿感冒的。",
+      "answer": "冻",
+      "options": [
+        "冻",
+        "厚",
+        "浪费",
+        "节约"
+      ],
+      "explanation": "Điền 冻 (rét cóng; đông cứng) theo cách dùng trong câu: Không mặc áo khoác sẽ bị lạnh đến cảm."
+    },
+    {
+      "wordId": "hsk4-L10-05",
+      "tokens": [
+        "我",
+        "后悔",
+        "没有",
+        "早点",
+        "回家",
+        "。"
+      ],
+      "cloze": "我＿＿＿没有早点回家。",
+      "answer": "后悔",
+      "options": [
+        "后悔",
+        "拒绝",
+        "引起",
+        "开展"
+      ],
+      "explanation": "Điền 后悔 (hối hận) theo cách dùng trong câu: Tôi hối hận vì không về nhà sớm hơn."
+    },
+    {
+      "wordId": "hsk4-L10-06",
+      "tokens": [
+        "他",
+        "就是",
+        "我",
+        "跟",
+        "你",
+        "说",
+        "的",
+        "那个",
+        "人",
+        "。"
+      ],
+      "cloze": "他＿＿＿我跟你说的那个人。",
+      "answer": "就是",
+      "options": [
+        "就是",
+        "此外",
+        "而",
+        "再次"
+      ],
+      "explanation": "Điền 就是 (đúng vậy; chính là) theo cách dùng trong câu: Anh ấy chính là người tôi đã nói với bạn."
+    },
+    {
+      "wordId": "hsk4-L10-07",
+      "tokens": [
+        "今天",
+        "的",
+        "温度",
+        "是",
+        "零下",
+        "十五",
+        "度",
+        "。"
+      ],
+      "cloze": "今天的＿＿＿是零下十五度。",
+      "answer": "温度",
+      "options": [
+        "温度",
+        "垃圾",
+        "方言",
+        "资源"
+      ],
+      "explanation": "Điền 温度 (nhiệt độ) theo cách dùng trong câu: Nhiệt độ hôm nay là âm mười lăm độ."
+    },
+    {
+      "wordId": "hsk4-L10-08",
+      "tokens": [
+        "这",
+        "两件事",
+        "没什么",
+        "差别",
+        "。"
+      ],
+      "cloze": "这两件事没什么＿＿＿。",
+      "answer": "差别",
+      "options": [
+        "差别",
+        "气温",
+        "垃圾",
+        "方言"
+      ],
+      "explanation": "Điền 差别 (sự khác biệt) theo cách dùng trong câu: Hai chuyện này chẳng có khác biệt gì."
+    },
+    {
+      "wordId": "hsk4-L10-09",
+      "tokens": [
+        "冬天",
+        "我",
+        "买",
+        "了",
+        "一件",
+        "厚",
+        "外套",
+        "。"
+      ],
+      "cloze": "冬天我买了一件＿＿＿外套。",
+      "answer": "厚",
+      "options": [
+        "厚",
+        "暖和",
+        "绿色",
+        "日常"
+      ],
+      "explanation": "Điền 厚 (dày) theo cách dùng trong câu: Mùa đông tôi mua một chiếc áo khoác dày."
+    },
+    {
+      "wordId": "hsk4-L10-10",
+      "tokens": [
+        "寒假",
+        "我",
+        "打算",
+        "去",
+        "北方",
+        "旅行",
+        "。"
+      ],
+      "cloze": "＿＿＿我打算去北方旅行。",
+      "answer": "寒假",
+      "options": [
+        "寒假",
+        "植物",
+        "资源",
+        "方言"
+      ],
+      "explanation": "Điền 寒假 (kỳ nghỉ đông) theo cách dùng trong câu: Kỳ nghỉ đông tôi dự định du lịch miền Bắc."
+    },
+    {
+      "wordId": "hsk4-L10-11",
+      "tokens": [
+        "屋子里",
+        "很",
+        "暖和",
+        "。"
+      ],
+      "cloze": "屋子里很＿＿＿。",
+      "answer": "暖和",
+      "options": [
+        "暖和",
+        "厚",
+        "环保",
+        "日常"
+      ],
+      "explanation": "Điền 暖和 (ấm áp) theo cách dùng trong câu: Trong nhà rất ấm áp."
+    },
+    {
+      "wordId": "hsk4-L10-12",
+      "tokens": [
+        "今天",
+        "气温",
+        "低于",
+        "五度",
+        "。"
+      ],
+      "cloze": "今天气温＿＿＿五度。",
+      "answer": "低于",
+      "options": [
+        "低于",
+        "举办",
+        "开展",
+        "拒绝"
+      ],
+      "explanation": "Điền 低于 (thấp hơn) theo cách dùng trong câu: Hôm nay nhiệt độ thấp hơn năm độ."
+    },
+    {
+      "wordId": "hsk4-L10-13",
+      "tokens": [
+        "现在",
+        "是",
+        "多少",
+        "摄氏度",
+        "？"
+      ],
+      "cloze": "现在是多少＿＿＿？",
+      "answer": "摄氏度",
+      "options": [
+        "摄氏度",
+        "公里",
+        "垃圾",
+        "分类"
+      ],
+      "explanation": "Điền 摄氏度 (độ C) theo cách dùng trong câu: Bây giờ là bao nhiêu độ C?"
+    },
+    {
+      "wordId": "hsk4-L10-14",
+      "tokens": [
+        "外面",
+        "太冷",
+        "了",
+        "，",
+        "我",
+        "真的",
+        "受不了",
+        "。"
+      ],
+      "cloze": "外面太冷了，我真的＿＿＿。",
+      "answer": "受不了",
+      "options": [
+        "受不了",
+        "举办",
+        "开展",
+        "拒绝"
+      ],
+      "explanation": "Điền 受不了 (không chịu nổi) theo cách dùng trong câu: Ngoài trời quá lạnh, tôi thật sự không chịu nổi."
+    },
+    {
+      "wordId": "hsk4-L10-15",
+      "tokens": [
+        "学校",
+        "下个月",
+        "要",
+        "举办",
+        "运动会",
+        "。"
+      ],
+      "cloze": "学校下个月要＿＿＿运动会。",
+      "answer": "举办",
+      "options": [
+        "举办",
+        "节约",
+        "浪费",
+        "使用"
+      ],
+      "explanation": "Điền 举办 (tổ chức) theo cách dùng trong câu: Tháng sau trường sẽ tổ chức đại hội thể thao."
+    },
+    {
+      "wordId": "hsk4-L10-16",
+      "tokens": [
+        "商店",
+        "里",
+        "有",
+        "各种各样",
+        "的",
+        "食物",
+        "。"
+      ],
+      "cloze": "商店里有＿＿＿各样的食物。",
+      "answer": "各种",
+      "options": [
+        "各种",
+        "再次",
+        "此外",
+        "而"
+      ],
+      "explanation": "Điền 各种 (các loại) theo cách dùng trong câu: Cửa hàng có đủ các loại thức ăn."
+    },
+    {
+      "wordId": "hsk4-L10-17",
+      "tokens": [
+        "房间",
+        "里",
+        "放",
+        "一些",
+        "植物",
+        "会",
+        "很",
+        "好看",
+        "。",
+        "植物园",
+        "里",
+        "有",
+        "各种各样",
+        "的",
+        "植物",
+        "。"
+      ],
+      "cloze": "房间里放一些＿＿＿会很好看。植物园里有各种各样的植物。",
+      "answer": "植物",
+      "options": [
+        "植物",
+        "资源",
+        "垃圾",
+        "方言"
+      ],
+      "explanation": "Điền 植物 (thực vật) theo cách dùng trong câu: Đặt vài cây xanh trong phòng sẽ rất đẹp. Trong vườn thực vật có đủ các loại cây."
+    },
+    {
+      "wordId": "hsk4-L10-18",
+      "tokens": [
+        "我",
+        "每天",
+        "跑步",
+        "五公里",
+        "。"
+      ],
+      "cloze": "我每天跑步五＿＿＿。",
+      "answer": "公里",
+      "options": [
+        "公里",
+        "摄氏度",
+        "方言",
+        "分类"
+      ],
+      "explanation": "Điền 公里 (ki-lô-mét) theo cách dùng trong câu: Mỗi ngày tôi chạy bộ năm cây số."
+    },
+    {
+      "wordId": "hsk4-L10-19",
+      "tokens": [
+        "这座",
+        "城市",
+        "的",
+        "气候",
+        "很",
+        "舒服",
+        "。"
+      ],
+      "cloze": "这座城市的＿＿＿很舒服。",
+      "answer": "气候",
+      "options": [
+        "气候",
+        "垃圾",
+        "植物",
+        "资源"
+      ],
+      "explanation": "Điền 气候 (khí hậu) theo cách dùng trong câu: Khí hậu thành phố này rất dễ chịu."
+    },
+    {
+      "wordId": "hsk4-L10-20",
+      "tokens": [
+        "南方",
+        "暖和",
+        "，",
+        "而",
+        "北方",
+        "很",
+        "冷",
+        "。"
+      ],
+      "cloze": "南方暖和，＿＿＿北方很冷。",
+      "answer": "而",
+      "options": [
+        "而",
+        "此外",
+        "再次",
+        "较"
+      ],
+      "explanation": "Điền 而 (mà; nhưng) theo cách dùng trong câu: Miền Nam ấm áp, còn miền Bắc lạnh."
+    },
+    {
+      "wordId": "hsk4-L10-21",
+      "tokens": [
+        "这里",
+        "冬天",
+        "很",
+        "冷",
+        "，",
+        "此外",
+        "风",
+        "也",
+        "很大",
+        "。"
+      ],
+      "cloze": "这里冬天很冷，＿＿＿风也很大。",
+      "answer": "此外",
+      "options": [
+        "此外",
+        "而",
+        "较",
+        "光"
+      ],
+      "explanation": "Điền 此外 (ngoài ra) theo cách dùng trong câu: Ở đây mùa đông rất lạnh, ngoài ra gió cũng mạnh."
+    },
+    {
+      "wordId": "hsk4-L10-22",
+      "tokens": [
+        "有些",
+        "老人",
+        "只会",
+        "说",
+        "方言",
+        "。"
+      ],
+      "cloze": "有些老人只会说＿＿＿。",
+      "answer": "方言",
+      "options": [
+        "方言",
+        "资源",
+        "气温",
+        "植物"
+      ],
+      "explanation": "Điền 方言 (phương ngữ) theo cách dùng trong câu: Một số người già chỉ biết nói tiếng địa phương."
+    },
+    {
+      "wordId": "hsk4-L10-23",
+      "tokens": [
+        "我",
+        "的",
+        "普通话",
+        "说",
+        "得",
+        "不太好",
+        "。"
+      ],
+      "cloze": "我的＿＿＿说得不太好。",
+      "answer": "普通话",
+      "options": [
+        "普通话",
+        "资源",
+        "温度",
+        "垃圾"
+      ],
+      "explanation": "Điền 普通话 (tiếng Phổ thông) theo cách dùng trong câu: Tôi nói tiếng Phổ thông chưa tốt lắm."
+    },
+    {
+      "wordId": "hsk4-L10-24",
+      "tokens": [
+        "冬天",
+        "温度",
+        "差别",
+        "较大",
+        "。"
+      ],
+      "cloze": "冬天温度差别＿＿＿大。",
+      "answer": "较",
+      "options": [
+        "较",
+        "资源",
+        "植物",
+        "垃圾"
+      ],
+      "explanation": "Điền 较 (tương đối) theo cách dùng trong câu: Chênh lệch nhiệt độ mùa đông khá lớn."
+    },
+    {
+      "wordId": "hsk4-L10-25",
+      "tokens": [
+        "这个",
+        "应该",
+        "如何",
+        "使用",
+        "？"
+      ],
+      "cloze": "这个应该如何＿＿＿？",
+      "answer": "使用",
+      "options": [
+        "使用",
+        "拒绝",
+        "引起",
+        "举办"
+      ],
+      "explanation": "Điền 使用 (sử dụng) theo cách dùng trong câu: Cái này nên sử dụng như thế nào?"
+    },
+    {
+      "wordId": "hsk4-L10-26",
+      "tokens": [
+        "这件",
+        "事",
+        "引起",
+        "了",
+        "大火",
+        "。"
+      ],
+      "cloze": "这件事＿＿＿了大火。",
+      "answer": "引起",
+      "options": [
+        "引起",
+        "节约",
+        "拒绝",
+        "使用"
+      ],
+      "explanation": "Điền 引起 (gây ra) theo cách dùng trong câu: Chuyện này đã gây ra một đám cháy lớn."
+    },
+    {
+      "wordId": "hsk4-L10-27",
+      "tokens": [
+        "你",
+        "误会",
+        "我",
+        "的",
+        "意思",
+        "了",
+        "。"
+      ],
+      "cloze": "你＿＿＿我的意思了。",
+      "answer": "误会",
+      "options": [
+        "误会",
+        "浪费",
+        "举办",
+        "分类"
+      ],
+      "explanation": "Điền 误会 (hiểu lầm) theo cách dùng trong câu: Bạn đã hiểu nhầm ý tôi rồi."
+    },
+    {
+      "wordId": "hsk4-L10-28",
+      "tokens": [
+        "亲爱",
+        "的",
+        "朋友",
+        "们",
+        "，",
+        "你们好",
+        "！"
+      ],
+      "cloze": "＿＿＿的朋友们，你们好！",
+      "answer": "亲爱",
+      "options": [
+        "亲爱",
+        "绿色",
+        "暖和",
+        "环保"
+      ],
+      "explanation": "Điền 亲爱 (thân yêu) theo cách dùng trong câu: Chào các bạn thân mến!"
+    },
+    {
+      "wordId": "hsk4-L10-29",
+      "tokens": [
+        "欢迎",
+        "再次",
+        "来到",
+        "中国",
+        "。"
+      ],
+      "cloze": "欢迎＿＿＿来到中国。",
+      "answer": "再次",
+      "options": [
+        "再次",
+        "资源",
+        "植物",
+        "垃圾"
+      ],
+      "explanation": "Điền 再次 (lần nữa) theo cách dùng trong câu: Chào mừng các bạn lại đến Trung Quốc."
+    },
+    {
+      "wordId": "hsk4-L10-30",
+      "tokens": [
+        "我们",
+        "班",
+        "开展",
+        "了",
+        "读书",
+        "比赛",
+        "。"
+      ],
+      "cloze": "我们班＿＿＿了读书比赛。",
+      "answer": "开展",
+      "options": [
+        "开展",
+        "节约",
+        "浪费",
+        "使用"
+      ],
+      "explanation": "Điền 开展 (triển khai) theo cách dùng trong câu: Lớp chúng tôi triển khai cuộc thi đọc sách."
+    },
+    {
+      "wordId": "hsk4-L10-31",
+      "tokens": [
+        "我们",
+        "要",
+        "绿色",
+        "出行",
+        "。"
+      ],
+      "cloze": "我们要＿＿＿出行。",
+      "answer": "绿色",
+      "options": [
+        "绿色",
+        "暖和",
+        "厚",
+        "日常"
+      ],
+      "explanation": "Điền 绿色 (xanh; thân thiện môi trường) theo cách dùng trong câu: Chúng ta cần đi lại theo cách thân thiện với môi trường."
+    },
+    {
+      "wordId": "hsk4-L10-32",
+      "tokens": [
+        "这个",
+        "咖啡杯",
+        "很",
+        "环保",
+        "。"
+      ],
+      "cloze": "这个咖啡杯很＿＿＿。",
+      "answer": "环保",
+      "options": [
+        "环保",
+        "厚",
+        "暖和",
+        "亲爱"
+      ],
+      "explanation": "Điền 环保 (bảo vệ môi trường) theo cách dùng trong câu: Chiếc cốc cà phê này rất thân thiện với môi trường."
+    },
+    {
+      "wordId": "hsk4-L10-33",
+      "tokens": [
+        "他",
+        "拒绝",
+        "明天",
+        "加班",
+        "。"
+      ],
+      "cloze": "他＿＿＿明天加班。",
+      "answer": "拒绝",
+      "options": [
+        "拒绝",
+        "举办",
+        "开展",
+        "分类"
+      ],
+      "explanation": "Điền 拒绝 (từ chối) theo cách dùng trong câu: Anh ấy từ chối làm thêm giờ ngày mai."
+    },
+    {
+      "wordId": "hsk4-L10-34",
+      "tokens": [
+        "请",
+        "不要",
+        "浪费",
+        "水",
+        "。"
+      ],
+      "cloze": "请不要＿＿＿水。",
+      "answer": "浪费",
+      "options": [
+        "浪费",
+        "节约",
+        "拒绝",
+        "使用"
+      ],
+      "explanation": "Điền 浪费 (lãng phí) theo cách dùng trong câu: Xin đừng lãng phí nước."
+    },
+    {
+      "wordId": "hsk4-L10-35",
+      "tokens": [
+        "我们",
+        "要",
+        "节约",
+        "每",
+        "一滴水",
+        "。"
+      ],
+      "cloze": "我们要＿＿＿每一滴水。",
+      "answer": "节约",
+      "options": [
+        "节约",
+        "浪费",
+        "拒绝",
+        "举办"
+      ],
+      "explanation": "Điền 节约 (tiết kiệm) theo cách dùng trong câu: Chúng ta phải tiết kiệm từng giọt nước."
+    },
+    {
+      "wordId": "hsk4-L10-36",
+      "tokens": [
+        "地球",
+        "上",
+        "的",
+        "资源",
+        "是",
+        "宝贵",
+        "的",
+        "。"
+      ],
+      "cloze": "地球上的＿＿＿是宝贵的。",
+      "answer": "资源",
+      "options": [
+        "资源",
+        "气温",
+        "温度",
+        "方言"
+      ],
+      "explanation": "Điền 资源 (tài nguyên) theo cách dùng trong câu: Tài nguyên trên Trái Đất rất quý giá."
+    },
+    {
+      "wordId": "hsk4-L10-37",
+      "tokens": [
+        "碗",
+        "里",
+        "的",
+        "饭",
+        "全部",
+        "吃光",
+        "了",
+        "。"
+      ],
+      "cloze": "碗里的饭全部吃＿＿＿了。",
+      "answer": "光",
+      "options": [
+        "光",
+        "较",
+        "再次",
+        "而"
+      ],
+      "explanation": "Điền 光 (hết sạch; chỉ) theo cách dùng trong câu: Cơm trong bát đã ăn hết sạch rồi."
+    },
+    {
+      "wordId": "hsk4-L10-38",
+      "tokens": [
+        "请",
+        "不要",
+        "乱",
+        "扔",
+        "垃圾",
+        "。"
+      ],
+      "cloze": "请不要乱扔＿＿＿。",
+      "answer": "垃圾",
+      "options": [
+        "垃圾",
+        "资源",
+        "植物",
+        "方言"
+      ],
+      "explanation": "Điền 垃圾 (rác) theo cách dùng trong câu: Xin đừng vứt rác bừa bãi."
+    },
+    {
+      "wordId": "hsk4-L10-39",
+      "tokens": [
+        "我们",
+        "要",
+        "学会",
+        "给",
+        "垃圾",
+        "分类",
+        "。"
+      ],
+      "cloze": "我们要学会给垃圾＿＿＿。",
+      "answer": "分类",
+      "options": [
+        "分类",
+        "拒绝",
+        "浪费",
+        "引起"
+      ],
+      "explanation": "Điền 分类 (phân loại) theo cách dùng trong câu: Chúng ta phải học cách phân loại rác."
+    },
+    {
+      "wordId": "hsk4-L10-40",
+      "tokens": [
+        "垃圾",
+        "分类",
+        "是",
+        "日常",
+        "小事",
+        "。"
+      ],
+      "cloze": "垃圾分类是＿＿＿小事。",
+      "answer": "日常",
+      "options": [
+        "日常",
+        "厚",
+        "暖和",
+        "亲爱"
+      ],
+      "explanation": "Điền 日常 (hằng ngày) theo cách dùng trong câu: Phân loại rác là việc nhỏ thường ngày."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "hsk4-L10-G01-Q01",
+      "pointId": "hsk4-L10-G01",
+      "question": "更重要的是，说什么＿＿＿穿上厚一点儿的衣服。",
+      "options": [
+        "也得",
+        "并且",
+        "或者",
+        "否则"
+      ],
+      "answer": "也得",
+      "sentence": "更重要的是，说什么也得穿上厚一点儿的衣服。",
+      "pinyin": "gèng zhòngyào de shì, shuō shénme yě děi chuānshang hòu yìdiǎnr de yīfu.",
+      "translation": "Quan trọng hơn là dù thế nào cũng phải mặc quần áo dày hơn một chút.",
+      "explanation": "Nhất định phải làm gì, thể hiện quyết tâm mạnh trong khẩu ngữ."
+    }
+  ],
+  "readings": [
+    {
+      "id": "hsk4-L10-R01",
+      "lesson": 10,
+      "title": "Chuẩn bị cho mùa đông miền Bắc",
+      "text": "寒假，小林第一次去北方看朋友。出发前，他查到当地气温低于零下十摄氏度，却觉得和南方的冬天差别不会太大，只带了一件薄外套。到了车站，冷风让他冻得说不出话，心里很后悔。朋友把自己的厚衣服借给他，又带他到暖和的屋里休息。小林这才明白，不能只看地图上的距离，还要了解当地的气候。第二天外出以前，他认真查看天气信息，穿好了衣服。他说，以后旅行，说什么也得提前做好准备。",
+      "pinyin": "hán jià ， xiǎo lín dì yī cì qù běi fāng kàn péng yǒu 。 chū fā qián ， tā chá dào dāng dì qì wēn dī yú líng xià shí shè shì dù ， què jué de hé nán fāng de dōng tiān chā bié bú huì tài dà ， zhǐ dài le yī jiàn báo wài tào 。 dào le chē zhàn ， lěng fēng ràng tā dòng dé shuō bù chū huà ， xīn lǐ hěn hòu huǐ 。 péng yǒu bǎ zì jǐ de hòu yī fú jiè gěi tā ， yòu dài tā dào nuǎn huo de wū lǐ xiū xī 。 xiǎo lín zhè cái míng bái ， bù néng zhǐ kàn dì tú shàng de jù lí ， hái yào liǎo jiě dāng dì de qì hòu 。 dì èr tiān wài chū yǐ qián ， tā rèn zhēn chá kàn tiān qì xìn xī ， chuān hǎo le yī fú 。 tā shuō ， yǐ hòu lǚ xíng ， shuō shén me yě dé tí qián zuò hǎo zhǔn bèi 。",
+      "translation": "Tiểu Lâm lần đầu đến miền Bắc vào nghỉ đông. Dù biết dưới âm mười độ, anh nghĩ không khác miền Nam lắm nên chỉ mang áo mỏng. Gió lạnh khiến anh hối hận. Bạn cho mượn áo dày, đưa vào nhà ấm. Anh hiểu cần tìm hiểu khí hậu, kiểm tra thời tiết và mặc đủ trước khi đi. Anh quyết tâm chuẩn bị trước mọi chuyến sau.",
+      "questions": [
+        {
+          "id": "hsk4-L10-R01-Q01",
+          "kind": "Nội dung",
+          "question": "小林什么时候去北方？",
+          "options": [
+            "寒假",
+            "暑假",
+            "春天开学时",
+            "秋天毕业时"
+          ],
+          "answer": "寒假",
+          "explanation": "Theo đoạn: “寒假，小林第一次去北方看朋友”. Đáp án phù hợp: “寒假”."
+        },
+        {
+          "id": "hsk4-L10-R01-Q02",
+          "kind": "Nội dung",
+          "question": "出发前他带了什么衣服？",
+          "options": [
+            "一件薄外套",
+            "很多厚衣服",
+            "只有帽子",
+            "朋友借的厚外套"
+          ],
+          "answer": "一件薄外套",
+          "explanation": "Theo đoạn: “只带了一件薄外套”. Đáp án phù hợp: “一件薄外套”."
+        },
+        {
+          "id": "hsk4-L10-R01-Q03",
+          "kind": "Nội dung",
+          "question": "朋友怎样帮助他？",
+          "options": [
+            "借厚衣服并带他进屋休息",
+            "让他一直站在车站",
+            "取消所有暖气",
+            "要求他马上回南方"
+          ],
+          "answer": "借厚衣服并带他进屋休息",
+          "explanation": "Theo đoạn: “又带他到暖和的屋里休息”. Đáp án phù hợp: “借厚衣服并带他进屋休息”."
+        },
+        {
+          "id": "hsk4-L10-R01-Q04",
+          "kind": "Ý chính",
+          "question": "这篇文章主要讲什么？",
+          "options": [
+            "旅行前应了解气候并做好准备",
+            "南北方冬天气温完全相同",
+            "地图能说明所有天气情况",
+            "衣服的颜色决定是否暖和"
+          ],
+          "answer": "旅行前应了解气候并做好准备",
+          "explanation": "Theo đoạn: “以后旅行，说什么也得提前做好准备”. Đáp án phù hợp: “旅行前应了解气候并做好准备”."
+        },
+        {
+          "id": "hsk4-L10-R01-Q05",
+          "kind": "Suy luận",
+          "question": "小林为什么后悔？",
+          "options": [
+            "没有根据当地气温准备衣服",
+            "朋友没有来车站",
+            "自己提前查了天气",
+            "带了太多厚衣服"
+          ],
+          "answer": "没有根据当地气温准备衣服",
+          "explanation": "Theo đoạn: “冷风让他冻得说不出话”. Đáp án phù hợp: “没有根据当地气温准备衣服”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L10-R02",
+      "lesson": 10,
+      "title": "Khác biệt giữa trong nhà và ngoài trời",
+      "text": "南方的同学小陈到北方上学，第一天就发现一个有意思的差别。外面的气温很低，屋里却十分暖和，穿着厚外套反而觉得热。北方同学提醒他，出门要穿好，进屋以后可以适当减少衣服，不能因为屋里暖和就认为外面也一样。小陈把两地的生活写信告诉家人，还介绍了学校冬天举办的活动。尽管天气和过去不同，他正在慢慢适应。他觉得，了解一个地方不能只靠原来的印象，亲自生活以后，才会看到日常中更多具体的差别。",
+      "pinyin": "nán fāng de tóng xué xiǎo chén dào běi fāng shàng xué ， dì yī tiān jiù fā xiàn yí gè yǒu yì si de chā bié 。 wài miàn de qì wēn hěn dī ， wū lǐ què shí fēn nuǎn huo ， chuān zhe hòu wài tào fǎn ér jué de rè 。 běi fāng tóng xué tí xǐng tā ， chū mén yào chuān hǎo ， jìn wū yǐ hòu kě yǐ shì dàng jiǎn shǎo yī fú ， bù néng yīn wèi wū lǐ nuǎn huo jiù rèn wéi wài miàn yě yī yàng 。 xiǎo chén bǎ liǎng dì de shēng huó xiě xìn gào sù jiā rén ， hái jiè shào le xué xiào dōng tiān jǔ bàn de huó dòng 。 jǐn guǎn tiān qì hé guò qù bù tóng ， tā zhèng zài màn màn shì yìng 。 tā jué de ， liǎo jiě yí gè dì fāng bù néng zhǐ kào yuán lái de yìn xiàng ， qīn zì shēng huó yǐ hòu ， cái huì kàn dào rì cháng zhōng gèng duō jù tǐ de chā bié 。",
+      "translation": "Tiểu Trần từ miền Nam đến học miền Bắc, thấy ngoài trời lạnh nhưng trong nhà rất ấm. Bạn nhắc mặc đủ khi ra, vào có thể cởi bớt, không lấy nhiệt độ trong nhà suy ra ngoài trời. Anh viết thư kể khác biệt và hoạt động mùa đông. Anh dần thích nghi và hiểu cần sống thực tế để biết khác biệt, thay vì chỉ dựa ấn tượng cũ.",
+      "questions": [
+        {
+          "id": "hsk4-L10-R02-Q01",
+          "kind": "Nội dung",
+          "question": "小陈发现屋里怎么样？",
+          "options": [
+            "十分暖和",
+            "比外面更冷",
+            "没有人使用",
+            "到处都是垃圾"
+          ],
+          "answer": "十分暖和",
+          "explanation": "Theo đoạn: “屋里却十分暖和”. Đáp án phù hợp: “十分暖和”."
+        },
+        {
+          "id": "hsk4-L10-R02-Q02",
+          "kind": "Nội dung",
+          "question": "北方同学提醒他出门时做什么？",
+          "options": [
+            "穿好衣服",
+            "把所有厚衣服留在学校",
+            "只看屋里的温度",
+            "不必注意气温"
+          ],
+          "answer": "穿好衣服",
+          "explanation": "Theo đoạn: “出门要穿好”. Đáp án phù hợp: “穿好衣服”."
+        },
+        {
+          "id": "hsk4-L10-R02-Q03",
+          "kind": "Nội dung",
+          "question": "小陈把生活情况告诉了谁？",
+          "options": [
+            "家人",
+            "医院护士",
+            "房东的客户",
+            "快递员"
+          ],
+          "answer": "家人",
+          "explanation": "Theo đoạn: “写信告诉家人”. Đáp án phù hợp: “家人”."
+        },
+        {
+          "id": "hsk4-L10-R02-Q04",
+          "kind": "Ý chính",
+          "question": "文章主要谈什么？",
+          "options": [
+            "通过实际生活了解南北差别",
+            "北方学生不需要厚衣服",
+            "所有地方的日常生活相同",
+            "只有地图上的距离重要"
+          ],
+          "answer": "通过实际生活了解南北差别",
+          "explanation": "Theo đoạn: “看到日常中更多具体的差别”. Đáp án phù hợp: “通过实际生活了解南北差别”."
+        },
+        {
+          "id": "hsk4-L10-R02-Q05",
+          "kind": "Suy luận",
+          "question": "根据文章，认识一个地方应该怎样做？",
+          "options": [
+            "结合实际体验了解",
+            "只相信以前的印象",
+            "只看室内温度",
+            "拒绝和当地人交流"
+          ],
+          "answer": "结合实际体验了解",
+          "explanation": "Theo đoạn: “亲自生活以后”. Đáp án phù hợp: “结合实际体验了解”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L10-R03",
+      "lesson": 10,
+      "title": "Dùng tiếng Phổ thông để hiểu nhau",
+      "text": "我们班有来自不同地方的同学，有些人平时喜欢使用方言。一次讨论环保活动时，两位同学因为一个词的意思不同产生了误会。老师没有马上判断谁对谁错，而是请他们都用普通话再解释一遍。说清楚以后，大家发现原来的想法其实很接近。老师说，方言各有特点，值得了解，不过共同讨论时也要考虑对方能否听懂。之后，我们开展活动前都会先确认重要内容，必要时写下来。大家的交流更顺利了，也学会了尊重不同地方的表达方式。",
+      "pinyin": "wǒ men bān yǒu lái zì bù tóng dì fāng de tóng xué ， yǒu xiē rén píng shí xǐ huān shǐ yòng fāng yán 。 yī cì tǎo lùn huán bǎo huó dòng shí ， liǎng wèi tóng xué yīn wèi yí gè cí de yì si bù tóng chǎn shēng le wù huì 。 lǎo shī méi yǒu mǎ shàng pàn duàn shuí duì shuí cuò ， ér shì qǐng tā men dōu yòng pǔ tōng huà zài jiě shì yī biàn 。 shuō qīng chǔ yǐ hòu ， dà jiā fā xiàn yuán lái de xiǎng fǎ qí shí hěn jiē jìn 。 lǎo shī shuō ， fāng yán gè yǒu tè diǎn ， zhí de liǎo jiě ， bù guò gòng tóng tǎo lùn shí yě yào kǎo lǜ duì fāng néng fǒu tīng dǒng 。 zhī hòu ， wǒ men kāi zhǎn huó dòng qián dū huì xiān què rèn zhòng yào nèi róng ， bì yào shí xiě xià lái 。 dà jiā de jiāo liú gèng shùn lì le ， yě xué huì le zūn zhòng bù tóng dì fāng de biǎo dá fāng shì 。",
+      "translation": "Lớp có bạn từ nhiều nơi, hay dùng phương ngữ. Khi bàn hoạt động môi trường, hai bạn hiểu lầm một từ. Giáo viên mời nói lại bằng tiếng Phổ thông thay vì kết luận ai sai. Hóa ra ý gần nhau. Cô nói phương ngữ đáng tìm hiểu, nhưng cần để người khác hiểu. Lớp xác nhận nội dung quan trọng, viết khi cần, nên trao đổi thuận lợi và tôn trọng khác biệt hơn.",
+      "questions": [
+        {
+          "id": "hsk4-L10-R03-Q01",
+          "kind": "Nội dung",
+          "question": "两位同学为什么产生误会？",
+          "options": [
+            "对一个词的理解不同",
+            "活动时间完全相同",
+            "没有参加讨论",
+            "不认识老师"
+          ],
+          "answer": "对一个词的理解不同",
+          "explanation": "Theo đoạn: “因为一个词的意思不同”. Đáp án phù hợp: “对一个词的理解不同”."
+        },
+        {
+          "id": "hsk4-L10-R03-Q02",
+          "kind": "Nội dung",
+          "question": "老师请他们怎样解释？",
+          "options": [
+            "用普通话再说一遍",
+            "完全不要说话",
+            "只给对方看地图",
+            "用更快的速度说方言"
+          ],
+          "answer": "用普通话再说一遍",
+          "explanation": "Theo đoạn: “都用普通话再解释一遍”. Đáp án phù hợp: “用普通话再说一遍”."
+        },
+        {
+          "id": "hsk4-L10-R03-Q03",
+          "kind": "Nội dung",
+          "question": "后来大家开展活动前会做什么？",
+          "options": [
+            "确认重要内容",
+            "拒绝所有方言",
+            "不再分配任务",
+            "只讨论天气"
+          ],
+          "answer": "确认重要内容",
+          "explanation": "Theo đoạn: “先确认重要内容”. Đáp án phù hợp: “确认重要内容”."
+        },
+        {
+          "id": "hsk4-L10-R03-Q04",
+          "kind": "Ý chính",
+          "question": "文章主要说明什么？",
+          "options": [
+            "尊重语言差别并保证交流清楚",
+            "所有方言都没有价值",
+            "普通话会引起所有误会",
+            "讨论时不需要考虑别人"
+          ],
+          "answer": "尊重语言差别并保证交流清楚",
+          "explanation": "Theo đoạn: “考虑对方能否听懂”. Đáp án phù hợp: “尊重语言差别并保证交流清楚”."
+        },
+        {
+          "id": "hsk4-L10-R03-Q05",
+          "kind": "Suy luận",
+          "question": "老师没有马上判断对错说明什么？",
+          "options": [
+            "希望先弄清双方真正的意思",
+            "认为讨论没有必要",
+            "不愿意了解学生",
+            "希望大家停止活动"
+          ],
+          "answer": "希望先弄清双方真正的意思",
+          "explanation": "Theo đoạn: “说清楚以后，大家发现原来的想法其实很接近”. Đáp án phù hợp: “希望先弄清双方真正的意思”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L10-R04",
+      "lesson": 10,
+      "title": "Phân loại rác từ việc nhỏ",
+      "text": "学校准备开展一次环保活动，号召大家从垃圾分类做起。小周开始觉得这只是日常小事，不会产生多大效果。老师请他观察食堂一天用了多少一次性杯子，他才发现数量比想象中多得多。于是，小周和同学一起制作说明，把不同垃圾应该放在哪里写清楚。此外，他们还建议大家自己带杯子，拒绝不必要的浪费。一个月以后，食堂需要处理的杯子明显少了。小周说，保护资源不能只停留在口号里，很多小事坚持做，也能带来真实的改变。",
+      "pinyin": "xué xiào zhǔn bèi kāi zhǎn yī cì huán bǎo huó dòng ， hào zhào dà jiā cóng lā jī fēn lèi zuò qǐ 。 xiǎo zhōu kāi shǐ jué de zhè zhǐ shì rì cháng xiǎo shì ， bú huì chǎn shēng duō dà xiào guǒ 。 lǎo shī qǐng tā guān chá shí táng yī tiān yòng le duō shǎo yí cì xìng bēi zi ， tā cái fā xiàn shù liàng bǐ xiǎng xiàng zhōng duō dé duō 。 yú shì ， xiǎo zhōu hé tóng xué yì qǐ zhì zuò shuō míng ， bǎ bù tóng lā jī yīng gāi fàng zài nǎ lǐ xiě qīng chǔ 。 cǐ wài ， tā men hái jiàn yì dà jiā zì jǐ dài bēi zi ， jù jué bù bì yào de làng fèi 。 yí gè yuè yǐ hòu ， shí táng xū yào chǔ lǐ de bēi zi míng xiǎn shǎo le 。 xiǎo zhōu shuō ， bǎo hù zī yuán bù néng zhǐ tíng liú zài kǒu hào lǐ ， hěn duō xiǎo shì jiān chí zuò ， yě néng dài lái zhēn shí de gǎi biàn 。",
+      "translation": "Trường phát động phân loại rác. Tiểu Châu nghĩ việc nhỏ ít hiệu quả, nhưng quan sát số cốc dùng một lần ở nhà ăn khiến anh đổi ý. Nhóm làm hướng dẫn thùng rác, khuyên mang cốc riêng và tránh lãng phí. Một tháng sau số cốc phải xử lý giảm rõ. Anh hiểu bảo vệ tài nguyên cần hành động nhỏ kiên trì, không chỉ khẩu hiệu.",
+      "questions": [
+        {
+          "id": "hsk4-L10-R04-Q01",
+          "kind": "Nội dung",
+          "question": "学校号召大家先做什么？",
+          "options": [
+            "垃圾分类",
+            "更换所有植物",
+            "购买更多一次性杯子",
+            "只在屋里活动"
+          ],
+          "answer": "垃圾分类",
+          "explanation": "Theo đoạn: “从垃圾分类做起”. Đáp án phù hợp: “垃圾分类”."
+        },
+        {
+          "id": "hsk4-L10-R04-Q02",
+          "kind": "Nội dung",
+          "question": "什么让小周改变了看法？",
+          "options": [
+            "看到一天使用的杯子数量",
+            "听说气温下降",
+            "错过一次旅行",
+            "收到朋友的巧克力"
+          ],
+          "answer": "看到一天使用的杯子数量",
+          "explanation": "Theo đoạn: “数量比想象中多得多”. Đáp án phù hợp: “看到一天使用的杯子数量”."
+        },
+        {
+          "id": "hsk4-L10-R04-Q03",
+          "kind": "Nội dung",
+          "question": "除了分类，他们还建议什么？",
+          "options": [
+            "自己带杯子",
+            "把杯子全部扔进一个桶",
+            "每天使用更多新杯子",
+            "把垃圾带到教室存放"
+          ],
+          "answer": "自己带杯子",
+          "explanation": "Theo đoạn: “建议大家自己带杯子”. Đáp án phù hợp: “自己带杯子”."
+        },
+        {
+          "id": "hsk4-L10-R04-Q04",
+          "kind": "Ý chính",
+          "question": "文章主要说明什么？",
+          "options": [
+            "坚持日常行动可以保护资源",
+            "环保只需要写口号",
+            "一次性杯子不需要处理",
+            "垃圾分类没有实际效果"
+          ],
+          "answer": "坚持日常行动可以保护资源",
+          "explanation": "Theo đoạn: “很多小事坚持做，也能带来真实的改变”. Đáp án phù hợp: “坚持日常行动可以保护资源”."
+        },
+        {
+          "id": "hsk4-L10-R04-Q05",
+          "kind": "Suy luận",
+          "question": "一个月后的结果说明什么？",
+          "options": [
+            "他们的行动产生了效果",
+            "大家浪费得更多了",
+            "说明材料完全没用",
+            "食堂已经停止营业"
+          ],
+          "answer": "他们的行动产生了效果",
+          "explanation": "Theo đoạn: “食堂需要处理的杯子明显少了”. Đáp án phù hợp: “他们的行动产生了效果”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L10-R05",
+      "lesson": 10,
+      "title": "Đi lại xanh khi thời tiết lạnh",
+      "text": "冬天到了，公司准备举办一次绿色出行活动，建议员工少开车，多乘坐公共交通。有人认为天气太冷，走到车站受不了，不愿参加。负责人没有要求所有人使用相同的方法，而是先了解大家住在哪里，再提供不同的路线。离公司近的人可以步行，距离较远的人可以坐地铁，遇到特别低的气温也能灵活调整。小李参加一周后，发现不仅节约了停车费，还少了找车位的麻烦。他觉得，环保并不是拒绝一切方便，而是在日常生活中找到适合自己的节约方式。",
+      "pinyin": "dōng tiān dào le ， gōng sī zhǔn bèi jǔ bàn yī cì lǜ sè chū xíng huó dòng ， jiàn yì yuán gōng shǎo kāi chē ， duō chéng zuò gōng gòng jiāo tōng 。 yǒu rén rèn wéi tiān qì tài lěng ， zǒu dào chē zhàn shòu bù liǎo ， bù yuàn cān jiā 。 fù zé rén méi yǒu yāo qiú suǒ yǒu rén shǐ yòng xiāng tóng de fāng fǎ ， ér shì xiān liǎo jiě dà jiā zhù zài nǎ lǐ ， zài tí gōng bù tóng de lù xiàn 。 lí gōng sī jìn de rén kě yǐ bù xíng ， jù lí jiào yuǎn de rén kě yǐ zuò dì tiě ， yù dào tè bié dī de qì wēn yě néng líng huó tiáo zhěng 。 xiǎo lǐ cān jiā yī zhōu hòu ， fā xiàn bù jǐn jié yuē le tíng chē fèi ， hái shǎo le zhǎo chē wèi de má fán 。 tā jué de ， huán bǎo bìng bú shì jù jué yī qiè fāng biàn ， ér shì zài rì cháng shēng huó zhōng zhǎo dào shì hé zì jǐ de jié yuē fāng shì 。",
+      "translation": "Công ty tổ chức đi lại xanh mùa đông. Có người ngại lạnh. Người phụ trách tìm hiểu nơi ở và gợi ý tuyến phù hợp, cho linh hoạt khi quá lạnh. Người gần đi bộ, người xa đi tàu. Sau một tuần, Tiểu Lý tiết kiệm phí đỗ và công tìm chỗ. Anh hiểu môi trường không có nghĩa từ bỏ tiện lợi, mà chọn cách tiết kiệm phù hợp hằng ngày.",
+      "questions": [
+        {
+          "id": "hsk4-L10-R05-Q01",
+          "kind": "Nội dung",
+          "question": "活动建议员工怎样出行？",
+          "options": [
+            "少开车，多乘公共交通",
+            "每人买一辆新车",
+            "只在家里工作",
+            "每天坐飞机"
+          ],
+          "answer": "少开车，多乘公共交通",
+          "explanation": "Theo đoạn: “少开车，多乘坐公共交通”. Đáp án phù hợp: “少开车，多乘公共交通”."
+        },
+        {
+          "id": "hsk4-L10-R05-Q02",
+          "kind": "Nội dung",
+          "question": "有人开始为什么不愿参加？",
+          "options": [
+            "担心天气太冷",
+            "不知道公司地址",
+            "没有工作任务",
+            "不喜欢任何活动"
+          ],
+          "answer": "担心天气太冷",
+          "explanation": "Theo đoạn: “认为天气太冷”. Đáp án phù hợp: “担心天气太冷”."
+        },
+        {
+          "id": "hsk4-L10-R05-Q03",
+          "kind": "Nội dung",
+          "question": "负责人怎样安排路线？",
+          "options": [
+            "根据不同住址提供方案",
+            "要求所有人走相同路线",
+            "只让住得远的人步行",
+            "不允许任何调整"
+          ],
+          "answer": "根据不同住址提供方案",
+          "explanation": "Theo đoạn: “先了解大家住在哪里”. Đáp án phù hợp: “根据不同住址提供方案”."
+        },
+        {
+          "id": "hsk4-L10-R05-Q04",
+          "kind": "Ý chính",
+          "question": "文章主要谈什么？",
+          "options": [
+            "结合实际情况实践绿色出行",
+            "冬天完全不能乘地铁",
+            "环保必须放弃所有方便",
+            "参加活动只能开车"
+          ],
+          "answer": "结合实际情况实践绿色出行",
+          "explanation": "Theo đoạn: “找到适合自己的节约方式”. Đáp án phù hợp: “结合实际情况实践绿色出行”."
+        },
+        {
+          "id": "hsk4-L10-R05-Q05",
+          "kind": "Suy luận",
+          "question": "小李参加后的感受是什么？",
+          "options": [
+            "既省钱又减少停车麻烦",
+            "比以前浪费更多资源",
+            "必须每天走很多公里",
+            "所有路线都不适合自己"
+          ],
+          "answer": "既省钱又减少停车麻烦",
+          "explanation": "Theo đoạn: “节约了停车费，还少了找车位的麻烦”. Đáp án phù hợp: “既省钱又减少停车麻烦”."
+        }
+      ],
+      "sourceType": "supplementary"
+    }
+  ],
+  "writing": {
+    "title": "Chuẩn bị cho một chuyến đi mùa đông",
+    "prompt": "Hãy viết khoảng 100–150 chữ Hán về một chuyến đi mùa đông: thời tiết, quần áo, khác biệt địa phương và một hành động tiết kiệm tài nguyên.",
+    "suggestedWords": [
+      "气温",
+      "厚",
+      "寒假",
+      "节约",
+      "环保"
+    ],
+    "suggestedGrammar": [
+      "说什么 / 怎么着 + 也得 + Động từ"
+    ],
+    "outline": [
+      "Nêu nơi đến và khí hậu khác nơi bạn sống.",
+      "Kể cách chuẩn bị và thích nghi.",
+      "Nêu hành động bảo vệ môi trường trong chuyến đi.",
+      "Kiểm tra trật tự từ và các cấu trúc ngữ pháp đã học."
+    ],
+    "sample": "寒假，我准备去北方旅行。听说那里的气温常常低于零下十摄氏度，跟南方差别很大。我提前买了厚衣服，还查看了交通信息。朋友提醒我，说什么也得注意保暖，不能只看屋里的温度。此外，我打算多乘坐公共交通，自己带水杯，减少日常浪费。我希望这次旅行不仅能看到不同的风景，也能用适合自己的方式节约资源。",
+    "samplePinyin": "hán jià ， wǒ zhǔn bèi qù běi fāng lǚ xíng 。 tīng shuō nà lǐ de qì wēn cháng cháng dī yú líng xià shí shè shì dù ， gēn nán fāng chā bié hěn dà 。 wǒ tí qián mǎi le hòu yī fú ， hái chá kàn le jiāo tōng xìn xī 。 péng yǒu tí xǐng wǒ ， shuō shén me yě dé zhù yì bǎo nuǎn ， bù néng zhǐ kàn wū lǐ de wēn dù 。 cǐ wài ， wǒ dǎ suàn duō chéng zuò gōng gòng jiāo tōng ， zì jǐ dài shuǐ bēi ， jiǎn shǎo rì cháng làng fèi 。 wǒ xī wàng zhè cì lǚ xíng bù jǐn néng kàn dào bù tóng de fēng jǐng ， yě néng yòng shì hé zì jǐ de fāng shì jié yuē zī yuán 。",
+    "translation": "Nghỉ đông tôi định đi miền Bắc, nơi thường dưới âm mười độ, khác nhiều miền Nam. Tôi mua áo dày, tra giao thông. Bạn nhắc nhất định giữ ấm, không chỉ nhìn nhiệt độ trong nhà. Tôi sẽ đi công cộng và mang cốc riêng để giảm lãng phí, mong vừa ngắm cảnh vừa tiết kiệm tài nguyên."
+  }
+}

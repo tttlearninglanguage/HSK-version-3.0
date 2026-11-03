@@ -1,0 +1,1357 @@
+{
+  "lesson": 3,
+  "sourceType": "supplementary",
+  "vocabulary": [
+    {
+      "wordId": "hsk4-L03-01",
+      "tokens": [
+        "你",
+        "到",
+        "了",
+        "以后",
+        "直接",
+        "给",
+        "我",
+        "打电话",
+        "。"
+      ],
+      "cloze": "你到了以后＿＿＿给我打电话。",
+      "answer": "直接",
+      "options": [
+        "直接",
+        "现金",
+        "密码",
+        "网络"
+      ],
+      "explanation": "Điền 直接 (trực tiếp) theo cách dùng trong câu: Sau khi đến nơi, bạn hãy gọi điện trực tiếp cho tôi."
+    },
+    {
+      "wordId": "hsk4-L03-02",
+      "tokens": [
+        "前面",
+        "那个",
+        "十字路口",
+        "往",
+        "左转",
+        "，",
+        "就",
+        "能",
+        "看到",
+        "银行",
+        "。"
+      ],
+      "cloze": "前面那个十字路口往左＿＿＿，就能看到银行。",
+      "answer": "转",
+      "options": [
+        "转",
+        "寄",
+        "订",
+        "保护"
+      ],
+      "explanation": "Điền 转 (rẽ; chuyển) theo cách dùng trong câu: Đến ngã tư phía trước, rẽ trái là sẽ nhìn thấy ngân hàng."
+    },
+    {
+      "wordId": "hsk4-L03-03",
+      "tokens": [
+        "正好",
+        "我",
+        "也",
+        "要",
+        "找",
+        "王老师",
+        "，",
+        "咱们",
+        "一起",
+        "去",
+        "吧",
+        "。"
+      ],
+      "cloze": "＿＿＿我也要找王老师，咱们一起去吧。",
+      "answer": "正好",
+      "options": [
+        "正好",
+        "身份证",
+        "软件",
+        "现金"
+      ],
+      "explanation": "Điền 正好 (vừa hay; đúng lúc) theo cách dùng trong câu: Tôi cũng đang muốn tìm thầy Vương, chúng ta cùng đi nhé."
+    },
+    {
+      "wordId": "hsk4-L03-04",
+      "tokens": [
+        "这条",
+        "路",
+        "我",
+        "很",
+        "熟悉",
+        "，",
+        "我",
+        "带",
+        "你",
+        "过去",
+        "。"
+      ],
+      "cloze": "这条路我很＿＿＿，我带你过去。",
+      "answer": "熟悉",
+      "options": [
+        "熟悉",
+        "支付",
+        "乱",
+        "个人"
+      ],
+      "explanation": "Điền 熟悉 (quen thuộc) theo cách dùng trong câu: Tôi rất quen con đường này, để tôi dẫn bạn đi."
+    },
+    {
+      "wordId": "hsk4-L03-05",
+      "tokens": [
+        "学校",
+        "的",
+        "正门",
+        "在",
+        "前面",
+        "。"
+      ],
+      "cloze": "学校的＿＿＿门在前面。",
+      "answer": "正",
+      "options": [
+        "正",
+        "乱",
+        "个人",
+        "网络"
+      ],
+      "explanation": "Điền 正 (thẳng; chính) theo cách dùng trong câu: Cổng chính của trường ở phía trước."
+    },
+    {
+      "wordId": "hsk4-L03-06",
+      "tokens": [
+        "你",
+        "从",
+        "这里",
+        "一直",
+        "向前走",
+        "，",
+        "就",
+        "能",
+        "找到",
+        "目的地",
+        "。"
+      ],
+      "cloze": "你从这里一直向前走，就能找到＿＿＿。",
+      "answer": "目的地",
+      "options": [
+        "目的地",
+        "手指",
+        "密码",
+        "现金"
+      ],
+      "explanation": "Điền 目的地 (điểm đến) theo cách dùng trong câu: Bạn cứ đi thẳng từ đây là sẽ đến đích."
+    },
+    {
+      "wordId": "hsk4-L03-07",
+      "tokens": [
+        "老师",
+        "让",
+        "我们",
+        "从",
+        "网上",
+        "下载",
+        "学习材料",
+        "。"
+      ],
+      "cloze": "老师让我们从网上＿＿＿学习材料。",
+      "answer": "下载",
+      "options": [
+        "下载",
+        "结账",
+        "寄",
+        "订"
+      ],
+      "explanation": "Điền 下载 (tải xuống) theo cách dùng trong câu: Thầy giáo bảo chúng tôi tải tài liệu học tập từ trên mạng."
+    },
+    {
+      "wordId": "hsk4-L03-08",
+      "tokens": [
+        "我们",
+        "下周",
+        "要",
+        "进行",
+        "一次",
+        "中文",
+        "考试",
+        "。"
+      ],
+      "cloze": "我们下周要＿＿＿一次中文考试。",
+      "answer": "进行",
+      "options": [
+        "进行",
+        "下载",
+        "支付",
+        "保护"
+      ],
+      "explanation": "Điền 进行 (tiến hành) theo cách dùng trong câu: Tuần tới chúng tôi sẽ có một kỳ thi tiếng Trung."
+    },
+    {
+      "wordId": "hsk4-L03-09",
+      "tokens": [
+        "我",
+        "可以",
+        "用",
+        "信用卡",
+        "支付",
+        "吗",
+        "？"
+      ],
+      "cloze": "我可以用信用卡＿＿＿吗？",
+      "answer": "支付",
+      "options": [
+        "支付",
+        "寄",
+        "下载",
+        "扫码"
+      ],
+      "explanation": "Điền 支付 (thanh toán) theo cách dùng trong câu: Tôi có thể thanh toán bằng thẻ tín dụng không?"
+    },
+    {
+      "wordId": "hsk4-L03-10",
+      "tokens": [
+        "这个",
+        "软件",
+        "很",
+        "好",
+        "用",
+        "。"
+      ],
+      "cloze": "这个＿＿＿很好用。",
+      "answer": "软件",
+      "options": [
+        "软件",
+        "现金",
+        "密码",
+        "手指"
+      ],
+      "explanation": "Điền 软件 (phần mềm) theo cách dùng trong câu: Phần mềm này rất dễ sử dụng."
+    },
+    {
+      "wordId": "hsk4-L03-11",
+      "tokens": [
+        "他",
+        "不仅",
+        "会",
+        "说",
+        "中文",
+        "，",
+        "还会",
+        "唱",
+        "中文",
+        "歌",
+        "呢",
+        "。"
+      ],
+      "cloze": "他＿＿＿会说中文，还会唱中文歌呢。",
+      "answer": "不仅",
+      "options": [
+        "不仅",
+        "于是",
+        "甚至",
+        "随便"
+      ],
+      "explanation": "Điền 不仅 (không chỉ) theo cách dùng trong câu: Anh ấy không chỉ nói được tiếng Trung mà còn hát được nhạc Trung Quốc."
+    },
+    {
+      "wordId": "hsk4-L03-12",
+      "tokens": [
+        "来",
+        "中国",
+        "后",
+        "，",
+        "我",
+        "也",
+        "学会",
+        "扫码",
+        "支付",
+        "了",
+        "。"
+      ],
+      "cloze": "来中国后，我也学会＿＿＿支付了。",
+      "answer": "扫码",
+      "options": [
+        "扫码",
+        "下载",
+        "寄",
+        "订"
+      ],
+      "explanation": "Điền 扫码 (quét mã) theo cách dùng trong câu: Sau khi đến Trung Quốc, tôi cũng đã học cách quét mã để thanh toán."
+    },
+    {
+      "wordId": "hsk4-L03-13",
+      "tokens": [
+        "我们",
+        "吃",
+        "完",
+        "了",
+        "，",
+        "现在",
+        "去",
+        "结账",
+        "。"
+      ],
+      "cloze": "我们吃完了，现在去＿＿＿。",
+      "answer": "结账",
+      "options": [
+        "结账",
+        "保护",
+        "下载",
+        "网购"
+      ],
+      "explanation": "Điền 结账 (thanh toán hóa đơn) theo cách dùng trong câu: Chúng tôi ăn xong rồi, bây giờ đi thanh toán thôi."
+    },
+    {
+      "wordId": "hsk4-L03-14",
+      "tokens": [
+        "很多",
+        "人",
+        "喜欢",
+        "在",
+        "网上",
+        "购物",
+        "。"
+      ],
+      "cloze": "很多人喜欢在网上＿＿＿。",
+      "answer": "购物",
+      "options": [
+        "购物",
+        "扫码",
+        "结账",
+        "寄"
+      ],
+      "explanation": "Điền 购物 (mua sắm) theo cách dùng trong câu: Rất nhiều người thích mua sắm trên mạng."
+    },
+    {
+      "wordId": "hsk4-L03-15",
+      "tokens": [
+        "我想订",
+        "一张",
+        "明天",
+        "去",
+        "北京",
+        "的",
+        "火车票",
+        "。"
+      ],
+      "cloze": "我想＿＿＿一张明天去北京的火车票。",
+      "answer": "订",
+      "options": [
+        "订",
+        "寄",
+        "管",
+        "转"
+      ],
+      "explanation": "Điền 订 (đặt; đặt mua) theo cách dùng trong câu: Tôi muốn đặt một vé tàu đi Bắc Kinh ngày mai."
+    },
+    {
+      "wordId": "hsk4-L03-16",
+      "tokens": [
+        "我",
+        "的",
+        "快递",
+        "到",
+        "了",
+        "，",
+        "现在",
+        "去",
+        "拿",
+        "。"
+      ],
+      "cloze": "我的＿＿＿到了，现在去拿。",
+      "answer": "快递",
+      "options": [
+        "快递",
+        "技术",
+        "法律",
+        "密码"
+      ],
+      "explanation": "Điền 快递 (chuyển phát nhanh) theo cách dùng trong câu: Hàng chuyển phát nhanh của tôi đến rồi, bây giờ tôi đi nhận."
+    },
+    {
+      "wordId": "hsk4-L03-17",
+      "tokens": [
+        "现在",
+        "很多",
+        "人",
+        "习惯",
+        "用",
+        "手机",
+        "支付",
+        "，",
+        "出门",
+        "很少",
+        "带",
+        "现金",
+        "。"
+      ],
+      "cloze": "现在很多人习惯用手机支付，出门很少带＿＿＿。",
+      "answer": "现金",
+      "options": [
+        "现金",
+        "密码",
+        "软件",
+        "手指"
+      ],
+      "explanation": "Điền 现金 (tiền mặt) theo cách dùng trong câu: Bây giờ nhiều người quen thanh toán bằng điện thoại, ra đường ít mang tiền mặt."
+    },
+    {
+      "wordId": "hsk4-L03-18",
+      "tokens": [
+        "妈妈",
+        "喜欢",
+        "网购",
+        "水果",
+        "。"
+      ],
+      "cloze": "妈妈喜欢＿＿＿水果。",
+      "answer": "网购",
+      "options": [
+        "网购",
+        "扫码",
+        "结账",
+        "保护"
+      ],
+      "explanation": "Điền 网购 (mua sắm trực tuyến) theo cách dùng trong câu: Mẹ thích mua hoa quả trên mạng."
+    },
+    {
+      "wordId": "hsk4-L03-19",
+      "tokens": [
+        "他",
+        "从",
+        "北京",
+        "寄来",
+        "一",
+        "本书",
+        "。"
+      ],
+      "cloze": "他从北京＿＿＿来一本书。",
+      "answer": "寄",
+      "options": [
+        "寄",
+        "订",
+        "管",
+        "转"
+      ],
+      "explanation": "Điền 寄 (gửi) theo cách dùng trong câu: Anh ấy gửi từ Bắc Kinh đến một cuốn sách."
+    },
+    {
+      "wordId": "hsk4-L03-20",
+      "tokens": [
+        "微信",
+        "、",
+        "支付宝",
+        "等",
+        "软件",
+        "都",
+        "可以",
+        "扫码",
+        "支付",
+        "。"
+      ],
+      "cloze": "微信、支付宝＿＿＿软件都可以扫码支付。",
+      "answer": "等",
+      "options": [
+        "等",
+        "于是",
+        "甚至",
+        "不仅"
+      ],
+      "explanation": "Điền 等 (vân vân) theo cách dùng trong câu: Những phần mềm như WeChat, Alipay đều có thể quét mã thanh toán."
+    },
+    {
+      "wordId": "hsk4-L03-21",
+      "tokens": [
+        "这次",
+        "的",
+        "货",
+        "都",
+        "卖完",
+        "了",
+        "。"
+      ],
+      "cloze": "这次的＿＿＿都卖完了。",
+      "answer": "货",
+      "options": [
+        "货",
+        "密码",
+        "技术",
+        "法律"
+      ],
+      "explanation": "Điền 货 (hàng hóa) theo cách dùng trong câu: Lô hàng lần này đã bán hết."
+    },
+    {
+      "wordId": "hsk4-L03-22",
+      "tokens": [
+        "这个",
+        "题太难",
+        "了",
+        "，",
+        "甚至",
+        "老师",
+        "也",
+        "要",
+        "想",
+        "很",
+        "久",
+        "。"
+      ],
+      "cloze": "这个题太难了，＿＿＿老师也要想很久。",
+      "answer": "甚至",
+      "options": [
+        "甚至",
+        "于是",
+        "不仅",
+        "随便"
+      ],
+      "explanation": "Điền 甚至 (thậm chí) theo cách dùng trong câu: Câu hỏi này khó quá, ngay cả thầy giáo cũng phải nghĩ rất lâu."
+    },
+    {
+      "wordId": "hsk4-L03-23",
+      "tokens": [
+        "手机",
+        "改变",
+        "了",
+        "我们",
+        "的",
+        "生活",
+        "。"
+      ],
+      "cloze": "手机＿＿＿了我们的生活。",
+      "answer": "改变",
+      "options": [
+        "改变",
+        "扫码",
+        "下载",
+        "结账"
+      ],
+      "explanation": "Điền 改变 (thay đổi) theo cách dùng trong câu: Điện thoại di động đã thay đổi cuộc sống của chúng ta."
+    },
+    {
+      "wordId": "hsk4-L03-24",
+      "tokens": [
+        "小妹妹",
+        "的",
+        "手指",
+        "很",
+        "可爱",
+        "。"
+      ],
+      "cloze": "小妹妹的＿＿＿很可爱。",
+      "answer": "手指",
+      "options": [
+        "手指",
+        "现金",
+        "网络",
+        "软件"
+      ],
+      "explanation": "Điền 手指 (ngón tay) theo cách dùng trong câu: Ngón tay của cô em gái rất đáng yêu."
+    },
+    {
+      "wordId": "hsk4-L03-25",
+      "tokens": [
+        "不要",
+        "乱说话",
+        "。"
+      ],
+      "cloze": "不要＿＿＿说话。",
+      "answer": "乱",
+      "options": [
+        "乱",
+        "寄",
+        "订",
+        "支付"
+      ],
+      "explanation": "Điền 乱 (bừa bãi; lộn xộn) theo cách dùng trong câu: Đừng nói lung tung."
+    },
+    {
+      "wordId": "hsk4-L03-26",
+      "tokens": [
+        "你",
+        "要",
+        "管住",
+        "自己",
+        "，",
+        "不要",
+        "乱",
+        "买",
+        "东西",
+        "。"
+      ],
+      "cloze": "你要＿＿＿住自己，不要乱买东西。",
+      "answer": "管",
+      "options": [
+        "管",
+        "寄",
+        "订",
+        "转"
+      ],
+      "explanation": "Điền 管 (quản lý) theo cách dùng trong câu: Bạn phải tự kiềm chế mình, đừng mua đồ bừa bãi."
+    },
+    {
+      "wordId": "hsk4-L03-27",
+      "tokens": [
+        "这个",
+        "软件",
+        "可以",
+        "提供",
+        "很多",
+        "方便",
+        "的",
+        "服务",
+        "。"
+      ],
+      "cloze": "这个软件可以＿＿＿很多方便的服务。",
+      "answer": "提供",
+      "options": [
+        "提供",
+        "保护",
+        "下载",
+        "扫码"
+      ],
+      "explanation": "Điền 提供 (cung cấp) theo cách dùng trong câu: Phần mềm này có thể cung cấp nhiều dịch vụ tiện lợi."
+    },
+    {
+      "wordId": "hsk4-L03-28",
+      "tokens": [
+        "网购",
+        "时",
+        "有时",
+        "需要",
+        "提供",
+        "身份证号",
+        "。"
+      ],
+      "cloze": "网购时有时需要提供＿＿＿号。",
+      "answer": "身份证",
+      "options": [
+        "身份证",
+        "手指",
+        "目的地",
+        "现金"
+      ],
+      "explanation": "Điền 身份证 (căn cước công dân) theo cách dùng trong câu: Đôi khi mua sắm online cần cung cấp số căn cước."
+    },
+    {
+      "wordId": "hsk4-L03-29",
+      "tokens": [
+        "不要",
+        "告诉",
+        "不",
+        "认识",
+        "的",
+        "人",
+        "你",
+        "的",
+        "个人信息",
+        "。"
+      ],
+      "cloze": "不要告诉不认识的人你的＿＿＿信息。",
+      "answer": "个人",
+      "options": [
+        "个人",
+        "随便",
+        "网络",
+        "现金"
+      ],
+      "explanation": "Điền 个人 (cá nhân) theo cách dùng trong câu: Đừng nói thông tin cá nhân của bạn cho người lạ."
+    },
+    {
+      "wordId": "hsk4-L03-30",
+      "tokens": [
+        "你",
+        "能否",
+        "帮",
+        "我",
+        "一个",
+        "忙",
+        "？"
+      ],
+      "cloze": "你＿＿＿帮我一个忙？",
+      "answer": "能否",
+      "options": [
+        "能否",
+        "现金",
+        "手指",
+        "软件"
+      ],
+      "explanation": "Điền 能否 (có thể hay không) theo cách dùng trong câu: Bạn có thể giúp tôi một việc được không?"
+    },
+    {
+      "wordId": "hsk4-L03-31",
+      "tokens": [
+        "我们",
+        "要",
+        "好好",
+        "保护环境",
+        "。"
+      ],
+      "cloze": "我们要好好＿＿＿环境。",
+      "answer": "保护",
+      "options": [
+        "保护",
+        "下载",
+        "寄",
+        "订"
+      ],
+      "explanation": "Điền 保护 (bảo vệ) theo cách dùng trong câu: Chúng ta phải bảo vệ môi trường thật tốt."
+    },
+    {
+      "wordId": "hsk4-L03-32",
+      "tokens": [
+        "下雨",
+        "了",
+        "，",
+        "于是",
+        "我们",
+        "决定",
+        "在家",
+        "看",
+        "电影",
+        "。"
+      ],
+      "cloze": "下雨了，＿＿＿我们决定在家看电影。",
+      "answer": "于是",
+      "options": [
+        "于是",
+        "不仅",
+        "甚至",
+        "随便"
+      ],
+      "explanation": "Điền 于是 (thế là) theo cách dùng trong câu: Trời mưa nên chúng tôi quyết định ở nhà xem phim."
+    },
+    {
+      "wordId": "hsk4-L03-33",
+      "tokens": [
+        "这个",
+        "密码",
+        "不要",
+        "告诉",
+        "别人",
+        "。"
+      ],
+      "cloze": "这个＿＿＿不要告诉别人。",
+      "answer": "密码",
+      "options": [
+        "密码",
+        "法律",
+        "现金",
+        "手指"
+      ],
+      "explanation": "Điền 密码 (mật khẩu) theo cách dùng trong câu: Đừng nói mật khẩu này cho người khác."
+    },
+    {
+      "wordId": "hsk4-L03-34",
+      "tokens": [
+        "他",
+        "说话",
+        "很",
+        "随便",
+        "，",
+        "有时候",
+        "让",
+        "人",
+        "听",
+        "了",
+        "不",
+        "太高兴",
+        "。"
+      ],
+      "cloze": "他说话很＿＿＿，有时候让人听了不太高兴。",
+      "answer": "随便",
+      "options": [
+        "随便",
+        "不仅",
+        "于是",
+        "甚至"
+      ],
+      "explanation": "Điền 随便 (tùy tiện) theo cách dùng trong câu: Anh ấy nói chuyện rất tùy tiện, đôi khi khiến người nghe không vui."
+    },
+    {
+      "wordId": "hsk4-L03-35",
+      "tokens": [
+        "新",
+        "技术",
+        "改变",
+        "了",
+        "我们",
+        "的",
+        "生活",
+        "。"
+      ],
+      "cloze": "新＿＿＿改变了我们的生活。",
+      "answer": "技术",
+      "options": [
+        "技术",
+        "密码",
+        "现金",
+        "身份证"
+      ],
+      "explanation": "Điền 技术 (kỹ thuật; công nghệ) theo cách dùng trong câu: Công nghệ mới đã thay đổi cuộc sống của chúng ta."
+    },
+    {
+      "wordId": "hsk4-L03-36",
+      "tokens": [
+        "我",
+        "对",
+        "法律",
+        "很感兴趣",
+        "。"
+      ],
+      "cloze": "我对＿＿＿很感兴趣。",
+      "answer": "法律",
+      "options": [
+        "法律",
+        "手指",
+        "密码",
+        "现金"
+      ],
+      "explanation": "Điền 法律 (pháp luật) theo cách dùng trong câu: Tôi rất quan tâm đến pháp luật."
+    },
+    {
+      "wordId": "hsk4-L03-37",
+      "tokens": [
+        "他用",
+        "特别",
+        "的",
+        "手段",
+        "解决",
+        "了",
+        "问题",
+        "。"
+      ],
+      "cloze": "他用特别的＿＿＿解决了问题。",
+      "answer": "手段",
+      "options": [
+        "手段",
+        "身份证",
+        "现金",
+        "手指"
+      ],
+      "explanation": "Điền 手段 (phương pháp; thủ đoạn) theo cách dùng trong câu: Anh ấy dùng một biện pháp đặc biệt để giải quyết vấn đề."
+    },
+    {
+      "wordId": "hsk4-L03-38",
+      "tokens": [
+        "我",
+        "保证",
+        "明天",
+        "早上",
+        "八点",
+        "以前",
+        "到",
+        "学校",
+        "。"
+      ],
+      "cloze": "我＿＿＿明天早上八点以前到学校。",
+      "answer": "保证",
+      "options": [
+        "保证",
+        "寄",
+        "订",
+        "下载"
+      ],
+      "explanation": "Điền 保证 (bảo đảm) theo cách dùng trong câu: Tôi bảo đảm sẽ đến trường trước tám giờ sáng mai."
+    },
+    {
+      "wordId": "hsk4-L03-39",
+      "tokens": [
+        "这里",
+        "的",
+        "网络",
+        "不太好",
+        "，",
+        "我们",
+        "换个",
+        "地方",
+        "吧",
+        "。"
+      ],
+      "cloze": "这里的＿＿＿不太好，我们换个地方吧。",
+      "answer": "网络",
+      "options": [
+        "网络",
+        "手指",
+        "现金",
+        "密码"
+      ],
+      "explanation": "Điền 网络 (mạng internet) theo cách dùng trong câu: Mạng ở đây không tốt lắm, chúng ta đổi chỗ khác nhé."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "hsk4-L03-G01-Q01",
+      "pointId": "hsk4-L03-G01",
+      "question": "这件衣服好看＿＿＿好看，不过有点儿贵。",
+      "options": [
+        "是",
+        "有",
+        "在",
+        "把"
+      ],
+      "answer": "是",
+      "sentence": "这件衣服好看是好看，不过有点儿贵。",
+      "pinyin": "zhè jiàn yī fú hǎo kàn shìhǎo kàn， bù guò yǒu diǎnér guì.",
+      "translation": "Bộ quần áo này đẹp thì có đẹp nhưng hơi đắt.",
+      "explanation": "Thừa nhận một đặc điểm nhưng bổ sung điểm trái ngược."
+    },
+    {
+      "id": "hsk4-L03-G02-Q01",
+      "pointId": "hsk4-L03-G02",
+      "question": "他＿＿＿会说中文，还会唱中文歌呢。",
+      "options": [
+        "不仅",
+        "于是",
+        "甚至",
+        "随便"
+      ],
+      "answer": "不仅",
+      "sentence": "他不仅会说中文，还会唱中文歌呢。",
+      "pinyin": "tā bù jǐn huì shuō zhōng wén， hái huì chàng zhōng wén gē ne.",
+      "translation": "Anh ấy không chỉ nói được tiếng Trung mà còn biết hát nhạc Trung Quốc.",
+      "explanation": "Không những… mà còn…, biểu thị ý tăng tiến."
+    },
+    {
+      "id": "hsk4-L03-G03-Q01",
+      "pointId": "hsk4-L03-G03",
+      "question": "这个题太难了，＿＿＿老师也要想很久。",
+      "options": [
+        "甚至",
+        "于是",
+        "不仅",
+        "随便"
+      ],
+      "answer": "甚至",
+      "sentence": "这个题太难了，甚至老师也要想很久。",
+      "pinyin": "zhè gè tí tài nán le， shèn zhì lǎo shī yě yào xiǎng hěn jiǔ.",
+      "translation": "Bài này khó đến mức ngay cả giáo viên cũng phải suy nghĩ rất lâu.",
+      "explanation": "Thậm chí, nhấn mạnh mức độ vượt ngoài dự đoán."
+    },
+    {
+      "id": "hsk4-L03-G04-Q01",
+      "pointId": "hsk4-L03-G04",
+      "question": "下雨了，＿＿＿我们决定在家看电影。",
+      "options": [
+        "于是",
+        "不仅",
+        "甚至",
+        "随便"
+      ],
+      "answer": "于是",
+      "sentence": "下雨了，于是我们决定在家看电影。",
+      "pinyin": "xià yǔ le， yú shìwǒ men jué dìng zài jiā kàn diàn yǐng.",
+      "translation": "Trời mưa nên chúng tôi quyết định ở nhà xem phim.",
+      "explanation": "Biểu thị sự việc tiếp nối và kết quả xảy ra sau đó."
+    }
+  ],
+  "readings": [
+    {
+      "id": "hsk4-L03-R01",
+      "lesson": 3,
+      "title": "Lần đầu quét mã thanh toán",
+      "text": "刚到中国时，我不熟悉手机支付，买东西总是带着现金。一天，我和同学去吃饭，结账时才发现现金不够。同学让我下载一个软件，教我打开扫码功能，还提醒我不要让别人看到密码。服务员说，支付成功以后可以直接在手机上查看记录。回家后，我又试着在网上订水果，第二天快递就到了。手机支付方便是方便，不过也要保护个人信息。我决定先了解软件的使用方法，不把身份证号随便告诉不认识的人。",
+      "pinyin": "gāng dào zhōng guó shí ， wǒ bù shú xī shǒu jī zhī fù ， mǎi dōng xī zǒng shì dài zhe xiàn jīn 。 yī tiān ， wǒ hé tóng xué qù chī fàn ， jié zhàng shí cái fā xiàn xiàn jīn bù gòu 。 tóng xué ràng wǒ xià zài yí gè ruǎn jiàn ， jiào wǒ dǎ kāi sǎo mǎ gōng néng ， hái tí xǐng wǒ bú yào ràng bié rén kàn dào mì mǎ 。 fú wù yuán shuō ， zhī fù chéng gōng yǐ hòu kě yǐ zhí jiē zài shǒu jī shàng chá kàn jì lù 。 huí jiā hòu ， wǒ yòu shì zhe zài wǎng shàng dìng shuǐ guǒ ， dì èr tiān kuài dì jiù dào le 。 shǒu jī zhī fù fāng biàn shì fāng biàn ， bù guò yě yào bǎo hù gè rén xìn xī 。 wǒ jué dìng xiān liǎo jiě ruǎn jiàn de shǐ yòng fāng fǎ ， bù bǎ shēn fèn zhèng hào suí biàn gào sù bù rèn shí de rén 。",
+      "translation": "Khi mới đến Trung Quốc, tôi luôn mang tiền mặt. Một lần ăn cùng bạn, tôi thiếu tiền khi thanh toán. Bạn dạy tải ứng dụng, quét mã và giữ kín mật khẩu. Tôi xem được lịch sử thanh toán, rồi thử đặt trái cây; hôm sau hàng đến. Tôi thấy thanh toán di động tiện nhưng cần biết cách dùng và bảo vệ thông tin cá nhân.",
+      "questions": [
+        {
+          "id": "hsk4-L03-R01-Q01",
+          "kind": "Nội dung",
+          "question": "作者以前为什么总带现金？",
+          "options": [
+            "不熟悉手机支付",
+            "手机没有电",
+            "不喜欢买东西",
+            "学校不让用软件"
+          ],
+          "answer": "不熟悉手机支付",
+          "explanation": "Theo đoạn: “我不熟悉手机支付”. Đáp án phù hợp: “不熟悉手机支付”."
+        },
+        {
+          "id": "hsk4-L03-R01-Q02",
+          "kind": "Nội dung",
+          "question": "同学提醒作者注意什么？",
+          "options": [
+            "不要让别人看到密码",
+            "把密码写在桌上",
+            "把身份证借给服务员",
+            "随便下载任何软件"
+          ],
+          "answer": "不要让别人看到密码",
+          "explanation": "Theo đoạn: “不要让别人看到密码”. Đáp án phù hợp: “不要让别人看到密码”."
+        },
+        {
+          "id": "hsk4-L03-R01-Q03",
+          "kind": "Nội dung",
+          "question": "作者网购的水果什么时候到了？",
+          "options": [
+            "第二天",
+            "一个月后",
+            "当天早上",
+            "下个星期"
+          ],
+          "answer": "第二天",
+          "explanation": "Theo đoạn: “第二天快递就到了”. Đáp án phù hợp: “第二天”."
+        },
+        {
+          "id": "hsk4-L03-R01-Q04",
+          "kind": "Ý chính",
+          "question": "这篇文章主要谈什么？",
+          "options": [
+            "学习手机支付并注意信息安全",
+            "现金不能再使用",
+            "如何经营水果店",
+            "快递员的工作时间"
+          ],
+          "answer": "学习手机支付并注意信息安全",
+          "explanation": "Theo đoạn: “不过也要保护个人信息”. Đáp án phù hợp: “学习手机支付并注意信息安全”."
+        },
+        {
+          "id": "hsk4-L03-R01-Q05",
+          "kind": "Suy luận",
+          "question": "作者接下来会怎么做？",
+          "options": [
+            "先了解使用方法再使用",
+            "公开自己的密码",
+            "完全不用手机",
+            "把身份证号告诉陌生人"
+          ],
+          "answer": "先了解使用方法再使用",
+          "explanation": "Theo đoạn: “先了解软件的使用方法”. Đáp án phù hợp: “先了解使用方法再使用”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L03-R02",
+      "lesson": 3,
+      "title": "Đến đúng nơi bằng điện thoại",
+      "text": "周末，小李要去朋友的新家，可是对那一带不熟悉。朋友直接把地址发给他，让他用手机查找目的地。小李按照软件提供的信息乘坐地铁，出站后在第一个路口向右转。快到的时候，网络突然不好，他看不到地图，于是给朋友打电话。朋友说自己正好在附近，很快就来接他。到了以后，小李把地址保存在手机里，准备下次自己来。他觉得软件不仅能提供路线，还能告诉人们大约需要多长时间，不过出门前最好先看清楚。",
+      "pinyin": "zhōu mò ， xiǎo lǐ yào qù péng yǒu de xīn jiā ， kě shì duì nà yī dài bù shú xī 。 péng yǒu zhí jiē bǎ dì zhǐ fā gěi tā ， ràng tā yòng shǒu jī chá zhǎo mù dì dì 。 xiǎo lǐ àn zhào ruǎn jiàn tí gōng de xìn xī chéng zuò dì tiě ， chū zhàn hòu zài dì yí gè lù kǒu xiàng yòu zhuǎn 。 kuài dào de shí hòu ， wǎng luò tū rán bù hǎo ， tā kàn bú dào dì tú ， yú shì gěi péng yǒu dǎ diàn huà 。 péng yǒu shuō zì jǐ zhèng hǎo zài fù jìn ， hěn kuài jiù lái jiē tā 。 dào le yǐ hòu ， xiǎo lǐ bǎ dì zhǐ bǎo cún zài shǒu jī lǐ ， zhǔn bèi xià cì zì jǐ lái 。 tā jué de ruǎn jiàn bù jǐn néng tí gōng lù xiàn ， hái néng gào sù rén men dà yuē xū yào duō zhǎng shí jiān ， bù guò chū mén qián zuì hǎo xiān kàn qīng chǔ 。",
+      "translation": "Cuối tuần Tiểu Lý đến nhà mới của bạn. Anh dùng địa chỉ và hướng dẫn trên điện thoại để đi tàu điện ngầm, rẽ phải ở ngã tư đầu. Gần tới thì mất mạng nên gọi bạn; bạn ở gần và đến đón. Anh lưu địa chỉ để lần sau tự đến. Theo anh, phần mềm giúp tìm đường và dự tính thời gian, nhưng nên xem kỹ trước khi đi.",
+      "questions": [
+        {
+          "id": "hsk4-L03-R02-Q01",
+          "kind": "Nội dung",
+          "question": "朋友先发给小李什么？",
+          "options": [
+            "新家的地址",
+            "支付密码",
+            "身份证照片",
+            "购物记录"
+          ],
+          "answer": "新家的地址",
+          "explanation": "Theo đoạn: “直接把地址发给他”. Đáp án phù hợp: “新家的地址”."
+        },
+        {
+          "id": "hsk4-L03-R02-Q02",
+          "kind": "Nội dung",
+          "question": "小李出站后应该怎么走？",
+          "options": [
+            "第一个路口向右转",
+            "一直向左走",
+            "马上回地铁站",
+            "过三个路口再左转"
+          ],
+          "answer": "第一个路口向右转",
+          "explanation": "Theo đoạn: “在第一个路口向右转”. Đáp án phù hợp: “第一个路口向右转”."
+        },
+        {
+          "id": "hsk4-L03-R02-Q03",
+          "kind": "Nội dung",
+          "question": "小李为什么给朋友打电话？",
+          "options": [
+            "网络不好看不到地图",
+            "忘记带现金",
+            "想取消聚会",
+            "已经到了朋友家"
+          ],
+          "answer": "网络不好看不到地图",
+          "explanation": "Theo đoạn: “网络突然不好，他看不到地图”. Đáp án phù hợp: “网络不好看不到地图”."
+        },
+        {
+          "id": "hsk4-L03-R02-Q04",
+          "kind": "Ý chính",
+          "question": "文章主要介绍什么？",
+          "options": [
+            "用手机找路的一次经历",
+            "下载购物软件的方法",
+            "手机支付的价格",
+            "朋友搬家的原因"
+          ],
+          "answer": "用手机找路的一次经历",
+          "explanation": "Theo đoạn: “用手机查找目的地”. Đáp án phù hợp: “用手机找路的一次经历”."
+        },
+        {
+          "id": "hsk4-L03-R02-Q05",
+          "kind": "Suy luận",
+          "question": "根据文章，出门前最好做什么？",
+          "options": [
+            "先看清路线",
+            "把手机留在家里",
+            "随便选择目的地",
+            "把密码发给朋友"
+          ],
+          "answer": "先看清路线",
+          "explanation": "Theo đoạn: “出门前最好先看清楚”. Đáp án phù hợp: “先看清路线”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L03-R03",
+      "lesson": 3,
+      "title": "Giữ kín thông tin cá nhân",
+      "text": "妈妈最近学会了网购，觉得只动动手指，货就能送到家，十分方便。一天，有人打电话说她的快递出了问题，需要提供身份证号和支付密码。妈妈正准备回答，哥哥听到后马上提醒她先确认对方的身份。妈妈打开购物软件查看，发现货已经送到了，于是没有再和那个人联系。哥哥说，技术改变了购物方式，也不能让我们放松对个人信息的保护。遇到不熟悉的要求，要通过软件里提供的联系方式查清楚，不能随便告诉别人密码。",
+      "pinyin": "mā mā zuì jìn xué huì le wǎng gòu ， jué de zhǐ dòng dòng shǒu zhǐ ， huò jiù néng sòng dào jiā ， shí fēn fāng biàn 。 yī tiān ， yǒu rén dǎ diàn huà shuō tā de kuài dì chū le wèn tí ， xū yào tí gōng shēn fèn zhèng hào hé zhī fù mì mǎ 。 mā mā zhèng zhǔn bèi huí dá ， gē gē tīng dào hòu mǎ shàng tí xǐng tā xiān què rèn duì fāng de shēn fèn 。 mā mā dǎ kāi gòu wù ruǎn jiàn chá kàn ， fā xiàn huò yǐ jīng sòng dào le ， yú shì méi yǒu zài hé nà ge rén lián xì 。 gē gē shuō ， jì shù gǎi biàn le gòu wù fāng shì ， yě bù néng ràng wǒ men fàng sōng duì gè rén xìn xī de bǎo hù 。 yù dào bù shú xī de yāo qiú ， yào tōng guò ruǎn jiàn lǐ tí gōng de lián xì fāng shì chá qīng chǔ ， bù néng suí biàn gào sù bié rén mì mǎ 。",
+      "translation": "Mẹ mới biết mua hàng trực tuyến. Một người gọi nói kiện hàng có vấn đề, đòi số căn cước và mật khẩu. Anh trai nhắc mẹ xác minh. Mẹ mở ứng dụng và thấy hàng đã giao, nên ngừng liên hệ. Công nghệ giúp mua sắm thuận tiện nhưng vẫn cần bảo vệ thông tin, xác minh bằng kênh trong ứng dụng và không tiết lộ mật khẩu.",
+      "questions": [
+        {
+          "id": "hsk4-L03-R03-Q01",
+          "kind": "Nội dung",
+          "question": "打电话的人要求妈妈提供什么？",
+          "options": [
+            "身份证号和支付密码",
+            "水果的价格",
+            "朋友的地址",
+            "学校的课程表"
+          ],
+          "answer": "身份证号和支付密码",
+          "explanation": "Theo đoạn: “需要提供身份证号和支付密码”. Đáp án phù hợp: “身份证号和支付密码”."
+        },
+        {
+          "id": "hsk4-L03-R03-Q02",
+          "kind": "Nội dung",
+          "question": "哥哥先提醒妈妈做什么？",
+          "options": [
+            "确认对方的身份",
+            "马上支付费用",
+            "重新订一份货",
+            "把手机寄出去"
+          ],
+          "answer": "确认对方的身份",
+          "explanation": "Theo đoạn: “先确认对方的身份”. Đáp án phù hợp: “确认对方的身份”."
+        },
+        {
+          "id": "hsk4-L03-R03-Q03",
+          "kind": "Nội dung",
+          "question": "妈妈查看后发现了什么？",
+          "options": [
+            "货已经送到了",
+            "货还没有买",
+            "软件不能使用",
+            "哥哥改了密码"
+          ],
+          "answer": "货已经送到了",
+          "explanation": "Theo đoạn: “发现货已经送到了”. Đáp án phù hợp: “货已经送到了”."
+        },
+        {
+          "id": "hsk4-L03-R03-Q04",
+          "kind": "Ý chính",
+          "question": "文章提醒我们注意什么？",
+          "options": [
+            "保护网购中的个人信息",
+            "不要给家人打电话",
+            "买东西只能用现金",
+            "快递一定会出问题"
+          ],
+          "answer": "保护网购中的个人信息",
+          "explanation": "Theo đoạn: “不能随便告诉别人密码”. Đáp án phù hợp: “保护网购中的个人信息”."
+        },
+        {
+          "id": "hsk4-L03-R03-Q05",
+          "kind": "Suy luận",
+          "question": "妈妈没有继续联系的原因是什么？",
+          "options": [
+            "发现来电内容与实际情况不符",
+            "她不想收货了",
+            "哥哥想买新手机",
+            "她忘了自己的地址"
+          ],
+          "answer": "发现来电内容与实际情况不符",
+          "explanation": "Theo đoạn: “发现货已经送到了，于是没有再和那个人联系”. Đáp án phù hợp: “发现来电内容与实际情况不符”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L03-R04",
+      "lesson": 3,
+      "title": "Mua vừa đủ, không mua tùy tiện",
+      "text": "以前，小陈觉得网上的东西价格低，常常随便买。有时货到了，他甚至不记得自己为什么订。房间里的东西越来越乱，月底也没剩下多少钱。朋友建议他先写下真正需要的东西，再进行购物。小陈于是改变了习惯，不再一看到便宜的货就付款。现在，他每次结账前都会查看数量和价格，还会想一想家里是否已经有相同的东西。他说，网购方便是方便，不过管好自己的手，比找到更多便宜的软件更重要。",
+      "pinyin": "yǐ qián ， xiǎo chén jué de wǎng shàng de dōng xī jià gé dī ， cháng cháng suí biàn mǎi 。 yǒu shí huò dào le ， tā shèn zhì bú jì dé zì jǐ wèi shén me dìng 。 fáng jiān lǐ de dōng xī yuè lái yuè luàn ， yuè dǐ yě méi shèng xià duō shǎo qián 。 péng yǒu jiàn yì tā xiān xiě xià zhēn zhèng xū yào de dōng xī ， zài jìn xíng gòu wù 。 xiǎo chén yú shì gǎi biàn le xí guàn ， bù zài yī kàn dào pián yi de huò jiù fù kuǎn 。 xiàn zài ， tā měi cì jié zhàng qián dū huì chá kàn shù liàng hé jià gé ， hái huì xiǎng yī xiǎng jiā lǐ shì fǒu yǐ jīng yǒu xiāng tóng de dōng xī 。 tā shuō ， wǎng gòu fāng biàn shì fāng biàn ， bù guò guǎn hǎo zì jǐ de shǒu ， bǐ zhǎo dào gèng duō pián yi de ruǎn jiàn gèng zhòng yào 。",
+      "translation": "Trước kia Tiểu Trần mua tùy tiện vì hàng trên mạng rẻ. Có lúc hàng đến anh quên lý do đặt, phòng bừa bộn và hết tiền cuối tháng. Bạn khuyên viết danh sách nhu cầu. Anh đổi thói quen, kiểm tra số lượng, giá và xem đã có đồ tương tự chưa. Anh thấy tự kiểm soát quan trọng hơn tìm ứng dụng có hàng rẻ.",
+      "questions": [
+        {
+          "id": "hsk4-L03-R04-Q01",
+          "kind": "Nội dung",
+          "question": "小陈以前常常怎样购物？",
+          "options": [
+            "随便买便宜的东西",
+            "只买写在清单上的东西",
+            "从来不在网上购物",
+            "每次都去商店付现金"
+          ],
+          "answer": "随便买便宜的东西",
+          "explanation": "Theo đoạn: “常常随便买”. Đáp án phù hợp: “随便买便宜的东西”."
+        },
+        {
+          "id": "hsk4-L03-R04-Q02",
+          "kind": "Nội dung",
+          "question": "朋友提出了什么建议？",
+          "options": [
+            "先写下真正需要的东西",
+            "把所有东西扔掉",
+            "每天下载新软件",
+            "一次买更多便宜货"
+          ],
+          "answer": "先写下真正需要的东西",
+          "explanation": "Theo đoạn: “先写下真正需要的东西”. Đáp án phù hợp: “先写下真正需要的东西”."
+        },
+        {
+          "id": "hsk4-L03-R04-Q03",
+          "kind": "Nội dung",
+          "question": "现在结账前小陈会查看什么？",
+          "options": [
+            "数量和价格",
+            "朋友的工资",
+            "快递员的密码",
+            "房东的日记"
+          ],
+          "answer": "数量和价格",
+          "explanation": "Theo đoạn: “查看数量和价格”. Đáp án phù hợp: “数量和价格”."
+        },
+        {
+          "id": "hsk4-L03-R04-Q04",
+          "kind": "Ý chính",
+          "question": "文章主要谈什么？",
+          "options": [
+            "改变随便网购的习惯",
+            "寄快递的工作流程",
+            "买新手机的理由",
+            "整理软件的方法"
+          ],
+          "answer": "改变随便网购的习惯",
+          "explanation": "Theo đoạn: “管好自己的手”. Đáp án phù hợp: “改变随便网购的习惯”."
+        },
+        {
+          "id": "hsk4-L03-R04-Q05",
+          "kind": "Suy luận",
+          "question": "从小陈的变化可以看出什么？",
+          "options": [
+            "方便购物也需要自我管理",
+            "东西越便宜就越应该多买",
+            "不记得订过的货都可以扔掉",
+            "手机软件能替人决定所有事情"
+          ],
+          "answer": "方便购物也需要自我管理",
+          "explanation": "Theo đoạn: “想一想家里是否已经有相同的东西”. Đáp án phù hợp: “方便购物也需要自我管理”."
+        }
+      ],
+      "sourceType": "supplementary"
+    },
+    {
+      "id": "hsk4-L03-R05",
+      "lesson": 3,
+      "title": "Giúp người nhà học cách dùng phần mềm",
+      "text": "爷爷以前出门只带现金，不会用手机订票。寒假，我教他下载软件，先从查看公交信息开始，再练习扫码支付。爷爷怕自己记不住，我就把每一步写在纸上，让他一边看一边做。几天以后，他不仅能自己结账，甚至还帮奶奶订了去看朋友的车票。不过，我没有替他保存支付密码，而是提醒他记在安全的地方。爷爷说，新技术并没有想象中那么难，只要有人耐心介绍，自己再多练几次，就能慢慢熟悉。",
+      "pinyin": "yé yé yǐ qián chū mén zhǐ dài xiàn jīn ， bú huì yòng shǒu jī dìng piào 。 hán jià ， wǒ jiào tā xià zài ruǎn jiàn ， xiān cóng chá kàn gōng jiāo xìn xī kāi shǐ ， zài liàn xí sǎo mǎ zhī fù 。 yé yé pà zì jǐ jì bú zhù ， wǒ jiù bǎ měi yī bù xiě zài zhǐ shàng ， ràng tā yī biān kàn yī biān zuò 。 jǐ tiān yǐ hòu ， tā bù jǐn néng zì jǐ jié zhàng ， shèn zhì hái bāng nǎi nǎi dìng le qù kàn péng yǒu de chē piào 。 bù guò ， wǒ méi yǒu tì tā bǎo cún zhī fù mì mǎ ， ér shì tí xǐng tā jì zài ān quán de dì fāng 。 yé yé shuō ， xīn jì shù bìng méi yǒu xiǎng xiàng zhōng nà me nán ， zhǐ yào yǒu rén nài xīn jiè shào ， zì jǐ zài duō liàn jǐ cì ， jiù néng màn màn shú xī 。",
+      "translation": "Ông trước kia chỉ mang tiền mặt và không biết đặt vé. Trong kỳ nghỉ đông, tôi dạy ông tra xe buýt, quét mã và ghi từng bước ra giấy. Vài ngày sau ông tự thanh toán và đặt vé cho bà. Tôi không giữ hộ mật khẩu mà nhắc ông cất an toàn. Ông thấy công nghệ không quá khó nếu được hướng dẫn kiên nhẫn và luyện tập.",
+      "questions": [
+        {
+          "id": "hsk4-L03-R05-Q01",
+          "kind": "Nội dung",
+          "question": "作者先教爷爷做什么？",
+          "options": [
+            "查看公交信息",
+            "寄出身份证",
+            "修改别人的密码",
+            "购买新的手机"
+          ],
+          "answer": "查看公交信息",
+          "explanation": "Theo đoạn: “先从查看公交信息开始”. Đáp án phù hợp: “查看公交信息”."
+        },
+        {
+          "id": "hsk4-L03-R05-Q02",
+          "kind": "Nội dung",
+          "question": "作者怎样帮助爷爷记住步骤？",
+          "options": [
+            "把每一步写在纸上",
+            "每天替爷爷付款",
+            "让爷爷不再出门",
+            "只说一遍就离开"
+          ],
+          "answer": "把每一步写在纸上",
+          "explanation": "Theo đoạn: “把每一步写在纸上”. Đáp án phù hợp: “把每一步写在纸上”."
+        },
+        {
+          "id": "hsk4-L03-R05-Q03",
+          "kind": "Nội dung",
+          "question": "爷爷后来帮奶奶做了什么？",
+          "options": [
+            "订车票",
+            "写日记",
+            "换手机",
+            "寄现金"
+          ],
+          "answer": "订车票",
+          "explanation": "Theo đoạn: “帮奶奶订了去看朋友的车票”. Đáp án phù hợp: “订车票”."
+        },
+        {
+          "id": "hsk4-L03-R05-Q04",
+          "kind": "Ý chính",
+          "question": "这篇文章主要介绍什么？",
+          "options": [
+            "耐心帮助老人学习新技术",
+            "爷爷拒绝使用所有软件",
+            "怎样保护纸上的地址",
+            "奶奶教作者买车票"
+          ],
+          "answer": "耐心帮助老人学习新技术",
+          "explanation": "Theo đoạn: “有人耐心介绍，自己再多练几次”. Đáp án phù hợp: “耐心帮助老人学习新技术”."
+        },
+        {
+          "id": "hsk4-L03-R05-Q05",
+          "kind": "Suy luận",
+          "question": "爷爷对新技术的看法怎样变了？",
+          "options": [
+            "觉得经过练习可以学会",
+            "觉得永远不可能学会",
+            "觉得不用保护密码",
+            "觉得不需要任何帮助"
+          ],
+          "answer": "觉得经过练习可以学会",
+          "explanation": "Theo đoạn: “新技术并没有想象中那么难”. Đáp án phù hợp: “觉得经过练习可以学会”."
+        }
+      ],
+      "sourceType": "supplementary"
+    }
+  ],
+  "writing": {
+    "title": "Điện thoại trong cuộc sống",
+    "prompt": "Hãy viết khoảng 100–150 chữ Hán về một lần dùng điện thoại để thanh toán, tìm đường hoặc mua hàng, kèm lưu ý bảo vệ thông tin.",
+    "suggestedWords": [
+      "扫码",
+      "支付",
+      "软件",
+      "密码",
+      "保护"
+    ],
+    "suggestedGrammar": [
+      "X 是 X，就是/不过……",
+      "不仅/不光……，还/而且……"
+    ],
+    "outline": [
+      "Giới thiệu việc cần làm và phần mềm sử dụng.",
+      "Kể các bước và lợi ích thực tế.",
+      "Nêu cách bảo vệ thông tin cá nhân.",
+      "Kiểm tra trật tự từ và các cấu trúc ngữ pháp đã học."
+    ],
+    "sample": "刚来中国时，我不熟悉手机支付，买东西总带现金。后来，朋友教我下载软件，用手机扫码结账。现在，我不仅能在商店付款，还能在网上订水果，生活方便多了。不过，方便是方便，也要保护个人信息。有一次，陌生人向我要支付密码，我没有告诉他。使用新技术以前，先了解安全的方法，才能放心地享受它提供的服务。",
+    "samplePinyin": "gāng lái zhōng guó shí ， wǒ bù shú xī shǒu jī zhī fù ， mǎi dōng xī zǒng dài xiàn jīn 。 hòu lái ， péng yǒu jiào wǒ xià zài ruǎn jiàn ， yòng shǒu jī sǎo mǎ jié zhàng 。 xiàn zài ， wǒ bù jǐn néng zài shāng diàn fù kuǎn ， hái néng zài wǎng shàng dìng shuǐ guǒ ， shēng huó fāng biàn duō le 。 bù guò ， fāng biàn shì fāng biàn ， yě yào bǎo hù gè rén xìn xī 。 yǒu yī cì ， mò shēng rén xiàng wǒ yào zhī fù mì mǎ ， wǒ méi yǒu gào sù tā 。 shǐ yòng xīn jì shù yǐ qián ， xiān liǎo jiě ān quán de fāng fǎ ， cái néng fàng xīn dì xiǎng shòu tā tí gōng de fú wù 。",
+    "translation": "Lúc mới đến Trung Quốc tôi chưa quen thanh toán di động, luôn mang tiền mặt. Bạn dạy tải ứng dụng và quét mã. Nay tôi trả ở cửa hàng và đặt trái cây, tiện hơn nhiều. Nhưng cần bảo vệ thông tin cá nhân. Một lần người lạ hỏi mật khẩu, tôi không cho. Trước khi dùng công nghệ, cần biết cách an toàn để yên tâm hưởng dịch vụ."
+  }
+}

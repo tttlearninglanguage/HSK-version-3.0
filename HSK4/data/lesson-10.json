@@ -1,0 +1,484 @@
+{
+  "id": 10,
+  "volume": "upper",
+  "title": "南方不懂北方的冷",
+  "subtitle": "Miền Nam không hiểu cái lạnh miền Bắc",
+  "words": [
+    {
+      "id": "hsk4-L10-01",
+      "hanzi": "小伙子",
+      "pinyin": "xiǎohuǒzi",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "chàng trai trẻ",
+      "example": "那个小伙子很帅。",
+      "examplePinyin": "nà gè xiǎo huǒ zǐ hěn shuài.",
+      "translation": "Anh chàng đó rất đẹp trai.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L10-02",
+      "hanzi": "气温",
+      "pinyin": "qìwēn",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "nhiệt độ không khí",
+      "example": "明天气温会下降。",
+      "examplePinyin": "míng tiān qì wēnhuì xià jiàng.",
+      "translation": "Nhiệt độ ngày mai sẽ giảm.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L10-03",
+      "hanzi": "度",
+      "pinyin": "dù",
+      "sourcePartOfSpeech": "m.",
+      "meaning": "độ",
+      "example": "夜里气温降到了零下五度。",
+      "examplePinyin": "yè lǐ qì wēn jiàng dào le líng xià wǔ dù 。",
+      "translation": "Ban đêm nhiệt độ giảm xuống âm năm độ.",
+      "partOfSpeech": "Lượng từ",
+      "sourceOriginal": {
+        "example": "夜里气温降到零下了。",
+        "examplePinyin": "yè lǐ qì wēnjiàng dào líng xià le.",
+        "translation": "Ban đêm nhiệt độ đã xuống dưới không độ."
+      },
+      "sourceNote": "Đã hiệu chỉnh ví dụ/phiên âm/dịch bị lệch trong tài liệu; bản gốc lưu trong dữ liệu đối chiếu."
+    },
+    {
+      "id": "hsk4-L10-04",
+      "hanzi": "冻",
+      "pinyin": "dòng",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "rét cóng; đông cứng",
+      "example": "不穿外套会冻感冒的。",
+      "examplePinyin": "bù chuānwài tào huì dòng gǎn mào de.",
+      "translation": "Không mặc áo khoác sẽ bị lạnh đến cảm.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L10-05",
+      "hanzi": "后悔",
+      "pinyin": "hòuhuǐ",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "hối hận",
+      "example": "我后悔没有早点回家。",
+      "examplePinyin": "wǒ hòu huǐ méi yǒu zǎodiǎnhuí jiā.",
+      "translation": "Tôi hối hận vì không về nhà sớm hơn.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L10-06",
+      "hanzi": "就是",
+      "pinyin": "jiùshì",
+      "sourcePartOfSpeech": "adv.",
+      "meaning": "đúng vậy; chính là",
+      "example": "他就是我跟你说的那个人。",
+      "examplePinyin": "tā jiù shìwǒ gēn nǐ shuō de nà gè rén.",
+      "translation": "Anh ấy chính là người tôi đã nói với bạn.",
+      "partOfSpeech": "Phó từ"
+    },
+    {
+      "id": "hsk4-L10-07",
+      "hanzi": "温度",
+      "pinyin": "wēndù",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "nhiệt độ",
+      "example": "今天的温度是零下十五度。",
+      "examplePinyin": "jīn tiān de wēn dù shì líng xià shí wǔ dù 。",
+      "translation": "Nhiệt độ hôm nay là âm mười lăm độ.",
+      "partOfSpeech": "Danh từ",
+      "sourceOriginal": {
+        "example": "今天零下十五度，非常冷。",
+        "examplePinyin": "jīn tiān líng xià shí wǔ dù， fēi cháng lěng.",
+        "translation": "Hôm nay âm mười lăm độ, rất lạnh."
+      },
+      "sourceNote": "Đã hiệu chỉnh ví dụ/phiên âm/dịch bị lệch trong tài liệu; bản gốc lưu trong dữ liệu đối chiếu."
+    },
+    {
+      "id": "hsk4-L10-08",
+      "hanzi": "差别",
+      "pinyin": "chābié",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "sự khác biệt",
+      "example": "这两件事没什么差别。",
+      "examplePinyin": "zhè liǎng jiàn shì méi shén me chà bié.",
+      "translation": "Hai chuyện này chẳng có khác biệt gì.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L10-09",
+      "hanzi": "厚",
+      "pinyin": "hòu",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "dày",
+      "example": "冬天我买了一件厚外套。",
+      "examplePinyin": "dōng tiān wǒ mǎi le yī jiàn hòu wài tào.",
+      "translation": "Mùa đông tôi mua một chiếc áo khoác dày.",
+      "partOfSpeech": "Tính từ"
+    },
+    {
+      "id": "hsk4-L10-10",
+      "hanzi": "寒假",
+      "pinyin": "hánjià",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "kỳ nghỉ đông",
+      "example": "寒假我打算去北方旅行。",
+      "examplePinyin": "hán jiǎ wǒ dǎ suàn qù běi fānglǚ xíng.",
+      "translation": "Kỳ nghỉ đông tôi dự định du lịch miền Bắc.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L10-11",
+      "hanzi": "暖和",
+      "pinyin": "nuǎnhuo",
+      "sourcePartOfSpeech": "adj./v.",
+      "meaning": "ấm áp",
+      "example": "屋子里很暖和。",
+      "examplePinyin": "wū zǐ lǐ hěn nuǎn hé.",
+      "translation": "Trong nhà rất ấm áp.",
+      "partOfSpeech": "Tính từ / Động từ"
+    },
+    {
+      "id": "hsk4-L10-12",
+      "hanzi": "低于",
+      "pinyin": "dīyú",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "thấp hơn",
+      "example": "今天气温低于五度。",
+      "examplePinyin": "jīn tiān qì wēndī yú wǔ dù.",
+      "translation": "Hôm nay nhiệt độ thấp hơn năm độ.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L10-13",
+      "hanzi": "摄氏度",
+      "pinyin": "shèshìdù",
+      "sourcePartOfSpeech": "m.",
+      "meaning": "độ C",
+      "example": "现在是多少摄氏度？",
+      "examplePinyin": "xiàn zài shìduō shǎo shè shì dù？",
+      "translation": "Bây giờ là bao nhiêu độ C?",
+      "partOfSpeech": "Lượng từ"
+    },
+    {
+      "id": "hsk4-L10-14",
+      "hanzi": "受不了",
+      "pinyin": "shòubuliǎo",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "không chịu nổi",
+      "example": "外面太冷了，我真的受不了。",
+      "examplePinyin": "wài miàn tài lěng le， wǒ zhēn de shòu bù le.",
+      "translation": "Ngoài trời quá lạnh, tôi thật sự không chịu nổi.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L10-15",
+      "hanzi": "举办",
+      "pinyin": "jǔbàn",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "tổ chức",
+      "example": "学校下个月要举办运动会。",
+      "examplePinyin": "xué xiào xià gè yuè yào jǔ bàn yùn dòng huì.",
+      "translation": "Tháng sau trường sẽ tổ chức đại hội thể thao.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L10-16",
+      "hanzi": "各种",
+      "pinyin": "gèzhǒng",
+      "sourcePartOfSpeech": "pron.",
+      "meaning": "các loại",
+      "example": "商店里有各种各样的食物。",
+      "examplePinyin": "shāng diàn lǐ yǒu gè zhǒng gè yàng de shí wù.",
+      "translation": "Cửa hàng có đủ các loại thức ăn.",
+      "partOfSpeech": "Đại từ"
+    },
+    {
+      "id": "hsk4-L10-17",
+      "hanzi": "植物",
+      "pinyin": "zhíwù",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "thực vật",
+      "example": "房间里放一些植物会很好看。植物园里有各种各样的植物。",
+      "examplePinyin": "fángjiān lǐ fàngyī xiē zhí wùhuì hěn hǎo kàn. zhí wùyuán lǐ yǒu gè zhǒng gè yàng de zhí wù.",
+      "translation": "Đặt vài cây xanh trong phòng sẽ rất đẹp. Trong vườn thực vật có đủ các loại cây.",
+      "partOfSpeech": "Danh từ",
+      "sourceOriginal": {
+        "translation": "Đặt vài cây xanh trong phòng sẽ rất đẹp."
+      },
+      "sourceNote": "Đã hiệu chỉnh ví dụ/phiên âm/dịch bị lệch trong tài liệu; bản gốc lưu trong dữ liệu đối chiếu."
+    },
+    {
+      "id": "hsk4-L10-18",
+      "hanzi": "公里",
+      "pinyin": "gōnglǐ",
+      "sourcePartOfSpeech": "m.",
+      "meaning": "ki-lô-mét",
+      "example": "我每天跑步五公里。",
+      "examplePinyin": "wǒ měi tiān pǎo bù wǔ gōng lǐ.",
+      "translation": "Mỗi ngày tôi chạy bộ năm cây số.",
+      "partOfSpeech": "Lượng từ"
+    },
+    {
+      "id": "hsk4-L10-19",
+      "hanzi": "气候",
+      "pinyin": "qìhòu",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "khí hậu",
+      "example": "这座城市的气候很舒服。",
+      "examplePinyin": "zhè zuò chéng shì de qì hòu hěn shū fú.",
+      "translation": "Khí hậu thành phố này rất dễ chịu.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L10-20",
+      "hanzi": "而",
+      "pinyin": "ér",
+      "sourcePartOfSpeech": "conj.",
+      "meaning": "mà; nhưng",
+      "example": "南方暖和，而北方很冷。",
+      "examplePinyin": "nán fāngnuǎn hé， ér běi fānghěn lěng.",
+      "translation": "Miền Nam ấm áp, còn miền Bắc lạnh.",
+      "partOfSpeech": "Liên từ"
+    },
+    {
+      "id": "hsk4-L10-21",
+      "hanzi": "此外",
+      "pinyin": "cǐwài",
+      "sourcePartOfSpeech": "conj.",
+      "meaning": "ngoài ra",
+      "example": "这里冬天很冷，此外风也很大。",
+      "examplePinyin": "zhè lǐ dōng tiān hěn lěng， cǐ wài fēng yě hěn dà.",
+      "translation": "Ở đây mùa đông rất lạnh, ngoài ra gió cũng mạnh.",
+      "partOfSpeech": "Liên từ"
+    },
+    {
+      "id": "hsk4-L10-22",
+      "hanzi": "方言",
+      "pinyin": "fāngyán",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "phương ngữ",
+      "example": "有些老人只会说方言。",
+      "examplePinyin": "yǒu xiē lǎo rén zhǐ huì shuō fāngyán.",
+      "translation": "Một số người già chỉ biết nói tiếng địa phương.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L10-23",
+      "hanzi": "普通话",
+      "pinyin": "pǔtōnghuà",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "tiếng Phổ thông",
+      "example": "我的普通话说得不太好。",
+      "examplePinyin": "wǒ de pǔtōng huà shuō dé bù tài hǎo.",
+      "translation": "Tôi nói tiếng Phổ thông chưa tốt lắm.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L10-24",
+      "hanzi": "较",
+      "pinyin": "jiào",
+      "sourcePartOfSpeech": "adv.",
+      "meaning": "tương đối",
+      "example": "冬天温度差别较大。",
+      "examplePinyin": "dōng tiān wēndù chà bié jiào dà.",
+      "translation": "Chênh lệch nhiệt độ mùa đông khá lớn.",
+      "partOfSpeech": "Phó từ"
+    },
+    {
+      "id": "hsk4-L10-25",
+      "hanzi": "使用",
+      "pinyin": "shǐyòng",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "sử dụng",
+      "example": "这个应该如何使用？",
+      "examplePinyin": "zhè gè yīng gāi rú hé shǐ yòng？",
+      "translation": "Cái này nên sử dụng như thế nào?",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L10-26",
+      "hanzi": "引起",
+      "pinyin": "yǐnqǐ",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "gây ra",
+      "example": "这件事引起了大火。",
+      "examplePinyin": "zhè jiàn shì yǐn qǐ le dà huǒ.",
+      "translation": "Chuyện này đã gây ra một đám cháy lớn.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L10-27",
+      "hanzi": "误会",
+      "pinyin": "wùhuì",
+      "sourcePartOfSpeech": "n./v.",
+      "meaning": "hiểu lầm",
+      "example": "你误会我的意思了。",
+      "examplePinyin": "nǐ wù huì wǒ de yì sī le.",
+      "translation": "Bạn đã hiểu nhầm ý tôi rồi.",
+      "partOfSpeech": "Danh từ / Động từ"
+    },
+    {
+      "id": "hsk4-L10-28",
+      "hanzi": "亲爱",
+      "pinyin": "qīnài",
+      "sourcePartOfSpeech": "adj",
+      "meaning": "thân yêu",
+      "example": "亲爱的朋友们，你们好！",
+      "examplePinyin": "qīn ài de péng yǒu men， nǐ men hǎo！",
+      "translation": "Chào các bạn thân mến!",
+      "partOfSpeech": "Tính từ"
+    },
+    {
+      "id": "hsk4-L10-29",
+      "hanzi": "再次",
+      "pinyin": "zàicì",
+      "sourcePartOfSpeech": "adv.",
+      "meaning": "lần nữa",
+      "example": "欢迎再次来到中国。",
+      "examplePinyin": "huān yíng zài cì lái dào zhōng guó.",
+      "translation": "Chào mừng các bạn lại đến Trung Quốc.",
+      "partOfSpeech": "Phó từ"
+    },
+    {
+      "id": "hsk4-L10-30",
+      "hanzi": "开展",
+      "pinyin": "kāizhǎn",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "triển khai",
+      "example": "我们班开展了读书比赛。",
+      "examplePinyin": "wǒ men bānkāi zhǎn le dú shū bǐ sài.",
+      "translation": "Lớp chúng tôi triển khai cuộc thi đọc sách.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L10-31",
+      "hanzi": "绿色",
+      "pinyin": "lǜsè",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "xanh; thân thiện môi trường",
+      "example": "我们要绿色出行。",
+      "examplePinyin": "wǒ men yào lǜsè chū xíng.",
+      "translation": "Chúng ta cần đi lại theo cách thân thiện với môi trường.",
+      "partOfSpeech": "Tính từ"
+    },
+    {
+      "id": "hsk4-L10-32",
+      "hanzi": "环保",
+      "pinyin": "huánbǎo",
+      "sourcePartOfSpeech": "n./adj.",
+      "meaning": "bảo vệ môi trường",
+      "example": "这个咖啡杯很环保。",
+      "examplePinyin": "zhè gè kā fēi bēihěn huánbǎo.",
+      "translation": "Chiếc cốc cà phê này rất thân thiện với môi trường.",
+      "partOfSpeech": "Danh từ / Tính từ"
+    },
+    {
+      "id": "hsk4-L10-33",
+      "hanzi": "拒绝",
+      "pinyin": "jùjué",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "từ chối",
+      "example": "他拒绝明天加班。",
+      "examplePinyin": "tā jù jué míng tiān jiā bān.",
+      "translation": "Anh ấy từ chối làm thêm giờ ngày mai.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L10-34",
+      "hanzi": "浪费",
+      "pinyin": "làngfèi",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "lãng phí",
+      "example": "请不要浪费水。",
+      "examplePinyin": "qǐng bù yào làngfèi shuǐ.",
+      "translation": "Xin đừng lãng phí nước.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L10-35",
+      "hanzi": "节约",
+      "pinyin": "jiéyuē",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "tiết kiệm",
+      "example": "我们要节约每一滴水。",
+      "examplePinyin": "wǒ men yào jié yuē měi yī dī shuǐ.",
+      "translation": "Chúng ta phải tiết kiệm từng giọt nước.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L10-36",
+      "hanzi": "资源",
+      "pinyin": "zīyuán",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "tài nguyên",
+      "example": "地球上的资源是宝贵的。",
+      "examplePinyin": "de qiú shàng de zī yuán shìbǎo guì de.",
+      "translation": "Tài nguyên trên Trái Đất rất quý giá.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L10-37",
+      "hanzi": "光",
+      "pinyin": "guāng",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "hết sạch; chỉ",
+      "example": "碗里的饭全部吃光了。",
+      "examplePinyin": "wǎn lǐ de fàn quán bù chī guāng le.",
+      "translation": "Cơm trong bát đã ăn hết sạch rồi.",
+      "partOfSpeech": "Tính từ"
+    },
+    {
+      "id": "hsk4-L10-38",
+      "hanzi": "垃圾",
+      "pinyin": "lājī",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "rác",
+      "example": "请不要乱扔垃圾。",
+      "examplePinyin": "qǐng bù yào luàn rēng lā jī.",
+      "translation": "Xin đừng vứt rác bừa bãi.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L10-39",
+      "hanzi": "分类",
+      "pinyin": "fēnlèi",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "phân loại",
+      "example": "我们要学会给垃圾分类。",
+      "examplePinyin": "wǒ men yào xué huì gěi lā jī fēn lèi.",
+      "translation": "Chúng ta phải học cách phân loại rác.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L10-40",
+      "hanzi": "日常",
+      "pinyin": "rìcháng",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "hằng ngày",
+      "example": "垃圾分类是日常小事。",
+      "examplePinyin": "lā jī fēn lèishìrì cháng xiǎo shì.",
+      "translation": "Phân loại rác là việc nhỏ thường ngày.",
+      "partOfSpeech": "Tính từ"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "hsk4-L10-G01",
+      "name": "说什么 / 怎么着",
+      "formula": "说什么 / 怎么着 + 也得 + Động từ",
+      "explanation": "Nhất định phải làm gì, thể hiện quyết tâm mạnh trong khẩu ngữ.",
+      "examples": [
+        {
+          "hanzi": "更重要的是，说什么也得穿上厚一点儿的衣服。",
+          "pinyin": "gèng zhòngyào de shì, shuō shénme yě děi chuānshang hòu yìdiǎnr de yīfu.",
+          "translation": "Quan trọng hơn là dù thế nào cũng phải mặc quần áo dày hơn một chút.",
+          "sourcePinyin": "gèng zhòng yào de shì， shuō shén me yě dé chuānshàng hòu yī diǎnér de yī fú."
+        }
+      ],
+      "usage": "说什么/怎么着也得 nhấn mạnh nhất định phải làm; 得 đọc děi.",
+      "note": "Đây là cách nhấn mạnh trong khẩu ngữ, không dịch từng chữ."
+    }
+  ],
+  "source": "HSK 4 - Thượng - Từ vựng và ngữ pháp theo bài học.docx",
+  "supplementNote": "Bài tập, bài đọc, cách dùng và lưu ý được biên soạn bổ sung; từ vựng và ví dụ ngữ pháp theo tài liệu bạn cung cấp."
+}

@@ -168,3 +168,5 @@ button:focus-visible,a:focus-visible,input:focus-visible,textarea:focus-visible,
  #app .reading-choice{padding:16px}
  #app .reading-picker-grid{gap:12px}
 }
+
+#app .hsk4-source-note{display:block;margin-top:5px;font:12px/1.45 Arial,sans-serif;color:#647087}

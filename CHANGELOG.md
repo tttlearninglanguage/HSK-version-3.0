@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-11-03 — Hoàn thiện HSK 4 Thượng Bài 2–10
+
+- Mở đủ 10 bài Thượng theo tài liệu người dùng: tổng 387 mục từ và 33 điểm ngữ pháp; mỗi bài có 18 chế độ, 5 đoạn đọc độc lập/25 câu hỏi và đề viết riêng.
+- Giữ mẫu Bài 1: giao diện gọn, chọn đáp án trực tiếp, câu hỏi/đáp án đọc bằng tiếng Trung, ruby pinyin và lưới lựa chọn 4/2/1 cột.
+- Tách tiến độ và bản nháp theo bài; hỗ trợ ôn nhiều bài, sao lưu toàn quyển và nhập dữ liệu Bài 1 cũ. Quyển Hạ tiếp tục Sắp ra mắt.
+- Đối chiếu DOCX bằng hash, lưu nguyên bản các chỗ nguồn đã hiệu chỉnh. Chi tiết: [HSK4/README.md](HSK4/README.md).
+
 ## 2026-11-03 — Chọn bài đọc HSK 1 độc lập
 
 - Hiển thị ngay 5 thẻ bài đọc để chọn tự do trong mỗi Unit; bỏ luồng bắt buộc hoàn thành tuần tự và không tự chuyển sang bài khác.

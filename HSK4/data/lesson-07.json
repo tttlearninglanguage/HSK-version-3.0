@@ -1,0 +1,515 @@
+{
+  "id": 7,
+  "volume": "upper",
+  "title": "在工作中学习",
+  "subtitle": "Học hỏi trong công việc",
+  "words": [
+    {
+      "id": "hsk4-L07-01",
+      "hanzi": "打扰",
+      "pinyin": "dǎrǎo",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "làm phiền",
+      "example": "请勿打扰！",
+      "examplePinyin": "qǐng wù dǎ rǎo！",
+      "translation": "Xin đừng làm phiền!",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L07-02",
+      "hanzi": "市场",
+      "pinyin": "shìchǎng",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "thị trường",
+      "example": "我们明天去做市场调查。",
+      "examplePinyin": "wǒ men míng tiān qù zuò shì chǎng diào chá.",
+      "translation": "Ngày mai chúng tôi đi khảo sát thị trường.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L07-03",
+      "hanzi": "调查",
+      "pinyin": "diàochá",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "điều tra",
+      "example": "警察正在调查这件事。",
+      "examplePinyin": "jǐng chá zhèng zài diào chá zhè jiàn shì.",
+      "translation": "Cảnh sát đang điều tra chuyện này.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L07-04",
+      "hanzi": "计划",
+      "pinyin": "jìhuà",
+      "sourcePartOfSpeech": "n./v.",
+      "meaning": "kế hoạch; lập kế hoạch",
+      "example": "我们计划周末回家。",
+      "examplePinyin": "wǒ men jì huà zhōu mòhuí jiā.",
+      "translation": "Chúng tôi dự định cuối tuần về nhà.",
+      "partOfSpeech": "Danh từ / Động từ"
+    },
+    {
+      "id": "hsk4-L07-05",
+      "hanzi": "内容",
+      "pinyin": "nèiróng",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "nội dung",
+      "example": "今天会议的内容很多。",
+      "examplePinyin": "jīn tiān huì yì de nèi róng hěn duō.",
+      "translation": "Cuộc họp hôm nay có nhiều nội dung.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L07-06",
+      "hanzi": "改",
+      "pinyin": "gǎi",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "sửa; thay đổi",
+      "example": "请你改一下时间。",
+      "examplePinyin": "qǐng nǐ gǎiyī xià shí jiān.",
+      "translation": "Bạn hãy sửa thời gian một chút.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L07-07",
+      "hanzi": "细心",
+      "pinyin": "xìxīn",
+      "sourcePartOfSpeech": "adj.",
+      "meaning": "tỉ mỉ",
+      "example": "做工作一定要细心。",
+      "examplePinyin": "zuò gōng zuò yī dìng yào xì xīn.",
+      "translation": "Làm việc nhất định phải cẩn thận.",
+      "partOfSpeech": "Tính từ"
+    },
+    {
+      "id": "hsk4-L07-08",
+      "hanzi": "客户",
+      "pinyin": "kèhù",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "khách hàng",
+      "example": "这位客户对我们的产品很满意。",
+      "examplePinyin": "zhè wèi kè hù duì wǒ men de chǎn pǐn hěn mǎn yì 。",
+      "translation": "Vị khách hàng này rất hài lòng với sản phẩm của chúng tôi.",
+      "partOfSpeech": "Danh từ",
+      "sourceOriginal": {
+        "example": "警察正在调查这件事。",
+        "examplePinyin": "jǐng chá zhèng zài diào chá zhè jiàn shì.",
+        "translation": "Cảnh sát đang điều tra chuyện này."
+      },
+      "sourceNote": "Đã hiệu chỉnh ví dụ/phiên âm/dịch bị lệch trong tài liệu; bản gốc lưu trong dữ liệu đối chiếu."
+    },
+    {
+      "id": "hsk4-L07-09",
+      "hanzi": "真正",
+      "pinyin": "zhēnzhèng",
+      "sourcePartOfSpeech": "adj./adv.",
+      "meaning": "thực sự",
+      "example": "这才是真正的原因。",
+      "examplePinyin": "zhè cái shìzhēn zhèng de yuán yīn.",
+      "translation": "Đây mới là nguyên nhân thực sự.",
+      "partOfSpeech": "Tính từ / Phó từ"
+    },
+    {
+      "id": "hsk4-L07-10",
+      "hanzi": "想法",
+      "pinyin": "xiǎngfǎ",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "ý tưởng",
+      "example": "你有什么想法，可以告诉我。",
+      "examplePinyin": "nǐ yǒu shén me xiǎng fǎ ， kě yǐ gào sù wǒ 。",
+      "translation": "Bạn có ý tưởng gì thì có thể nói với tôi.",
+      "partOfSpeech": "Danh từ",
+      "sourceOriginal": {
+        "example": "警察正在调查这件事。",
+        "examplePinyin": "jǐng chá zhèng zài diào chá zhè jiàn shì.",
+        "translation": "Cảnh sát đang điều tra chuyện này."
+      },
+      "sourceNote": "Đã hiệu chỉnh ví dụ/phiên âm/dịch bị lệch trong tài liệu; bản gốc lưu trong dữ liệu đối chiếu."
+    },
+    {
+      "id": "hsk4-L07-11",
+      "hanzi": "任务",
+      "pinyin": "rènwù",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "nhiệm vụ",
+      "example": "这个任务有点难。",
+      "examplePinyin": "zhè gè rèn wù yǒu diǎnnán.",
+      "translation": "Nhiệm vụ này hơi khó.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L07-12",
+      "hanzi": "及时",
+      "pinyin": "jíshí",
+      "sourcePartOfSpeech": "adv./adj.",
+      "meaning": "kịp thời",
+      "example": "幸好你及时告诉我。",
+      "examplePinyin": "xìng hǎo nǐ jí shí gào sù wǒ.",
+      "translation": "May mà bạn đã thông báo kịp thời cho tôi.",
+      "partOfSpeech": "Phó từ / Tính từ"
+    },
+    {
+      "id": "hsk4-L07-13",
+      "hanzi": "出差",
+      "pinyin": "chūchāi",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "đi công tác",
+      "example": "爸爸下周去出差。",
+      "examplePinyin": "bàbàxià zhōu qù chū chà.",
+      "translation": "Tuần tới bố đi công tác.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L07-14",
+      "hanzi": "经验",
+      "pinyin": "jīng yàn",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "kinh nghiệm",
+      "example": "请问你有相关经验吗？",
+      "examplePinyin": "qǐng wèn nǐ yǒu xiāngguān jīng yàn ma？",
+      "translation": "Xin hỏi bạn có kinh nghiệm liên quan không?",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L07-15",
+      "hanzi": "采访",
+      "pinyin": "cǎi fǎng",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "phỏng vấn",
+      "example": "他拒绝接受采访。",
+      "examplePinyin": "tā jùjué jiēshòu cǎifǎng.",
+      "translation": "Anh ấy từ chối trả lời phỏng vấn.",
+      "partOfSpeech": "Động từ",
+      "sourceOriginal": {
+        "example": "他拒接接受采访。",
+        "examplePinyin": "tā jù jiē jiē shòu cǎi fǎng."
+      },
+      "sourceNote": "Đã hiệu chỉnh ví dụ/phiên âm/dịch bị lệch trong tài liệu; bản gốc lưu trong dữ liệu đối chiếu."
+    },
+    {
+      "id": "hsk4-L07-16",
+      "hanzi": "产品",
+      "pinyin": "chǎn pǐn",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "sản phẩm",
+      "example": "这家公司的产品很好用。",
+      "examplePinyin": "zhè jiā gōng sī de chǎn pǐn hěn hǎo yòng.",
+      "translation": "Sản phẩm của công ty này rất dễ sử dụng.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L07-17",
+      "hanzi": "看法",
+      "pinyin": "kàn fǎ",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "quan điểm",
+      "example": "我说说我的看法。",
+      "examplePinyin": "wǒ shuō shuō wǒ de kàn fǎ.",
+      "translation": "Tôi xin nói một chút quan điểm của mình.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L07-18",
+      "hanzi": "提前",
+      "pinyin": "tí qián",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "trước thời hạn",
+      "example": "明天可以提前下班。",
+      "examplePinyin": "míng tiān kě yǐ tí qián xià bān.",
+      "translation": "Ngày mai có thể tan làm sớm.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L07-19",
+      "hanzi": "便于",
+      "pinyin": "biàn yú",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "tiện cho",
+      "example": "这个包很小，便于旅行。",
+      "examplePinyin": "zhè gè bāo hěn xiǎo， biàn yú lǚ xíng.",
+      "translation": "Chiếc túi này rất nhỏ, tiện cho việc đi du lịch.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L07-20",
+      "hanzi": "既然",
+      "pinyin": "jì rán",
+      "sourcePartOfSpeech": "conj.",
+      "meaning": "đã... thì",
+      "example": "既然来了，就坐一会儿吧。",
+      "examplePinyin": "jì rán lái le， jiù zuò yī huì ér ba.",
+      "translation": "Đã đến rồi thì ngồi chơi một lát đi.",
+      "partOfSpeech": "Liên từ"
+    },
+    {
+      "id": "hsk4-L07-21",
+      "hanzi": "谈",
+      "pinyin": "tán",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "nói chuyện; bàn bạc",
+      "example": "我们正在谈事情。",
+      "examplePinyin": "wǒ men zhèng zài tán shì qíng.",
+      "translation": "Chúng tôi đang bàn một chuyện.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L07-22",
+      "hanzi": "笔",
+      "pinyin": "bǐ",
+      "sourcePartOfSpeech": "m.",
+      "meaning": "lượng từ cho khoản tiền",
+      "example": "我们在谈一笔生意。",
+      "examplePinyin": "wǒ men zài tán yī bǐ shēng yì.",
+      "translation": "Chúng tôi đang bàn một thương vụ.",
+      "partOfSpeech": "Lượng từ"
+    },
+    {
+      "id": "hsk4-L07-23",
+      "hanzi": "生意",
+      "pinyin": "shēngyi",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "kinh doanh",
+      "example": "我爸爸是个生意人。",
+      "examplePinyin": "wǒ bàbàshìgè shēng yì rén.",
+      "translation": "Bố tôi là người kinh doanh.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L07-24",
+      "hanzi": "困难",
+      "pinyin": "kùnnán",
+      "sourcePartOfSpeech": "n./adj.",
+      "meaning": "khó khăn",
+      "example": "这件事做起来很困难。",
+      "examplePinyin": "zhè jiàn shì zuò qǐ lái hěn kùn nán.",
+      "translation": "Làm việc này khá khó khăn.",
+      "partOfSpeech": "Danh từ / Tính từ"
+    },
+    {
+      "id": "hsk4-L07-25",
+      "hanzi": "优点",
+      "pinyin": "yōudiǎn",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "ưu điểm",
+      "example": "他的优点是细心。",
+      "examplePinyin": "tā de yōu diǎnshìxì xīn.",
+      "translation": "Ưu điểm của anh ấy là cẩn thận.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L07-26",
+      "hanzi": "缺点",
+      "pinyin": "quēdiǎn",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "khuyết điểm",
+      "example": "每个人都有缺点。",
+      "examplePinyin": "měi gè rén dōu yǒu quēdiǎn.",
+      "translation": "Ai cũng có khuyết điểm.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L07-27",
+      "hanzi": "实际",
+      "pinyin": "shíjì",
+      "sourcePartOfSpeech": "adj./n.",
+      "meaning": "thực tế",
+      "example": "实际上，这件事并不难。",
+      "examplePinyin": "shí jì shàng， zhè jiàn shì bìng bù nán.",
+      "translation": "Thật ra, chuyện này không khó.",
+      "partOfSpeech": "Tính từ / Danh từ"
+    },
+    {
+      "id": "hsk4-L07-28",
+      "hanzi": "效果",
+      "pinyin": "xiàoguǒ",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "hiệu quả",
+      "example": "这个药的效果很明显。坚持练习，才会有效果。",
+      "examplePinyin": "zhè gè yào de xiào guǒ hěn míng xiǎn. jiān chí liàn xí， cái huì yǒu xiào guǒ.",
+      "translation": "Tác dụng của thuốc này rất rõ rệt. Kiên trì tập luyện mới có kết quả.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L07-29",
+      "hanzi": "点",
+      "pinyin": "diǎn",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "điểm",
+      "example": "这一点很重要，请大家注意。",
+      "examplePinyin": "zhè yì diǎn hěn zhòng yào ， qǐng dà jiā zhù yì 。",
+      "translation": "Điểm này rất quan trọng, mọi người hãy chú ý.",
+      "partOfSpeech": "Danh từ",
+      "sourceOriginal": {
+        "example": "他的优点是细心。",
+        "examplePinyin": "tā de yōu diǎnshìxì xīn.",
+        "translation": "Ưu điểm của anh ấy là cẩn thận."
+      },
+      "sourceNote": "Đã hiệu chỉnh ví dụ/phiên âm/dịch bị lệch trong tài liệu; bản gốc lưu trong dữ liệu đối chiếu."
+    },
+    {
+      "id": "hsk4-L07-30",
+      "hanzi": "一下",
+      "pinyin": "yíxià",
+      "sourcePartOfSpeech": "adv.",
+      "meaning": "một chút; một lần",
+      "example": "请你帮我看一下这份材料。",
+      "examplePinyin": "qǐng nǐ bāng wǒ kàn yī xià zhè fèn cái liào 。",
+      "translation": "Bạn hãy giúp tôi xem tài liệu này một chút.",
+      "partOfSpeech": "Phó từ",
+      "sourceOriginal": {
+        "example": "实际上，这件事并不难。",
+        "examplePinyin": "shí jì shàng， zhè jiàn shì bìng bù nán.",
+        "translation": "Thật ra, chuyện này không khó."
+      },
+      "sourceNote": "Đã hiệu chỉnh ví dụ/phiên âm/dịch bị lệch trong tài liệu; bản gốc lưu trong dữ liệu đối chiếu."
+    },
+    {
+      "id": "hsk4-L07-31",
+      "hanzi": "份",
+      "pinyin": "fèn",
+      "sourcePartOfSpeech": "m.",
+      "meaning": "phần; bản",
+      "example": "请给我这份文件。",
+      "examplePinyin": "qǐng gěi wǒ zhè fèn wén jiàn.",
+      "translation": "Hãy đưa cho tôi tài liệu này.",
+      "partOfSpeech": "Lượng từ"
+    },
+    {
+      "id": "hsk4-L07-32",
+      "hanzi": "积累",
+      "pinyin": "jī lěi",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "tích lũy",
+      "example": "学习汉语要慢慢积累。",
+      "examplePinyin": "xué xí hàn yǔ yào màn màn jīlèi.",
+      "translation": "Học tiếng Trung cần tích lũy dần dần.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L07-33",
+      "hanzi": "使",
+      "pinyin": "shǐ",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "khiến; làm cho",
+      "example": "学习使我进步。",
+      "examplePinyin": "xué xí shǐ wǒ jìn bù.",
+      "translation": "Việc học giúp tôi tiến bộ.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L07-34",
+      "hanzi": "进入",
+      "pinyin": "jìnrù",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "đi vào",
+      "example": "他今年进入大学学习。",
+      "examplePinyin": "tā jīn nián jìn rù dà xué xué xí.",
+      "translation": "Năm nay anh ấy vào đại học.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L07-35",
+      "hanzi": "社会",
+      "pinyin": "shèhuì",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "xã hội",
+      "example": "他毕业后进入了社会。",
+      "examplePinyin": "tā bì yè hòu jìn rù le shèhuì.",
+      "translation": "Sau khi tốt nghiệp, anh ấy bước vào xã hội.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L07-36",
+      "hanzi": "管理",
+      "pinyin": "ɡuɑ̌nlǐ",
+      "sourcePartOfSpeech": "v.",
+      "meaning": "quản lý",
+      "example": "他管理着两家公司。",
+      "examplePinyin": "tā guǎn lǐ zhe liǎng jiā gōng sī.",
+      "translation": "Anh ấy quản lý hai công ty.",
+      "partOfSpeech": "Động từ"
+    },
+    {
+      "id": "hsk4-L07-37",
+      "hanzi": "基础",
+      "pinyin": "jīchǔ",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "nền tảng; cơ sở",
+      "example": "我们要打好基础。",
+      "examplePinyin": "wǒ men yào dǎ hǎo jī chǔ.",
+      "translation": "Chúng ta phải xây dựng nền tảng thật tốt.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L07-38",
+      "hanzi": "能力",
+      "pinyin": "nénglì",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "năng lực",
+      "example": "他有解决问题的能力。",
+      "examplePinyin": "tā yǒu jiě jué wèn tí de néng lì.",
+      "translation": "Anh ấy có khả năng giải quyết vấn đề.",
+      "partOfSpeech": "Danh từ"
+    },
+    {
+      "id": "hsk4-L07-39",
+      "hanzi": "今后",
+      "pinyin": "jīnhòu",
+      "sourcePartOfSpeech": "n.",
+      "meaning": "sau này",
+      "example": "今后我要努力学习。",
+      "examplePinyin": "jīn hòu wǒ yào nǔ lì xué xí.",
+      "translation": "Từ nay tôi sẽ cố gắng học tập.",
+      "partOfSpeech": "Danh từ"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "hsk4-L07-G01",
+      "name": "在",
+      "formula": "在 + Lĩnh vực + 方面",
+      "explanation": "Giới hạn phạm vi hoặc khía cạnh đang bàn đến.",
+      "examples": [
+        {
+          "hanzi": "在时间安排方面，你可以再想一想。",
+          "pinyin": "zài shí jiān ān pái fāngmiàn， nǐ kě yǐ zài xiǎng yī xiǎng.",
+          "translation": "Về mặt sắp xếp thời gian, bạn có thể cân nhắc thêm."
+        }
+      ],
+      "usage": "在……方面 giới hạn khía cạnh đang bàn.",
+      "note": "Giữ 方面 sau tên lĩnh vực hoặc vấn đề."
+    },
+    {
+      "id": "hsk4-L07-G02",
+      "name": "既然",
+      "formula": "既然 + Tiền đề，就 + Kết luận",
+      "explanation": "Đã… thì…, đưa ra kết luận dựa trên tình huống có sẵn.",
+      "examples": [
+        {
+          "hanzi": "既然大家都同意，我们就这么做吧。",
+          "pinyin": "jì rán dà jiā dōu tóng yì， wǒ men jiù zhè me zuò ba.",
+          "translation": "Đã mọi người đều đồng ý thì chúng ta cứ làm thế nhé."
+        }
+      ],
+      "usage": "既然 nêu tiền đề đã biết, 就 đưa ra kết luận.",
+      "note": "Không dùng 既然 như 要是 cho giả thiết hoàn toàn chưa biết."
+    },
+    {
+      "id": "hsk4-L07-G03",
+      "name": "拿",
+      "formula": "拿 + Ví dụ + 来说",
+      "explanation": "Lấy… làm ví dụ để minh họa một luận điểm.",
+      "examples": [
+        {
+          "hanzi": "拿购物来说，人们不出门就能买到想要的东西。",
+          "pinyin": "nágòu wùlái shuō， rén men bù chū mén jiù néng mǎi dào xiǎng yào de dōng xī.",
+          "translation": "Lấy việc mua sắm làm ví dụ, mọi người không ra khỏi nhà vẫn mua được đồ mình muốn."
+        }
+      ],
+      "usage": "拿……来说 dùng một trường hợp cụ thể làm ví dụ.",
+      "note": "Không bỏ 来说 khi dùng trọn cấu trúc này."
+    }
+  ],
+  "source": "HSK 4 - Thượng - Từ vựng và ngữ pháp theo bài học.docx",
+  "supplementNote": "Bài tập, bài đọc, cách dùng và lưu ý được biên soạn bổ sung; từ vựng và ví dụ ngữ pháp theo tài liệu bạn cung cấp."
+}
