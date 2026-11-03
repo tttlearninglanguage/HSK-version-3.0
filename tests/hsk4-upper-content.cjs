@@ -26,5 +26,5 @@ for(const [index,l]of lessons.entries()){
  const w=p.writing;assert(w.sample&&w.samplePinyin&&w.translation);assert(w.suggestedWords.every(h=>l.words.some(x=>x.hanzi===h)));if(l.id>1){assert(w.sample.length>=100&&w.sample.length<=150);assert(w.outline.length>=3);checkLookup(w.sample)}
  console.log(`PASS lesson ${l.id}: ${l.words.length} source words, ${l.grammar.length} grammar points (DOCX + recorded supplements), source audit/corrections, cloze/order, 5 independent readings/25 questions, writing and lookup`);
 }
-assert.equal(words,387);assert.equal(grammar,37);assert.equal(questions,250);assert.equal(texts.size,50);
+assert.equal(words,387);assert.equal(grammar,40);assert.equal(questions,250);assert.equal(texts.size,50);
 console.log(`PASS upper course: ${words} words, ${grammar} grammar points, 50 unique readings/${questions} questions, ${checkedTexts} lookup texts; lower remains upcoming.`);
