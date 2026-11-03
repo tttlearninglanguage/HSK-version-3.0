@@ -19,7 +19,7 @@ await page.goto(base+'/HSK4/index.html#lesson/1/flash');await page.locator('#hsk
 if(process.env.HSK4_SCREENSHOTS)await page.screenshot({path:path.join(process.env.HSK4_SCREENSHOTS,'hsk4-flash-'+width+'.png'),fullPage:true});
 const modeIds=['hanzi','meaning','pinyin','listen','listen-sentence','type','dictation','cloze','order','translate','reading','speaking','grammar','grammar-order','grammar-write','passages','mixed'];
 for(const mode of modeIds){
- await page.goto(base+'/HSK4/index.html#lesson/1/games');await page.locator(`[data-mode="${mode}"]`).click();await page.waitForSelector('#answerArea');
+ await page.goto(base+'/HSK4/index.html#lesson/1/games');await page.locator(`[data-mode="${mode}"]`).click();if(mode==='passages')await page.locator('[data-reading-id]').first().click();await page.waitForSelector('#answerArea');
  const q=await page.evaluate(()=>HSK4.getSession().questions[0]);
  if(q.options){await page.locator(`[data-action="answer"][data-index="${q.options.indexOf(q.answer)}"]`).click();}
  else if(q.tokens){const s=await page.evaluate(()=>HSK4.getSession());const unused=[...s.tiles];for(const token of q.tokens){const i=unused.findIndex(t=>t.text===token);const tile=unused.splice(i,1)[0];await page.locator(`[data-action="pick"][data-index="${tile.id}"]`).click()}await page.locator('[data-action="submit-order"]').click();}
@@ -28,8 +28,8 @@ for(const mode of modeIds){
  if(mode==='passages'){
   const word=page.locator('.passage .lookup').first();await word.click();assert(await page.locator('#gloss .pin').innerText());const a=await word.boundingBox(),b=await page.locator('#gloss').boundingBox();assert(b.x>=0&&b.x+b.width<=width+1);assert(b.y>=0&&b.y+b.height<=960+1);assert(Math.abs(b.y-a.y)<350);await page.keyboard.press('Escape');assert.equal(await page.locator('#gloss').count(),0);
   if(process.env.HSK4_SCREENSHOTS)await page.screenshot({path:path.join(process.env.HSK4_SCREENSHOTS,'hsk4-reading-'+width+'.png'),fullPage:true});
-  for(let i=1;i<12;i++){await page.locator('[data-action="next"]').click();const next=await page.evaluate(()=>HSK4.getSession().questions[HSK4.getSession().index]);await page.locator(`[data-action="answer"][data-index="${next.options.indexOf(next.answer)}"]`).click()}
-  await page.locator('[data-action="next"]').click();assert((await page.locator('main').innerText()).includes('12 / 12'));checks+=12;
+  for(let i=1;i<5;i++){await page.locator('[data-action="next"]').click();const next=await page.evaluate(()=>HSK4.getSession().questions[HSK4.getSession().index]);await page.locator(`[data-action="answer"][data-index="${next.options.indexOf(next.answer)}"]`).click()}
+  await page.locator('[data-action="next"]').click();assert((await page.locator('main').innerText()).includes('5 / 5'));checks+=5;
  }
 }
 // Wrong answers persist and cannot earn a second point by double clicking.
@@ -45,7 +45,7 @@ await page.goto(base+'/HSK4/index.html#home');assert(await page.evaluate(()=>doc
 await page.goto(base+'/HSK4/index.html#lesson/11/words');assert(await page.locator('h1').innerText()==='HSK 4 VERSION 3.0');await page.locator('.hsk-logo').click();assert(page.url().endsWith('/index.html'));checks+=7;
 // Complete full banks to verify score aggregation and result persistence.
 for(const [mode,total] of [['cloze',40],['grammar',4],['mixed',40]]){
- await page.goto(base+'/HSK4/index.html#lesson/1/games');await page.locator('#questionCount').selectOption('40');await page.locator(`[data-mode="${mode}"]`).click();
+ await page.goto(base+'/HSK4/index.html#lesson/1/games');await page.locator('#questionCount').selectOption('40');await page.locator(`[data-mode="${mode}"]`).click();if(mode==='passages')await page.locator('[data-reading-id]').first().click();
  assert.equal(await page.evaluate(()=>HSK4.getSession().questions.length),total);
  for(let i=0;i<total;i++){const q=await page.evaluate(()=>HSK4.getSession().questions[HSK4.getSession().index]);await page.locator(`[data-action="answer"][data-index="${q.options.indexOf(q.answer)}"]`).click();await page.locator('[data-action="next"]').click()}
  assert((await page.locator('main').innerText()).includes(total+' / '+total+' câu đúng'));checks+=total;
