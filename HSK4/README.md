@@ -18,7 +18,7 @@ Bản sửa giao diện dùng CSS thực tế của HSK 3, không tiếp tục b
 - Flashcard: dùng trực tiếp CSS compact chung, bộ lọc Tất cả / Đã thuộc / Chưa thuộc, thanh tiến độ, nút Nghe / Trước / Đánh dấu / Trộn thẻ / Tiếp. Trộn thẻ không thay đổi thứ tự dữ liệu nguồn.
 - Ngữ pháp: các khung `h2-ref-*` như HSK 3, gồm công thức vàng, giải thích, lưu ý và ví dụ.
 - Trò chơi: nhóm từ vựng, nghe/viết, câu/ngữ pháp, đọc đoạn và vận dụng; dùng lại khung câu hỏi, lựa chọn đáp án và chọn giọng đọc.
-- Đọc hiểu: bố cục `h2-reading-layout` hai cột trên máy tính, xếp dọc trên điện thoại; tra từ gần vị trí bấm.
+- Đọc hiểu dùng mẫu HSK 1: danh sách thẻ 3/2/1 cột theo màn hình; màn hình đọc một khung rộng, đoạn văn trên và câu hỏi/lựa chọn bên dưới; tra từ gần vị trí bấm.
 - Viết đoạn, ôn tập, thống kê: khung hướng dẫn `answer-area` và các thành phần `dash-*` của HSK 3.
 
 `tests/hsk4-ui-parity.cjs` so sánh trực tiếp kiểu hiển thị được trình duyệt tính toán cho các thành phần của HSK 3 và HSK 4 tại 1440px/390px; đồng thời xác minh file CSS dẫn xuất khớp toàn bộ cascade nguồn. Kiểm tra gồm font, màu, border, bo góc, padding, bóng, cách hiển thị, không tràn ngang, tìm bài, bộ lọc flashcard và thứ tự dữ liệu khi trộn thẻ.
@@ -50,16 +50,25 @@ Câu hỏi có đáp án cố định được chấm theo đáp án, bỏ khác
 - Nghe hiểu câu: nghe câu ví dụ và chọn câu tiếng Trung tương ứng, thay cho chọn bản dịch tiếng Việt.
 - Đọc hiểu đoạn: cả bốn phương án của mỗi câu hỏi đều bằng tiếng Trung; toàn bộ câu hỏi cũng bằng tiếng Trung, còn giải thích giữ tiếng Việt. Bản dịch phương án cũ được giữ trong dữ liệu để đối chiếu.
 - Các lựa chọn tiếng Trung có nút tra từ độc lập và nút “Chọn đáp án”; không lồng các nút, không tự nộp khi tra từ. Tra từ vẫn dùng được sau khi chấm.
-- Đồng bộ toàn bộ 18 chế độ Bài 1 theo cỡ chữ thực tế của Trắc nghiệm ngữ pháp: đề 32px (line-height 1.9), đáp án 23px (line-height 1.7), nét thường 400; áp dụng cả ô nhập, từ sắp xếp, đáp án câu nghe/đọc, đáp án phản hồi và các câu ôn tổng hợp. Pinyin, chú thích, nút điều khiển giữ cỡ chữ riêng. Văn bản đoạn đọc/đoạn mẫu dùng cỡ nội dung 23px để dễ đọc đoạn dài.
+- Đồng bộ toàn bộ 18 chế độ Bài 1 theo cỡ chữ thực tế của Trắc nghiệm ngữ pháp: đề 32px (line-height 1.9), đáp án 23px (line-height 1.7), nét thường 400; áp dụng cả ô nhập, từ sắp xếp, đáp án câu nghe/đọc, đáp án phản hồi và các câu ôn tổng hợp. Pinyin, chú thích, nút điều khiển giữ cỡ chữ riêng. Riêng đoạn đọc theo mẫu HSK 1 dùng 27px, giãn dòng 2; đoạn mẫu luyện viết vẫn dùng 23px.
 - Luyện nói: kết quả nhận diện được điền vào ô trả lời, có thể sửa trước khi tự đối chiếu. Không tự nộp; bỏ qua kết quả đến muộn khi đổi câu, đổi màn hình, đã nộp hoặc đã bật lượt micro mới.
 
 Kiểm thử `tests/hsk4-exercise-updates.cjs` đạt 116 kiểm tra tại 1440px/390px, gồm trọn bộ 40 câu nghe và bài đọc đầu tiên với 5 câu hỏi, dữ liệu tra từ, cỡ chữ, sửa kết quả micro và các tình huống kết quả đến muộn. Micro trong bộ kiểm thử được giả lập; nhận diện âm thanh thực tế vẫn phụ thuộc thiết bị và dịch vụ trình duyệt.
 
 Kiểm thử `tests/hsk4-game-typography.cjs` đạt 171 kiểm tra, đối chiếu trực tiếp mọi chế độ và từng câu của lượt ôn tổng hợp với cỡ chữ được trình duyệt tính cho Trắc nghiệm ngữ pháp tại 1440px, 390px và 360px. Hai biến CSS `--hsk4-game-prompt-size` / `--hsk4-game-answer-size` là cấu hình chung, chỉ nằm trong giao diện HSK 4.
 
-Phần đọc hiểu được thu gọn riêng: giãn dòng câu hỏi/đáp án 1.35, đoạn đọc 1.5, khoảng cách lựa chọn 8px, giảm đệm và đặt nút “Chọn” cạnh nội dung đáp án. Giữ nguyên cỡ chữ đề 32px và đáp án 23px. Cả 25 câu hỏi đã chuyển sang tiếng Trung, giữ bản Việt trong `questionVietnamese` để đối chiếu; bổ sung tra từ cho 项 và 符合.
+## Giao diện đọc hiểu theo HSK 1
 
-`tests/hsk4-reading-layout.cjs` đạt 100 kiểm tra: cả 25 câu ở 1440×900, 1280×800, 390×844 và 360×640; xác minh cụm câu hỏi/bốn lựa chọn vừa chiều cao màn hình, không tràn ngang, tra từ không nộp và hoàn thành đúng 5/5 cho từng bài. Trên điện thoại đoạn đọc và câu hỏi vẫn xếp dọc, nên toàn trang có thể cần cuộn giữa hai phần.
+- `reading-hsk1.css` lấy nguyên khối CSS `hsk1-reading-picker-style` từ `HSK1/index.html`; chỉ nạp trên HSK 4, không sửa HSK 1.
+- Danh sách có 3 cột trên máy tính lớn, 2 cột trên màn hình vừa và 1 cột trên điện thoại. Mỗi thẻ hiển thị tên, 5 câu hỏi, trạng thái và kết quả đã lưu, cùng nút bắt đầu/luyện lại.
+- Đoạn văn, tiêu đề, điều khiển và câu hỏi nằm trong một khung rộng như HSK 1. Các lựa chọn đặt thành lưới ở bên dưới, không còn bố cục bài đọc trái/câu hỏi phải. Câu hỏi và đáp án vẫn bằng tiếng Trung.
+- “Hiện Pinyin” mở khung nền xám có Hán tự và pinyin đặt trên từng từ/cụm từ bằng ruby. Pinyin lấy từ các mục tra cứu đã có, không phải một đoạn phiên âm rời. Pinyin toàn đoạn trong dữ liệu không bị thay đổi.
+- Trạng thái hiện pinyin được giữ khi sang câu hỏi khác trong cùng bài; chuyển sang bài đọc khác bắt đầu với pinyin ẩn.
+- Tra từ vẫn hoạt động trong đoạn văn, câu hỏi, đáp án. Phần lựa chọn có nút chọn độc lập cùng cấp với nút tra từ, không lồng button; nhấn từ để tra, nhấn vùng trống của thẻ hoặc Enter khi thẻ chọn có focus để nộp. Không tự nộp khi bấm tra từ.
+
+`tests/hsk4-hsk1-reading-ui.cjs` đạt 184 kiểm tra trên 1440/900/390/360px: đối chiếu CSS thẻ và khung ruby với HSK 1 thật, kiểm tra toàn bộ 5 bài đọc, pinyin đúng từng từ và toàn văn, bật/ẩn/giữ trạng thái, tra từ, chấm bài và không tràn ngang.
+
+`tests/hsk4-reading-layout.cjs` đạt 100 kiểm tra cho 25 câu ở 1440×900, 1280×800, 390×844 và 360×640; kiểm tra khung đọc rộng, cỡ chữ, tra từ và hoàn thành 5/5 từng bài. Giao diện HSK 1 mới ưu tiên theo dõi đoạn văn/pinyin, nên trang có thể cuộn dọc với đoạn văn dài.
 
 ## Bài đọc độc lập theo unit
 
@@ -79,7 +88,7 @@ Khóa riêng: `hsk4-quest-v1`, `hsk4-guided-v1-L01`, `hsk4-voice`. Lưu từ đ�
 
 ## File và triển khai
 
-- `index.html`: khung trang; `hsk3-theme.css`: CSS dẫn xuất nguyên bản từ HSK 3; `styles.css`: phần bổ sung riêng HSK 4; `assets/`: ba minh họa SVG kế thừa từ giao diện HSK 3; `app.js`: điều hướng, học, trò chơi, tiến độ; `speech.js`: phát âm.
+- `index.html`: khung trang; `hsk3-theme.css`: CSS dẫn xuất nguyên bản từ HSK 3; `reading-hsk1.css`: CSS thẻ bài đọc theo HSK 1; `styles.css`: phần bổ sung riêng HSK 4; `assets/`: ba minh họa SVG kế thừa từ giao diện HSK 3; `app.js`: điều hướng, học, trò chơi, tiến độ; `speech.js`: phát âm.
 - `data/lesson-01.json`: nội dung nguồn Bài 1.
 - `data/practice-01.json`: ngân hàng luyện tập và bài đọc bổ sung.
 - `data/dictionary.json`, `data/dictionary-overrides.json`: tra cứu bổ trợ.
@@ -102,6 +111,7 @@ node tests/hsk4-exercise-updates.cjs
 node tests/hsk4-game-typography.cjs
 node tests/hsk4-reading-layout.cjs
 node tests/hsk4-independent-readings.cjs
+node tests/hsk4-hsk1-reading-ui.cjs
 node tests/hsk3-smoke.cjs
 ```
 
@@ -109,7 +119,7 @@ Cần Playwright và Chromium; có thể đặt `CHROMIUM_PATH`. Đặt `HSK4_SC
 
 Kiểm tra nội dung đối chiếu hash toàn bộ bảy trường nguồn và đầy đủ ngữ pháp, cấu trúc đáp án, sắp xếp câu, câu điền từ và khả năng tra mọi từ trong bài đọc. Kiểm thử trình duyệt dùng máy chủ tĩnh có tiền tố repository giống GitHub Pages, màn hình 1440px/390px, các chế độ, hoàn thành bài đọc, phản hồi đúng/sai, bộ lọc, flashcard, bản nháp, sao lưu, từ sai, khóa lưu trữ tách biệt và điều hướng.
 
-Các thành phần giao diện chung đạt 142 kiểm tra đối chiếu thực tế với HSK 3 và tương tác trên 1440px/390px; thẻ lựa chọn tiếng Trung được kiểm tra riêng theo yêu cầu mới.
+Các thành phần giao diện chung đạt 134 kiểm tra đối chiếu thực tế với HSK 3 và tương tác trên 1440px/390px; thẻ lựa chọn tiếng Trung được kiểm tra riêng theo yêu cầu mới.
 
 Kết quả Bài 1: kiểm tra nội dung và hash đạt; bộ trình duyệt đạt 270 kiểm tra trên 1440px/390px, không có lỗi JavaScript, không tràn ngang trong các chế độ, đủ dữ liệu tra cứu cho năm bài đọc. Kiểm thử hồi quy HSK 3 đạt 1.190 kiểm tra trên 1440px/390px, bao gồm mở HSK 1/2, không có lỗi JavaScript chưa xử lý.
 

@@ -16,13 +16,13 @@ for(let i=0;i<40;i++){
  const q=await page.evaluate(()=>HSK4.getSession().questions[HSK4.getSession().index]);chineseOptions(q);assert.equal(q.answer,q.sentence);
  assert.deepEqual(await page.locator('#answerArea .answer-text').allTextContents(),q.options);
  assert.equal(await page.locator('button button').count(),0,'must not nest buttons');
- await page.locator(`[data-action="answer"][data-index="${q.options.indexOf(q.answer)}"]`).click();assert.equal(await page.evaluate(()=>HSK4.getSession().correct),i+1);
+ await page.locator(`[data-action="answer"][data-index="${q.options.indexOf(q.answer)}"]`).click({position:{x:5,y:5}});assert.equal(await page.evaluate(()=>HSK4.getSession().correct),i+1);
  // Dictionary stays usable after grading and never adds a point.
  if(i===0){await page.locator('#answerArea .lookup').first().click();assert(await page.locator('#gloss').isVisible());assert.equal(await page.evaluate(()=>HSK4.getSession().correct),1);await page.keyboard.press('Escape')}
  await page.locator('[data-action="next"]').click();checks++;
 }assert((await page.locator('main').innerText()).includes('40 / 40 câu đúng'));
 await start('passages');await lookupUnsubmitted();
-for(let i=0;i<5;i++){const q=await page.evaluate(()=>HSK4.getSession().questions[HSK4.getSession().index]);chineseOptions(q);assert.deepEqual(await page.locator('#answerArea .answer-text').allTextContents(),q.options);await page.locator(`[data-action="answer"][data-index="${q.options.indexOf(q.answer)}"]`).click();assert.equal(await page.evaluate(()=>HSK4.getSession().correct),i+1);await page.locator('[data-action="next"]').click();checks++}assert((await page.locator('main').innerText()).includes('5 / 5 câu đúng'));
+for(let i=0;i<5;i++){const q=await page.evaluate(()=>HSK4.getSession().questions[HSK4.getSession().index]);chineseOptions(q);assert.deepEqual(await page.locator('#answerArea .answer-text').allTextContents(),q.options);await page.locator(`[data-action="answer"][data-index="${q.options.indexOf(q.answer)}"]`).click({position:{x:5,y:5}});assert.equal(await page.evaluate(()=>HSK4.getSession().correct),i+1);await page.locator('[data-action="next"]').click();checks++}assert((await page.locator('main').innerText()).includes('5 / 5 câu đúng'));
 // Verify lookup coverage for all Chinese listening/reading options, not just one token.
 const missing=await page.evaluate(()=>{const strings=[...HSK4.lesson.words.map(w=>w.example),...HSK4.practice.readings.flatMap(r=>r.questions.flatMap(q=>q.options))];return strings.flatMap(text=>HSK4.tokenize(text).filter(t=>/[\u3400-\u9fff]/.test(t.text)&&!t.word).map(t=>({text,missing:t.text}))) });assert.deepEqual(missing,[]);checks++;
 await start('hanzi');const baseline=await page.locator('.exercise-question').evaluate(e=>parseFloat(getComputedStyle(e).fontSize));
