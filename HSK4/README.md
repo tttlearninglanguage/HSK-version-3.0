@@ -128,3 +128,11 @@ Phát âm thực tế cần giọng tiếng Trung trên thiết bị; nhận di�
 ## Làm mới tài nguyên khi phát hành
 
 Trang HSK 4 gắn tham số phiên bản cho `app.js` và `styles.css`; JSON dùng cùng phiên bản của script và `cache: no-cache` để trình duyệt kiểm tra lại dữ liệu, tránh tiếp tục hiển thị câu hỏi cũ sau khi triển khai. Khi phát hành thay đổi giao diện/logic, cập nhật phiên bản trong `HSK4/index.html`. Không xóa hoặc thay đổi khóa tiến độ localStorage.
+
+## Lưới đáp án đọc hiểu linh hoạt
+
+Lưới tự chọn 4, 2 hoặc 1 đáp án mỗi hàng theo phương án dài nhất và chiều rộng thực tế của khung. Đo chữ theo đúng font đang hiển thị: nhóm ngắn khoảng tối đa 8 chữ Hán dùng 4 cột, nhóm vừa khoảng tối đa 16 chữ dùng 2 cột, dài hơn dùng 1 cột; nếu khung không đủ chỗ thì tự giảm 4 → 2 → 1. Tính cả đệm/viền và giữ chiều rộng thẻ tối thiểu; không dùng bố cục 3 cột, không cắt nội dung hoặc thu nhỏ chữ.
+
+Lưới được tính lại khi đổi câu, thay kích thước màn hình và khi font tải xong. Việc này chỉ cập nhật cột CSS, không khởi tạo lại câu hỏi, không thay trạng thái pinyin hay điểm số.
+
+`node tests/hsk4-reading-answer-grid.cjs` đạt 101 kiểm tra: toàn bộ 25 câu ở 1440/900/390/360px; kiểm tra cụ thể đáp án ngắn 4 cột, ví dụ nhập học 2 cột, đáp án dài 1 cột, không tràn/cắt chữ, cỡ chữ 23px, tra từ, chấm điểm và giữ trạng thái khi thu/phóng cửa sổ.
