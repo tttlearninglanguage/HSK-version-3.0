@@ -37,7 +37,7 @@ for n, (a, b) in enumerate(zip(starts, starts[1:]), 1):
         source = {**word, **word.get('sourceOriginal', {})}
         assert [source[k] for k in m['wordFields']] == row[1:], word['id']
     index = rows.index('02  NGỮ PHÁP / GRAMMAR') + 2
-    for grammar in lesson['grammar']:
+    for grammar in (g for g in lesson['grammar'] if g.get('sourceType') != 'user-supplement'):
         row = rows[index:index + 7]
         assert grammar['name'] == re.sub(r'^\d+\s+', '', row[0])
         assert grammar['formula'] == row[2]
@@ -48,4 +48,4 @@ for n, (a, b) in enumerate(zip(starts, starts[1:]), 1):
         assert example['translation'] == row[6]
         index += 7
     assert not re.match(r'^\d{2}  ', rows[index] if index < len(rows) else '')
-    print(f'PASS lesson {n}: {count} vocabulary rows and {len(lesson["grammar"])} grammar points match original DOCX, including recorded corrections')
+    print(f'PASS lesson {n}: {count} vocabulary rows and {len(m['grammarSource'])} grammar points match original DOCX, including recorded corrections')

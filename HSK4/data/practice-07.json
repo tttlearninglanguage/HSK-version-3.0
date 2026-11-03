@@ -850,6 +850,54 @@
       "pinyin": "nágòu wùlái shuō， rén men bù chū mén jiù néng mǎi dào xiǎng yào de dōng xī.",
       "translation": "Lấy việc mua sắm làm ví dụ, mọi người không ra khỏi nhà vẫn mua được đồ mình muốn.",
       "explanation": "Lấy… làm ví dụ để minh họa một luận điểm."
+    },
+    {
+      "id": "hsk4-L07-G04-Q01",
+      "pointId": "hsk4-L07-G04",
+      "question": "换工作＿＿＿发展受到影响。",
+      "options": [
+        "使",
+        "把",
+        "被",
+        "向"
+      ],
+      "answer": "使",
+      "sentence": "换工作使发展受到影响。",
+      "pinyin": "Huàn gōngzuò shǐ fāzhǎn shòudào yǐngxiǎng.",
+      "translation": "Việc đổi công việc khiến sự phát triển bị ảnh hưởng.",
+      "explanation": "Dùng 使 để nối nguyên nhân với đối tượng chịu tác động và kết quả: Việc đổi công việc khiến sự phát triển bị ảnh hưởng."
+    },
+    {
+      "id": "hsk4-L07-G04-Q02",
+      "pointId": "hsk4-L07-G04",
+      "question": "新方法＿＿＿工作变得更加简单了。",
+      "options": [
+        "使",
+        "被",
+        "把",
+        "从"
+      ],
+      "answer": "使",
+      "sentence": "新方法使工作变得更加简单了。",
+      "pinyin": "Xīn fāngfǎ shǐ gōngzuò biàn de gèngjiā jiǎndān le.",
+      "translation": "Phương pháp mới khiến công việc trở nên đơn giản hơn.",
+      "explanation": "Dùng 使 để nối nguyên nhân với đối tượng chịu tác động và kết quả: Phương pháp mới khiến công việc trở nên đơn giản hơn."
+    },
+    {
+      "id": "hsk4-L07-G04-Q03",
+      "pointId": "hsk4-L07-G04",
+      "question": "参加活动＿＿＿留学生更快适应了大学生活。",
+      "options": [
+        "使",
+        "把",
+        "被",
+        "向"
+      ],
+      "answer": "使",
+      "sentence": "参加活动使留学生更快适应了大学生活。",
+      "pinyin": "Cānjiā huódòng shǐ liúxuéshēng gèng kuài shìyìng le dàxué shēnghuó.",
+      "translation": "Việc tham gia hoạt động giúp lưu học sinh thích nghi với cuộc sống đại học nhanh hơn.",
+      "explanation": "Dùng 使 để nối nguyên nhân với đối tượng chịu tác động và kết quả: Việc tham gia hoạt động giúp lưu học sinh thích nghi với cuộc sống đại học nhanh hơn."
     }
   ],
   "readings": [

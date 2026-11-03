@@ -508,6 +508,33 @@
       ],
       "usage": "拿……来说 dùng một trường hợp cụ thể làm ví dụ.",
       "note": "Không bỏ 来说 khi dùng trọn cấu trúc này."
+    },
+    {
+      "id": "hsk4-L07-G04",
+      "name": "兼语句：主语 + 使 + 宾语 + 动词短语",
+      "formula": "Chủ ngữ (nguyên nhân/tình huống) + 使 + tân ngữ + cụm động từ (sự thay đổi/kết quả)",
+      "explanation": "Câu kiêm ngữ với 使 (shǐ: khiến, làm cho) diễn tả một tình huống hoặc nguyên nhân khiến người hay sự vật thay đổi hoặc tạo ra kết quả. Tân ngữ sau 使 đồng thời là chủ thể của cụm động từ phía sau. Ví dụ: trong 新方法使工作变得更加简单了, 新方法 là nguyên nhân, 工作 là đối tượng chịu tác động và 变得更加简单了 là sự thay đổi.",
+      "usage": "Xác định nguyên nhân trước 使, đặt người/sự vật chịu tác động ngay sau 使, rồi nêu sự thay đổi hoặc kết quả. Chủ ngữ có thể là một cụm động từ như 换工作 hoặc 参加活动. Cấu trúc dùng được cho tác động tích cực lẫn tiêu cực.",
+      "note": "使 đọc shǐ. Không bỏ đối tượng chịu tác động khi câu cần nêu rõ ai/cái gì thay đổi. Không đảo đối tượng ra sau cụm động từ. 了 chỉ sự thay đổi/hoàn thành khi ngữ cảnh cần, không bắt buộc có trong mọi câu. Trong cấu trúc này, 使 nghĩa là “khiến”, không phải “sử dụng” (使用).",
+      "examples": [
+        {
+          "hanzi": "换工作使发展受到影响。",
+          "pinyin": "Huàn gōngzuò shǐ fāzhǎn shòudào yǐngxiǎng.",
+          "translation": "Việc đổi công việc khiến sự phát triển bị ảnh hưởng."
+        },
+        {
+          "hanzi": "新方法使工作变得更加简单了。",
+          "pinyin": "Xīn fāngfǎ shǐ gōngzuò biàn de gèngjiā jiǎndān le.",
+          "translation": "Phương pháp mới khiến công việc trở nên đơn giản hơn."
+        },
+        {
+          "hanzi": "参加活动使留学生更快适应了大学生活。",
+          "pinyin": "Cānjiā huódòng shǐ liúxuéshēng gèng kuài shìyìng le dàxué shēnghuó.",
+          "translation": "Việc tham gia hoạt động giúp lưu học sinh thích nghi với cuộc sống đại học nhanh hơn."
+        }
+      ],
+      "sourceType": "user-supplement",
+      "source": "Ảnh ngữ pháp Text 4 do người dùng bổ sung: 兼语句“主语+使+宾语+动词短语”"
     }
   ],
   "source": "HSK 4 - Thượng - Từ vựng và ngữ pháp theo bài học.docx",
