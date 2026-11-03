@@ -1003,7 +1003,7 @@
         {
           "id": "hsk4-L01-R01-Q01",
           "kind": "Nội dung",
-          "question": "Trước khi nhập học, giáo viên yêu cầu chuẩn bị gì?",
+          "question": "入学以前，老师让大家准备什么？",
           "options": [
             "签证、证件和学习材料",
             "电影票和礼物",
@@ -1017,12 +1017,13 @@
             "电影票和礼物": "Vé xem phim và quà tặng",
             "做饭用的东西": "Đồ dùng nấu ăn",
             "贸易公司的材料": "Tài liệu của công ty thương mại"
-          }
+          },
+          "questionVietnamese": "Trước khi nhập học, giáo viên yêu cầu chuẩn bị gì?"
         },
         {
           "id": "hsk4-L01-R01-Q02",
           "kind": "Nội dung",
-          "question": "Vì sao người kể muốn xin học bổng?",
+          "question": "“我”为什么想申请奖学金？",
           "options": [
             "为了减轻家里的经济压力",
             "为了换专业",
@@ -1036,12 +1037,13 @@
             "为了换专业": "Để đổi chuyên ngành",
             "为了不用上课": "Để được nghỉ học",
             "为了换食堂": "Để chuyển nhà ăn"
-          }
+          },
+          "questionVietnamese": "Vì sao người kể muốn xin học bổng?"
         },
         {
           "id": "hsk4-L01-R01-Q03",
           "kind": "Ý chính",
-          "question": "Nội dung chính của đoạn văn là gì?",
+          "question": "这段话主要讲什么？",
           "options": [
             "来中国学习前的准备和对新生活的适应",
             "怎样准备国际会议",
@@ -1055,12 +1057,13 @@
             "怎样准备国际会议": "Cách tổ chức hội nghị quốc tế",
             "在公司工作的经验": "Kinh nghiệm làm việc ở công ty",
             "不想继续读本科的原因": "Lý do bỏ học đại học"
-          }
+          },
+          "questionVietnamese": "Nội dung chính của đoạn văn là gì?"
         },
         {
           "id": "hsk4-L01-R01-Q04",
           "kind": "Suy luận",
-          "question": "Có thể nhận xét gì về cô giáo?",
+          "question": "根据这段话，老师是一个怎样的人？",
           "options": [
             "她愿意帮助新同学",
             "她不希望同学问问题",
@@ -1074,7 +1077,8 @@
             "她不希望同学问问题": "Cô không muốn sinh viên hỏi bài",
             "她只关心奖学金": "Cô chỉ quan tâm đến học bổng",
             "她要求每个人都读博士": "Cô yêu cầu ai cũng học tiến sĩ"
-          }
+          },
+          "questionVietnamese": "Có thể nhận xét gì về cô giáo?"
         }
       ],
       "sourceType": "supplementary"
@@ -1089,7 +1093,7 @@
         {
           "id": "hsk4-L01-R02-Q01",
           "kind": "Nội dung",
-          "question": "Người kể thường giao tiếp với bạn bè ở đâu?",
+          "question": "“我”经常在哪里和朋友交流？",
           "options": [
             "在食堂",
             "在公司",
@@ -1103,12 +1107,13 @@
             "在公司": "Ở công ty",
             "在机场": "Ở sân bay",
             "在国际会议上": "Ở hội nghị quốc tế"
-          }
+          },
+          "questionVietnamese": "Người kể thường giao tiếp với bạn bè ở đâu?"
         },
         {
           "id": "hsk4-L01-R02-Q02",
           "kind": "Nội dung",
-          "question": "Khi người kể chưa nói tốt, bạn bè đã làm gì?",
+          "question": "“我”的中文说得还不好的时候，朋友们怎么做？",
           "options": [
             "耐心地帮助他，并给他加油",
             "让他别再说话",
@@ -1122,12 +1127,13 @@
             "让他别再说话": "Yêu cầu người kể ngừng nói",
             "不再参加活动": "Không tham gia hoạt động nữa",
             "让他换专业": "Bảo người kể đổi chuyên ngành"
-          }
+          },
+          "questionVietnamese": "Khi người kể chưa nói tốt, bạn bè đã làm gì?"
         },
         {
           "id": "hsk4-L01-R02-Q03",
           "kind": "Ý chính",
-          "question": "Đoạn văn chủ yếu nói về điều gì?",
+          "question": "这段话主要讲什么？",
           "options": [
             "通过交流和在生活中运用知识来学习",
             "怎样申请签证",
@@ -1141,12 +1147,13 @@
             "怎样申请签证": "Cách xin thị thực nhập học",
             "大学里不同的学习阶段": "Các bậc học ở đại học",
             "家里的经济压力": "Áp lực tài chính gia đình"
-          }
+          },
+          "questionVietnamese": "Đoạn văn chủ yếu nói về điều gì?"
         },
         {
           "id": "hsk4-L01-R02-Q04",
           "kind": "Suy luận",
-          "question": "Theo người kể, cách học nào hiệu quả hơn?",
+          "question": "“我”认为怎样学习更有效？",
           "options": [
             "把课堂学习和生活中的交流结合起来",
             "只在教室里学习",
@@ -1160,7 +1167,8 @@
             "只在教室里学习": "Chỉ học trong lớp",
             "说得不好的时候就不说": "Tránh nói khi chưa thành thạo",
             "只为了申请奖学金而学习": "Chỉ học để xin học bổng"
-          }
+          },
+          "questionVietnamese": "Theo người kể, cách học nào hiệu quả hơn?"
         }
       ],
       "sourceType": "supplementary"
@@ -1175,7 +1183,7 @@
         {
           "id": "hsk4-L01-R03-Q01",
           "kind": "Nội dung",
-          "question": "Chị của người kể đang học chuyên ngành gì?",
+          "question": "姐姐现在学的是什么专业？",
           "options": [
             "中文",
             "经济",
@@ -1189,12 +1197,13 @@
             "经济": "Kinh tế",
             "历史": "Lịch sử",
             "贸易": "Thương mại"
-          }
+          },
+          "questionVietnamese": "Chị của người kể đang học chuyên ngành gì?"
         },
         {
           "id": "hsk4-L01-R03-Q02",
           "kind": "Nội dung",
-          "question": "Chị dự định làm gì sau khi tốt nghiệp đại học?",
+          "question": "本科毕业以后，姐姐打算做什么？",
           "options": [
             "继续读研究生",
             "去食堂工作",
@@ -1208,12 +1217,13 @@
             "去食堂工作": "Đi làm ở nhà ăn",
             "不再学习中文": "Ngừng học tiếng Trung",
             "马上去爸爸的公司工作": "Chuyển ngay sang công ty của bố"
-          }
+          },
+          "questionVietnamese": "Chị dự định làm gì sau khi tốt nghiệp đại học?"
         },
         {
           "id": "hsk4-L01-R03-Q03",
           "kind": "Ý chính",
-          "question": "Ý nào tóm tắt đúng đoạn văn?",
+          "question": "下面哪一项最符合这段话的主要内容？",
           "options": [
             "姐姐的学习和工作计划，以及家人的支持",
             "爸爸反对姐姐继续学习",
@@ -1227,12 +1237,13 @@
             "爸爸反对姐姐继续学习": "Bố phản đối việc học tiếp của chị",
             "姐姐已经获得了博士学位": "Chị đã có bằng tiến sĩ",
             "姐姐不想当教师了": "Chị không còn muốn làm giáo viên"
-          }
+          },
+          "questionVietnamese": "Ý nào tóm tắt đúng đoạn văn?"
         },
         {
           "id": "hsk4-L01-R03-Q04",
           "kind": "Suy luận",
-          "question": "Qua lời nói cuối đoạn, chị là người thế nào?",
+          "question": "从姐姐最后说的话可以看出，她是一个怎样的人？",
           "options": [
             "有决心，也会主动想办法解决困难",
             "一遇到困难就放弃",
@@ -1246,7 +1257,8 @@
             "一遇到困难就放弃": "Dễ bỏ cuộc khi gặp khó khăn",
             "不想继续学习": "Không muốn tiếp tục học",
             "只关心奖学金": "Chỉ quan tâm đến tiền học bổng"
-          }
+          },
+          "questionVietnamese": "Qua lời nói cuối đoạn, chị là người thế nào?"
         }
       ],
       "sourceType": "supplementary"

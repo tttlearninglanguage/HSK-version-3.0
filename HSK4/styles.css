@@ -92,3 +92,17 @@ button:focus-visible,a:focus-visible,input:focus-visible,textarea:focus-visible,
 #app .hsk4-writing #writingSample .passage{
  font-size:var(--hsk4-game-answer-size)!important;line-height:1.7!important;font-weight:400!important;overflow-wrap:anywhere;
 }
+
+/* Compact reading only: keep readable text while fitting the four choices together. */
+#app .h2-reading-layout>.panel{padding:18px}
+#app .h2-reading-question>.row{gap:8px}
+#app .h2-reading-question .progress{margin:8px 0}
+#app .h2-reading-question>h3{line-height:1.35!important;margin:12px 0 14px}
+#app .h2-reading-question .h2-options{gap:8px;margin:12px 0 0}
+#app .h2-reading-question .answer-choice{flex-direction:row;align-items:center;gap:10px;min-height:0;padding:10px 12px!important}
+#app .h2-reading-question .answer-text{flex:1;min-width:0;line-height:1.35!important}
+#app .h2-reading-question .choose-answer{flex:none;align-self:center;min-height:32px;padding:6px 9px;font-size:13px;white-space:nowrap}
+#app .h2-passage .h2-passage-text{line-height:1.5!important;margin-top:12px}
+#app .h2-passage .toolbar{gap:8px;margin:12px 0}
+#app .h2-passage .h2-lookup-hint{margin:8px 0}
+#app .h2-passage h2{margin:10px 0}
