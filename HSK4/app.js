@@ -1,6 +1,7 @@
 /* HSK 4: one course, separate source data, practice and local progress. */
 'use strict';
 (() => {
+const CONTENT_VERSION=new URL(document.currentScript?.src||location.href).searchParams.get('v')||'20261103-reading-zh';
 const KEY='hsk4-quest-v1', DRAFT='hsk4-guided-v1-L01';
 const $=s=>document.querySelector(s), app=$('#app');
 const E=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -135,7 +136,7 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape')$('#gloss')?.remove(
 document.addEventListener('input',e=>{if(e.target.id==='lessonSearch'){const q=e.target.value.toLocaleLowerCase('vi');let count=0;for(const c of document.querySelectorAll('.lesson-card')){const match=('Bài '+c.dataset.lessonNumber+' '+c.textContent).toLocaleLowerCase('vi').includes(q);c.hidden=!match;if(match)count++}$('#lessonEmpty').hidden=count>0;}if(e.target.id==='wordSearch'){const start=e.target.selectionStart;search=e.target.value;renderWords();$('#wordSearch').focus();$('#wordSearch').setSelectionRange(start,start)}if(e.target.id==='writingText'){updateCharCount();saveDraft()}});
 document.addEventListener('change',e=>{const id=e.target.id;if(id==='voiceSelect')window.hskChooseSpeechVoice(e.target.value);if(id==='unknownOnly'){unknownOnly=e.target.checked;renderWords()}if(id==='hidePin'){hidePin=e.target.checked;renderWords()}if(id==='hideVi'){hideVi=e.target.checked;renderWords()}if(id==='importFile')importProgress(e.target.files[0])});
 window.addEventListener('resize',()=>$('#gloss')?.remove());
-async function init(){try{[lesson,practice,dictionary,overrides]=await Promise.all(['lesson-01.json','practice-01.json','dictionary.json','dictionary-overrides.json'].map(async name=>{const r=await fetch('./data/'+name);if(!r.ok)throw Error(name);return r.json()}));
+async function init(){try{[lesson,practice,dictionary,overrides]=await Promise.all(['lesson-01.json','practice-01.json','dictionary.json','dictionary-overrides.json'].map(async name=>{const r=await fetch('./data/'+name+'?v='+encodeURIComponent(CONTENT_VERSION),{cache:'no-cache'});if(!r.ok)throw Error(name);return r.json()}));
 for(const w of dictionary)if(w.hanzi&&w.pinyin&&w.meaning)wordById.set(w.hanzi,w);for(const w of overrides)wordById.set(w.hanzi,w);for(const w of lesson.words)wordById.set(w.hanzi,w);dictionaryEntries=[...wordById.values()].sort((a,b)=>b.hanzi.length-a.hanzi.length);readStored();window.addEventListener('hashchange',route);route();
 // Read-only diagnostics for source audit and browser checks.
 window.HSK4={lesson,practice,storageKey:KEY,getSession:()=>session,tokenize};
