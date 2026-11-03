@@ -758,50 +758,194 @@
     {
       "id": "hsk4-L08-G01-Q01",
       "pointId": "hsk4-L08-G01",
-      "question": "＿＿＿遇到多大困难，我们也要坚持，最后一定能完成任务。",
+      "question": "＿＿＿去哪儿，能放松的地方都行。",
+      "answer": "不管",
       "options": [
         "不管",
         "否则",
         "因此",
-        "之后"
+        "由于"
       ],
-      "answer": "不管",
+      "sentence": "不管去哪儿，能放松的地方都行。",
+      "pinyin": "Bùguǎn qù nǎr, néng fàngsōng de dìfang dōu xíng.",
+      "translation": "Bất kể đi đâu, nơi có thể thư giãn đều được.",
+      "explanation": "Câu phức điều kiện với 不管 (bùguǎn: bất kể, dù) nêu một điều kiện có thể thay đổi, nhưng kết quả ở vế sau vẫn không thay đổi. Vế đầu thường có từ nghi vấn như 哪儿、什么、多大 hoặc các lựa chọn như 同意不同意; 都/也 nhấn mạnh kết quả không bị điều kiện chi phối. Đối chiếu câu: Bất kể đi đâu, nơi có thể thư giãn đều được."
+    },
+    {
+      "id": "hsk4-L08-G01-Q02",
+      "pointId": "hsk4-L08-G01",
+      "question": "不管有什么想法，你＿＿＿要说出来，让我们知道。",
+      "answer": "都",
+      "options": [
+        "都",
+        "却",
+        "否则",
+        "并"
+      ],
+      "sentence": "不管有什么想法，你都要说出来，让我们知道。",
+      "pinyin": "Bùguǎn yǒu shénme xiǎngfǎ, nǐ dōu yào shuō chūlai, ràng wǒmen zhīdào.",
+      "translation": "Bất kể có suy nghĩ gì, bạn đều cần nói ra để chúng tôi biết.",
+      "explanation": "Câu phức điều kiện với 不管 (bùguǎn: bất kể, dù) nêu một điều kiện có thể thay đổi, nhưng kết quả ở vế sau vẫn không thay đổi. Vế đầu thường có từ nghi vấn như 哪儿、什么、多大 hoặc các lựa chọn như 同意不同意; 都/也 nhấn mạnh kết quả không bị điều kiện chi phối. Đối chiếu câu: Bất kể có suy nghĩ gì, bạn đều cần nói ra để chúng tôi biết."
+    },
+    {
+      "id": "hsk4-L08-G01-Q03",
+      "pointId": "hsk4-L08-G01",
+      "question": "不管遇到多大困难，我们＿＿＿要坚持，最后一定能完成任务。",
+      "answer": "也",
+      "options": [
+        "也",
+        "却",
+        "否则",
+        "并"
+      ],
       "sentence": "不管遇到多大困难，我们也要坚持，最后一定能完成任务。",
-      "pinyin": "bù guǎn yù dào duō dà kùn nán， wǒ men yě yào jiān chí， zuì hòu yī dìng néng wán chéng rèn wù.",
-      "translation": "Dù gặp khó khăn lớn đến đâu, chúng ta vẫn phải kiên trì, cuối cùng nhất định hoàn thành nhiệm vụ.",
-      "explanation": "Bất kể điều kiện thế nào, kết quả vẫn không thay đổi."
+      "pinyin": "Bùguǎn yùdào duō dà kùnnan, wǒmen yě yào jiānchí, zuìhòu yídìng néng wánchéng rènwu.",
+      "translation": "Dù gặp khó khăn lớn đến đâu, chúng ta vẫn phải kiên trì, cuối cùng nhất định có thể hoàn thành nhiệm vụ.",
+      "explanation": "Câu phức điều kiện với 不管 (bùguǎn: bất kể, dù) nêu một điều kiện có thể thay đổi, nhưng kết quả ở vế sau vẫn không thay đổi. Vế đầu thường có từ nghi vấn như 哪儿、什么、多大 hoặc các lựa chọn như 同意不同意; 都/也 nhấn mạnh kết quả không bị điều kiện chi phối. Đối chiếu câu: Dù gặp khó khăn lớn đến đâu, chúng ta vẫn phải kiên trì, cuối cùng nhất định có thể hoàn thành nhiệm vụ."
     },
     {
       "id": "hsk4-L08-G02-Q01",
       "pointId": "hsk4-L08-G02",
-      "question": "今晚早点儿睡吧，＿＿＿明天早上起不来，又该迟到了。",
+      "question": "还是别给自己太大压力，＿＿＿，失去健康就不值得了。",
+      "answer": "否则",
       "options": [
         "否则",
         "因此",
-        "之后",
-        "不管"
+        "于是",
+        "所以"
       ],
+      "sentence": "还是别给自己太大压力，否则，失去健康就不值得了。",
+      "pinyin": "Háishi bié gěi zìjǐ tài dà yālì, fǒuzé, shīqù jiànkāng jiù bù zhídé le.",
+      "translation": "Tốt hơn là đừng tạo áp lực quá lớn cho bản thân; nếu không, đánh mất sức khỏe thì không đáng.",
+      "explanation": "否则 (fǒuzé: nếu không, bằng không) nối một yêu cầu, lời khuyên hoặc điều kiện với hậu quả nếu điều đó không được thực hiện. Vế sau ngầm có nghĩa “nếu không làm như vừa nói thì…”. Đối chiếu câu: Tốt hơn là đừng tạo áp lực quá lớn cho bản thân; nếu không, đánh mất sức khỏe thì không đáng."
+    },
+    {
+      "id": "hsk4-L08-G02-Q02",
+      "pointId": "hsk4-L08-G02",
+      "question": "今晚早点儿睡吧，＿＿＿明天早上起不来，又该迟到了。",
       "answer": "否则",
+      "options": [
+        "否则",
+        "因此",
+        "于是",
+        "所以"
+      ],
       "sentence": "今晚早点儿睡吧，否则明天早上起不来，又该迟到了。",
-      "pinyin": "jīn wǎn zǎodiǎnér shuì ba， fǒu zé míng tiān zǎoshàng qǐ bù lái， yòu gāi chí dào le.",
+      "pinyin": "Jīnwǎn zǎodiǎnr shuì ba, fǒuzé míngtiān zǎoshang qǐ bu lái, yòu gāi chídào le.",
       "translation": "Tối nay ngủ sớm nhé, nếu không sáng mai không dậy nổi rồi lại đi muộn.",
-      "explanation": "Nếu không làm như vế trước thì sẽ xảy ra hậu quả ở vế sau."
+      "explanation": "否则 (fǒuzé: nếu không, bằng không) nối một yêu cầu, lời khuyên hoặc điều kiện với hậu quả nếu điều đó không được thực hiện. Vế sau ngầm có nghĩa “nếu không làm như vừa nói thì…”. Đối chiếu câu: Tối nay ngủ sớm nhé, nếu không sáng mai không dậy nổi rồi lại đi muộn."
+    },
+    {
+      "id": "hsk4-L08-G02-Q03",
+      "pointId": "hsk4-L08-G02",
+      "question": "吃不完的菜要放进冰箱，＿＿＿很容易坏。",
+      "answer": "否则",
+      "options": [
+        "否则",
+        "因此",
+        "于是",
+        "所以"
+      ],
+      "sentence": "吃不完的菜要放进冰箱，否则很容易坏。",
+      "pinyin": "Chī bu wán de cài yào fàng jìn bīngxiāng, fǒuzé hěn róngyì huài.",
+      "translation": "Món ăn không ăn hết cần cho vào tủ lạnh, nếu không rất dễ hỏng.",
+      "explanation": "否则 (fǒuzé: nếu không, bằng không) nối một yêu cầu, lời khuyên hoặc điều kiện với hậu quả nếu điều đó không được thực hiện. Vế sau ngầm có nghĩa “nếu không làm như vừa nói thì…”. Đối chiếu câu: Món ăn không ăn hết cần cho vào tủ lạnh, nếu không rất dễ hỏng."
     },
     {
       "id": "hsk4-L08-G03-Q01",
       "pointId": "hsk4-L08-G03",
-      "question": "跟用现金＿＿＿，手机支付更方便些。",
+      "question": "跟一直加班＿＿＿，休息好了再工作，效率更高。",
+      "answer": "相比",
       "options": [
         "相比",
-        "下降",
-        "乘坐",
-        "暂停"
+        "以前",
+        "之后",
+        "以外"
       ],
+      "sentence": "跟一直加班相比，休息好了再工作，效率更高。",
+      "pinyin": "Gēn yìzhí jiābān xiāngbǐ, xiūxi hǎo le zài gōngzuò, xiàolǜ gèng gāo.",
+      "translation": "So với liên tục tăng ca, nghỉ ngơi đầy đủ rồi làm việc sẽ có hiệu suất cao hơn.",
+      "explanation": "跟……相比 hoặc 与……相比 (so với…) đặt một đối tượng, sự việc hoặc hành động làm chuẩn để so sánh với đối tượng ở vế sau. Vế sau thường nêu điểm khác biệt, có thể dùng 更、比较 hoặc một cách diễn đạt so sánh phù hợp. Đối chiếu câu: So với liên tục tăng ca, nghỉ ngơi đầy đủ rồi làm việc sẽ có hiệu suất cao hơn."
+    },
+    {
+      "id": "hsk4-L08-G03-Q02",
+      "pointId": "hsk4-L08-G03",
+      "question": "跟读研究生＿＿＿，我更想直接工作。",
       "answer": "相比",
+      "options": [
+        "相比",
+        "以前",
+        "之后",
+        "以外"
+      ],
+      "sentence": "跟读研究生相比，我更想直接工作。",
+      "pinyin": "Gēn dú yánjiūshēng xiāngbǐ, wǒ gèng xiǎng zhíjiē gōngzuò.",
+      "translation": "So với học cao học, tôi muốn đi làm ngay hơn.",
+      "explanation": "跟……相比 hoặc 与……相比 (so với…) đặt một đối tượng, sự việc hoặc hành động làm chuẩn để so sánh với đối tượng ở vế sau. Vế sau thường nêu điểm khác biệt, có thể dùng 更、比较 hoặc một cách diễn đạt so sánh phù hợp. Đối chiếu câu: So với học cao học, tôi muốn đi làm ngay hơn."
+    },
+    {
+      "id": "hsk4-L08-G03-Q03",
+      "pointId": "hsk4-L08-G03",
+      "question": "跟用现金＿＿＿，手机支付更方便些。",
+      "answer": "相比",
+      "options": [
+        "相比",
+        "以前",
+        "之后",
+        "以外"
+      ],
       "sentence": "跟用现金相比，手机支付更方便些。",
-      "pinyin": "gēn yòngxiàn jīn xiāngbǐ， shǒu jīzhīfù gèng fāngbiàn xiē.",
-      "translation": "So với dùng tiền mặt, thanh toán bằng điện thoại tiện hơn.",
-      "explanation": "So sánh B với A, thường dùng để nêu khác biệt."
+      "pinyin": "Gēn yòng xiànjīn xiāngbǐ, shǒujī zhīfù gèng fāngbiàn xiē.",
+      "translation": "So với dùng tiền mặt, thanh toán bằng điện thoại tiện hơn một chút.",
+      "explanation": "跟……相比 hoặc 与……相比 (so với…) đặt một đối tượng, sự việc hoặc hành động làm chuẩn để so sánh với đối tượng ở vế sau. Vế sau thường nêu điểm khác biệt, có thể dùng 更、比较 hoặc một cách diễn đạt so sánh phù hợp. Đối chiếu câu: So với dùng tiền mặt, thanh toán bằng điện thoại tiện hơn một chút."
+    },
+    {
+      "id": "hsk4-L08-G04-Q01",
+      "pointId": "hsk4-L08-G04",
+      "question": "郊区＿＿＿，还有很多农家乐。",
+      "answer": "有山有水",
+      "options": [
+        "有山有水",
+        "有山是水",
+        "山有水有",
+        "有山比水"
+      ],
+      "sentence": "郊区有山有水，还有很多农家乐。",
+      "pinyin": "Jiāoqū yǒu shān yǒu shuǐ, hái yǒu hěn duō nóngjiālè.",
+      "translation": "Ngoại ô có núi có nước, còn có nhiều cơ sở vui chơi, ăn nghỉ kiểu nhà nông.",
+      "explanation": "Cụm cố định 有A有B diễn tả đồng thời có A và có B, hoặc có những đặc điểm/trạng thái khác nhau cùng tồn tại. A và B thường là từ đơn âm tiết, một số ít là từ hai âm tiết; nghĩa thường liên quan, gần nhau hoặc đối nhau. Đối chiếu câu: Ngoại ô có núi có nước, còn có nhiều cơ sở vui chơi, ăn nghỉ kiểu nhà nông."
+    },
+    {
+      "id": "hsk4-L08-G04-Q02",
+      "pointId": "hsk4-L08-G04",
+      "question": "超市里的苹果＿＿＿，有红有绿，看起来都非常好吃。",
+      "answer": "有大有小",
+      "options": [
+        "有大有小",
+        "有大小有",
+        "大有小有",
+        "有大是小"
+      ],
+      "sentence": "超市里的苹果有大有小，有红有绿，看起来都非常好吃。",
+      "pinyin": "Chāoshì lǐ de píngguǒ yǒu dà yǒu xiǎo, yǒu hóng yǒu lǜ, kàn qǐlai dōu fēicháng hǎochī.",
+      "translation": "Táo trong siêu thị có quả lớn quả nhỏ, có quả đỏ quả xanh, trông quả nào cũng rất ngon.",
+      "explanation": "Cụm cố định 有A有B diễn tả đồng thời có A và có B, hoặc có những đặc điểm/trạng thái khác nhau cùng tồn tại. A và B thường là từ đơn âm tiết, một số ít là từ hai âm tiết; nghĩa thường liên quan, gần nhau hoặc đối nhau. Đối chiếu câu: Táo trong siêu thị có quả lớn quả nhỏ, có quả đỏ quả xanh, trông quả nào cũng rất ngon."
+    },
+    {
+      "id": "hsk4-L08-G04-Q03",
+      "pointId": "hsk4-L08-G04",
+      "question": "春天，公园里到处都是人，＿＿＿，有大人有孩子……",
+      "answer": "有男有女",
+      "options": [
+        "有男有女",
+        "男有女有",
+        "有男女有",
+        "有男是女"
+      ],
+      "sentence": "春天，公园里到处都是人，有男有女，有大人有孩子……",
+      "pinyin": "Chūntiān, gōngyuán lǐ dàochù dōu shì rén, yǒu nán yǒu nǚ, yǒu dàrén yǒu háizi…",
+      "translation": "Mùa xuân, trong công viên đâu đâu cũng có người, có nam có nữ, có người lớn có trẻ em…",
+      "explanation": "Cụm cố định 有A有B diễn tả đồng thời có A và có B, hoặc có những đặc điểm/trạng thái khác nhau cùng tồn tại. A và B thường là từ đơn âm tiết, một số ít là từ hai âm tiết; nghĩa thường liên quan, gần nhau hoặc đối nhau. Đối chiếu câu: Mùa xuân, trong công viên đâu đâu cũng có người, có nam có nữ, có người lớn có trẻ em…"
     }
   ],
   "readings": [
@@ -1197,8 +1341,10 @@
       "风景"
     ],
     "suggestedGrammar": [
-      "不管 + Điều kiện，都/也 + Kết quả",
-      "Mệnh đề 1，否则 + Hậu quả"
+      "不管……都/也……",
+      "……否则……",
+      "跟/与……相比",
+      "有A有B"
     ],
     "outline": [
       "Nêu nguyên nhân khiến bạn căng thẳng.",
@@ -1206,8 +1352,8 @@
       "So sánh trạng thái trước và sau, nêu bài học.",
       "Kiểm tra trật tự từ và các cấu trúc ngữ pháp đã học."
     ],
-    "sample": "最近为了完成项目，我常常加班、熬夜，效率反而下降了。朋友提醒我，不管多忙都要休息，否则身体会受影响。周末，我们乘坐公交车去郊区，看大自然的美丽景色。跟一直待在家里相比，外出走走让我放松多了。回来以后，我做事也更有精神。我觉得，适当暂停工作并不是浪费时间，而是为了之后更好地生活和工作。",
-    "samplePinyin": "zuì jìn wèi le wán chéng xiàng mù ， wǒ cháng cháng jiā bān 、 áo yè ， xiào lǜ fǎn ér xià jiàng le 。 péng yǒu tí xǐng wǒ ， bù guǎn duō máng dōu yào xiū xī ， fǒu zé shēn tǐ huì shòu yǐng xiǎng 。 zhōu mò ， wǒ men chéng zuò gōng jiāo chē qù jiāo qū ， kàn dà zì rán de měi lì jǐng sè 。 gēn yì zhí dài zài jiā lǐ xiāng bǐ ， wài chū zǒu zǒu ràng wǒ fàng sōng duō le 。 huí lái yǐ hòu ， wǒ zuò shì yě gèng yǒu jīng shén 。 wǒ jué de ， shì dàng zàn tíng gōng zuò bìng bú shì làng fèi shí jiān ， ér shì wèi le zhī hòu gèng hǎo dì shēng huó hé gōng zuò 。",
-    "translation": "Gần đây vì dự án tôi tăng ca thức khuya nhưng hiệu suất giảm. Bạn nhắc dù bận vẫn nghỉ. Cuối tuần chúng tôi đi buýt ngoại ô ngắm thiên nhiên. So với ở nhà, đi bộ ngoài trời giúp tôi thư giãn. Về tôi làm có tinh thần hơn. Tôi thấy tạm dừng hợp lý giúp sống và làm tốt về sau."
+    "sample": "最近为了完成项目，我常常加班、熬夜，效率反而下降了。朋友提醒我，不管多忙都要休息，否则身体会受影响。周末，我们坐公交车去郊区。那里有山有水，风景十分美丽。跟一直待在家里相比，外出走走让我放松多了。回来以后，我工作也更有精神。我觉得，该放松时就放松，才能更好地生活。",
+    "samplePinyin": "Zuìjìn wèile wánchéng xiàngmù, wǒ chángcháng jiābān, áoyè, xiàolǜ fǎn’ér xiàjiàng le. Péngyou tíxǐng wǒ, bùguǎn duō máng dōu yào xiūxi, fǒuzé shēntǐ huì shòu yǐngxiǎng. Zhōumò, wǒmen zuò gōngjiāochē qù jiāoqū. Nàli yǒu shān yǒu shuǐ, fēngjǐng shífēn měilì. Gēn yìzhí dāi zài jiālǐ xiāngbǐ, wàichū zǒuzou ràng wǒ fàngsōng duō le. Huílai yǐhòu, wǒ gōngzuò yě gèng yǒu jīngshen. Wǒ juéde, gāi fàngsōng shí jiù fàngsōng, cái néng gèng hǎo de shēnghuó.",
+    "translation": "Gần đây, để hoàn thành dự án tôi thường tăng ca, thức khuya nhưng hiệu suất lại giảm. Bạn nhắc tôi dù bận đến đâu cũng cần nghỉ, nếu không sức khỏe sẽ bị ảnh hưởng. Cuối tuần chúng tôi đi xe buýt ra ngoại ô. Nơi đó có núi có nước, phong cảnh rất đẹp. So với luôn ở trong nhà, ra ngoài đi dạo giúp tôi thư giãn hơn nhiều. Trở về, tôi làm việc cũng có tinh thần hơn. Tôi thấy đến lúc thư giãn thì hãy thư giãn, như vậy mới sống tốt hơn."
   }
 }

@@ -10,6 +10,50 @@
         "新方法使工作变得更加简单了。",
         "参加活动使留学生更快适应了大学生活。"
       ]
+    },
+    {
+      "lesson": 8,
+      "pointId": "hsk4-L08-G01",
+      "source": "Ảnh người dùng cung cấp — Bài 8, Text 1",
+      "replacesDocxPointId": "hsk4-L08-G01",
+      "sourceExamples": [
+        "不管去哪儿，能放松的地方都行。",
+        "不管有什么想法，你都要说出来，让我们知道。",
+        "不管遇到多大困难，我们也要坚持，最后一定能完成任务。"
+      ]
+    },
+    {
+      "lesson": 8,
+      "pointId": "hsk4-L08-G02",
+      "source": "Ảnh người dùng cung cấp — Bài 8, Text 2",
+      "replacesDocxPointId": "hsk4-L08-G02",
+      "sourceExamples": [
+        "还是别给自己太大压力，否则，失去健康就不值得了。",
+        "今晚早点儿睡吧，否则明天早上起不来，又该迟到了。",
+        "吃不完的菜要放进冰箱，否则很容易坏。"
+      ]
+    },
+    {
+      "lesson": 8,
+      "pointId": "hsk4-L08-G03",
+      "source": "Ảnh người dùng cung cấp — Bài 8, Text 3",
+      "replacesDocxPointId": "hsk4-L08-G03",
+      "sourceExamples": [
+        "跟一直加班相比，休息好了再工作，效率更高。",
+        "跟读研究生相比，我更想直接工作。",
+        "跟用现金相比，手机支付更方便些。"
+      ]
+    },
+    {
+      "lesson": 8,
+      "pointId": "hsk4-L08-G04",
+      "source": "Ảnh người dùng cung cấp — Bài 8, Text 4",
+      "replacesDocxPointId": null,
+      "sourceExamples": [
+        "郊区有山有水，还有很多农家乐。",
+        "超市里的苹果有大有小，有红有绿，看起来都非常好吃。",
+        "春天，公园里到处都是人，有男有女，有大人有孩子……"
+      ]
     }
   ]
 }
