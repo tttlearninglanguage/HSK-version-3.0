@@ -41,6 +41,7 @@ Các bookmark `hsk1.html`, `hsk2.html`, `hsk3.html` được trang 404 tùy ch�
 Các lệnh kiểm thử (cần Node.js, Playwright và Chromium):
 
 ```sh
+node tests/hsk123-compact-games.cjs
 node tests/course-navigation.cjs
 node tests/hsk3-smoke.cjs
 node tests/hsk-speech.cjs
@@ -53,3 +54,5 @@ node tests/hsk4-ui-parity.cjs
 ```
 
 Cập nhật CSS dẫn xuất của HSK 4 khi giao diện HSK 3 thay đổi: `python scripts/sync-hsk3-theme.py`.
+
+HSK 1–3 dùng chung `shared/css/hsk-game-compact.css` cho các game: đề 32px, đáp án 23px, giãn dòng 1.45; khung 20px trên máy tính và 16px trên điện thoại, khoảng cách đáp án 10px. CSS chỉ áp dụng trong màn hình luyện tập, giữ nguyên màu chủ đề, nội dung và tiến độ.
