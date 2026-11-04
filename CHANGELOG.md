@@ -1,5 +1,18 @@
 # Changelog
 
+## 2026-11-04 — Viết lại toàn bộ 75 bài đọc HSK 1
+
+- Thay mô típ lặp bằng 5 tình huống khác nhau cho mỗi Unit 1–15, có hội thoại, giới thiệu, lịch, lời nhắn, gia đình, học tập, mua sắm, sức khỏe và đi lại.
+- Viết lại 450 câu hỏi, đáp án, dẫn chứng giải thích và 75 bản dịch; kiểm tra từ vựng trong đoạn/câu hỏi/lựa chọn không vượt Unit hiện tại, rà mẫu câu theo tiến trình học.
+- Giữ hiện/ẩn pinyin, tra từ, bản dịch, nghe/dừng và chọn bài độc lập; hội thoại xuống dòng theo lượt nói. Lưu bản nguồn cũ, giữ kết quả cũ riêng và không áp vào bài mới.
+- Có bản thảo dễ đọc, công cụ tạo dữ liệu và báo cáo phạm vi cho từng bài.
+
+## 2026-11-04 — Hoàn thiện pinyin và nghĩa cho bài đọc HSK 1
+
+- Dùng chung từ điển đầy đủ cho pinyin và tra từ, bỏ giới hạn chú âm theo Unit đã học.
+- Bổ sung/chuẩn hóa 18 mục có nguồn đối chiếu, gồm tên riêng và các từ còn thiếu trong câu đọc; nghĩa tiếng Việt theo ngữ cảnh.
+- Kiểm tra 75 bài đọc, 450 câu hỏi/đáp án và 338 câu ví dụ: không còn chữ thiếu dữ liệu; giữ nội dung, danh sách từ cần học và tiến độ.
+
 ## 2026-11-04 — Đồng bộ trang chọn bài đọc HSK 1–4
 
 - HSK 2–3 dùng mẫu thẻ HSK 4: tên bài, số câu hỏi, trạng thái, số câu đã trả lời/số đúng và nút bắt đầu; 3 cột trên máy tính, 1 cột trên điện thoại.
