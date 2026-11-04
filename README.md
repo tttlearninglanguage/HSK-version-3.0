@@ -54,6 +54,7 @@ node tests/hsk1-diverse-readings.cjs
 node tests/hsk2-diverse-readings.cjs
 node tests/hsk3-diverse-readings.cjs
 node tests/hsk3-readings.cjs
+node tests/hsk4-diverse-readings.cjs
 node tests/hsk4-content.cjs
 node tests/hsk4-upper-content.cjs
 node tests/hsk4-upper-browser.cjs
@@ -73,3 +74,5 @@ HSK 1 có 75 bài đọc phiên bản 2 theo phạm vi kiến thức tích lũy:
 HSK 2 có 75 bài đọc phiên bản 2 dài 167–217 chữ Hán, 450 câu hỏi, theo toàn bộ HSK 1 và phần HSK 2 đã học: [bản thảo, phạm vi và kiểm thử](HSK2/content/README.md). Tạo lại bằng `python scripts/build-hsk2-readings.py`.
 
 HSK 3 có 90 bài đọc phiên bản 2, mỗi Unit 5 tình huống khác nhau, dài 233–287 chữ Hán và tổng cộng 540 câu hỏi: [bản thảo, phạm vi và kiểm thử](HSK3/content/README.md). Tạo lại bằng `python scripts/build-hsk3-readings.py`.
+
+HSK 4 Thượng có 50 bài đọc phiên bản 2 cho Bài 1–10, giữ 5 đoạn/25 câu hỏi mỗi bài học, với thông báo, thư, hội thoại và ghi chép riêng: [bản thảo và phạm vi](HSK4/content/README.md). Tạo lại bằng `python scripts/build-hsk4-readings.py`.

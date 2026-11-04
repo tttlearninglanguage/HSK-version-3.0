@@ -1,0 +1,3977 @@
+[
+  {
+    "id": "hsk4-L01-R01",
+    "title": "Chuẩn bị nhập học",
+    "text": "九月，我来中国学习中文。入学以前，老师通知我们准备签证、证件和学习材料。我的证件都在包里，可是我还不知道教室在哪座楼里。老师说，有任何问题都可以来找她。中午，她带我们去食堂吃饭，还介绍了这个学期的课程。我想申请奖学金，要是申请到了，就能减轻家里的经济压力。所以，我每天认真学习，希望通过自己的努力获得奖学金。我知道，刚来中国需要时间来适应新的生活，不能给自己太大压力。",
+    "pinyin": "Jiǔ yuè, wǒ lái Zhōngguó xuéxí Zhōngwén. Rùxué yǐqián, lǎoshī tōngzhī wǒmen zhǔnbèi qiānzhèng, zhèngjiàn hé xuéxí cáiliào. Wǒ de zhèngjiàn dōu zài bāo lǐ, kěshì wǒ hái bù zhīdào jiàoshì zài nǎ zuò lóu lǐ. Lǎoshī shuō, yǒu rènhé wèntí dōu kěyǐ lái zhǎo tā. Zhōngwǔ, tā dài wǒmen qù shítáng chīfàn, hái jièshào le zhège xuéqī de kèchéng. Wǒ xiǎng shēnqǐng jiǎngxuéjīn, yàoshi shēnqǐng dào le, jiù néng jiǎnqīng jiālǐ de jīngjì yālì. Suǒyǐ, wǒ měitiān rènzhēn xuéxí, xīwàng tōngguò zìjǐ de nǔlì huòdé jiǎngxuéjīn. Wǒ zhīdào, gāng lái Zhōngguó xūyào shíjiān lái shìyìng xīn de shēnghuó, bù néng gěi zìjǐ tài dà yālì.",
+    "translation": "Tháng Chín, tôi đến Trung Quốc học tiếng Trung. Trước khi nhập học, giáo viên thông báo chúng tôi chuẩn bị thị thực, giấy tờ và tài liệu học tập. Giấy tờ của tôi đều ở trong túi, nhưng tôi vẫn chưa biết phòng học ở tòa nhà nào. Cô giáo nói có bất kỳ vấn đề gì cũng có thể tìm cô. Buổi trưa, cô đưa chúng tôi đến nhà ăn và giới thiệu các môn của học kỳ này. Tôi muốn xin học bổng; nếu xin được thì có thể giảm áp lực tài chính cho gia đình. Vì vậy, tôi học nghiêm túc mỗi ngày, mong nhận được học bổng nhờ nỗ lực của mình. Tôi biết khi mới đến Trung Quốc cần thời gian thích nghi với cuộc sống mới, không nên tạo quá nhiều áp lực cho bản thân.",
+    "questions": [
+      {
+        "id": "hsk4-L01-R01-Q01",
+        "kind": "Nội dung",
+        "question": "入学以前，老师让大家准备什么？",
+        "options": [
+          "签证、证件和学习材料",
+          "电影票和礼物",
+          "做饭用的东西",
+          "贸易公司的材料"
+        ],
+        "answer": "签证、证件和学习材料",
+        "explanation": "Đoạn đầu nêu rõ: 准备签证、证件和学习材料.",
+        "optionsVietnamese": {
+          "签证、证件和学习材料": "Thị thực, giấy tờ và tài liệu học tập",
+          "电影票和礼物": "Vé xem phim và quà tặng",
+          "做饭用的东西": "Đồ dùng nấu ăn",
+          "贸易公司的材料": "Tài liệu của công ty thương mại"
+        },
+        "questionVietnamese": "Trước khi nhập học, giáo viên yêu cầu chuẩn bị gì?"
+      },
+      {
+        "id": "hsk4-L01-R01-Q02",
+        "kind": "Nội dung",
+        "question": "“我”为什么想申请奖学金？",
+        "options": [
+          "为了减轻家里的经济压力",
+          "为了换专业",
+          "为了不用上课",
+          "为了换食堂"
+        ],
+        "answer": "为了减轻家里的经济压力",
+        "explanation": "要是申请到了，就能减轻家里的经济压力: nếu xin được sẽ giảm áp lực tài chính của gia đình.",
+        "optionsVietnamese": {
+          "为了减轻家里的经济压力": "Để giảm áp lực tài chính cho gia đình",
+          "为了换专业": "Để đổi chuyên ngành",
+          "为了不用上课": "Để được nghỉ học",
+          "为了换食堂": "Để chuyển nhà ăn"
+        },
+        "questionVietnamese": "Vì sao người kể muốn xin học bổng?"
+      },
+      {
+        "id": "hsk4-L01-R01-Q03",
+        "kind": "Ý chính",
+        "question": "这段话主要讲什么？",
+        "options": [
+          "来中国学习前的准备和对新生活的适应",
+          "怎样准备国际会议",
+          "在公司工作的经验",
+          "不想继续读本科的原因"
+        ],
+        "answer": "来中国学习前的准备和对新生活的适应",
+        "explanation": "Các chi tiết về nhập học, khóa học, học bổng và thích nghi đều xoay quanh việc bắt đầu học ở Trung Quốc.",
+        "optionsVietnamese": {
+          "来中国学习前的准备和对新生活的适应": "Chuẩn bị và thích nghi với việc học ở Trung Quốc",
+          "怎样准备国际会议": "Cách tổ chức hội nghị quốc tế",
+          "在公司工作的经验": "Kinh nghiệm làm việc ở công ty",
+          "不想继续读本科的原因": "Lý do bỏ học đại học"
+        },
+        "questionVietnamese": "Nội dung chính của đoạn văn là gì?"
+      },
+      {
+        "id": "hsk4-L01-R01-Q04",
+        "kind": "Suy luận",
+        "question": "根据这段话，老师是一个怎样的人？",
+        "options": [
+          "她愿意帮助新同学",
+          "她不希望同学问问题",
+          "她只关心奖学金",
+          "她要求每个人都读博士"
+        ],
+        "answer": "她愿意帮助新同学",
+        "explanation": "Cô nói có vấn đề gì đều có thể tìm cô và còn đưa sinh viên đi ăn, cho thấy thái độ hỗ trợ.",
+        "optionsVietnamese": {
+          "她愿意帮助新同学": "Cô sẵn lòng hỗ trợ sinh viên mới",
+          "她不希望同学问问题": "Cô không muốn sinh viên hỏi bài",
+          "她只关心奖学金": "Cô chỉ quan tâm đến học bổng",
+          "她要求每个人都读博士": "Cô yêu cầu ai cũng học tiến sĩ"
+        },
+        "questionVietnamese": "Có thể nhận xét gì về cô giáo?"
+      },
+      {
+        "id": "hsk4-L01-R01-Q05",
+        "kind": "Nội dung",
+        "question": "“我”的证件放在哪里？",
+        "questionVietnamese": "Giấy tờ của người kể ở đâu?",
+        "options": [
+          "在包里",
+          "在食堂里",
+          "在老师家里",
+          "在教室的桌子上"
+        ],
+        "answer": "在包里",
+        "optionsVietnamese": {
+          "在包里": "Trong túi",
+          "在食堂里": "Trong nhà ăn",
+          "在老师家里": "Ở nhà cô giáo",
+          "在教室的桌子上": "Trên bàn trong lớp"
+        },
+        "explanation": "Đoạn văn nói 我的证件都在包里: giấy tờ đều ở trong túi."
+      }
+    ],
+    "sourceType": "supplementary",
+    "lesson": 1
+  },
+  {
+    "id": "hsk4-L01-R02",
+    "title": "Học tập và giao lưu",
+    "text": "来到中国以后，我参加了学校的很多活动，也认识了一些中国朋友。我们经常在食堂一边吃饭一边用中文交流。开始的时候，我说得很慢，有时候听不懂他们的话。他们没有着急，总是对我说：“加油！”随着交流的机会越来越多，我的中文水平也提高了。老师说，我这个学期表现得不错。我觉得，参加活动一方面能学习语言，另一方面也能了解中国文化。只在教室里学习是不够的，还应该把学到的知识用在生活中。",
+    "pinyin": "Lái dào Zhōngguó yǐhòu, wǒ cānjiā le xuéxiào de hěn duō huódòng, yě rènshi le yìxiē Zhōngguó péngyou. Wǒmen jīngcháng zài shítáng yìbiān chīfàn yìbiān yòng Zhōngwén jiāoliú. Kāishǐ de shíhou, wǒ shuō de hěn màn, yǒu shíhou tīng bù dǒng tāmen de huà. Tāmen méiyǒu zháojí, zǒngshì duì wǒ shuō: “Jiāyóu!” Suízhe jiāoliú de jīhuì yuèláiyuè duō, wǒ de Zhōngwén shuǐpíng yě tígāo le. Lǎoshī shuō, wǒ zhège xuéqī biǎoxiàn de búcuò. Wǒ juéde, cānjiā huódòng yì fāngmiàn néng xuéxí yǔyán, lìng yì fāngmiàn yě néng liǎojiě Zhōngguó wénhuà. Zhǐ zài jiàoshì lǐ xuéxí shì bú gòu de, hái yīnggāi bǎ xuédào de zhīshi yòng zài shēnghuó zhōng.",
+    "translation": "Sau khi đến Trung Quốc, tôi tham gia nhiều hoạt động của trường và quen một số bạn Trung Quốc. Chúng tôi thường vừa ăn ở nhà ăn vừa giao tiếp bằng tiếng Trung. Lúc đầu tôi nói chậm, đôi khi không hiểu lời họ nói. Họ không sốt ruột, luôn động viên tôi: “Cố lên!” Khi cơ hội giao tiếp tăng lên, trình độ tiếng Trung của tôi cũng tiến bộ. Giáo viên nói học kỳ này tôi thể hiện khá tốt. Tôi thấy tham gia hoạt động một mặt giúp học ngôn ngữ, mặt khác giúp hiểu văn hóa Trung Quốc. Chỉ học trong lớp là chưa đủ, còn nên vận dụng kiến thức đã học vào cuộc sống.",
+    "questions": [
+      {
+        "id": "hsk4-L01-R02-Q01",
+        "kind": "Nội dung",
+        "question": "“我”经常在哪里和朋友交流？",
+        "options": [
+          "在食堂",
+          "在公司",
+          "在机场",
+          "在国际会议上"
+        ],
+        "answer": "在食堂",
+        "explanation": "我们经常在食堂……用中文交流: chúng tôi thường giao tiếp bằng tiếng Trung tại nhà ăn.",
+        "optionsVietnamese": {
+          "在食堂": "Ở nhà ăn",
+          "在公司": "Ở công ty",
+          "在机场": "Ở sân bay",
+          "在国际会议上": "Ở hội nghị quốc tế"
+        },
+        "questionVietnamese": "Người kể thường giao tiếp với bạn bè ở đâu?"
+      },
+      {
+        "id": "hsk4-L01-R02-Q02",
+        "kind": "Nội dung",
+        "question": "“我”的中文说得还不好的时候，朋友们怎么做？",
+        "options": [
+          "耐心地帮助他，并给他加油",
+          "让他别再说话",
+          "不再参加活动",
+          "让他换专业"
+        ],
+        "answer": "耐心地帮助他，并给他加油",
+        "explanation": "他们没有着急，总是对我说：“加油！” cho thấy họ kiên nhẫn và động viên.",
+        "optionsVietnamese": {
+          "耐心地帮助他，并给他加油": "Động viên và kiên nhẫn với người kể",
+          "让他别再说话": "Yêu cầu người kể ngừng nói",
+          "不再参加活动": "Không tham gia hoạt động nữa",
+          "让他换专业": "Bảo người kể đổi chuyên ngành"
+        },
+        "questionVietnamese": "Khi người kể chưa nói tốt, bạn bè đã làm gì?"
+      },
+      {
+        "id": "hsk4-L01-R02-Q03",
+        "kind": "Ý chính",
+        "question": "这段话主要讲什么？",
+        "options": [
+          "通过交流和在生活中运用知识来学习",
+          "怎样申请签证",
+          "大学里不同的学习阶段",
+          "家里的经济压力"
+        ],
+        "answer": "通过交流和在生活中运用知识来学习",
+        "explanation": "Người kể tiến bộ nhờ hoạt động, giao tiếp và vận dụng kiến thức ngoài lớp học.",
+        "optionsVietnamese": {
+          "通过交流和在生活中运用知识来学习": "Lợi ích của giao lưu và vận dụng kiến thức vào cuộc sống",
+          "怎样申请签证": "Cách xin thị thực nhập học",
+          "大学里不同的学习阶段": "Các bậc học ở đại học",
+          "家里的经济压力": "Áp lực tài chính gia đình"
+        },
+        "questionVietnamese": "Đoạn văn chủ yếu nói về điều gì?"
+      },
+      {
+        "id": "hsk4-L01-R02-Q04",
+        "kind": "Suy luận",
+        "question": "“我”认为怎样学习更有效？",
+        "options": [
+          "把课堂学习和生活中的交流结合起来",
+          "只在教室里学习",
+          "说得不好的时候就不说",
+          "只为了申请奖学金而学习"
+        ],
+        "answer": "把课堂学习和生活中的交流结合起来",
+        "explanation": "Câu cuối nhấn mạnh chỉ học trong lớp chưa đủ, nên dùng kiến thức trong cuộc sống.",
+        "optionsVietnamese": {
+          "把课堂学习和生活中的交流结合起来": "Kết hợp học trong lớp và giao tiếp thực tế",
+          "只在教室里学习": "Chỉ học trong lớp",
+          "说得不好的时候就不说": "Tránh nói khi chưa thành thạo",
+          "只为了申请奖学金而学习": "Chỉ học để xin học bổng"
+        },
+        "questionVietnamese": "Theo người kể, cách học nào hiệu quả hơn?"
+      },
+      {
+        "id": "hsk4-L01-R02-Q05",
+        "kind": "Nội dung",
+        "question": "随着交流机会的增加，“我”有什么变化？",
+        "questionVietnamese": "Khi cơ hội giao tiếp tăng lên, người kể thay đổi thế nào?",
+        "options": [
+          "中文水平提高了",
+          "不再参加学校活动了",
+          "越来越不喜欢说中文了",
+          "换了一个专业"
+        ],
+        "answer": "中文水平提高了",
+        "optionsVietnamese": {
+          "中文水平提高了": "Trình độ tiếng Trung tiến bộ",
+          "不再参加学校活动了": "Không tham gia hoạt động nữa",
+          "越来越不喜欢说中文了": "Ngày càng không thích nói tiếng Trung",
+          "换了一个专业": "Đổi chuyên ngành"
+        },
+        "explanation": "随着交流的机会越来越多，我的中文水平也提高了 nêu rõ sự tiến bộ."
+      }
+    ],
+    "sourceType": "supplementary",
+    "lesson": 1
+  },
+  {
+    "id": "hsk4-L01-R03",
+    "title": "Dự định cho tương lai",
+    "text": "姐姐在中国读本科，学的是中文专业。她喜欢研究中国文化，将来想当一名中文教师。她认为，教育不只是让学生记住书上的知识，还要帮助他们了解不同的文化。她准备本科毕业以后继续读研究生，希望以后能读博士。爸爸在一家贸易公司工作，他觉得国际交流越来越重要，也很支持姐姐的选择。姐姐说：“任何时候，我都要认真学习。要是遇到困难，我会想办法解决，也会请老师帮助我。”",
+    "pinyin": "Jiějie zài Zhōngguó dú běnkē, xué de shì Zhōngwén zhuānyè. Tā xǐhuan yánjiū Zhōngguó wénhuà, jiānglái xiǎng dāng yì míng Zhōngwén jiàoshī. Tā rènwéi, jiàoyù bù zhǐ shì ràng xuésheng jìzhù shū shàng de zhīshi, hái yào bāngzhù tāmen liǎojiě bùtóng de wénhuà. Tā zhǔnbèi běnkē bìyè yǐhòu jìxù dú yánjiūshēng, xīwàng yǐhòu néng dú bóshì. Bàba zài yì jiā màoyì gōngsī gōngzuò, tā juéde guójì jiāoliú yuèláiyuè zhòngyào, yě hěn zhīchí jiějie de xuǎnzé. Jiějie shuō: “Rènhé shíhou, wǒ dōu yào rènzhēn xuéxí. Yàoshi yùdào kùnnan, wǒ huì xiǎng bànfǎ jiějué, yě huì qǐng lǎoshī bāngzhù wǒ.”",
+    "translation": "Chị tôi học đại học ở Trung Quốc, chuyên ngành tiếng Trung. Chị thích nghiên cứu văn hóa Trung Quốc và muốn trở thành giáo viên tiếng Trung. Theo chị, giáo dục không chỉ là giúp học sinh nhớ kiến thức trong sách mà còn giúp họ hiểu các nền văn hóa khác nhau. Chị dự định học cao học sau khi tốt nghiệp đại học, hy vọng sau này học tiến sĩ. Bố làm tại công ty thương mại. Bố thấy giao lưu quốc tế ngày càng quan trọng nên rất ủng hộ lựa chọn của chị. Chị nói: “Bất cứ lúc nào chị cũng phải học nghiêm túc. Nếu gặp khó khăn, chị sẽ tìm cách giải quyết và nhờ giáo viên giúp đỡ.”",
+    "questions": [
+      {
+        "id": "hsk4-L01-R03-Q01",
+        "kind": "Nội dung",
+        "question": "姐姐现在学的是什么专业？",
+        "options": [
+          "中文",
+          "经济",
+          "历史",
+          "贸易"
+        ],
+        "answer": "中文",
+        "explanation": "学的是中文专业: chuyên ngành đang học là tiếng Trung.",
+        "optionsVietnamese": {
+          "中文": "Tiếng Trung",
+          "经济": "Kinh tế",
+          "历史": "Lịch sử",
+          "贸易": "Thương mại"
+        },
+        "questionVietnamese": "Chị của người kể đang học chuyên ngành gì?"
+      },
+      {
+        "id": "hsk4-L01-R03-Q02",
+        "kind": "Nội dung",
+        "question": "本科毕业以后，姐姐打算做什么？",
+        "options": [
+          "继续读研究生",
+          "去食堂工作",
+          "不再学习中文",
+          "马上去爸爸的公司工作"
+        ],
+        "answer": "继续读研究生",
+        "explanation": "她准备本科毕业以后继续读研究生: dự định học cao học sau khi tốt nghiệp.",
+        "optionsVietnamese": {
+          "继续读研究生": "Tiếp tục học cao học",
+          "去食堂工作": "Đi làm ở nhà ăn",
+          "不再学习中文": "Ngừng học tiếng Trung",
+          "马上去爸爸的公司工作": "Chuyển ngay sang công ty của bố"
+        },
+        "questionVietnamese": "Chị dự định làm gì sau khi tốt nghiệp đại học?"
+      },
+      {
+        "id": "hsk4-L01-R03-Q03",
+        "kind": "Ý chính",
+        "question": "下面哪一项最符合这段话的主要内容？",
+        "options": [
+          "姐姐的学习和工作计划，以及家人的支持",
+          "爸爸反对姐姐继续学习",
+          "姐姐已经获得了博士学位",
+          "姐姐不想当教师了"
+        ],
+        "answer": "姐姐的学习和工作计划，以及家人的支持",
+        "explanation": "Đoạn văn nêu chuyên ngành, mục tiêu nghề nghiệp, kế hoạch học tiếp và sự ủng hộ của bố.",
+        "optionsVietnamese": {
+          "姐姐的学习和工作计划，以及家人的支持": "Mục tiêu học tập và nghề nghiệp của chị cùng sự ủng hộ của gia đình",
+          "爸爸反对姐姐继续学习": "Bố phản đối việc học tiếp của chị",
+          "姐姐已经获得了博士学位": "Chị đã có bằng tiến sĩ",
+          "姐姐不想当教师了": "Chị không còn muốn làm giáo viên"
+        },
+        "questionVietnamese": "Ý nào tóm tắt đúng đoạn văn?"
+      },
+      {
+        "id": "hsk4-L01-R03-Q04",
+        "kind": "Suy luận",
+        "question": "从姐姐最后说的话可以看出，她是一个怎样的人？",
+        "options": [
+          "有决心，也会主动想办法解决困难",
+          "一遇到困难就放弃",
+          "不想继续学习",
+          "只关心奖学金"
+        ],
+        "answer": "有决心，也会主动想办法解决困难",
+        "explanation": "Chị nói sẽ tìm cách giải quyết và nhờ giáo viên giúp khi gặp khó khăn, thể hiện sự chủ động.",
+        "optionsVietnamese": {
+          "有决心，也会主动想办法解决困难": "Có quyết tâm và chủ động giải quyết khó khăn",
+          "一遇到困难就放弃": "Dễ bỏ cuộc khi gặp khó khăn",
+          "不想继续学习": "Không muốn tiếp tục học",
+          "只关心奖学金": "Chỉ quan tâm đến tiền học bổng"
+        },
+        "questionVietnamese": "Qua lời nói cuối đoạn, chị là người thế nào?"
+      },
+      {
+        "id": "hsk4-L01-R03-Q05",
+        "kind": "Nội dung",
+        "question": "爸爸为什么支持姐姐的选择？",
+        "questionVietnamese": "Vì sao bố ủng hộ lựa chọn của chị?",
+        "options": [
+          "他认为国际交流越来越重要",
+          "他不希望姐姐继续学习",
+          "他要求姐姐马上去公司工作",
+          "他只关心姐姐能不能拿到奖学金"
+        ],
+        "answer": "他认为国际交流越来越重要",
+        "optionsVietnamese": {
+          "他认为国际交流越来越重要": "Bố cho rằng giao lưu quốc tế ngày càng quan trọng",
+          "他不希望姐姐继续学习": "Bố không muốn chị học tiếp",
+          "他要求姐姐马上去公司工作": "Bố yêu cầu chị đi làm ngay",
+          "他只关心姐姐能不能拿到奖学金": "Bố chỉ quan tâm chị có nhận học bổng không"
+        },
+        "explanation": "Bố thấy 国际交流越来越重要 nên ủng hộ lựa chọn của chị."
+      }
+    ],
+    "sourceType": "supplementary",
+    "lesson": 1
+  },
+  {
+    "id": "hsk4-L01-R04",
+    "lesson": 1,
+    "title": "Lập kế hoạch xin học bổng",
+    "sourceType": "supplementary",
+    "text": "我想申请学校的奖学金，可是听说申请的人很多，心里有些着急。老师看了我的学习材料，说我这个学期表现得不错，可以试一试。她还提醒我，申请以前要认真检查证件和材料，不能只关心最后的结果。回去以后，我给自己做了一个学习计划。一方面，我每天复习课程中的重要知识；另一方面，我通过参加活动练习中文。要是这次没有获得奖学金，我也会继续努力。对我来说，申请奖学金不只是为了减轻经济压力，也是了解自己、学会安排时间的机会。",
+    "pinyin": "Wǒ xiǎng shēnqǐng xuéxiào de jiǎngxuéjīn, kěshì tīngshuō shēnqǐng de rén hěn duō, xīnli yǒuxiē zháojí. Lǎoshī kàn le wǒ de xuéxí cáiliào, shuō wǒ zhège xuéqī biǎoxiàn de búcuò, kěyǐ shì yi shì. Tā hái tíxǐng wǒ, shēnqǐng yǐqián yào rènzhēn jiǎnchá zhèngjiàn hé cáiliào, bù néng zhǐ guānxīn zuìhòu de jiéguǒ. Huíqù yǐhòu, wǒ gěi zìjǐ zuò le yí ge xuéxí jìhuà. Yì fāngmiàn, wǒ měitiān fùxí kèchéng zhōng de zhòngyào zhīshi; lìng yì fāngmiàn, wǒ tōngguò cānjiā huódòng liànxí Zhōngwén. Yàoshi zhè cì méiyǒu huòdé jiǎngxuéjīn, wǒ yě huì jìxù nǔlì. Duì wǒ lái shuō, shēnqǐng jiǎngxuéjīn bù zhǐ shì wèile jiǎnqīng jīngjì yālì, yě shì liǎojiě zìjǐ, xuéhuì ānpái shíjiān de jīhuì.",
+    "translation": "Tôi muốn xin học bổng của trường nhưng nghe nói có nhiều người nộp đơn nên hơi sốt ruột. Giáo viên xem tài liệu học tập của tôi, nhận xét học kỳ này tôi thể hiện khá tốt và có thể thử sức. Cô còn nhắc trước khi nộp đơn phải kiểm tra kỹ giấy tờ và tài liệu, không nên chỉ quan tâm đến kết quả cuối cùng. Về nhà, tôi lập kế hoạch học tập: một mặt ôn kiến thức quan trọng trong các môn học mỗi ngày, mặt khác luyện tiếng Trung qua hoạt động. Nếu lần này không nhận được học bổng, tôi vẫn tiếp tục cố gắng. Với tôi, xin học bổng không chỉ để giảm áp lực tài chính mà còn là cơ hội hiểu bản thân và học cách sắp xếp thời gian.",
+    "questions": [
+      {
+        "id": "hsk4-L01-R04-Q01",
+        "kind": "Nội dung",
+        "question": "“我”为什么有些着急？",
+        "questionVietnamese": "Vì sao người kể hơi sốt ruột?",
+        "options": [
+          "听说申请奖学金的人很多",
+          "把证件放在了食堂",
+          "不喜欢这个学期的课程",
+          "老师不让“我”申请"
+        ],
+        "answer": "听说申请奖学金的人很多",
+        "optionsVietnamese": {
+          "听说申请奖学金的人很多": "Nghe nói nhiều người xin học bổng",
+          "把证件放在了食堂": "Để giấy tờ ở nhà ăn",
+          "不喜欢这个学期的课程": "Không thích môn học",
+          "老师不让“我”申请": "Cô không cho nộp đơn"
+        },
+        "explanation": "Ngay đầu đoạn, người kể lo vì nghe nói nhiều người nộp đơn."
+      },
+      {
+        "id": "hsk4-L01-R04-Q02",
+        "kind": "Nội dung",
+        "question": "老师提醒“我”申请以前要做什么？",
+        "questionVietnamese": "Cô nhắc làm gì trước khi nộp đơn?",
+        "options": [
+          "认真检查证件和材料",
+          "先换一个专业",
+          "只关心能不能获得奖学金",
+          "不要参加学校活动"
+        ],
+        "answer": "认真检查证件和材料",
+        "optionsVietnamese": {
+          "认真检查证件和材料": "Kiểm tra kỹ giấy tờ và tài liệu",
+          "先换一个专业": "Đổi chuyên ngành trước",
+          "只关心能不能获得奖学金": "Chỉ nghĩ đến việc nhận học bổng",
+          "不要参加学校活动": "Không tham gia hoạt động"
+        },
+        "explanation": "Cô nói 申请以前要认真检查证件和材料."
+      },
+      {
+        "id": "hsk4-L01-R04-Q03",
+        "kind": "Ý chính",
+        "question": "这段话主要讲什么？",
+        "questionVietnamese": "Nội dung chính của đoạn là gì?",
+        "options": [
+          "申请奖学金前的准备和学习计划",
+          "学校食堂的变化",
+          "一位教师的工作经历",
+          "国际贸易公司的活动"
+        ],
+        "answer": "申请奖学金前的准备和学习计划",
+        "optionsVietnamese": {
+          "申请奖学金前的准备和学习计划": "Chuẩn bị và lập kế hoạch học để xin học bổng",
+          "学校食堂的变化": "Thay đổi của nhà ăn",
+          "一位教师的工作经历": "Kinh nghiệm của giáo viên",
+          "国际贸易公司的活动": "Hoạt động của công ty thương mại"
+        },
+        "explanation": "Đoạn văn xoay quanh việc chuẩn bị hồ sơ, kế hoạch học và ý nghĩa của việc xin học bổng."
+      },
+      {
+        "id": "hsk4-L01-R04-Q04",
+        "kind": "Suy luận",
+        "question": "没申请到奖学金，“我”会怎样？",
+        "questionVietnamese": "Nếu không nhận học bổng lần này, người kể sẽ làm gì?",
+        "options": [
+          "继续努力学习",
+          "马上放弃学习中文",
+          "不再和老师交流",
+          "只关心经济压力"
+        ],
+        "answer": "继续努力学习",
+        "optionsVietnamese": {
+          "继续努力学习": "Tiếp tục cố gắng học",
+          "马上放弃学习中文": "Bỏ học tiếng Trung ngay",
+          "不再和老师交流": "Không giao tiếp với cô nữa",
+          "只关心经济压力": "Chỉ quan tâm áp lực tài chính"
+        },
+        "explanation": "Người kể nói rõ dù không nhận được học bổng vẫn tiếp tục cố gắng, cho thấy không chỉ coi trọng tiền học bổng."
+      },
+      {
+        "id": "hsk4-L01-R04-Q05",
+        "kind": "Nội dung",
+        "question": "“我”的学习计划有哪两方面？",
+        "questionVietnamese": "Kế hoạch học gồm hai mặt nào?",
+        "options": [
+          "复习课程知识和参加活动练习中文",
+          "只看申请结果和换专业",
+          "在食堂工作和读博士",
+          "研究贸易和准备国际会议"
+        ],
+        "answer": "复习课程知识和参加活动练习中文",
+        "optionsVietnamese": {
+          "复习课程知识和参加活动练习中文": "Ôn kiến thức môn học và tham gia hoạt động luyện tiếng Trung",
+          "只看申请结果和换专业": "Chỉ xem kết quả và đổi ngành",
+          "在食堂工作和读博士": "Làm tại nhà ăn và học tiến sĩ",
+          "研究贸易和准备国际会议": "Nghiên cứu thương mại và chuẩn bị hội nghị"
+        },
+        "explanation": "Hai vế 一方面……另一方面…… liệt kê ôn kiến thức và tham gia hoạt động luyện tiếng Trung."
+      }
+    ]
+  },
+  {
+    "id": "hsk4-L01-R05",
+    "lesson": 1,
+    "title": "Cùng nhau thích nghi với cuộc sống mới",
+    "sourceType": "supplementary",
+    "text": "入学后的第一个星期，我和几个新同学都不太适应这里的生活。我们不知道在哪座楼上课，也不清楚怎样选择课程。老师发现以后，安排了一次交流活动，让已经在学校学习一年的同学介绍经验。他们带我们参观教室和食堂，还告诉我们怎样准备学习材料。有任何问题，我们都可以向他们请教。随着了解的事情越来越多，我的压力减轻了，也开始帮助别的新同学。我发现，适应新生活不能只靠自己。主动交流、互相帮助，能让学习和生活变得更容易。",
+    "pinyin": "Rùxué hòu de dì yī ge xīngqī, wǒ hé jǐ ge xīn tóngxué dōu bú tài shìyìng zhèlǐ de shēnghuó. Wǒmen bù zhīdào zài nǎ zuò lóu shàngkè, yě bù qīngchu zěnyàng xuǎnzé kèchéng. Lǎoshī fāxiàn yǐhòu, ānpái le yí cì jiāoliú huódòng, ràng yǐjīng zài xuéxiào xuéxí yì nián de tóngxué jièshào jīngyàn. Tāmen dài wǒmen cānguān jiàoshì hé shítáng, hái gàosu wǒmen zěnyàng zhǔnbèi xuéxí cáiliào. Yǒu rènhé wèntí, wǒmen dōu kěyǐ xiàng tāmen qǐngjiào. Suízhe liǎojiě de shìqing yuèláiyuè duō, wǒ de yālì jiǎnqīng le, yě kāishǐ bāngzhù bié de xīn tóngxué. Wǒ fāxiàn, shìyìng xīn shēnghuó bù néng zhǐ kào zìjǐ. Zhǔdòng jiāoliú, hùxiāng bāngzhù, néng ràng xuéxí hé shēnghuó biàn de gèng róngyì.",
+    "translation": "Tuần đầu sau khi nhập học, tôi và vài bạn mới đều chưa quen cuộc sống ở đây. Chúng tôi không biết học ở tòa nhà nào và chưa rõ cách chọn môn. Biết chuyện, giáo viên tổ chức một buổi giao lưu để các bạn đã học ở trường một năm chia sẻ kinh nghiệm. Họ đưa chúng tôi tham quan lớp học, nhà ăn và chỉ cách chuẩn bị tài liệu học tập. Có bất kỳ vấn đề gì chúng tôi cũng có thể hỏi họ. Khi hiểu biết tăng lên, áp lực của tôi giảm bớt và tôi bắt đầu giúp các bạn mới khác. Tôi nhận ra thích nghi với cuộc sống mới không thể chỉ dựa vào bản thân. Chủ động giao lưu và giúp đỡ lẫn nhau sẽ khiến việc học và sinh hoạt dễ dàng hơn.",
+    "questions": [
+      {
+        "id": "hsk4-L01-R05-Q01",
+        "kind": "Nội dung",
+        "question": "第一个星期，新同学遇到了什么问题？",
+        "questionVietnamese": "Tuần đầu các bạn mới gặp vấn đề gì?",
+        "options": [
+          "不清楚上课地点和怎样选择课程",
+          "已经学完了所有课程",
+          "不能申请任何证件",
+          "不想认识别的同学"
+        ],
+        "answer": "不清楚上课地点和怎样选择课程",
+        "optionsVietnamese": {
+          "不清楚上课地点和怎样选择课程": "Chưa rõ nơi học và cách chọn môn",
+          "已经学完了所有课程": "Đã học xong mọi môn",
+          "不能申请任何证件": "Không thể xin giấy tờ",
+          "不想认识别的同学": "Không muốn quen bạn khác"
+        },
+        "explanation": "Đoạn đầu nói chưa biết tòa nhà học và cách chọn môn."
+      },
+      {
+        "id": "hsk4-L01-R05-Q02",
+        "kind": "Nội dung",
+        "question": "老师请谁介绍经验？",
+        "questionVietnamese": "Cô nhờ ai chia sẻ kinh nghiệm?",
+        "options": [
+          "已经在学校学习一年的同学",
+          "刚入学的新同学",
+          "贸易公司的经理",
+          "来参加国际会议的人"
+        ],
+        "answer": "已经在学校学习一年的同学",
+        "optionsVietnamese": {
+          "已经在学校学习一年的同学": "Các bạn đã học ở trường một năm",
+          "刚入学的新同学": "Sinh viên vừa nhập học",
+          "贸易公司的经理": "Giám đốc công ty thương mại",
+          "来参加国际会议的人": "Người dự hội nghị quốc tế"
+        },
+        "explanation": "Cô mời 已经在学校学习一年的同学 giới thiệu kinh nghiệm."
+      },
+      {
+        "id": "hsk4-L01-R05-Q03",
+        "kind": "Ý chính",
+        "question": "这段话主要说明什么？",
+        "questionVietnamese": "Đoạn văn chủ yếu nêu điều gì?",
+        "options": [
+          "交流和互相帮助能让人适应新生活",
+          "选择课程只需要看教室在哪儿",
+          "申请奖学金不需要准备材料",
+          "每个新同学都必须自己解决所有问题"
+        ],
+        "answer": "交流和互相帮助能让人适应新生活",
+        "optionsVietnamese": {
+          "交流和互相帮助能让人适应新生活": "Giao lưu và giúp nhau hỗ trợ thích nghi cuộc sống mới",
+          "选择课程只需要看教室在哪儿": "Chọn môn chỉ cần xem vị trí lớp",
+          "申请奖学金不需要准备材料": "Xin học bổng không cần tài liệu",
+          "每个新同学都必须自己解决所有问题": "Mọi sinh viên mới phải tự giải quyết hết"
+        },
+        "explanation": "Từ khó khăn ban đầu đến được giúp rồi giúp người khác, đoạn văn nhấn mạnh giá trị của giao lưu và hỗ trợ lẫn nhau."
+      },
+      {
+        "id": "hsk4-L01-R05-Q04",
+        "kind": "Suy luận",
+        "question": "“我”为什么帮助新同学？",
+        "questionVietnamese": "Vì sao sau đó người kể bắt đầu giúp sinh viên mới?",
+        "options": [
+          "更了解学校，知道帮助很重要",
+          "老师让“我”放弃课程",
+          "“我”已经成为博士",
+          "“我”不需要学习了"
+        ],
+        "answer": "更了解学校，知道帮助很重要",
+        "optionsVietnamese": {
+          "更了解学校，知道帮助很重要": "Hiểu trường hơn và biết sự giúp đỡ rất quan trọng",
+          "老师让“我”放弃课程": "Cô yêu cầu bỏ môn học",
+          "“我”已经成为博士": "Đã trở thành tiến sĩ",
+          "“我”不需要学习了": "Không cần học nữa"
+        },
+        "explanation": "Người kể được hỗ trợ, hiểu biết thêm và giảm áp lực; việc giúp bạn mới cho thấy đã nhận ra ý nghĩa của sự hỗ trợ."
+      },
+      {
+        "id": "hsk4-L01-R05-Q05",
+        "kind": "Nội dung",
+        "question": "“我”的压力随着什么变化而减轻？",
+        "questionVietnamese": "Áp lực của người kể giảm theo thay đổi nào?",
+        "options": [
+          "了解的事情越来越多",
+          "学习材料越来越少",
+          "课程全部取消了",
+          "不再参加交流活动了"
+        ],
+        "answer": "了解的事情越来越多",
+        "optionsVietnamese": {
+          "了解的事情越来越多": "Ngày càng hiểu thêm nhiều điều",
+          "学习材料越来越少": "Tài liệu ngày càng ít",
+          "课程全部取消了": "Mọi môn bị hủy",
+          "不再参加交流活动了": "Không còn tham gia giao lưu"
+        },
+        "explanation": "Câu 随着了解的事情越来越多，我的压力减轻了 nêu rõ mối liên hệ."
+      }
+    ]
+  },
+  {
+    "id": "hsk4-L02-R01",
+    "lesson": 2,
+    "title": "Chọn căn nhà gần trường",
+    "text": "毕业以后，小林准备留在这座城市工作，先在网上查找租房信息。他看了三套房子，第一套价格低，不过周围太热闹，晚上恐怕睡不好。第二套位置好，房租却超过了他一半的工资。最后，他选了学校附近的一套小房子，客厅很亮，厨房也干净。房东建议他先查看房里的东西，有问题直接联系。小林交了房租，并约好星期六入住。他觉得，房子不一定要大，适合自己的生活才最重要。",
+    "pinyin": "bì yè yǐ hòu ， xiǎo lín zhǔn bèi liú zài zhè zuò chéng shì gōng zuò ， xiān zài wǎng shàng chá zhǎo zū fáng xìn xī 。 tā kàn le sān tào fáng zi ， dì yī tào jià gé dī ， bù guò zhōu wéi tài rè nào ， wǎn shàng kǒng pà shuì bù hǎo 。 dì èr tào wèi zhì hǎo ， fáng zū què chāo guò le tā yí bàn de gōng zī 。 zuì hòu ， tā xuǎn le xué xiào fù jìn de yī tào xiǎo fáng zi ， kè tīng hěn liàng ， chú fáng yě gān jìng 。 fáng dōng jiàn yì tā xiān chá kàn fáng lǐ de dōng xī ， yǒu wèn tí zhí jiē lián xì 。 xiǎo lín jiāo le fáng zū ， bìng yuē hǎo xīng qī liù rù zhù 。 tā jué de ， fáng zi bù yí dìng yào dà ， shì hé zì jǐ de shēng huó cái zuì zhòng yào 。",
+    "translation": "Sau khi tốt nghiệp, Tiểu Lâm tìm nhà để ở lại thành phố làm việc. Căn đầu rẻ nhưng ồn, căn thứ hai có vị trí tốt nhưng quá nửa tiền lương. Cuối cùng anh chọn căn nhỏ gần trường, phòng khách sáng và bếp sạch. Chủ nhà đề nghị kiểm tra đồ đạc và liên hệ khi cần. Anh trả tiền thuê, hẹn chuyển vào thứ Bảy và thấy nhà phù hợp quan trọng hơn nhà rộng.",
+    "questions": [
+      {
+        "id": "hsk4-L02-R01-Q01",
+        "kind": "Nội dung",
+        "question": "小林先在哪里查找租房信息？",
+        "options": [
+          "网上",
+          "食堂里",
+          "日记里",
+          "课堂上"
+        ],
+        "answer": "网上",
+        "explanation": "Theo đoạn: “先在网上查找租房信息”. Đáp án phù hợp: “网上”."
+      },
+      {
+        "id": "hsk4-L02-R01-Q02",
+        "kind": "Nội dung",
+        "question": "第一套房子有什么问题？",
+        "options": [
+          "周围太热闹",
+          "厨房太小",
+          "房租超过工资",
+          "没有客厅"
+        ],
+        "answer": "周围太热闹",
+        "explanation": "Theo đoạn: “晚上恐怕睡不好”. Đáp án phù hợp: “周围太热闹”."
+      },
+      {
+        "id": "hsk4-L02-R01-Q03",
+        "kind": "Nội dung",
+        "question": "小林约好哪天入住？",
+        "options": [
+          "星期六",
+          "星期一",
+          "星期三",
+          "星期五"
+        ],
+        "answer": "星期六",
+        "explanation": "Theo đoạn: “约好星期六入住”. Đáp án phù hợp: “星期六”."
+      },
+      {
+        "id": "hsk4-L02-R01-Q04",
+        "kind": "Ý chính",
+        "question": "这篇文章主要谈什么？",
+        "options": [
+          "选择适合自己的房子",
+          "如何提高工资",
+          "毕业考试的安排",
+          "参观学校的过程"
+        ],
+        "answer": "选择适合自己的房子",
+        "explanation": "Theo đoạn: “适合自己的生活才最重要”. Đáp án phù hợp: “选择适合自己的房子”."
+      },
+      {
+        "id": "hsk4-L02-R01-Q05",
+        "kind": "Suy luận",
+        "question": "从选房过程可以看出什么？",
+        "options": [
+          "小林考虑了价格和生活环境",
+          "小林只关心房子的大小",
+          "小林不愿意查看房里的东西",
+          "小林决定不在这座城市工作"
+        ],
+        "answer": "小林考虑了价格和生活环境",
+        "explanation": "Theo đoạn: “第二套位置好，房租却超过了他一半的工资”. Đáp án phù hợp: “小林考虑了价格和生活环境”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L02-R02",
+    "lesson": 2,
+    "title": "Ngày chuyển vào nhà mới",
+    "text": "星期六早上，我和朋友一起搬家。由于下雨，车比约好的时间晚到了半个小时，我有点儿着急。朋友说：“东西已经收拾好了，等车来就是了。”到了新家，房东给我们介绍了厨房的使用方法，接着带我们查看客厅。屋子基本上没有问题，只是少了两条毛巾。我们去周围的超市买了需要的东西，下午整个房间就收拾好了。晚上，我在日记里写道，今天虽然有点儿累，搬家还是很顺利，也很感谢朋友的帮助。",
+    "pinyin": "xīng qī liù zǎo shàng ， wǒ hé péng yǒu yì qǐ bān jiā 。 yóu yú xià yǔ ， chē bǐ yuē hǎo de shí jiān wǎn dào le bàn gè xiǎo shí ， wǒ yǒu diǎn ér zháo jí 。 péng yǒu shuō ：“ dōng xī yǐ jīng shōu shí hǎo le ， děng chē lái jiù shì le 。” dào le xīn jiā ， fáng dōng gěi wǒ men jiè shào le chú fáng de shǐ yòng fāng fǎ ， jiē zhe dài wǒ men chá kàn kè tīng 。 wū zi jī běn shàng méi yǒu wèn tí ， zhǐ shì shǎo le liǎng tiáo máo jīn 。 wǒ men qù zhōu wéi de chāo shì mǎi le xū yào de dōng xī ， xià wǔ zhěng gè fáng jiān jiù shōu shí hǎo le 。 wǎn shàng ， wǒ zài rì jì lǐ xiě dào ， jīn tiān suī rán yǒu diǎn ér lèi ， bān jiā hái shì hěn shùn lì ， yě hěn gǎn xiè péng yǒu de bāng zhù 。",
+    "translation": "Sáng thứ Bảy tôi chuyển nhà cùng bạn. Vì mưa, xe đến muộn nửa giờ. Bạn bảo đồ đã dọn xong, chỉ cần chờ xe. Tại nhà mới, chủ nhà giới thiệu cách dùng bếp và kiểm tra phòng khách. Nhà chỉ thiếu hai chiếc khăn. Chúng tôi mua đồ ở siêu thị gần đó và dọn xong vào buổi chiều. Tôi ghi nhật ký rằng tuy mệt nhưng chuyển nhà thuận lợi và biết ơn bạn.",
+    "questions": [
+      {
+        "id": "hsk4-L02-R02-Q01",
+        "kind": "Nội dung",
+        "question": "车为什么晚到？",
+        "options": [
+          "因为下雨",
+          "因为房东不在",
+          "因为朋友没收拾好",
+          "因为司机买毛巾去了"
+        ],
+        "answer": "因为下雨",
+        "explanation": "Theo đoạn: “由于下雨”. Đáp án phù hợp: “因为下雨”."
+      },
+      {
+        "id": "hsk4-L02-R02-Q02",
+        "kind": "Nội dung",
+        "question": "新家少了什么？",
+        "options": [
+          "两条毛巾",
+          "一台电脑",
+          "一张桌子",
+          "两把椅子"
+        ],
+        "answer": "两条毛巾",
+        "explanation": "Theo đoạn: “只是少了两条毛巾”. Đáp án phù hợp: “两条毛巾”."
+      },
+      {
+        "id": "hsk4-L02-R02-Q03",
+        "kind": "Nội dung",
+        "question": "他们什么时候收拾好房间？",
+        "options": [
+          "下午",
+          "第二天早上",
+          "星期天晚上",
+          "下个星期"
+        ],
+        "answer": "下午",
+        "explanation": "Theo đoạn: “下午整个房间就收拾好了”. Đáp án phù hợp: “下午”."
+      },
+      {
+        "id": "hsk4-L02-R02-Q04",
+        "kind": "Ý chính",
+        "question": "这篇日记主要记录了什么？",
+        "options": [
+          "搬进新家的经过",
+          "一次不成功的购物",
+          "厨房发生的问题",
+          "朋友毕业的经历"
+        ],
+        "answer": "搬进新家的经过",
+        "explanation": "Theo đoạn: “今天虽然有点儿累，搬家还是很顺利”. Đáp án phù hợp: “搬进新家的经过”."
+      },
+      {
+        "id": "hsk4-L02-R02-Q05",
+        "kind": "Suy luận",
+        "question": "作者对朋友是什么态度？",
+        "options": [
+          "感谢朋友的帮助",
+          "认为朋友没有耐心",
+          "希望朋友赶快离开",
+          "不愿意再联系朋友"
+        ],
+        "answer": "感谢朋友的帮助",
+        "explanation": "Theo đoạn: “也很感谢朋友的帮助”. Đáp án phù hợp: “感谢朋友的帮助”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L02-R03",
+    "lesson": 2,
+    "title": "Trao đổi rõ với chủ nhà",
+    "text": "小王入住新房以后，发现厨房里的一台机器不能用了。他平常很少做饭，不过周末想请朋友来吃饭，所以希望早点儿解决。房东接到电话后，建议他先拍张照片，再把机器的情况写清楚。小王按照建议发送了信息，并约好第二天下午见面。房东查看后发现问题不大，当天就修好了。小王原来恐怕要自己付钱，房东却说这次不用收费。这件事让他明白，遇到问题及时交流，比一个人着急更有用。",
+    "pinyin": "xiǎo wáng rù zhù xīn fáng yǐ hòu ， fā xiàn chú fáng lǐ de yī tái jī qì bù néng yòng le 。 tā píng cháng hěn shǎo zuò fàn ， bù guò zhōu mò xiǎng qǐng péng yǒu lái chī fàn ， suǒ yǐ xī wàng zǎo diǎn ér jiě jué 。 fáng dōng jiē dào diàn huà hòu ， jiàn yì tā xiān pāi zhāng zhào piān ， zài bǎ jī qì de qíng kuàng xiě qīng chǔ 。 xiǎo wáng àn zhào jiàn yì fā sòng le xìn xī ， bìng yuē hǎo dì èr tiān xià wǔ jiàn miàn 。 fáng dōng chá kàn hòu fā xiàn wèn tí bù dà ， dàng tiān jiù xiū hǎo le 。 xiǎo wáng yuán lái kǒng pà yào zì jǐ fù qián ， fáng dōng què shuō zhè cì bù yòng shōu fèi 。 zhè jiàn shì ràng tā míng bái ， yù dào wèn tí jí shí jiāo liú ， bǐ yí gè rén zháo jí gèng yǒu yòng 。",
+    "translation": "Sau khi chuyển vào, Tiểu Vương phát hiện một thiết bị trong bếp bị hỏng. Anh ít nấu nhưng muốn mời bạn ăn cuối tuần. Chủ nhà đề nghị chụp ảnh và mô tả rõ tình trạng. Hai người hẹn chiều hôm sau; thiết bị được sửa ngay trong ngày, không thu phí như anh lo. Anh nhận ra trao đổi kịp thời hữu ích hơn ngồi lo một mình.",
+    "questions": [
+      {
+        "id": "hsk4-L02-R03-Q01",
+        "kind": "Nội dung",
+        "question": "小王发现哪里有问题？",
+        "options": [
+          "厨房里的一台机器",
+          "客厅的窗户",
+          "卧室的灯",
+          "房门的钥匙"
+        ],
+        "answer": "厨房里的一台机器",
+        "explanation": "Theo đoạn: “厨房里的一台机器不能用了”. Đáp án phù hợp: “厨房里的一台机器”."
+      },
+      {
+        "id": "hsk4-L02-R03-Q02",
+        "kind": "Nội dung",
+        "question": "房东建议小王先做什么？",
+        "options": [
+          "拍照并说明情况",
+          "马上买新机器",
+          "搬到别的地方",
+          "自己把机器扔掉"
+        ],
+        "answer": "拍照并说明情况",
+        "explanation": "Theo đoạn: “先拍张照片，再把机器的情况写清楚”. Đáp án phù hợp: “拍照并说明情况”."
+      },
+      {
+        "id": "hsk4-L02-R03-Q03",
+        "kind": "Nội dung",
+        "question": "这次修理需要小王付钱吗？",
+        "options": [
+          "不用付钱",
+          "付一半房租",
+          "付全部工资",
+          "先交两百块钱"
+        ],
+        "answer": "不用付钱",
+        "explanation": "Theo đoạn: “这次不用收费”. Đáp án phù hợp: “不用付钱”."
+      },
+      {
+        "id": "hsk4-L02-R03-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要说明什么？",
+        "options": [
+          "遇到问题要及时交流",
+          "租房必须自己修机器",
+          "周末不应该请朋友",
+          "厨房比客厅重要"
+        ],
+        "answer": "遇到问题要及时交流",
+        "explanation": "Theo đoạn: “遇到问题及时交流，比一个人着急更有用”. Đáp án phù hợp: “遇到问题要及时交流”."
+      },
+      {
+        "id": "hsk4-L02-R03-Q05",
+        "kind": "Suy luận",
+        "question": "房东的做法说明他怎么样？",
+        "options": [
+          "愿意帮助解决问题",
+          "不愿意听租客说话",
+          "只关心提高房租",
+          "不让租客使用厨房"
+        ],
+        "answer": "愿意帮助解决问题",
+        "explanation": "Theo đoạn: “当天就修好了”. Đáp án phù hợp: “愿意帮助解决问题”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L02-R04",
+    "lesson": 2,
+    "title": "Cân đối tiền thuê và tiền lương",
+    "text": "刚开始工作时，姐姐想租一套位置理想的大房子。她在网上看了很多信息，发现这样的房子价格很高，交完房租以后，工资基本上不剩多少。朋友建议她把每月的生活费也写下来，不能只看房子好不好看。姐姐重新查看信息，最后和同事一起租了两间卧室的房子。她们共用客厅和厨房，各自收拾自己的房间。虽然房子没有原来想的那么大，不过周围交通方便，每月还能存一些钱。姐姐说，现在的安排更适合自己。",
+    "pinyin": "gāng kāi shǐ gōng zuò shí ， jiě jiě xiǎng zū yī tào wèi zhì lǐ xiǎng de dà fáng zi 。 tā zài wǎng shàng kàn le hěn duō xìn xī ， fā xiàn zhè yàng de fáng zi jià gé hěn gāo ， jiāo wán fáng zū yǐ hòu ， gōng zī jī běn shàng bù shèng duō shǎo 。 péng yǒu jiàn yì tā bǎ měi yuè de shēng huó fèi yě xiě xià lái ， bù néng zhǐ kàn fáng zi hǎo bù hǎo kàn 。 jiě jiě chóng xīn chá kàn xìn xī ， zuì hòu hé tóng shì yì qǐ zū le liǎng jiān wò shì de fáng zi 。 tā men gòng yòng kè tīng hé chú fáng ， gè zì shōu shí zì jǐ de fáng jiān 。 suī rán fáng zi méi yǒu yuán lái xiǎng de nà me dà ， bù guò zhōu wéi jiāo tōng fāng biàn ， měi yuè hái néng cún yī xiē qián 。 jiě jiě shuō ， xiàn zài de ān pái gèng shì hé zì jǐ 。",
+    "translation": "Khi mới đi làm, chị muốn thuê căn rộng ở vị trí lý tưởng nhưng tiền thuê gần hết lương. Bạn khuyên tính cả sinh hoạt phí. Chị tìm lại và thuê chung căn hai phòng ngủ với đồng nghiệp, dùng chung phòng khách và bếp. Nhà nhỏ hơn dự tính nhưng đi lại tiện, còn tiết kiệm được tiền. Chị thấy lựa chọn này phù hợp hơn.",
+    "questions": [
+      {
+        "id": "hsk4-L02-R04-Q01",
+        "kind": "Nội dung",
+        "question": "姐姐原来想租什么样的房子？",
+        "options": [
+          "位置理想的大房子",
+          "没有厨房的房子",
+          "离公司最远的房子",
+          "只住一晚的房子"
+        ],
+        "answer": "位置理想的大房子",
+        "explanation": "Theo đoạn: “位置理想的大房子”. Đáp án phù hợp: “位置理想的大房子”."
+      },
+      {
+        "id": "hsk4-L02-R04-Q02",
+        "kind": "Nội dung",
+        "question": "朋友建议姐姐考虑什么？",
+        "options": [
+          "每月的生活费",
+          "房东的日记",
+          "同事的毕业时间",
+          "厨房里毛巾的颜色"
+        ],
+        "answer": "每月的生活费",
+        "explanation": "Theo đoạn: “把每月的生活费也写下来”. Đáp án phù hợp: “每月的生活费”."
+      },
+      {
+        "id": "hsk4-L02-R04-Q03",
+        "kind": "Nội dung",
+        "question": "姐姐最后和谁一起租房？",
+        "options": [
+          "同事",
+          "房东",
+          "老师",
+          "父母"
+        ],
+        "answer": "同事",
+        "explanation": "Theo đoạn: “最后和同事一起租了两间卧室的房子”. Đáp án phù hợp: “同事”."
+      },
+      {
+        "id": "hsk4-L02-R04-Q04",
+        "kind": "Ý chính",
+        "question": "这篇文章主要介绍什么？",
+        "options": [
+          "根据收入调整租房选择",
+          "如何出售自己的房子",
+          "同事之间的一次争吵",
+          "买厨房机器的经验"
+        ],
+        "answer": "根据收入调整租房选择",
+        "explanation": "Theo đoạn: “现在的安排更适合自己”. Đáp án phù hợp: “根据收入调整租房选择”."
+      },
+      {
+        "id": "hsk4-L02-R04-Q05",
+        "kind": "Suy luận",
+        "question": "姐姐为什么满意现在的房子？",
+        "options": [
+          "交通方便又能存钱",
+          "每月不用付房租",
+          "比所有房子都大",
+          "不需要收拾房间"
+        ],
+        "answer": "交通方便又能存钱",
+        "explanation": "Theo đoạn: “周围交通方便，每月还能存一些钱”. Đáp án phù hợp: “交通方便又能存钱”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L02-R05",
+    "lesson": 2,
+    "title": "Một góc nhỏ để viết nhật ký",
+    "text": "我平常喜欢写日记，所以租房时希望有一个安静又亮的地方。房东带我看了客厅，也介绍了周围的环境。这套房子离市场不远，买东西方便，不过晚上没有太多车经过，基本上很安静。入住以后，我把书桌放在窗边，接着收拾了厨房，买了毛巾和一台小电扇。整个过程只用了一个下午。由于白天要上班，我每天晚上才有时间写日记。朋友来看我时说，房子虽然普通，安排得却很舒服。我也觉得这里很理想。",
+    "pinyin": "wǒ píng cháng xǐ huān xiě rì jì ， suǒ yǐ zū fáng shí xī wàng yǒu yí gè ān jìng yòu liàng de dì fāng 。 fáng dōng dài wǒ kàn le kè tīng ， yě jiè shào le zhōu wéi de huán jìng 。 zhè tào fáng zi lí shì chǎng bù yuǎn ， mǎi dōng xī fāng biàn ， bù guò wǎn shàng méi yǒu tài duō chē jīng guò ， jī běn shàng hěn ān jìng 。 rù zhù yǐ hòu ， wǒ bǎ shū zhuō fàng zài chuāng biān ， jiē zhe shōu shí le chú fáng ， mǎi le máo jīn hé yī tái xiǎo diàn shàn 。 zhěng gè guò chéng zhǐ yòng le yí gè xià wǔ 。 yóu yú bái tiān yào shàng bān ， wǒ měi tiān wǎn shàng cái yǒu shí jiān xiě rì jì 。 péng yǒu lái kàn wǒ shí shuō ， fáng zi suī rán pǔ tōng ， ān pái dé què hěn shū fú 。 wǒ yě jué de zhè lǐ hěn lǐ xiǎng 。",
+    "translation": "Tôi thích viết nhật ký nên tìm nơi yên tĩnh và sáng. Nhà gần chợ, tiện mua sắm nhưng ít xe ban đêm. Sau khi chuyển vào, tôi đặt bàn cạnh cửa sổ, dọn bếp, mua khăn và quạt nhỏ, chỉ mất một buổi chiều. Vì đi làm ban ngày, tôi viết vào buổi tối. Bạn thấy căn nhà tuy bình thường nhưng bố trí dễ chịu; tôi cũng rất hài lòng.",
+    "questions": [
+      {
+        "id": "hsk4-L02-R05-Q01",
+        "kind": "Nội dung",
+        "question": "作者租房时特别希望有什么？",
+        "options": [
+          "安静又亮的地方",
+          "很大的停车场",
+          "热闹的夜市",
+          "免费的电脑"
+        ],
+        "answer": "安静又亮的地方",
+        "explanation": "Theo đoạn: “希望有一个安静又亮的地方”. Đáp án phù hợp: “安静又亮的地方”."
+      },
+      {
+        "id": "hsk4-L02-R05-Q02",
+        "kind": "Nội dung",
+        "question": "书桌被放在哪里？",
+        "options": [
+          "窗边",
+          "厨房中间",
+          "市场门口",
+          "客厅门外"
+        ],
+        "answer": "窗边",
+        "explanation": "Theo đoạn: “把书桌放在窗边”. Đáp án phù hợp: “窗边”."
+      },
+      {
+        "id": "hsk4-L02-R05-Q03",
+        "kind": "Nội dung",
+        "question": "作者为什么晚上才写日记？",
+        "options": [
+          "白天要上班",
+          "晚上房租更便宜",
+          "白天没有书桌",
+          "房东只允许晚上写"
+        ],
+        "answer": "白天要上班",
+        "explanation": "Theo đoạn: “由于白天要上班”. Đáp án phù hợp: “白天要上班”."
+      },
+      {
+        "id": "hsk4-L02-R05-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要介绍什么？",
+        "options": [
+          "布置适合自己的租房生活",
+          "在市场查找工作",
+          "房东搬家的原因",
+          "如何修理电扇"
+        ],
+        "answer": "布置适合自己的租房生活",
+        "explanation": "Theo đoạn: “安排得却很舒服”. Đáp án phù hợp: “布置适合自己的租房生活”."
+      },
+      {
+        "id": "hsk4-L02-R05-Q05",
+        "kind": "Suy luận",
+        "question": "朋友觉得这套房子怎么样？",
+        "options": [
+          "普通但是舒服",
+          "热闹但是太暗",
+          "很大但是不方便",
+          "便宜但是不能入住"
+        ],
+        "answer": "普通但是舒服",
+        "explanation": "Theo đoạn: “房子虽然普通，安排得却很舒服”. Đáp án phù hợp: “普通但是舒服”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L03-R01",
+    "lesson": 3,
+    "title": "Lần đầu quét mã thanh toán",
+    "text": "刚到中国时，我不熟悉手机支付，买东西总是带着现金。一天，我和同学去吃饭，结账时才发现现金不够。同学让我下载一个软件，教我打开扫码功能，还提醒我不要让别人看到密码。服务员说，支付成功以后可以直接在手机上查看记录。回家后，我又试着在网上订水果，第二天快递就到了。手机支付方便是方便，不过也要保护个人信息。我决定先了解软件的使用方法，不把身份证号随便告诉不认识的人。",
+    "pinyin": "gāng dào zhōng guó shí ， wǒ bù shú xī shǒu jī zhī fù ， mǎi dōng xī zǒng shì dài zhe xiàn jīn 。 yī tiān ， wǒ hé tóng xué qù chī fàn ， jié zhàng shí cái fā xiàn xiàn jīn bù gòu 。 tóng xué ràng wǒ xià zài yí gè ruǎn jiàn ， jiào wǒ dǎ kāi sǎo mǎ gōng néng ， hái tí xǐng wǒ bú yào ràng bié rén kàn dào mì mǎ 。 fú wù yuán shuō ， zhī fù chéng gōng yǐ hòu kě yǐ zhí jiē zài shǒu jī shàng chá kàn jì lù 。 huí jiā hòu ， wǒ yòu shì zhe zài wǎng shàng dìng shuǐ guǒ ， dì èr tiān kuài dì jiù dào le 。 shǒu jī zhī fù fāng biàn shì fāng biàn ， bù guò yě yào bǎo hù gè rén xìn xī 。 wǒ jué dìng xiān liǎo jiě ruǎn jiàn de shǐ yòng fāng fǎ ， bù bǎ shēn fèn zhèng hào suí biàn gào sù bù rèn shí de rén 。",
+    "translation": "Khi mới đến Trung Quốc, tôi luôn mang tiền mặt. Một lần ăn cùng bạn, tôi thiếu tiền khi thanh toán. Bạn dạy tải ứng dụng, quét mã và giữ kín mật khẩu. Tôi xem được lịch sử thanh toán, rồi thử đặt trái cây; hôm sau hàng đến. Tôi thấy thanh toán di động tiện nhưng cần biết cách dùng và bảo vệ thông tin cá nhân.",
+    "questions": [
+      {
+        "id": "hsk4-L03-R01-Q01",
+        "kind": "Nội dung",
+        "question": "作者以前为什么总带现金？",
+        "options": [
+          "不熟悉手机支付",
+          "手机没有电",
+          "不喜欢买东西",
+          "学校不让用软件"
+        ],
+        "answer": "不熟悉手机支付",
+        "explanation": "Theo đoạn: “我不熟悉手机支付”. Đáp án phù hợp: “不熟悉手机支付”."
+      },
+      {
+        "id": "hsk4-L03-R01-Q02",
+        "kind": "Nội dung",
+        "question": "同学提醒作者注意什么？",
+        "options": [
+          "不要让别人看到密码",
+          "把密码写在桌上",
+          "把身份证借给服务员",
+          "随便下载任何软件"
+        ],
+        "answer": "不要让别人看到密码",
+        "explanation": "Theo đoạn: “不要让别人看到密码”. Đáp án phù hợp: “不要让别人看到密码”."
+      },
+      {
+        "id": "hsk4-L03-R01-Q03",
+        "kind": "Nội dung",
+        "question": "作者网购的水果什么时候到了？",
+        "options": [
+          "第二天",
+          "一个月后",
+          "当天早上",
+          "下个星期"
+        ],
+        "answer": "第二天",
+        "explanation": "Theo đoạn: “第二天快递就到了”. Đáp án phù hợp: “第二天”."
+      },
+      {
+        "id": "hsk4-L03-R01-Q04",
+        "kind": "Ý chính",
+        "question": "这篇文章主要谈什么？",
+        "options": [
+          "学习手机支付并注意信息安全",
+          "现金不能再使用",
+          "如何经营水果店",
+          "快递员的工作时间"
+        ],
+        "answer": "学习手机支付并注意信息安全",
+        "explanation": "Theo đoạn: “不过也要保护个人信息”. Đáp án phù hợp: “学习手机支付并注意信息安全”."
+      },
+      {
+        "id": "hsk4-L03-R01-Q05",
+        "kind": "Suy luận",
+        "question": "作者接下来会怎么做？",
+        "options": [
+          "先了解使用方法再使用",
+          "公开自己的密码",
+          "完全不用手机",
+          "把身份证号告诉陌生人"
+        ],
+        "answer": "先了解使用方法再使用",
+        "explanation": "Theo đoạn: “先了解软件的使用方法”. Đáp án phù hợp: “先了解使用方法再使用”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L03-R02",
+    "lesson": 3,
+    "title": "Đến đúng nơi bằng điện thoại",
+    "text": "周末，小李要去朋友的新家，可是对那一带不熟悉。朋友直接把地址发给他，让他用手机查找目的地。小李按照软件提供的信息乘坐地铁，出站后在第一个路口向右转。快到的时候，网络突然不好，他看不到地图，于是给朋友打电话。朋友说自己正好在附近，很快就来接他。到了以后，小李把地址保存在手机里，准备下次自己来。他觉得软件不仅能提供路线，还能告诉人们大约需要多长时间，不过出门前最好先看清楚。",
+    "pinyin": "zhōu mò ， xiǎo lǐ yào qù péng yǒu de xīn jiā ， kě shì duì nà yī dài bù shú xī 。 péng yǒu zhí jiē bǎ dì zhǐ fā gěi tā ， ràng tā yòng shǒu jī chá zhǎo mù dì dì 。 xiǎo lǐ àn zhào ruǎn jiàn tí gōng de xìn xī chéng zuò dì tiě ， chū zhàn hòu zài dì yí gè lù kǒu xiàng yòu zhuǎn 。 kuài dào de shí hòu ， wǎng luò tū rán bù hǎo ， tā kàn bú dào dì tú ， yú shì gěi péng yǒu dǎ diàn huà 。 péng yǒu shuō zì jǐ zhèng hǎo zài fù jìn ， hěn kuài jiù lái jiē tā 。 dào le yǐ hòu ， xiǎo lǐ bǎ dì zhǐ bǎo cún zài shǒu jī lǐ ， zhǔn bèi xià cì zì jǐ lái 。 tā jué de ruǎn jiàn bù jǐn néng tí gōng lù xiàn ， hái néng gào sù rén men dà yuē xū yào duō zhǎng shí jiān ， bù guò chū mén qián zuì hǎo xiān kàn qīng chǔ 。",
+    "translation": "Cuối tuần Tiểu Lý đến nhà mới của bạn. Anh dùng địa chỉ và hướng dẫn trên điện thoại để đi tàu điện ngầm, rẽ phải ở ngã tư đầu. Gần tới thì mất mạng nên gọi bạn; bạn ở gần và đến đón. Anh lưu địa chỉ để lần sau tự đến. Theo anh, phần mềm giúp tìm đường và dự tính thời gian, nhưng nên xem kỹ trước khi đi.",
+    "questions": [
+      {
+        "id": "hsk4-L03-R02-Q01",
+        "kind": "Nội dung",
+        "question": "朋友先发给小李什么？",
+        "options": [
+          "新家的地址",
+          "支付密码",
+          "身份证照片",
+          "购物记录"
+        ],
+        "answer": "新家的地址",
+        "explanation": "Theo đoạn: “直接把地址发给他”. Đáp án phù hợp: “新家的地址”."
+      },
+      {
+        "id": "hsk4-L03-R02-Q02",
+        "kind": "Nội dung",
+        "question": "小李出站后应该怎么走？",
+        "options": [
+          "第一个路口向右转",
+          "一直向左走",
+          "马上回地铁站",
+          "过三个路口再左转"
+        ],
+        "answer": "第一个路口向右转",
+        "explanation": "Theo đoạn: “在第一个路口向右转”. Đáp án phù hợp: “第一个路口向右转”."
+      },
+      {
+        "id": "hsk4-L03-R02-Q03",
+        "kind": "Nội dung",
+        "question": "小李为什么给朋友打电话？",
+        "options": [
+          "网络不好看不到地图",
+          "忘记带现金",
+          "想取消聚会",
+          "已经到了朋友家"
+        ],
+        "answer": "网络不好看不到地图",
+        "explanation": "Theo đoạn: “网络突然不好，他看不到地图”. Đáp án phù hợp: “网络不好看不到地图”."
+      },
+      {
+        "id": "hsk4-L03-R02-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要介绍什么？",
+        "options": [
+          "用手机找路的一次经历",
+          "下载购物软件的方法",
+          "手机支付的价格",
+          "朋友搬家的原因"
+        ],
+        "answer": "用手机找路的一次经历",
+        "explanation": "Theo đoạn: “用手机查找目的地”. Đáp án phù hợp: “用手机找路的一次经历”."
+      },
+      {
+        "id": "hsk4-L03-R02-Q05",
+        "kind": "Suy luận",
+        "question": "根据文章，出门前最好做什么？",
+        "options": [
+          "先看清路线",
+          "把手机留在家里",
+          "随便选择目的地",
+          "把密码发给朋友"
+        ],
+        "answer": "先看清路线",
+        "explanation": "Theo đoạn: “出门前最好先看清楚”. Đáp án phù hợp: “先看清路线”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L03-R03",
+    "lesson": 3,
+    "title": "Giữ kín thông tin cá nhân",
+    "text": "妈妈最近学会了网购，觉得只动动手指，货就能送到家，十分方便。一天，有人打电话说她的快递出了问题，需要提供身份证号和支付密码。妈妈正准备回答，哥哥听到后马上提醒她先确认对方的身份。妈妈打开购物软件查看，发现货已经送到了，于是没有再和那个人联系。哥哥说，技术改变了购物方式，也不能让我们放松对个人信息的保护。遇到不熟悉的要求，要通过软件里提供的联系方式查清楚，不能随便告诉别人密码。",
+    "pinyin": "mā mā zuì jìn xué huì le wǎng gòu ， jué de zhǐ dòng dòng shǒu zhǐ ， huò jiù néng sòng dào jiā ， shí fēn fāng biàn 。 yī tiān ， yǒu rén dǎ diàn huà shuō tā de kuài dì chū le wèn tí ， xū yào tí gōng shēn fèn zhèng hào hé zhī fù mì mǎ 。 mā mā zhèng zhǔn bèi huí dá ， gē gē tīng dào hòu mǎ shàng tí xǐng tā xiān què rèn duì fāng de shēn fèn 。 mā mā dǎ kāi gòu wù ruǎn jiàn chá kàn ， fā xiàn huò yǐ jīng sòng dào le ， yú shì méi yǒu zài hé nà ge rén lián xì 。 gē gē shuō ， jì shù gǎi biàn le gòu wù fāng shì ， yě bù néng ràng wǒ men fàng sōng duì gè rén xìn xī de bǎo hù 。 yù dào bù shú xī de yāo qiú ， yào tōng guò ruǎn jiàn lǐ tí gōng de lián xì fāng shì chá qīng chǔ ， bù néng suí biàn gào sù bié rén mì mǎ 。",
+    "translation": "Mẹ mới biết mua hàng trực tuyến. Một người gọi nói kiện hàng có vấn đề, đòi số căn cước và mật khẩu. Anh trai nhắc mẹ xác minh. Mẹ mở ứng dụng và thấy hàng đã giao, nên ngừng liên hệ. Công nghệ giúp mua sắm thuận tiện nhưng vẫn cần bảo vệ thông tin, xác minh bằng kênh trong ứng dụng và không tiết lộ mật khẩu.",
+    "questions": [
+      {
+        "id": "hsk4-L03-R03-Q01",
+        "kind": "Nội dung",
+        "question": "打电话的人要求妈妈提供什么？",
+        "options": [
+          "身份证号和支付密码",
+          "水果的价格",
+          "朋友的地址",
+          "学校的课程表"
+        ],
+        "answer": "身份证号和支付密码",
+        "explanation": "Theo đoạn: “需要提供身份证号和支付密码”. Đáp án phù hợp: “身份证号和支付密码”."
+      },
+      {
+        "id": "hsk4-L03-R03-Q02",
+        "kind": "Nội dung",
+        "question": "哥哥先提醒妈妈做什么？",
+        "options": [
+          "确认对方的身份",
+          "马上支付费用",
+          "重新订一份货",
+          "把手机寄出去"
+        ],
+        "answer": "确认对方的身份",
+        "explanation": "Theo đoạn: “先确认对方的身份”. Đáp án phù hợp: “确认对方的身份”."
+      },
+      {
+        "id": "hsk4-L03-R03-Q03",
+        "kind": "Nội dung",
+        "question": "妈妈查看后发现了什么？",
+        "options": [
+          "货已经送到了",
+          "货还没有买",
+          "软件不能使用",
+          "哥哥改了密码"
+        ],
+        "answer": "货已经送到了",
+        "explanation": "Theo đoạn: “发现货已经送到了”. Đáp án phù hợp: “货已经送到了”."
+      },
+      {
+        "id": "hsk4-L03-R03-Q04",
+        "kind": "Ý chính",
+        "question": "文章提醒我们注意什么？",
+        "options": [
+          "保护网购中的个人信息",
+          "不要给家人打电话",
+          "买东西只能用现金",
+          "快递一定会出问题"
+        ],
+        "answer": "保护网购中的个人信息",
+        "explanation": "Theo đoạn: “不能随便告诉别人密码”. Đáp án phù hợp: “保护网购中的个人信息”."
+      },
+      {
+        "id": "hsk4-L03-R03-Q05",
+        "kind": "Suy luận",
+        "question": "妈妈没有继续联系的原因是什么？",
+        "options": [
+          "发现来电内容与实际情况不符",
+          "她不想收货了",
+          "哥哥想买新手机",
+          "她忘了自己的地址"
+        ],
+        "answer": "发现来电内容与实际情况不符",
+        "explanation": "Theo đoạn: “发现货已经送到了，于是没有再和那个人联系”. Đáp án phù hợp: “发现来电内容与实际情况不符”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L03-R04",
+    "lesson": 3,
+    "title": "Mua vừa đủ, không mua tùy tiện",
+    "text": "以前，小陈觉得网上的东西价格低，常常随便买。有时货到了，他甚至不记得自己为什么订。房间里的东西越来越乱，月底也没剩下多少钱。朋友建议他先写下真正需要的东西，再进行购物。小陈于是改变了习惯，不再一看到便宜的货就付款。现在，他每次结账前都会查看数量和价格，还会想一想家里是否已经有相同的东西。他说，网购方便是方便，不过管好自己的手，比找到更多便宜的软件更重要。",
+    "pinyin": "yǐ qián ， xiǎo chén jué de wǎng shàng de dōng xī jià gé dī ， cháng cháng suí biàn mǎi 。 yǒu shí huò dào le ， tā shèn zhì bú jì dé zì jǐ wèi shén me dìng 。 fáng jiān lǐ de dōng xī yuè lái yuè luàn ， yuè dǐ yě méi shèng xià duō shǎo qián 。 péng yǒu jiàn yì tā xiān xiě xià zhēn zhèng xū yào de dōng xī ， zài jìn xíng gòu wù 。 xiǎo chén yú shì gǎi biàn le xí guàn ， bù zài yī kàn dào pián yi de huò jiù fù kuǎn 。 xiàn zài ， tā měi cì jié zhàng qián dū huì chá kàn shù liàng hé jià gé ， hái huì xiǎng yī xiǎng jiā lǐ shì fǒu yǐ jīng yǒu xiāng tóng de dōng xī 。 tā shuō ， wǎng gòu fāng biàn shì fāng biàn ， bù guò guǎn hǎo zì jǐ de shǒu ， bǐ zhǎo dào gèng duō pián yi de ruǎn jiàn gèng zhòng yào 。",
+    "translation": "Trước kia Tiểu Trần mua tùy tiện vì hàng trên mạng rẻ. Có lúc hàng đến anh quên lý do đặt, phòng bừa bộn và hết tiền cuối tháng. Bạn khuyên viết danh sách nhu cầu. Anh đổi thói quen, kiểm tra số lượng, giá và xem đã có đồ tương tự chưa. Anh thấy tự kiểm soát quan trọng hơn tìm ứng dụng có hàng rẻ.",
+    "questions": [
+      {
+        "id": "hsk4-L03-R04-Q01",
+        "kind": "Nội dung",
+        "question": "小陈以前常常怎样购物？",
+        "options": [
+          "随便买便宜的东西",
+          "只买写在清单上的东西",
+          "从来不在网上购物",
+          "每次都去商店付现金"
+        ],
+        "answer": "随便买便宜的东西",
+        "explanation": "Theo đoạn: “常常随便买”. Đáp án phù hợp: “随便买便宜的东西”."
+      },
+      {
+        "id": "hsk4-L03-R04-Q02",
+        "kind": "Nội dung",
+        "question": "朋友提出了什么建议？",
+        "options": [
+          "先写下真正需要的东西",
+          "把所有东西扔掉",
+          "每天下载新软件",
+          "一次买更多便宜货"
+        ],
+        "answer": "先写下真正需要的东西",
+        "explanation": "Theo đoạn: “先写下真正需要的东西”. Đáp án phù hợp: “先写下真正需要的东西”."
+      },
+      {
+        "id": "hsk4-L03-R04-Q03",
+        "kind": "Nội dung",
+        "question": "现在结账前小陈会查看什么？",
+        "options": [
+          "数量和价格",
+          "朋友的工资",
+          "快递员的密码",
+          "房东的日记"
+        ],
+        "answer": "数量和价格",
+        "explanation": "Theo đoạn: “查看数量和价格”. Đáp án phù hợp: “数量和价格”."
+      },
+      {
+        "id": "hsk4-L03-R04-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要谈什么？",
+        "options": [
+          "改变随便网购的习惯",
+          "寄快递的工作流程",
+          "买新手机的理由",
+          "整理软件的方法"
+        ],
+        "answer": "改变随便网购的习惯",
+        "explanation": "Theo đoạn: “管好自己的手”. Đáp án phù hợp: “改变随便网购的习惯”."
+      },
+      {
+        "id": "hsk4-L03-R04-Q05",
+        "kind": "Suy luận",
+        "question": "从小陈的变化可以看出什么？",
+        "options": [
+          "方便购物也需要自我管理",
+          "东西越便宜就越应该多买",
+          "不记得订过的货都可以扔掉",
+          "手机软件能替人决定所有事情"
+        ],
+        "answer": "方便购物也需要自我管理",
+        "explanation": "Theo đoạn: “想一想家里是否已经有相同的东西”. Đáp án phù hợp: “方便购物也需要自我管理”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L03-R05",
+    "lesson": 3,
+    "title": "Giúp người nhà học cách dùng phần mềm",
+    "text": "爷爷以前出门只带现金，不会用手机订票。寒假，我教他下载软件，先从查看公交信息开始，再练习扫码支付。爷爷怕自己记不住，我就把每一步写在纸上，让他一边看一边做。几天以后，他不仅能自己结账，甚至还帮奶奶订了去看朋友的车票。不过，我没有替他保存支付密码，而是提醒他记在安全的地方。爷爷说，新技术并没有想象中那么难，只要有人耐心介绍，自己再多练几次，就能慢慢熟悉。",
+    "pinyin": "yé yé yǐ qián chū mén zhǐ dài xiàn jīn ， bú huì yòng shǒu jī dìng piào 。 hán jià ， wǒ jiào tā xià zài ruǎn jiàn ， xiān cóng chá kàn gōng jiāo xìn xī kāi shǐ ， zài liàn xí sǎo mǎ zhī fù 。 yé yé pà zì jǐ jì bú zhù ， wǒ jiù bǎ měi yī bù xiě zài zhǐ shàng ， ràng tā yī biān kàn yī biān zuò 。 jǐ tiān yǐ hòu ， tā bù jǐn néng zì jǐ jié zhàng ， shèn zhì hái bāng nǎi nǎi dìng le qù kàn péng yǒu de chē piào 。 bù guò ， wǒ méi yǒu tì tā bǎo cún zhī fù mì mǎ ， ér shì tí xǐng tā jì zài ān quán de dì fāng 。 yé yé shuō ， xīn jì shù bìng méi yǒu xiǎng xiàng zhōng nà me nán ， zhǐ yào yǒu rén nài xīn jiè shào ， zì jǐ zài duō liàn jǐ cì ， jiù néng màn màn shú xī 。",
+    "translation": "Ông trước kia chỉ mang tiền mặt và không biết đặt vé. Trong kỳ nghỉ đông, tôi dạy ông tra xe buýt, quét mã và ghi từng bước ra giấy. Vài ngày sau ông tự thanh toán và đặt vé cho bà. Tôi không giữ hộ mật khẩu mà nhắc ông cất an toàn. Ông thấy công nghệ không quá khó nếu được hướng dẫn kiên nhẫn và luyện tập.",
+    "questions": [
+      {
+        "id": "hsk4-L03-R05-Q01",
+        "kind": "Nội dung",
+        "question": "作者先教爷爷做什么？",
+        "options": [
+          "查看公交信息",
+          "寄出身份证",
+          "修改别人的密码",
+          "购买新的手机"
+        ],
+        "answer": "查看公交信息",
+        "explanation": "Theo đoạn: “先从查看公交信息开始”. Đáp án phù hợp: “查看公交信息”."
+      },
+      {
+        "id": "hsk4-L03-R05-Q02",
+        "kind": "Nội dung",
+        "question": "作者怎样帮助爷爷记住步骤？",
+        "options": [
+          "把每一步写在纸上",
+          "每天替爷爷付款",
+          "让爷爷不再出门",
+          "只说一遍就离开"
+        ],
+        "answer": "把每一步写在纸上",
+        "explanation": "Theo đoạn: “把每一步写在纸上”. Đáp án phù hợp: “把每一步写在纸上”."
+      },
+      {
+        "id": "hsk4-L03-R05-Q03",
+        "kind": "Nội dung",
+        "question": "爷爷后来帮奶奶做了什么？",
+        "options": [
+          "订车票",
+          "写日记",
+          "换手机",
+          "寄现金"
+        ],
+        "answer": "订车票",
+        "explanation": "Theo đoạn: “帮奶奶订了去看朋友的车票”. Đáp án phù hợp: “订车票”."
+      },
+      {
+        "id": "hsk4-L03-R05-Q04",
+        "kind": "Ý chính",
+        "question": "这篇文章主要介绍什么？",
+        "options": [
+          "耐心帮助老人学习新技术",
+          "爷爷拒绝使用所有软件",
+          "怎样保护纸上的地址",
+          "奶奶教作者买车票"
+        ],
+        "answer": "耐心帮助老人学习新技术",
+        "explanation": "Theo đoạn: “有人耐心介绍，自己再多练几次”. Đáp án phù hợp: “耐心帮助老人学习新技术”."
+      },
+      {
+        "id": "hsk4-L03-R05-Q05",
+        "kind": "Suy luận",
+        "question": "爷爷对新技术的看法怎样变了？",
+        "options": [
+          "觉得经过练习可以学会",
+          "觉得永远不可能学会",
+          "觉得不用保护密码",
+          "觉得不需要任何帮助"
+        ],
+        "answer": "觉得经过练习可以学会",
+        "explanation": "Theo đoạn: “新技术并没有想象中那么难”. Đáp án phù hợp: “觉得经过练习可以学会”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L04-R01",
+    "lesson": 4,
+    "title": "Giúp bạn xách túi nặng",
+    "text": "今天下班时，我看见邻居提着两个很重的袋子站在车站。她刚买了不少食物，还要回家准备晚饭。我顺便帮她提了一个袋子，一起慢慢往家走。路上，她说公交车的信号出了问题，乘客都在等下一辆。我告诉她，我们住的地方距离这里不远，走路也来得及。到了家门口，她一定要请我吃饭。我说不用客气，邻居之间本来就应该互相帮助。虽然只是一件小事，我的心情却比下班时更加愉快了。",
+    "pinyin": "jīn tiān xià bān shí ， wǒ kàn jiàn lín jū tí zhe liǎng gè hěn zhòng de dài zi zhàn zài chē zhàn 。 tā gāng mǎi le bù shǎo shí wù ， hái yào huí jiā zhǔn bèi wǎn fàn 。 wǒ shùn biàn bāng tā tí le yí gè dài zi ， yì qǐ màn màn wǎng jiā zǒu 。 lù shàng ， tā shuō gōng jiāo chē de xìn hào chū le wèn tí ， chéng kè dōu zài děng xià yī liàng 。 wǒ gào sù tā ， wǒ men zhù de dì fāng jù lí zhè lǐ bù yuǎn ， zǒu lù yě lái de jí 。 dào le jiā mén kǒu ， tā yí dìng yào qǐng wǒ chī fàn 。 wǒ shuō bù yòng kè qì ， lín jū zhī jiān běn lái jiù yīng gāi hù xiāng bāng zhù 。 suī rán zhǐ shì yī jiàn xiǎo shì ， wǒ de xīn qíng què bǐ xià bān shí gèng jiā yú kuài le 。",
+    "translation": "Tan làm, tôi gặp hàng xóm xách hai túi thức ăn nặng ở trạm xe. Tôi giúp xách một túi và cùng đi bộ về. Xe buýt có vấn đề tín hiệu nên mọi người đang chờ chuyến sau, nhưng nhà gần nên đi bộ vẫn kịp. Chị mời ăn tối, tôi bảo đừng khách sáo vì hàng xóm nên giúp nhau. Việc nhỏ khiến tôi vui hơn.",
+    "questions": [
+      {
+        "id": "hsk4-L04-R01-Q01",
+        "kind": "Nội dung",
+        "question": "邻居的袋子里主要是什么？",
+        "options": [
+          "食物",
+          "鲜花",
+          "学习材料",
+          "衣服"
+        ],
+        "answer": "食物",
+        "explanation": "Theo đoạn: “她刚买了不少食物”. Đáp án phù hợp: “食物”."
+      },
+      {
+        "id": "hsk4-L04-R01-Q02",
+        "kind": "Nội dung",
+        "question": "乘客为什么在等下一辆车？",
+        "options": [
+          "公交车的信号出了问题",
+          "大家都忘了交费",
+          "车站免费送早餐",
+          "司机在买鲜花"
+        ],
+        "answer": "公交车的信号出了问题",
+        "explanation": "Theo đoạn: “公交车的信号出了问题”. Đáp án phù hợp: “公交车的信号出了问题”."
+      },
+      {
+        "id": "hsk4-L04-R01-Q03",
+        "kind": "Nội dung",
+        "question": "作者帮邻居做了什么？",
+        "options": [
+          "提一个袋子",
+          "购买电动车",
+          "准备全部晚饭",
+          "给手机充电"
+        ],
+        "answer": "提一个袋子",
+        "explanation": "Theo đoạn: “帮她提了一个袋子”. Đáp án phù hợp: “提一个袋子”."
+      },
+      {
+        "id": "hsk4-L04-R01-Q04",
+        "kind": "Ý chính",
+        "question": "这篇文章主要讲什么？",
+        "options": [
+          "邻居之间的一次互相帮助",
+          "购买公交车的过程",
+          "改变工作方式的计划",
+          "选择食物的方法"
+        ],
+        "answer": "邻居之间的一次互相帮助",
+        "explanation": "Theo đoạn: “邻居之间本来就应该互相帮助”. Đáp án phù hợp: “邻居之间的一次互相帮助”."
+      },
+      {
+        "id": "hsk4-L04-R01-Q05",
+        "kind": "Suy luận",
+        "question": "作者帮助邻居之后感觉怎么样？",
+        "options": [
+          "心情更加愉快",
+          "觉得非常后悔",
+          "决定不再走路",
+          "不想回家吃饭"
+        ],
+        "answer": "心情更加愉快",
+        "explanation": "Theo đoạn: “我的心情却比下班时更加愉快了”. Đáp án phù hợp: “心情更加愉快”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L04-R02",
+    "lesson": 4,
+    "title": "Xe điện hết pin giữa đường",
+    "text": "小林每天骑电动车上班，觉得这种出行方式既省钱，又省力气。昨天晚上，他忘了充电，今天走到一半车就停了。他看了看时间，恐怕来不及走到公司，于是联系同事。同事告诉他，附近有地铁站，乘地铁还有可能按时到。小林把车停在允许停车的地方，按照同事说的路线去了车站，最后准时到了公司。他向同事表示感谢，也在手机上设置了充电提醒。他明白，方便的交通工具也需要提前做好准备。",
+    "pinyin": "xiǎo lín měi tiān qí diàn dòng chē shàng bān ， jué de zhè zhǒng chū xíng fāng shì jì shěng qián ， yòu shěng lì qì 。 zuó tiān wǎn shàng ， tā wàng le chōng diàn ， jīn tiān zǒu dào yí bàn chē jiù tíng le 。 tā kàn le kàn shí jiān ， kǒng pà lái bù jí zǒu dào gōng sī ， yú shì lián xì tóng shì 。 tóng shì gào sù tā ， fù jìn yǒu dì tiě zhàn ， chéng dì tiě hái yǒu kě néng àn shí dào 。 xiǎo lín bǎ chē tíng zài yǔn xǔ tíng chē de dì fāng ， àn zhào tóng shì shuō de lù xiàn qù le chē zhàn ， zuì hòu zhǔn shí dào le gōng sī 。 tā xiàng tóng shì biǎo shì gǎn xiè ， yě zài shǒu jī shàng shè zhì le chōng diàn tí xǐng 。 tā míng bái ， fāng biàn de jiāo tōng gōng jù yě xū yào tí qián zuò hǎo zhǔn bèi 。",
+    "translation": "Tiểu Lâm đi xe điện vì tiết kiệm tiền và sức. Quên sạc tối hôm trước khiến xe dừng giữa đường. Anh liên hệ đồng nghiệp và được chỉ đến ga tàu điện ngầm gần đó. Anh đỗ xe đúng nơi rồi đi tàu, cuối cùng đến đúng giờ. Anh cảm ơn và cài nhắc sạc, hiểu rằng phương tiện tiện lợi cũng cần chuẩn bị trước.",
+    "questions": [
+      {
+        "id": "hsk4-L04-R02-Q01",
+        "kind": "Nội dung",
+        "question": "电动车为什么停了？",
+        "options": [
+          "忘了充电",
+          "袋子太重",
+          "下雨没有信号",
+          "停车费太高"
+        ],
+        "answer": "忘了充电",
+        "explanation": "Theo đoạn: “他忘了充电”. Đáp án phù hợp: “忘了充电”."
+      },
+      {
+        "id": "hsk4-L04-R02-Q02",
+        "kind": "Nội dung",
+        "question": "同事建议他怎么去公司？",
+        "options": [
+          "乘地铁",
+          "一直推车走",
+          "先回家吃早餐",
+          "等晚上再去"
+        ],
+        "answer": "乘地铁",
+        "explanation": "Theo đoạn: “附近有地铁站”. Đáp án phù hợp: “乘地铁”."
+      },
+      {
+        "id": "hsk4-L04-R02-Q03",
+        "kind": "Nội dung",
+        "question": "小林最后迟到了吗？",
+        "options": [
+          "没有迟到",
+          "迟到两个小时",
+          "当天没有上班",
+          "文章没有说他到公司"
+        ],
+        "answer": "没有迟到",
+        "explanation": "Theo đoạn: “最后准时到了公司”. Đáp án phù hợp: “没有迟到”."
+      },
+      {
+        "id": "hsk4-L04-R02-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要讲什么？",
+        "options": [
+          "忘记充电后及时改变出行方式",
+          "骑车一定比地铁快",
+          "公司提供免费电动车",
+          "同事帮忙购买食物"
+        ],
+        "answer": "忘记充电后及时改变出行方式",
+        "explanation": "Theo đoạn: “方便的交通工具也需要提前做好准备”. Đáp án phù hợp: “忘记充电后及时改变出行方式”."
+      },
+      {
+        "id": "hsk4-L04-R02-Q05",
+        "kind": "Suy luận",
+        "question": "小林设置提醒是为了什么？",
+        "options": [
+          "避免以后再忘记充电",
+          "让同事每天接送",
+          "增加电动车的速度",
+          "不再乘坐地铁"
+        ],
+        "answer": "避免以后再忘记充电",
+        "explanation": "Theo đoạn: “在手机上设置了充电提醒”. Đáp án phù hợp: “避免以后再忘记充电”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L04-R03",
+    "lesson": 4,
+    "title": "Một bữa sáng được gửi tặng",
+    "text": "上星期，姐姐住的地方附近开了一家早餐店。店主每天把剩下的、还没有卖出的新鲜食物送给有需要的人，而不是直接扔掉。姐姐觉得这个办法很好，周末就顺便去帮忙。她把食物装进袋子，告诉来领取的人不用交费。有位老人说，自己腿脚不方便，走这么远很辛苦。姐姐记下了他的联系方式，准备以后和邻居一起送过去。她说，帮忙不一定要花很多钱，只要多想一步，就可能让别人的生活方便一点。",
+    "pinyin": "shàng xīng qī ， jiě jiě zhù de dì fāng fù jìn kāi le yī jiā zǎo cān diàn 。 diàn zhǔ měi tiān bǎ shèng xià de 、 hái méi yǒu mài chū de xīn xiān shí wù sòng gěi yǒu xū yào de rén ， ér bú shì zhí jiē rēng diào 。 jiě jiě jué de zhè ge bàn fǎ hěn hǎo ， zhōu mò jiù shùn biàn qù bāng máng 。 tā bǎ shí wù zhuāng jìn dài zi ， gào sù lái lǐng qǔ de rén bù yòng jiāo fèi 。 yǒu wèi lǎo rén shuō ， zì jǐ tuǐ jiǎo bù fāng biàn ， zǒu zhè me yuǎn hěn xīn kǔ 。 jiě jiě jì xià le tā de lián xì fāng shì ， zhǔn bèi yǐ hòu hé lín jū yì qǐ sòng guò qù 。 tā shuō ， bāng máng bù yí dìng yào huā hěn duō qián ， zhǐ yào duō xiǎng yī bù ， jiù kě néng ràng bié rén de shēng huó fāng biàn yì diǎn 。",
+    "translation": "Một quán ăn sáng mới gần nhà chị tặng thức ăn còn mới, chưa bán hết cho người cần thay vì bỏ đi. Cuối tuần chị giúp đóng túi, giải thích không thu tiền. Một cụ già đi lại khó khăn; chị ghi liên hệ để cùng hàng xóm mang đến sau này. Chị thấy giúp người không nhất thiết tốn nhiều tiền, chỉ cần nghĩ thêm một bước.",
+    "questions": [
+      {
+        "id": "hsk4-L04-R03-Q01",
+        "kind": "Nội dung",
+        "question": "店主怎样处理没卖出的新鲜食物？",
+        "options": [
+          "送给有需要的人",
+          "全部扔掉",
+          "留到下个月卖",
+          "提高价格再卖"
+        ],
+        "answer": "送给有需要的人",
+        "explanation": "Theo đoạn: “送给有需要的人”. Đáp án phù hợp: “送给有需要的人”."
+      },
+      {
+        "id": "hsk4-L04-R03-Q02",
+        "kind": "Nội dung",
+        "question": "领取这些食物需要交费吗？",
+        "options": [
+          "不用交费",
+          "每袋十块钱",
+          "先买一台车",
+          "按距离收费"
+        ],
+        "answer": "不用交费",
+        "explanation": "Theo đoạn: “不用交费”. Đáp án phù hợp: “不用交费”."
+      },
+      {
+        "id": "hsk4-L04-R03-Q03",
+        "kind": "Nội dung",
+        "question": "姐姐为什么记下老人的联系方式？",
+        "options": [
+          "准备以后把食物送过去",
+          "想让老人帮忙开店",
+          "要向老人收取费用",
+          "请老人买鲜花"
+        ],
+        "answer": "准备以后把食物送过去",
+        "explanation": "Theo đoạn: “准备以后和邻居一起送过去”. Đáp án phù hợp: “准备以后把食物送过去”."
+      },
+      {
+        "id": "hsk4-L04-R03-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要表达什么？",
+        "options": [
+          "多考虑别人的需要就能提供帮助",
+          "剩下的食物都不能吃",
+          "早餐店只需要提高速度",
+          "帮助别人必须花很多钱"
+        ],
+        "answer": "多考虑别人的需要就能提供帮助",
+        "explanation": "Theo đoạn: “只要多想一步，就可能让别人的生活方便一点”. Đáp án phù hợp: “多考虑别人的需要就能提供帮助”."
+      },
+      {
+        "id": "hsk4-L04-R03-Q05",
+        "kind": "Suy luận",
+        "question": "姐姐是个怎样的人？",
+        "options": [
+          "细心并愿意帮助别人",
+          "只在乎免费早餐",
+          "不愿意和邻居交流",
+          "认为老人不该外出"
+        ],
+        "answer": "细心并愿意帮助别人",
+        "explanation": "Theo đoạn: “自己腿脚不方便，走这么远很辛苦”. Đáp án phù hợp: “细心并愿意帮助别人”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L04-R04",
+    "lesson": 4,
+    "title": "Chọn cách đi lại phù hợp",
+    "text": "我们公司离地铁站有一段距离，很多同事以前开车上班。最近，大家发现路上的车越来越多，开车往往花的时间更长。小周建议，住得近的人可以走路或骑电动车，住得远的人可以先坐地铁，再换公交车。大家讨论后，决定先试一个星期。结果，不少人省了停车费，心情也轻松了。不过，小周提醒大家，不能只追求速度，还要注意安全，骑车前要查看车的情况。适合自己的方式，才是真正方便的出行方式。",
+    "pinyin": "wǒ men gōng sī lí dì tiě zhàn yǒu yī duàn jù lí ， hěn duō tóng shì yǐ qián kāi chē shàng bān 。 zuì jìn ， dà jiā fā xiàn lù shàng de chē yuè lái yuè duō ， kāi chē wǎng wǎng huā de shí jiān gèng zhǎng 。 xiǎo zhōu jiàn yì ， zhù dé jìn de rén kě yǐ zǒu lù huò qí diàn dòng chē ， zhù dé yuǎn de rén kě yǐ xiān zuò dì tiě ， zài huàn gōng jiāo chē 。 dà jiā tǎo lùn hòu ， jué dìng xiān shì yí gè xīng qī 。 jié guǒ ， bù shǎo rén shěng le tíng chē fèi ， xīn qíng yě qīng sōng le 。 bù guò ， xiǎo zhōu tí xǐng dà jiā ， bù néng zhǐ zhuī qiú sù dù ， hái yào zhù yì ān quán ， qí chē qián yào chá kàn chē de qíng kuàng 。 shì hé zì jǐ de fāng shì ， cái shì zhēn zhèng fāng biàn de chū xíng fāng shì 。",
+    "translation": "Công ty cách ga một đoạn, nhiều người trước kia lái xe nhưng ngày càng mất thời gian vì đông xe. Tiểu Châu đề xuất người gần đi bộ hoặc xe điện, người xa kết hợp tàu và buýt. Sau một tuần thử, nhiều người tiết kiệm phí đỗ và thấy nhẹ nhõm. Anh nhắc không chỉ chạy nhanh mà cần an toàn, kiểm tra xe và chọn cách phù hợp.",
+    "questions": [
+      {
+        "id": "hsk4-L04-R04-Q01",
+        "kind": "Nội dung",
+        "question": "开车上班为什么常常花更长时间？",
+        "options": [
+          "路上的车越来越多",
+          "公司搬到别的城市",
+          "地铁每天都停运",
+          "所有同事都走路"
+        ],
+        "answer": "路上的车越来越多",
+        "explanation": "Theo đoạn: “路上的车越来越多”. Đáp án phù hợp: “路上的车越来越多”."
+      },
+      {
+        "id": "hsk4-L04-R04-Q02",
+        "kind": "Nội dung",
+        "question": "住得远的人可以选择什么方式？",
+        "options": [
+          "地铁加公交车",
+          "只在家里办公",
+          "一直步行到公司",
+          "每天坐飞机"
+        ],
+        "answer": "地铁加公交车",
+        "explanation": "Theo đoạn: “先坐地铁，再换公交车”. Đáp án phù hợp: “地铁加公交车”."
+      },
+      {
+        "id": "hsk4-L04-R04-Q03",
+        "kind": "Nội dung",
+        "question": "试了一星期后，不少人省了什么？",
+        "options": [
+          "停车费",
+          "全部房租",
+          "午餐费",
+          "手机费"
+        ],
+        "answer": "停车费",
+        "explanation": "Theo đoạn: “不少人省了停车费”. Đáp án phù hợp: “停车费”."
+      },
+      {
+        "id": "hsk4-L04-R04-Q04",
+        "kind": "Ý chính",
+        "question": "这篇文章主要谈什么？",
+        "options": [
+          "选择安全合适的出行方式",
+          "怎样申请更高的工资",
+          "公交车一定比地铁慢",
+          "如何购买新车"
+        ],
+        "answer": "选择安全合适的出行方式",
+        "explanation": "Theo đoạn: “适合自己的方式，才是真正方便的出行方式”. Đáp án phù hợp: “选择安全合适的出行方式”."
+      },
+      {
+        "id": "hsk4-L04-R04-Q05",
+        "kind": "Suy luận",
+        "question": "小周为什么提醒大家检查车况？",
+        "options": [
+          "安全和方便同样需要考虑",
+          "车越贵速度就越快",
+          "大家不用再乘地铁",
+          "停车费已经免费了"
+        ],
+        "answer": "安全和方便同样需要考虑",
+        "explanation": "Theo đoạn: “不能只追求速度，还要注意安全”. Đáp án phù hợp: “安全和方便同样需要考虑”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L04-R05",
+    "lesson": 4,
+    "title": "Tiện đường mang niềm vui",
+    "text": "周五下午，我去医院看望一位朋友。他刚做完治疗，身体还没有力气，连下楼购买食物都不太方便。我本来只想顺便送些水果，到了以后发现他更需要有人陪着说话。我们聊了最近的生活，我还帮他给手机充电，联系了他的家人。临走时，他说：“谢谢你，今天的心情好多了。”我告诉他别客气，下次来的时候再带一束鲜花。回家的路上，我觉得帮助别人并不一定是做很大的事，有时候留下来多听几句话，就能让人感到温暖。",
+    "pinyin": "zhōu wǔ xià wǔ ， wǒ qù yī yuàn kàn wàng yī wèi péng yǒu 。 tā gāng zuò wán zhì liáo ， shēn tǐ hái méi yǒu lì qì ， lián xià lóu gòu mǎi shí wù dōu bù tài fāng biàn 。 wǒ běn lái zhǐ xiǎng shùn biàn sòng xiē shuǐ guǒ ， dào le yǐ hòu fā xiàn tā gèng xū yào yǒu rén péi zhe shuō huà 。 wǒ men liáo le zuì jìn de shēng huó ， wǒ hái bāng tā gěi shǒu jī chōng diàn ， lián xì le tā de jiā rén 。 lín zǒu shí ， tā shuō ：“ xiè xiè nǐ ， jīn tiān de xīn qíng hǎo duō le 。” wǒ gào sù tā bié kè qì ， xià cì lái de shí hòu zài dài yī shù xiān huā 。 huí jiā de lù shàng ， wǒ jué de bāng zhù bié rén bìng bù yí dìng shì zuò hěn dà de shì ， yǒu shí hòu liú xià lái duō tīng jǐ jù huà ， jiù néng ràng rén gǎn dào wēn nuǎn 。",
+    "translation": "Chiều thứ Sáu tôi thăm bạn vừa điều trị, còn yếu và khó xuống mua thức ăn. Ban đầu chỉ định tiện mang trái cây, tôi nhận ra bạn cần trò chuyện hơn. Tôi ngồi nghe, sạc điện thoại và liên hệ gia đình giúp. Bạn thấy vui hơn; tôi hẹn lần sau mang hoa. Tôi hiểu đôi khi chịu ngồi lại lắng nghe cũng đủ mang đến sự ấm áp.",
+    "questions": [
+      {
+        "id": "hsk4-L04-R05-Q01",
+        "kind": "Nội dung",
+        "question": "朋友为什么不方便下楼买食物？",
+        "options": [
+          "治疗后身体还没有力气",
+          "忘记带袋子",
+          "想在网上购买鲜花",
+          "医院外面没有商店"
+        ],
+        "answer": "治疗后身体还没有力气",
+        "explanation": "Theo đoạn: “刚做完治疗，身体还没有力气”. Đáp án phù hợp: “治疗后身体还没有力气”."
+      },
+      {
+        "id": "hsk4-L04-R05-Q02",
+        "kind": "Nội dung",
+        "question": "作者原来打算送什么？",
+        "options": [
+          "水果",
+          "早餐店的机器",
+          "一台电动车",
+          "停车证"
+        ],
+        "answer": "水果",
+        "explanation": "Theo đoạn: “本来只想顺便送些水果”. Đáp án phù hợp: “水果”."
+      },
+      {
+        "id": "hsk4-L04-R05-Q03",
+        "kind": "Nội dung",
+        "question": "作者还帮朋友做了什么？",
+        "options": [
+          "充电并联系家人",
+          "取消全部治疗",
+          "搬进新的房子",
+          "购买医院的食物"
+        ],
+        "answer": "充电并联系家人",
+        "explanation": "Theo đoạn: “给手机充电，联系了他的家人”. Đáp án phù hợp: “充电并联系家人”."
+      },
+      {
+        "id": "hsk4-L04-R05-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要说明什么？",
+        "options": [
+          "陪伴和倾听也是帮助",
+          "探望病人只能送鲜花",
+          "帮助别人必须花钱",
+          "身体没有力气时不应该聊天"
+        ],
+        "answer": "陪伴和倾听也是帮助",
+        "explanation": "Theo đoạn: “留下来多听几句话，就能让人感到温暖”. Đáp án phù hợp: “陪伴和倾听也是帮助”."
+      },
+      {
+        "id": "hsk4-L04-R05-Q05",
+        "kind": "Suy luận",
+        "question": "朋友最需要的是什么？",
+        "options": [
+          "有人陪伴并关心他",
+          "一份新的工作",
+          "更快的交通工具",
+          "不用联系家人"
+        ],
+        "answer": "有人陪伴并关心他",
+        "explanation": "Theo đoạn: “发现他更需要有人陪着说话”. Đáp án phù hợp: “有人陪伴并关心他”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L05-R01",
+    "lesson": 5,
+    "title": "Bữa cơm đầu tiên cùng bạn mới",
+    "text": "刚来学校时，老师安排我们和中国同学一起聚餐。主人专门准备了几道中餐，有鱼、鸡蛋和一碗热汤。我看见红色的辣椒，以为每道菜都很辣，不敢动筷子。旁边的同学告诉我，可以先尝一点儿，不必勉强自己。他还请主人把不辣的菜放在我面前。饭后，大家各说各的饮食习惯，发现不同国家的人虽然口味不同，却都重视和朋友一起吃饭的时间。这顿饭让我明白，尊重别人的习惯，比要求大家吃相同的食物更重要。",
+    "pinyin": "gāng lái xué xiào shí ， lǎo shī ān pái wǒ men hé zhōng guó tóng xué yì qǐ jù cān 。 zhǔ rén zhuān mén zhǔn bèi le jǐ dào zhōng cān ， yǒu yú 、 jī dàn hé yī wǎn rè tāng 。 wǒ kàn jiàn hóng sè de là jiāo ， yǐ wéi měi dào cài dōu hěn là ， bù gǎn dòng kuài zi 。 páng biān de tóng xué gào sù wǒ ， kě yǐ xiān cháng yì diǎn ér ， bù bì miǎn qiǎng zì jǐ 。 tā hái qǐng zhǔ rén bǎ bù là de cài fàng zài wǒ miàn qián 。 fàn hòu ， dà jiā gè shuō gè de yǐn shí xí guàn ， fā xiàn bù tóng guó jiā de rén suī rán kǒu wèi bù tóng ， què dōu zhòng shì hé péng yǒu yì qǐ chī fàn de shí jiān 。 zhè dùn fàn ràng wǒ míng bái ， zūn zhòng bié rén de xí guàn ， bǐ yāo qiú dà jiā chī xiàng tóng de shí wù gèng zhòng yào 。",
+    "translation": "Giáo viên sắp xếp chúng tôi ăn cùng bạn Trung Quốc. Chủ tiệc chuẩn bị cá, trứng và canh. Thấy ớt, tôi tưởng món nào cũng cay nên không dám ăn. Bạn bảo thử ít, không cần ép mình, rồi nhờ đặt món không cay trước mặt tôi. Sau bữa ăn mọi người kể thói quen ăn uống. Tôi hiểu tôn trọng khẩu vị quan trọng hơn bắt mọi người ăn giống nhau.",
+    "questions": [
+      {
+        "id": "hsk4-L05-R01-Q01",
+        "kind": "Nội dung",
+        "question": "谁安排了这次聚餐？",
+        "options": [
+          "老师",
+          "房东",
+          "护士",
+          "司机"
+        ],
+        "answer": "老师",
+        "explanation": "Theo đoạn: “老师安排我们和中国同学一起聚餐”. Đáp án phù hợp: “老师”."
+      },
+      {
+        "id": "hsk4-L05-R01-Q02",
+        "kind": "Nội dung",
+        "question": "作者开始为什么不敢吃？",
+        "options": [
+          "以为每道菜都很辣",
+          "觉得所有菜都凉了",
+          "没有找到座位",
+          "主人不让他吃"
+        ],
+        "answer": "以为每道菜都很辣",
+        "explanation": "Theo đoạn: “以为每道菜都很辣”. Đáp án phù hợp: “以为每道菜都很辣”."
+      },
+      {
+        "id": "hsk4-L05-R01-Q03",
+        "kind": "Nội dung",
+        "question": "同学怎样帮助作者？",
+        "options": [
+          "请主人把不辣的菜放到他面前",
+          "让他只喝冷水",
+          "要求他吃完所有辣椒",
+          "让他先付钱"
+        ],
+        "answer": "请主人把不辣的菜放到他面前",
+        "explanation": "Theo đoạn: “把不辣的菜放在我面前”. Đáp án phù hợp: “请主人把不辣的菜放到他面前”."
+      },
+      {
+        "id": "hsk4-L05-R01-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要说明什么？",
+        "options": [
+          "吃饭时应尊重不同的习惯",
+          "所有中餐都非常辣",
+          "聚餐只适合相同年龄的人",
+          "每个人都应该吃一样的菜"
+        ],
+        "answer": "吃饭时应尊重不同的习惯",
+        "explanation": "Theo đoạn: “尊重别人的习惯”. Đáp án phù hợp: “吃饭时应尊重不同的习惯”."
+      },
+      {
+        "id": "hsk4-L05-R01-Q05",
+        "kind": "Suy luận",
+        "question": "作者对这顿饭有什么收获？",
+        "options": [
+          "更理解与朋友相处的方法",
+          "决定再也不吃中餐",
+          "认为朋友不该谈饮食",
+          "学会了种辣椒"
+        ],
+        "answer": "更理解与朋友相处的方法",
+        "explanation": "Theo đoạn: “都重视和朋友一起吃饭的时间”. Đáp án phù hợp: “更理解与朋友相处的方法”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L05-R02",
+    "lesson": 5,
+    "title": "Học nấu món ăn ít dầu",
+    "text": "周末，我请妈妈教我煮午餐。妈妈说，先把材料按照使用的顺序放好，再开始做饭。我想多倒一些油，妈妈提醒我，油够用就行，太多并不健康。等水开了，我们把面条放进去，煮熟以后再加青菜。我尝了一口汤，觉得有点儿咸，于是没有再放盐。最后，我们一共做了两道菜和一碗面。虽然只是普通的午餐，我却很高兴，因为第一次知道了做饭不只是把食物放在一起，还需要耐心和安排。",
+    "pinyin": "zhōu mò ， wǒ qǐng mā mā jiào wǒ zhǔ wǔ cān 。 mā mā shuō ， xiān bǎ cái liào àn zhào shǐ yòng de shùn xù fàng hǎo ， zài kāi shǐ zuò fàn 。 wǒ xiǎng duō dào yī xiē yóu ， mā mā tí xǐng wǒ ， yóu gòu yòng jiù xíng ， tài duō bìng bù jiàn kāng 。 děng shuǐ kāi le ， wǒ men bǎ miàn tiáo fàng jìn qù ， zhǔ shú yǐ hòu zài jiā qīng cài 。 wǒ cháng le yī kǒu tāng ， jué de yǒu diǎn ér xián ， yú shì méi yǒu zài fàng yán 。 zuì hòu ， wǒ men yī gòng zuò le liǎng dào cài hé yī wǎn miàn 。 suī rán zhǐ shì pǔ tōng de wǔ cān ， wǒ què hěn gāo xìng ， yīn wèi dì yī cì zhī dào le zuò fàn bù zhǐ shì bǎ shí wù fàng zài yì qǐ ， hái xū yào nài xīn hé ān pái 。",
+    "translation": "Cuối tuần mẹ dạy tôi nấu bữa trưa. Mẹ bảo xếp nguyên liệu theo thứ tự, chỉ cho lượng dầu vừa đủ. Đợi nước sôi, chúng tôi luộc mì, chín mới cho rau. Nếm thấy canh hơi mặn, tôi không thêm muối. Hai mẹ con làm hai món và một bát mì. Bữa ăn bình thường nhưng tôi vui vì hiểu nấu ăn cần kiên nhẫn và sắp xếp.",
+    "questions": [
+      {
+        "id": "hsk4-L05-R02-Q01",
+        "kind": "Nội dung",
+        "question": "妈妈先让作者做什么？",
+        "options": [
+          "按照使用顺序放好材料",
+          "把所有油倒进去",
+          "先去安排座位",
+          "先付午餐的钱"
+        ],
+        "answer": "按照使用顺序放好材料",
+        "explanation": "Theo đoạn: “把材料按照使用的顺序放好”. Đáp án phù hợp: “按照使用顺序放好材料”."
+      },
+      {
+        "id": "hsk4-L05-R02-Q02",
+        "kind": "Nội dung",
+        "question": "什么时候放面条？",
+        "options": [
+          "水开了以后",
+          "水还没倒进去时",
+          "午餐吃完以后",
+          "青菜放了一个小时以后"
+        ],
+        "answer": "水开了以后",
+        "explanation": "Theo đoạn: “等水开了，我们把面条放进去”. Đáp án phù hợp: “水开了以后”."
+      },
+      {
+        "id": "hsk4-L05-R02-Q03",
+        "kind": "Nội dung",
+        "question": "作者为什么没有再放盐？",
+        "options": [
+          "汤已经有点儿咸",
+          "妈妈不喜欢面条",
+          "没有找到辣椒",
+          "午餐还没有煮熟"
+        ],
+        "answer": "汤已经有点儿咸",
+        "explanation": "Theo đoạn: “觉得有点儿咸”. Đáp án phù hợp: “汤已经有点儿咸”."
+      },
+      {
+        "id": "hsk4-L05-R02-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要介绍什么？",
+        "options": [
+          "第一次学习做午餐的经历",
+          "购买中餐的价格",
+          "聚餐座位的顺序",
+          "各种年龄的饮食差别"
+        ],
+        "answer": "第一次学习做午餐的经历",
+        "explanation": "Theo đoạn: “周末，我请妈妈教我煮午餐”. Đáp án phù hợp: “第一次学习做午餐的经历”."
+      },
+      {
+        "id": "hsk4-L05-R02-Q05",
+        "kind": "Suy luận",
+        "question": "作者明白了什么？",
+        "options": [
+          "做饭也需要安排和耐心",
+          "油越多食物越健康",
+          "普通午餐不值得做",
+          "做菜不需要尝味道"
+        ],
+        "answer": "做饭也需要安排和耐心",
+        "explanation": "Theo đoạn: “还需要耐心和安排”. Đáp án phù hợp: “做饭也需要安排和耐心”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L05-R03",
+    "lesson": 5,
+    "title": "Sắp xếp chỗ ngồi trong bữa tiệc",
+    "text": "公司周五晚上举行一次正式聚餐，小李负责安排座位。他原来觉得大家随意坐就可以，可是同事提醒他，要先了解客人的需要。两位年纪大的客人不喜欢坐在门口，因为那里风大，菜也容易凉。还有一位客人不能吃辣，需要提前告诉厨房。小李按照这些情况重新安排，并请主人先向大家介绍菜的特点。聚餐进行得很顺利，客人都觉得受到尊重。小李发现，好的安排不是让所有人相同，而是多考虑每个人的实际情况。",
+    "pinyin": "gōng sī zhōu wǔ wǎn shàng jǔ xíng yī cì zhèng shì jù cān ， xiǎo lǐ fù zé ān pái zuò wèi 。 tā yuán lái jué de dà jiā suí yì zuò jiù kě yǐ ， kě shì tóng shì tí xǐng tā ， yào xiān liǎo jiě kè rén de xū yào 。 liǎng wèi nián jì dà de kè rén bù xǐ huān zuò zài mén kǒu ， yīn wèi nà lǐ fēng dà ， cài yě róng yì liáng 。 hái yǒu yī wèi kè rén bù néng chī là ， xū yào tí qián gào sù chú fáng 。 xiǎo lǐ àn zhào zhè xiē qíng kuàng chóng xīn ān pái ， bìng qǐng zhǔ rén xiān xiàng dà jiā jiè shào cài de tè diǎn 。 jù cān jìn xíng dé hěn shùn lì ， kè rén dōu jué de shòu dào zūn zhòng 。 xiǎo lǐ fā xiàn ， hǎo de ān pái bú shì ràng suǒ yǒu rén xiāng tóng ， ér shì duō kǎo lǜ měi gè rén de shí jì qíng kuàng 。",
+    "translation": "Tiểu Lý xếp chỗ cho bữa tiệc công ty. Anh định để ngồi tùy ý nhưng được nhắc tìm hiểu nhu cầu khách. Hai người lớn tuổi tránh cửa vì gió và đồ ăn nguội; một người không ăn cay cần báo bếp. Anh điều chỉnh, nhờ chủ tiệc giới thiệu món. Khách thấy được tôn trọng. Anh hiểu sắp xếp tốt là quan tâm hoàn cảnh từng người.",
+    "questions": [
+      {
+        "id": "hsk4-L05-R03-Q01",
+        "kind": "Nội dung",
+        "question": "小李负责什么？",
+        "options": [
+          "安排聚餐座位",
+          "购买公司的产品",
+          "调查市场价格",
+          "给客人挂号"
+        ],
+        "answer": "安排聚餐座位",
+        "explanation": "Theo đoạn: “小李负责安排座位”. Đáp án phù hợp: “安排聚餐座位”."
+      },
+      {
+        "id": "hsk4-L05-R03-Q02",
+        "kind": "Nội dung",
+        "question": "两位年纪大的客人为什么不想坐门口？",
+        "options": [
+          "那里风大",
+          "看不到厨房",
+          "座位不够高",
+          "不喜欢主人"
+        ],
+        "answer": "那里风大",
+        "explanation": "Theo đoạn: “因为那里风大”. Đáp án phù hợp: “那里风大”."
+      },
+      {
+        "id": "hsk4-L05-R03-Q03",
+        "kind": "Nội dung",
+        "question": "有位客人的饮食需要是什么？",
+        "options": [
+          "不能吃辣",
+          "只吃冷汤",
+          "不吃午餐",
+          "必须多放油"
+        ],
+        "answer": "不能吃辣",
+        "explanation": "Theo đoạn: “还有一位客人不能吃辣”. Đáp án phù hợp: “不能吃辣”."
+      },
+      {
+        "id": "hsk4-L05-R03-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要介绍什么？",
+        "options": [
+          "根据客人需要安排聚餐",
+          "如何提高餐厅收费",
+          "为什么公司不该聚餐",
+          "如何按照工资安排座位"
+        ],
+        "answer": "根据客人需要安排聚餐",
+        "explanation": "Theo đoạn: “多考虑每个人的实际情况”. Đáp án phù hợp: “根据客人需要安排聚餐”."
+      },
+      {
+        "id": "hsk4-L05-R03-Q05",
+        "kind": "Suy luận",
+        "question": "客人为什么觉得受到尊重？",
+        "options": [
+          "个人需要被认真考虑",
+          "每个人吃的东西完全相同",
+          "所有人都坐在门口",
+          "主人要求大家吃很多辣椒"
+        ],
+        "answer": "个人需要被认真考虑",
+        "explanation": "Theo đoạn: “小李按照这些情况重新安排”. Đáp án phù hợp: “个人需要被认真考虑”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L05-R04",
+    "lesson": 5,
+    "title": "Gọi món vừa đủ để không lãng phí",
+    "text": "四个朋友周末去饭馆吃中餐。小周怕大家吃不够，一开始想点八道菜。小陈建议先点四道，再要一份汤，如果不够可以接着点。等菜上来，大家发现分量比想象中大得多。他们一边吃一边谈最近的生活，最后四个人都吃饱了，还剩下一点儿。小周请服务员把剩下的食物装好，带回家作为第二天的午餐。这次聚餐花的钱不多，大家却很开心。小周说，下次点菜之前，至少应该先问问菜的分量和朋友的口味。",
+    "pinyin": "sì gè péng yǒu zhōu mò qù fàn guǎn chī zhōng cān 。 xiǎo zhōu pà dà jiā chī bù gòu ， yī kāi shǐ xiǎng diǎn bā dào cài 。 xiǎo chén jiàn yì xiān diǎn sì dào ， zài yào yī fèn tāng ， rú guǒ bù gòu kě yǐ jiē zhe diǎn 。 děng cài shàng lái ， dà jiā fā xiàn fèn liàng bǐ xiǎng xiàng zhōng dà dé duō 。 tā men yī biān chī yī biān tán zuì jìn de shēng huó ， zuì hòu sì gè rén dōu chī bǎo le ， hái shèng xià yì diǎn ér 。 xiǎo zhōu qǐng fú wù yuán bǎ shèng xià de shí wù zhuāng hǎo ， dài huí jiā zuò wéi dì èr tiān de wǔ cān 。 zhè cì jù cān huā de qián bù duō ， dà jiā què hěn kāi xīn 。 xiǎo zhōu shuō ， xià cì diǎn cài zhī qián ， zhì shǎo yīng gāi xiān wèn wèn cài de fèn liàng hé péng yǒu de kǒu wèi 。",
+    "translation": "Bốn người đi ăn. Tiểu Châu sợ thiếu nên muốn gọi tám món; Tiểu Trần đề nghị bốn món và canh trước, thiếu gọi thêm. Khẩu phần lớn, mọi người đều no và còn thừa ít. Tiểu Châu mang phần còn lại về ăn trưa hôm sau. Bữa ăn ít tốn mà vui; anh rút kinh nghiệm nên hỏi lượng món và khẩu vị trước khi gọi.",
+    "questions": [
+      {
+        "id": "hsk4-L05-R04-Q01",
+        "kind": "Nội dung",
+        "question": "小周一开始想点几道菜？",
+        "options": [
+          "八道",
+          "四道",
+          "两道",
+          "一道"
+        ],
+        "answer": "八道",
+        "explanation": "Theo đoạn: “一开始想点八道菜”. Đáp án phù hợp: “八道”."
+      },
+      {
+        "id": "hsk4-L05-R04-Q02",
+        "kind": "Nội dung",
+        "question": "小陈的建议是什么？",
+        "options": [
+          "先点四道，不够再点",
+          "只喝汤不吃菜",
+          "先点十二道菜",
+          "每人自己去煮饭"
+        ],
+        "answer": "先点四道，不够再点",
+        "explanation": "Theo đoạn: “先点四道，再要一份汤”. Đáp án phù hợp: “先点四道，不够再点”."
+      },
+      {
+        "id": "hsk4-L05-R04-Q03",
+        "kind": "Nội dung",
+        "question": "剩下的食物怎么处理？",
+        "options": [
+          "装好带回家",
+          "直接扔掉",
+          "送回厨房再卖",
+          "留在桌上不管"
+        ],
+        "answer": "装好带回家",
+        "explanation": "Theo đoạn: “把剩下的食物装好，带回家”. Đáp án phù hợp: “装好带回家”."
+      },
+      {
+        "id": "hsk4-L05-R04-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要谈什么？",
+        "options": [
+          "根据实际需要点菜",
+          "正式聚餐的座位顺序",
+          "不同年龄的工资",
+          "怎样煮一锅辣汤"
+        ],
+        "answer": "根据实际需要点菜",
+        "explanation": "Theo đoạn: “先问问菜的分量和朋友的口味”. Đáp án phù hợp: “根据实际需要点菜”."
+      },
+      {
+        "id": "hsk4-L05-R04-Q05",
+        "kind": "Suy luận",
+        "question": "这次经历给小周什么提醒？",
+        "options": [
+          "多点菜不一定更合适",
+          "点八道菜才够四个人吃",
+          "聚餐必须花很多钱",
+          "不应该和朋友一起吃饭"
+        ],
+        "answer": "多点菜不一定更合适",
+        "explanation": "Theo đoạn: “大家发现分量比想象中大得多”. Đáp án phù hợp: “多点菜不一定更合适”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L05-R05",
+    "lesson": 5,
+    "title": "Cùng chữ nhưng khác ý",
+    "text": "中文课上，老师在黑板上写了“不怕辣”和“怕不辣”。我觉得这几个字基本相同，意思应该也一样。老师笑着请我们按照字的顺序再读一遍，然后解释，前一句表示能接受辣的食物，后一句却表示希望食物一定要辣。有位同学说，他以前听到朋友讲“怕不辣”，就专门准备了不辣的菜，结果大家都笑了。下课以后，我们一起去吃午餐，各选自己喜欢的口味。我明白了，学习语言不能只认识单个字，还要注意顺序和整个句子的意思。",
+    "pinyin": "zhōng wén kè shàng ， lǎo shī zài hēi bǎn shàng xiě le “ bù pà là ” hé “ pà bù là ”。 wǒ jué de zhè jǐ gè zì jī běn xiàng tóng ， yì si yīng gāi yě yī yàng 。 lǎo shī xiào zhe qǐng wǒ men àn zhào zì de shùn xù zài dú yī biàn ， rán hòu jiě shì ， qián yī jù biǎo shì néng jiē shòu là de shí wù ， hòu yī jù què biǎo shì xī wàng shí wù yí dìng yào là 。 yǒu wèi tóng xué shuō ， tā yǐ qián tīng dào péng yǒu jiǎng “ pà bù là ”， jiù zhuān mén zhǔn bèi le bù là de cài ， jié guǒ dà jiā dōu xiào le 。 xià kè yǐ hòu ， wǒ men yì qǐ qù chī wǔ cān ， gè xuǎn zì jǐ xǐ huān de kǒu wèi 。 wǒ míng bái le ， xué xí yǔ yán bù néng zhǐ rèn shí dān gè zì ， hái yào zhù yì shùn xù hé zhěng gè jù zi de yì si 。",
+    "translation": "Trong giờ học, giáo viên viết “不怕辣” và “怕不辣”. Tôi tưởng cùng chữ thì cùng nghĩa. Cô giải thích câu đầu không sợ cay, câu sau mong món nhất định phải cay. Một bạn từng hiểu nhầm nên chuẩn bị món không cay. Sau giờ học chúng tôi chọn khẩu vị riêng khi ăn trưa. Tôi hiểu học ngôn ngữ cần chú ý thứ tự và ý cả câu.",
+    "questions": [
+      {
+        "id": "hsk4-L05-R05-Q01",
+        "kind": "Nội dung",
+        "question": "作者开始怎样理解两个说法？",
+        "options": [
+          "以为意思一样",
+          "认为一个是汤的名字",
+          "觉得都不能吃辣",
+          "已经完全理解差别"
+        ],
+        "answer": "以为意思一样",
+        "explanation": "Theo đoạn: “意思应该也一样”. Đáp án phù hợp: “以为意思一样”."
+      },
+      {
+        "id": "hsk4-L05-R05-Q02",
+        "kind": "Nội dung",
+        "question": "“不怕辣”表示什么？",
+        "options": [
+          "能接受辣的食物",
+          "害怕所有中餐",
+          "希望菜一定不辣",
+          "不想和朋友吃饭"
+        ],
+        "answer": "能接受辣的食物",
+        "explanation": "Theo đoạn: “前一句表示能接受辣的食物”. Đáp án phù hợp: “能接受辣的食物”."
+      },
+      {
+        "id": "hsk4-L05-R05-Q03",
+        "kind": "Nội dung",
+        "question": "那位同学以前准备了什么菜？",
+        "options": [
+          "不辣的菜",
+          "很咸的汤",
+          "没有煮熟的菜",
+          "八道凉菜"
+        ],
+        "answer": "不辣的菜",
+        "explanation": "Theo đoạn: “专门准备了不辣的菜”. Đáp án phù hợp: “不辣的菜”."
+      },
+      {
+        "id": "hsk4-L05-R05-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要告诉我们什么？",
+        "options": [
+          "字的顺序会影响句子的意思",
+          "学习中文只需要认字",
+          "所有朋友的口味相同",
+          "中餐至少要放八个辣椒"
+        ],
+        "answer": "字的顺序会影响句子的意思",
+        "explanation": "Theo đoạn: “注意顺序和整个句子的意思”. Đáp án phù hợp: “字的顺序会影响句子的意思”."
+      },
+      {
+        "id": "hsk4-L05-R05-Q05",
+        "kind": "Suy luận",
+        "question": "作者以后遇到类似表达应该怎样做？",
+        "options": [
+          "结合顺序理解整句话",
+          "只看其中一个字",
+          "随便改变字的顺序",
+          "不再参加中文课"
+        ],
+        "answer": "结合顺序理解整句话",
+        "explanation": "Theo đoạn: “学习语言不能只认识单个字”. Đáp án phù hợp: “结合顺序理解整句话”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L06-R01",
+    "lesson": 6,
+    "title": "Đi khám cùng bạn",
+    "text": "昨天晚上，室友一直咳嗽，体温也比平时高。我劝他赶快去医院，他担心自己中文不好，不知道怎么挂号。我说可以陪他去，需要时帮他翻译。到了医院，护士先让他填写一张表，写清楚姓名、性别、国籍和地址。接着，我们在大厅排队，按照顺序去看医生。检查结果出来后，医生说情况不严重，按时吃药、好好休息就可以。回家路上，室友说，原来把不舒服的情况说清楚，比一个人担心更有用，也感谢我一直陪着他。",
+    "pinyin": "zuó tiān wǎn shàng ， shì yǒu yì zhí ké sòu ， tǐ wēn yě bǐ píng shí gāo 。 wǒ quàn tā gǎn kuài qù yī yuàn ， tā dān xīn zì jǐ zhōng wén bù hǎo ， bù zhī dào zěn me guà hào 。 wǒ shuō kě yǐ péi tā qù ， xū yào shí bāng tā fān yì 。 dào le yī yuàn ， hù shì xiān ràng tā tián xiě yī zhāng biǎo ， xiě qīng chǔ xìng míng 、 xìng bié 、 guó jí hé dì zhǐ 。 jiē zhe ， wǒ men zài dà tīng pái duì ， àn zhào shùn xù qù kàn yī shēng 。 jiǎn chá jié guǒ chū lái hòu ， yī shēng shuō qíng kuàng bù yán zhòng ， àn shí chī yào 、 hǎo hǎo xiū xī jiù kě yǐ 。 huí jiā lù shàng ， shì yǒu shuō ， yuán lái bǎ bù shū fú de qíng kuàng shuō qīng chǔ ， bǐ yí gè rén dān xīn gèng yǒu yòng ， yě gǎn xiè wǒ yì zhí péi zhe tā 。",
+    "translation": "Bạn cùng phòng ho và sốt, lo tiếng Trung kém nên không biết đăng ký khám. Tôi đi cùng, giúp phiên dịch. Y tá cho điền tên, giới tính, quốc tịch, địa chỉ; rồi xếp hàng khám. Bác sĩ nói không nghiêm trọng, uống thuốc đúng giờ và nghỉ ngơi. Bạn thấy trình bày rõ tình trạng hữu ích hơn lo một mình, và cảm ơn tôi đã đi cùng.",
+    "questions": [
+      {
+        "id": "hsk4-L06-R01-Q01",
+        "kind": "Nội dung",
+        "question": "室友有什么不舒服？",
+        "options": [
+          "咳嗽并且体温偏高",
+          "只有脚疼",
+          "手指受伤",
+          "完全没有症状"
+        ],
+        "answer": "咳嗽并且体温偏高",
+        "explanation": "Theo đoạn: “一直咳嗽，体温也比平时高”. Đáp án phù hợp: “咳嗽并且体温偏高”."
+      },
+      {
+        "id": "hsk4-L06-R01-Q02",
+        "kind": "Nội dung",
+        "question": "护士先让他做什么？",
+        "options": [
+          "填写个人信息表",
+          "马上回家",
+          "先去打针",
+          "购买新的手机"
+        ],
+        "answer": "填写个人信息表",
+        "explanation": "Theo đoạn: “先让他填写一张表”. Đáp án phù hợp: “填写个人信息表”."
+      },
+      {
+        "id": "hsk4-L06-R01-Q03",
+        "kind": "Nội dung",
+        "question": "医生认为情况怎么样？",
+        "options": [
+          "不严重",
+          "必须马上做手术",
+          "永远不能工作",
+          "文章没有提到检查结果"
+        ],
+        "answer": "不严重",
+        "explanation": "Theo đoạn: “情况不严重”. Đáp án phù hợp: “不严重”."
+      },
+      {
+        "id": "hsk4-L06-R01-Q04",
+        "kind": "Ý chính",
+        "question": "这篇文章主要讲什么？",
+        "options": [
+          "陪室友去医院就诊的经过",
+          "怎样申请护士工作",
+          "家庭住址改变的原因",
+          "如何在大厅买食物"
+        ],
+        "answer": "陪室友去医院就诊的经过",
+        "explanation": "Theo đoạn: “可以陪他去，需要时帮他翻译”. Đáp án phù hợp: “陪室友去医院就诊的经过”."
+      },
+      {
+        "id": "hsk4-L06-R01-Q05",
+        "kind": "Suy luận",
+        "question": "室友为什么感谢作者？",
+        "options": [
+          "作者陪伴并帮助交流",
+          "作者替医生作了诊断",
+          "作者保证所有治疗免费",
+          "作者取消了检查"
+        ],
+        "answer": "作者陪伴并帮助交流",
+        "explanation": "Theo đoạn: “也感谢我一直陪着他”. Đáp án phù hợp: “作者陪伴并帮助交流”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L06-R02",
+    "lesson": 6,
+    "title": "Điền rõ thông tin trước khi khám",
+    "text": "小张第一次去医院挂号，拿到表以后只写了姓名，就准备交给护士。护士提醒他，地址、国籍等信息也需要写清楚，便于之后联系。他不明白一个问题，就请旁边的工作人员再解释一下，而不是随便填写。交表以后，他到大厅按顺序排队，没有站到别人前面。整个过程比他原来想的顺利。回家后，小张把挂号的步骤记了下来，准备下次自己完成。他觉得，不懂就问并不丢人，慢慢把每一步做好，反而能够减少很多不必要的麻烦。",
+    "pinyin": "xiǎo zhāng dì yī cì qù yī yuàn guà hào ， ná dào biǎo yǐ hòu zhǐ xiě le xìng míng ， jiù zhǔn bèi jiāo gěi hù shì 。 hù shì tí xǐng tā ， dì zhǐ 、 guó jí děng xìn xī yě xū yào xiě qīng chǔ ， biàn yú zhī hòu lián xì 。 tā bù míng bái yí gè wèn tí ， jiù qǐng páng biān de gōng zuò rén yuán zài jiě shì yī xià ， ér bú shì suí biàn tián xiě 。 jiāo biǎo yǐ hòu ， tā dào dà tīng àn shùn xù pái duì ， méi yǒu zhàn dào bié rén qián miàn 。 zhěng gè guò chéng bǐ tā yuán lái xiǎng de shùn lì 。 huí jiā hòu ， xiǎo zhāng bǎ guà hào de bù zhòu jì le xià lái ， zhǔn bèi xià cì zì jǐ wán chéng 。 tā jué de ， bù dǒng jiù wèn bìng bù diū rén ， màn màn bǎ měi yī bù zuò hǎo ， fǎn ér néng gòu jiǎn shǎo hěn duō bù bì yào de má fán 。",
+    "translation": "Lần đầu đăng ký khám, Tiểu Trương chỉ viết tên. Y tá nhắc thêm địa chỉ, quốc tịch để tiện liên hệ. Không hiểu thì anh hỏi nhân viên, không điền tùy tiện. Anh xếp hàng đúng lượt. Quá trình thuận lợi hơn tưởng tượng. Về nhà, anh ghi các bước để lần sau tự làm và thấy hỏi khi không hiểu sẽ giảm phiền phức.",
+    "questions": [
+      {
+        "id": "hsk4-L06-R02-Q01",
+        "kind": "Nội dung",
+        "question": "小张一开始只填写了什么？",
+        "options": [
+          "姓名",
+          "地址",
+          "国籍",
+          "所有项目"
+        ],
+        "answer": "姓名",
+        "explanation": "Theo đoạn: “只写了姓名”. Đáp án phù hợp: “姓名”."
+      },
+      {
+        "id": "hsk4-L06-R02-Q02",
+        "kind": "Nội dung",
+        "question": "护士为什么要求信息写清楚？",
+        "options": [
+          "便于之后联系",
+          "为了改变挂号价格",
+          "因为医院要寄礼物",
+          "为了让他重新排队"
+        ],
+        "answer": "便于之后联系",
+        "explanation": "Theo đoạn: “便于之后联系”. Đáp án phù hợp: “便于之后联系”."
+      },
+      {
+        "id": "hsk4-L06-R02-Q03",
+        "kind": "Nội dung",
+        "question": "遇到不明白的问题，小张怎么做？",
+        "options": [
+          "请工作人员解释",
+          "随便写一个答案",
+          "马上离开医院",
+          "站到队伍最前面"
+        ],
+        "answer": "请工作人员解释",
+        "explanation": "Theo đoạn: “请旁边的工作人员再解释一下”. Đáp án phù hợp: “请工作人员解释”."
+      },
+      {
+        "id": "hsk4-L06-R02-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要谈什么？",
+        "options": [
+          "认真完成挂号过程",
+          "治疗咳嗽的具体方法",
+          "医院里如何提高工资",
+          "学习翻译的困难"
+        ],
+        "answer": "认真完成挂号过程",
+        "explanation": "Theo đoạn: “慢慢把每一步做好”. Đáp án phù hợp: “认真完成挂号过程”."
+      },
+      {
+        "id": "hsk4-L06-R02-Q05",
+        "kind": "Suy luận",
+        "question": "小张记录步骤的目的是什么？",
+        "options": [
+          "下次能够自己完成",
+          "把表卖给别人",
+          "替护士决定治疗",
+          "证明不用填写地址"
+        ],
+        "answer": "下次能够自己完成",
+        "explanation": "Theo đoạn: “准备下次自己完成”. Đáp án phù hợp: “下次能够自己完成”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L06-R03",
+    "lesson": 6,
+    "title": "Nhớ uống thuốc đúng giờ",
+    "text": "爸爸最近咳嗽得厉害，去医院检查后，医生让他按时吃药，并且早点儿休息。爸爸工作忙，有时只想着把任务完成，结果忘了吃药。妈妈在手机上设置提醒，还把吃药时间写在纸上，放在他每天都能看到的地方。过了几天，爸爸的情况好了不少，晚上也能睡得安稳了。他原来以为只要打针就会马上好，后来才明白，治疗是一个过程，不能光靠一次检查。现在，他偶尔工作到很晚，也会及时休息，不再让家人总是担心。",
+    "pinyin": "bà bà zuì jìn ké sòu dé lì hài ， qù yī yuàn jiǎn chá hòu ， yī shēng ràng tā àn shí chī yào ， bìng qiě zǎo diǎn ér xiū xī 。 bà bà gōng zuò máng ， yǒu shí zhǐ xiǎng zhe bǎ rèn wù wán chéng ， jié guǒ wàng le chī yào 。 mā mā zài shǒu jī shàng shè zhì tí xǐng ， hái bǎ chī yào shí jiān xiě zài zhǐ shàng ， fàng zài tā měi tiān dōu néng kàn dào de dì fāng 。 guò le jǐ tiān ， bà bà de qíng kuàng hǎo le bù shǎo ， wǎn shàng yě néng shuì dé ān wěn le 。 tā yuán lái yǐ wéi zhǐ yào dǎ zhēn jiù huì mǎ shàng hǎo ， hòu lái cái míng bái ， zhì liáo shì yí gè guò chéng ， bù néng guāng kào yī cì jiǎn chá 。 xiàn zài ， tā ǒu ěr gōng zuò dào hěn wǎn ， yě huì jí shí xiū xī ， bù zài ràng jiā rén zǒng shì dān xīn 。",
+    "translation": "Bố ho nặng, bác sĩ dặn uống thuốc đúng giờ và nghỉ sớm. Bận việc khiến bố quên thuốc, mẹ cài nhắc và viết giờ ở nơi dễ thấy. Vài ngày sau bố đỡ, ngủ tốt hơn. Bố từng nghĩ tiêm là khỏi ngay, rồi hiểu điều trị là quá trình. Bố cũng chú ý nghỉ ngơi để gia đình bớt lo.",
+    "questions": [
+      {
+        "id": "hsk4-L06-R03-Q01",
+        "kind": "Nội dung",
+        "question": "医生给爸爸什么建议？",
+        "options": [
+          "按时吃药并早点儿休息",
+          "只喝咖啡",
+          "继续每天熬夜",
+          "不用关注身体"
+        ],
+        "answer": "按时吃药并早点儿休息",
+        "explanation": "Theo đoạn: “按时吃药，并且早点儿休息”. Đáp án phù hợp: “按时吃药并早点儿休息”."
+      },
+      {
+        "id": "hsk4-L06-R03-Q02",
+        "kind": "Nội dung",
+        "question": "爸爸为什么有时忘了吃药？",
+        "options": [
+          "忙着完成工作任务",
+          "不认识药盒上的字",
+          "没有人陪他排队",
+          "医生没有告诉他时间"
+        ],
+        "answer": "忙着完成工作任务",
+        "explanation": "Theo đoạn: “只想着把任务完成”. Đáp án phù hợp: “忙着完成工作任务”."
+      },
+      {
+        "id": "hsk4-L06-R03-Q03",
+        "kind": "Nội dung",
+        "question": "妈妈怎样帮助爸爸？",
+        "options": [
+          "设置提醒并写下吃药时间",
+          "让他不再去医院",
+          "替他取消所有工作",
+          "让他一次吃完所有药"
+        ],
+        "answer": "设置提醒并写下吃药时间",
+        "explanation": "Theo đoạn: “在手机上设置提醒”. Đáp án phù hợp: “设置提醒并写下吃药时间”."
+      },
+      {
+        "id": "hsk4-L06-R03-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要说明什么？",
+        "options": [
+          "治疗需要按要求持续照顾自己",
+          "一次检查就能解决所有问题",
+          "工作忙时不用吃药",
+          "打针是唯一的治疗办法"
+        ],
+        "answer": "治疗需要按要求持续照顾自己",
+        "explanation": "Theo đoạn: “治疗是一个过程”. Đáp án phù hợp: “治疗需要按要求持续照顾自己”."
+      },
+      {
+        "id": "hsk4-L06-R03-Q05",
+        "kind": "Suy luận",
+        "question": "爸爸的认识有什么变化？",
+        "options": [
+          "更重视规律治疗和休息",
+          "认为休息完全没用",
+          "决定不再听医生建议",
+          "觉得家人不应该关心他"
+        ],
+        "answer": "更重视规律治疗和休息",
+        "explanation": "Theo đoạn: “现在，他偶尔工作到很晚，也会及时休息”. Đáp án phù hợp: “更重视规律治疗和休息”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L06-R04",
+    "lesson": 6,
+    "title": "Hỏi rõ chi phí và các bước",
+    "text": "在中国工作的小安有一次身体不舒服，准备去医院。他听朋友说检查可能收费很高，心里有些紧张。到了医院以后，他先问护士应该挂什么号，再向收费处了解检查的价格。工作人员耐心地把过程说明白，还告诉他结果大约什么时候能出来。小安按照步骤完成了检查，发现实际费用在自己能够接受的范围内。他把医生的建议记在手机里，好回家以后认真照做。这次经历让他觉得，与其只听别人说，不如把自己的情况和问题向工作人员说清楚。",
+    "pinyin": "zài zhōng guó gōng zuò de xiǎo ān yǒu yī cì shēn tǐ bù shū fú ， zhǔn bèi qù yī yuàn 。 tā tīng péng yǒu shuō jiǎn chá kě néng shōu fèi hěn gāo ， xīn lǐ yǒu xiē jǐn zhāng 。 dào le yī yuàn yǐ hòu ， tā xiān wèn hù shì yīng gāi guà shén me hào ， zài xiàng shōu fèi chù liǎo jiě jiǎn chá de jià gé 。 gōng zuò rén yuán nài xīn dì bǎ guò chéng shuō míng bái ， hái gào sù tā jié guǒ dà yuē shén me shí hòu néng chū lái 。 xiǎo ān àn zhào bù zhòu wán chéng le jiǎn chá ， fā xiàn shí jì fèi yòng zài zì jǐ néng gòu jiē shòu de fàn wéi nèi 。 tā bǎ yī shēng de jiàn yì jì zài shǒu jī lǐ ， hǎo huí jiā yǐ hòu rèn zhēn zhào zuò 。 zhè cì jīng lì ràng tā jué de ， yǔ qí zhǐ tīng bié rén shuō ， bù rú bǎ zì jǐ de qíng kuàng hé wèn tí xiàng gōng zuò rén yuán shuō qīng chǔ 。",
+    "translation": "Tiểu An lo chi phí khám cao theo lời bạn. Tới viện, anh hỏi y tá khoa đăng ký và quầy thu phí về giá, được giải thích quy trình và thời gian có kết quả. Chi phí thực tế nằm trong khả năng. Anh ghi lời dặn bác sĩ để làm theo, hiểu rằng nên trực tiếp hỏi rõ hoàn cảnh và vấn đề của mình.",
+    "questions": [
+      {
+        "id": "hsk4-L06-R04-Q01",
+        "kind": "Nội dung",
+        "question": "小安开始担心什么？",
+        "options": [
+          "检查费用可能很高",
+          "医院没有大厅",
+          "手机完全不能使用",
+          "护士不让他填写信息"
+        ],
+        "answer": "检查费用可能很高",
+        "explanation": "Theo đoạn: “检查可能收费很高”. Đáp án phù hợp: “检查费用可能很高”."
+      },
+      {
+        "id": "hsk4-L06-R04-Q02",
+        "kind": "Nội dung",
+        "question": "他向收费处了解了什么？",
+        "options": [
+          "检查的价格",
+          "护士的家庭地址",
+          "朋友的国籍",
+          "医院附近的房租"
+        ],
+        "answer": "检查的价格",
+        "explanation": "Theo đoạn: “了解检查的价格”. Đáp án phù hợp: “检查的价格”."
+      },
+      {
+        "id": "hsk4-L06-R04-Q03",
+        "kind": "Nội dung",
+        "question": "他把什么记在手机里？",
+        "options": [
+          "医生的建议",
+          "所有病人的姓名",
+          "别人的支付密码",
+          "朋友的工资"
+        ],
+        "answer": "医生的建议",
+        "explanation": "Theo đoạn: “把医生的建议记在手机里”. Đáp án phù hợp: “医生的建议”."
+      },
+      {
+        "id": "hsk4-L06-R04-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要介绍什么？",
+        "options": [
+          "主动询问就诊流程和费用",
+          "如何成为收费处工作人员",
+          "为什么所有检查都免费",
+          "怎样替朋友进行治疗"
+        ],
+        "answer": "主动询问就诊流程和费用",
+        "explanation": "Theo đoạn: “把自己的情况和问题向工作人员说清楚”. Đáp án phù hợp: “主动询问就诊流程和费用”."
+      },
+      {
+        "id": "hsk4-L06-R04-Q05",
+        "kind": "Suy luận",
+        "question": "小安这次就诊后可能会怎样？",
+        "options": [
+          "遇到不清楚的事情主动询问",
+          "只听别人的说法不再确认",
+          "认为价格永远不重要",
+          "不再按照医生建议休息"
+        ],
+        "answer": "遇到不清楚的事情主动询问",
+        "explanation": "Theo đoạn: “与其只听别人说，不如把自己的情况和问题向工作人员说清楚”. Đáp án phù hợp: “遇到不清楚的事情主动询问”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L06-R05",
+    "lesson": 6,
+    "title": "Thăm hỏi đúng lúc",
+    "text": "朋友小陈病了，几位同学想一起去看他。我先给他发信息，问他什么时候方便，好提前安排。小陈说自己刚吃了药，想睡一会儿，下午再来比较好。我们没有马上出发，而是等他醒了以后才去，还只留下两个人陪他说话。其他同学把准备好的水果放下就回去了。小陈说大家这样考虑他的情况，让他很感动。我觉得，关心一个人不只是多去几次，更重要的是了解对方真正需要什么。让病人好好休息，有时也是很有效的帮助。",
+    "pinyin": "péng yǒu xiǎo chén bìng le ， jǐ wèi tóng xué xiǎng yì qǐ qù kàn tā 。 wǒ xiān gěi tā fā xìn xī ， wèn tā shén me shí hòu fāng biàn ， hǎo tí qián ān pái 。 xiǎo chén shuō zì jǐ gāng chī le yào ， xiǎng shuì yī huì er ， xià wǔ zài lái bǐ jiào hǎo 。 wǒ men méi yǒu mǎ shàng chū fā ， ér shì děng tā xǐng le yǐ hòu cái qù ， hái zhǐ liú xià liǎng gè rén péi tā shuō huà 。 qí tā tóng xué bǎ zhǔn bèi hǎo de shuǐ guǒ fàng xià jiù huí qù le 。 xiǎo chén shuō dà jiā zhè yàng kǎo lǜ tā de qíng kuàng ， ràng tā hěn gǎn dòng 。 wǒ jué de ， guān xīn yí gè rén bù zhǐ shì duō qù jǐ cì ， gèng zhòng yào de shì liǎo jiě duì fāng zhēn zhèng xū yào shén me 。 ràng bìng rén hǎo hǎo xiū xī ， yǒu shí yě shì hěn yǒu xiào de bāng zhù 。",
+    "translation": "Các bạn muốn thăm Tiểu Trần bị ốm. Tôi hỏi thời gian để sắp xếp; bạn vừa uống thuốc muốn ngủ, hẹn chiều. Chúng tôi đợi bạn tỉnh mới đến, chỉ hai người ở lại trò chuyện, người khác để trái cây rồi về. Tiểu Trần cảm động. Tôi thấy quan tâm cần hiểu nhu cầu thật, đôi khi để người bệnh nghỉ ngơi cũng là giúp đỡ.",
+    "questions": [
+      {
+        "id": "hsk4-L06-R05-Q01",
+        "kind": "Nội dung",
+        "question": "作者出发前先做什么？",
+        "options": [
+          "询问朋友什么时候方便",
+          "直接叫所有人去医院",
+          "要求朋友马上起床",
+          "先给朋友安排治疗"
+        ],
+        "answer": "询问朋友什么时候方便",
+        "explanation": "Theo đoạn: “问他什么时候方便”. Đáp án phù hợp: “询问朋友什么时候方便”."
+      },
+      {
+        "id": "hsk4-L06-R05-Q02",
+        "kind": "Nội dung",
+        "question": "小陈为什么希望下午再来？",
+        "options": [
+          "刚吃药想睡一会儿",
+          "上午要去买水果",
+          "不认识这些同学",
+          "下午才能挂号"
+        ],
+        "answer": "刚吃药想睡一会儿",
+        "explanation": "Theo đoạn: “自己刚吃了药，想睡一会儿”. Đáp án phù hợp: “刚吃药想睡一会儿”."
+      },
+      {
+        "id": "hsk4-L06-R05-Q03",
+        "kind": "Nội dung",
+        "question": "最后有几个人留下陪他说话？",
+        "options": [
+          "两个人",
+          "十个人",
+          "所有同学",
+          "没有人"
+        ],
+        "answer": "两个人",
+        "explanation": "Theo đoạn: “只留下两个人陪他说话”. Đáp án phù hợp: “两个人”."
+      },
+      {
+        "id": "hsk4-L06-R05-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要说明什么？",
+        "options": [
+          "关心别人要考虑实际需要",
+          "看望病人一定要人多",
+          "病人不应该休息",
+          "送水果比交流永远更重要"
+        ],
+        "answer": "关心别人要考虑实际需要",
+        "explanation": "Theo đoạn: “了解对方真正需要什么”. Đáp án phù hợp: “关心别人要考虑实际需要”."
+      },
+      {
+        "id": "hsk4-L06-R05-Q05",
+        "kind": "Suy luận",
+        "question": "作者认为哪种做法更合适？",
+        "options": [
+          "尊重病人的休息时间",
+          "随时去打扰对方",
+          "要求对方陪所有人聊天",
+          "只按照自己的时间行动"
+        ],
+        "answer": "尊重病人的休息时间",
+        "explanation": "Theo đoạn: “让病人好好休息，有时也是很有效的帮助”. Đáp án phù hợp: “尊重病人的休息时间”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L07-R01",
+    "lesson": 7,
+    "title": "Nhiệm vụ khảo sát đầu tiên",
+    "text": "进入公司以后，小林接到的第一个任务是做市场调查。他原来以为只要问客户喜不喜欢产品就可以，真正开始采访时才发现，问题太简单，得到的内容也很少。同事建议他提前写好计划，既问产品的优点，也了解使用中的困难。小林改了问题，再把客户的看法分类整理。交材料以前，他还细心地检查了一遍。经理说，这份调查比第一次具体多了。小林明白，工作经验不是等来的，而是在实际任务中不断发现问题、改进方法积累起来的。",
+    "pinyin": "jìn rù gōng sī yǐ hòu ， xiǎo lín jiē dào de dì yí gè rèn wù shì zuò shì chǎng diào chá 。 tā yuán lái yǐ wéi zhǐ yào wèn kè hù xǐ bù xǐ huān chǎn pǐn jiù kě yǐ ， zhēn zhèng kāi shǐ cǎi fǎng shí cái fā xiàn ， wèn tí tài jiǎn dān ， dé dào de nèi róng yě hěn shǎo 。 tóng shì jiàn yì tā tí qián xiě hǎo jì huà ， jì wèn chǎn pǐn de yōu diǎn ， yě liǎo jiě shǐ yòng zhōng de kùn nán 。 xiǎo lín gǎi le wèn tí ， zài bǎ kè hù de kàn fǎ fēn lèi zhěng lǐ 。 jiāo cái liào yǐ qián ， tā hái xì xīn dì jiǎn chá le yī biàn 。 jīng lǐ shuō ， zhè fèn diào chá bǐ dì yī cì jù tǐ duō le 。 xiǎo lín míng bái ， gōng zuò jīng yàn bú shì děng lái de ， ér shì zài shí jì rèn wù zhōng bù duàn fā xiàn wèn tí 、 gǎi jìn fāng fǎ jī lěi qǐ lái de 。",
+    "translation": "Tiểu Lâm nhận nhiệm vụ khảo sát thị trường đầu tiên. Anh tưởng chỉ hỏi khách có thích sản phẩm không, nhưng thông tin quá ít. Đồng nghiệp khuyên chuẩn bị cả câu hỏi ưu điểm và khó khăn sử dụng. Anh sửa, phân loại ý kiến và kiểm tra kỹ trước khi nộp. Quản lý khen cụ thể hơn. Anh hiểu kinh nghiệm đến từ làm việc thực tế và cải tiến.",
+    "questions": [
+      {
+        "id": "hsk4-L07-R01-Q01",
+        "kind": "Nội dung",
+        "question": "小林的第一个任务是什么？",
+        "options": [
+          "做市场调查",
+          "管理两家公司",
+          "购买新的办公室",
+          "为客户安排旅行"
+        ],
+        "answer": "做市场调查",
+        "explanation": "Theo đoạn: “第一个任务是做市场调查”. Đáp án phù hợp: “做市场调查”."
+      },
+      {
+        "id": "hsk4-L07-R01-Q02",
+        "kind": "Nội dung",
+        "question": "第一次采访的问题有什么不足？",
+        "options": [
+          "太简单，得到的内容少",
+          "太多，客户回答不完",
+          "只问客户的国籍",
+          "全部写错了字"
+        ],
+        "answer": "太简单，得到的内容少",
+        "explanation": "Theo đoạn: “问题太简单，得到的内容也很少”. Đáp án phù hợp: “太简单，得到的内容少”."
+      },
+      {
+        "id": "hsk4-L07-R01-Q03",
+        "kind": "Nội dung",
+        "question": "同事建议他还要了解什么？",
+        "options": [
+          "使用产品时的困难",
+          "客户的支付密码",
+          "客户家里的房租",
+          "经理的寒假安排"
+        ],
+        "answer": "使用产品时的困难",
+        "explanation": "Theo đoạn: “也了解使用中的困难”. Đáp án phù hợp: “使用产品时的困难”."
+      },
+      {
+        "id": "hsk4-L07-R01-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要讲什么？",
+        "options": [
+          "在实际任务中学习调查方法",
+          "怎样避免所有工作任务",
+          "公司的产品没有缺点",
+          "采访客户不需要准备"
+        ],
+        "answer": "在实际任务中学习调查方法",
+        "explanation": "Theo đoạn: “在实际任务中不断发现问题、改进方法”. Đáp án phù hợp: “在实际任务中学习调查方法”."
+      },
+      {
+        "id": "hsk4-L07-R01-Q05",
+        "kind": "Suy luận",
+        "question": "经理为什么肯定第二份调查？",
+        "options": [
+          "内容比第一次具体",
+          "小林没有再检查",
+          "客户都说完全没问题",
+          "材料比第一次更短"
+        ],
+        "answer": "内容比第一次具体",
+        "explanation": "Theo đoạn: “这份调查比第一次具体多了”. Đáp án phù hợp: “内容比第一次具体”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L07-R02",
+    "lesson": 7,
+    "title": "Chuẩn bị trước chuyến công tác",
+    "text": "姐姐下周要出差，和一位新客户谈生意。她提前查看对方的产品信息，把想了解的内容写成一份材料，便于见面时及时提问。同事认为她准备得太多，姐姐却说，既然公司把任务交给自己，就应该认真做好。出发前一天，客户临时改了见面时间，她马上联系同事调整计划，没有等到最后才处理。回来以后，姐姐告诉我，谈成生意固然重要，更重要的是让客户看到自己负责的态度。每次出差遇到的事情，都能成为今后工作的经验。",
+    "pinyin": "jiě jiě xià zhōu yào chū chāi ， hé yī wèi xīn kè hù tán shēng yì 。 tā tí qián chá kàn duì fāng de chǎn pǐn xìn xī ， bǎ xiǎng liǎo jiě de nèi róng xiě chéng yī fèn cái liào ， biàn yú jiàn miàn shí jí shí tí wèn 。 tóng shì rèn wéi tā zhǔn bèi dé tài duō ， jiě jiě què shuō ， jì rán gōng sī bǎ rèn wù jiāo gěi zì jǐ ， jiù yīng gāi rèn zhēn zuò hǎo 。 chū fā qián yī tiān ， kè hù lín shí gǎi le jiàn miàn shí jiān ， tā mǎ shàng lián xì tóng shì tiáo zhěng jì huà ， méi yǒu děng dào zuì hòu cái chǔ lǐ 。 huí lái yǐ hòu ， jiě jiě gào sù wǒ ， tán chéng shēng yì gù rán zhòng yào ， gèng zhòng yào de shì ràng kè hù kàn dào zì jǐ fù zé de tài dù 。 měi cì chū chāi yù dào de shì qíng ， dōu néng chéng wéi jīn hòu gōng zuò de jīng yàn 。",
+    "translation": "Chị sắp công tác gặp khách mới. Chị tìm hiểu sản phẩm, ghi câu hỏi trước. Khi khách đổi lịch, chị liên hệ đồng nghiệp điều chỉnh ngay. Chị nói đã được giao việc thì phải làm nghiêm túc; ngoài kết quả thương vụ, thái độ có trách nhiệm cũng quan trọng, và mỗi chuyến đi giúp tích lũy kinh nghiệm.",
+    "questions": [
+      {
+        "id": "hsk4-L07-R02-Q01",
+        "kind": "Nội dung",
+        "question": "姐姐出差主要做什么？",
+        "options": [
+          "和新客户谈生意",
+          "参观所有景点",
+          "申请新的学校",
+          "给家人挂号"
+        ],
+        "answer": "和新客户谈生意",
+        "explanation": "Theo đoạn: “和一位新客户谈生意”. Đáp án phù hợp: “和新客户谈生意”."
+      },
+      {
+        "id": "hsk4-L07-R02-Q02",
+        "kind": "Nội dung",
+        "question": "她为什么把内容写成材料？",
+        "options": [
+          "便于见面时提问",
+          "为了不再见客户",
+          "准备卖给同事",
+          "让客户替她做全部工作"
+        ],
+        "answer": "便于见面时提问",
+        "explanation": "Theo đoạn: “便于见面时及时提问”. Đáp án phù hợp: “便于见面时提问”."
+      },
+      {
+        "id": "hsk4-L07-R02-Q03",
+        "kind": "Nội dung",
+        "question": "客户改时间后，姐姐怎样处理？",
+        "options": [
+          "马上联系同事调整计划",
+          "一直等到最后",
+          "不再去出差",
+          "没有告诉任何人"
+        ],
+        "answer": "马上联系同事调整计划",
+        "explanation": "Theo đoạn: “马上联系同事调整计划”. Đáp án phù hợp: “马上联系同事调整计划”."
+      },
+      {
+        "id": "hsk4-L07-R02-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要介绍什么？",
+        "options": [
+          "认真准备并及时处理工作变化",
+          "只要出差就能成功",
+          "做生意不需要了解产品",
+          "客户应该替员工安排所有任务"
+        ],
+        "answer": "认真准备并及时处理工作变化",
+        "explanation": "Theo đoạn: “就应该认真做好”. Đáp án phù hợp: “认真准备并及时处理工作变化”."
+      },
+      {
+        "id": "hsk4-L07-R02-Q05",
+        "kind": "Suy luận",
+        "question": "姐姐认为出差还能带来什么？",
+        "options": [
+          "今后可以使用的工作经验",
+          "所有问题的最终答案",
+          "不用准备材料的机会",
+          "永远不改时间的保证"
+        ],
+        "answer": "今后可以使用的工作经验",
+        "explanation": "Theo đoạn: “都能成为今后工作的经验”. Đáp án phù hợp: “今后可以使用的工作经验”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L07-R03",
+    "lesson": 7,
+    "title": "Lắng nghe góp ý để sửa sản phẩm",
+    "text": "公司准备改进一款产品，经理请大家说说自己的看法。小周只介绍优点，不好意思提缺点。经理提醒他，真正有用的意见不一定都是好听的话，发现问题才能改进。于是，小周把客户使用时遇到的困难详细说明，还提出一个新的想法。同事们一起讨论，决定先做一个小范围的测试，再根据实际效果调整。几周以后，客户说产品更方便了。小周发现，细心听取不同的意见，不仅不会影响合作，反而能使团队更快找到合适的方法。",
+    "pinyin": "gōng sī zhǔn bèi gǎi jìn yī kuǎn chǎn pǐn ， jīng lǐ qǐng dà jiā shuō shuō zì jǐ de kàn fǎ 。 xiǎo zhōu zhǐ jiè shào yōu diǎn ， bù hǎo yì sī tí quē diǎn 。 jīng lǐ tí xǐng tā ， zhēn zhèng yǒu yòng de yì jiàn bù yí dìng dōu shì hǎo tīng de huà ， fā xiàn wèn tí cái néng gǎi jìn 。 yú shì ， xiǎo zhōu bǎ kè hù shǐ yòng shí yù dào de kùn nán xiáng xì shuō míng ， hái tí chū yí gè xīn de xiǎng fǎ 。 tóng shì men yì qǐ tǎo lùn ， jué dìng xiān zuò yí gè xiǎo fàn wéi de cè shì ， zài gēn jù shí jì xiào guǒ tiáo zhěng 。 jǐ zhōu yǐ hòu ， kè hù shuō chǎn pǐn gèng fāng biàn le 。 xiǎo zhōu fā xiàn ， xì xīn tīng qǔ bù tóng de yì jiàn ， bù jǐn bú huì yǐng xiǎng hé zuò ， fǎn ér néng shǐ tuán duì gèng kuài zhǎo dào hé shì de fāng fǎ 。",
+    "translation": "Công ty muốn cải tiến sản phẩm. Tiểu Châu ngại nói nhược điểm, được quản lý nhắc rằng ý kiến hữu ích không phải lúc nào cũng dễ nghe. Anh nêu khó khăn của khách và ý tưởng mới. Nhóm thử ở phạm vi nhỏ rồi điều chỉnh theo hiệu quả. Khách thấy tiện hơn. Anh hiểu lắng nghe nhiều ý kiến giúp hợp tác và tìm cách phù hợp.",
+    "questions": [
+      {
+        "id": "hsk4-L07-R03-Q01",
+        "kind": "Nội dung",
+        "question": "小周开始为什么只说优点？",
+        "options": [
+          "不好意思提缺点",
+          "完全没有用过产品",
+          "经理不让他说话",
+          "客户从来没有意见"
+        ],
+        "answer": "不好意思提缺点",
+        "explanation": "Theo đoạn: “不好意思提缺点”. Đáp án phù hợp: “不好意思提缺点”."
+      },
+      {
+        "id": "hsk4-L07-R03-Q02",
+        "kind": "Nội dung",
+        "question": "经理认为怎样才能改进？",
+        "options": [
+          "先发现问题",
+          "只听好听的话",
+          "不让客户使用产品",
+          "停止所有讨论"
+        ],
+        "answer": "先发现问题",
+        "explanation": "Theo đoạn: “发现问题才能改进”. Đáp án phù hợp: “先发现问题”."
+      },
+      {
+        "id": "hsk4-L07-R03-Q03",
+        "kind": "Nội dung",
+        "question": "团队决定先做什么？",
+        "options": [
+          "小范围测试",
+          "马上停止生产",
+          "让客户重新购买",
+          "更换所有同事"
+        ],
+        "answer": "小范围测试",
+        "explanation": "Theo đoạn: “先做一个小范围的测试”. Đáp án phù hợp: “小范围测试”."
+      },
+      {
+        "id": "hsk4-L07-R03-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要说明什么？",
+        "options": [
+          "听取不同意见有助于改进工作",
+          "提出缺点一定会影响合作",
+          "产品的优点不需要了解",
+          "客户只能接受现有产品"
+        ],
+        "answer": "听取不同意见有助于改进工作",
+        "explanation": "Theo đoạn: “细心听取不同的意见”. Đáp án phù hợp: “听取不同意见有助于改进工作”."
+      },
+      {
+        "id": "hsk4-L07-R03-Q05",
+        "kind": "Suy luận",
+        "question": "客户的反馈说明了什么？",
+        "options": [
+          "改进取得了实际效果",
+          "所有测试都没有作用",
+          "产品比以前更难使用",
+          "公司没有采纳任何建议"
+        ],
+        "answer": "改进取得了实际效果",
+        "explanation": "Theo đoạn: “客户说产品更方便了”. Đáp án phù hợp: “改进取得了实际效果”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L07-R04",
+    "lesson": 7,
+    "title": "Thông báo kịp thời khi gặp khó khăn",
+    "text": "实习第一周，我负责整理一份客户材料。为了不打扰同事，我遇到不明白的内容也没有问，结果花了很长时间，还是整理错了。负责人没有生气，只是告诉我，及时说明困难也是工作能力的一部分。第二次接到任务时，我先确认要求，再把计划交给同事看。有问题就集中写下来，在约好的时间一起问清楚。材料提前完成了，也没有影响别人的工作。我慢慢明白，独立工作不是所有事情都自己猜，而是知道什么时候需要交流。",
+    "pinyin": "shí xí dì yī zhōu ， wǒ fù zé zhěng lǐ yī fèn kè hù cái liào 。 wèi le bù dǎ rǎo tóng shì ， wǒ yù dào bù míng bái de nèi róng yě méi yǒu wèn ， jié guǒ huā le hěn zhǎng shí jiān ， hái shì zhěng lǐ cuò le 。 fù zé rén méi yǒu shēng qì ， zhǐ shì gào sù wǒ ， jí shí shuō míng kùn nán yě shì gōng zuò néng lì de yī bù fèn 。 dì èr cì jiē dào rèn wù shí ， wǒ xiān què rèn yāo qiú ， zài bǎ jì huà jiāo gěi tóng shì kàn 。 yǒu wèn tí jiù jí zhōng xiě xià lái ， zài yuē hǎo de shí jiān yì qǐ wèn qīng chǔ 。 cái liào tí qián wán chéng le ， yě méi yǒu yǐng xiǎng bié rén de gōng zuò 。 wǒ màn màn míng bái ， dú lì gōng zuò bú shì suǒ yǒu shì qíng dōu zì jǐ cāi ， ér shì zhī dào shén me shí hòu xū yào jiāo liú 。",
+    "translation": "Tuần thực tập đầu tôi không hỏi đồng nghiệp vì sợ làm phiền, nên mất lâu vẫn làm sai tài liệu. Người phụ trách nói nêu khó khăn kịp thời cũng là năng lực. Lần sau tôi xác nhận yêu cầu, lập kế hoạch và gom câu hỏi để hỏi vào giờ hẹn. Tài liệu xong sớm, không ảnh hưởng người khác. Tôi hiểu độc lập không có nghĩa tự đoán mọi việc.",
+    "questions": [
+      {
+        "id": "hsk4-L07-R04-Q01",
+        "kind": "Nội dung",
+        "question": "作者第一次整理材料时为什么没有提问？",
+        "options": [
+          "怕打扰同事",
+          "已经完全理解任务",
+          "同事不在这座城市",
+          "负责人禁止交流"
+        ],
+        "answer": "怕打扰同事",
+        "explanation": "Theo đoạn: “为了不打扰同事”. Đáp án phù hợp: “怕打扰同事”."
+      },
+      {
+        "id": "hsk4-L07-R04-Q02",
+        "kind": "Nội dung",
+        "question": "第一次任务的结果怎么样？",
+        "options": [
+          "花很久还是整理错了",
+          "提前完成并受到表扬",
+          "根本没有开始",
+          "由客户全部完成"
+        ],
+        "answer": "花很久还是整理错了",
+        "explanation": "Theo đoạn: “还是整理错了”. Đáp án phù hợp: “花很久还是整理错了”."
+      },
+      {
+        "id": "hsk4-L07-R04-Q03",
+        "kind": "Nội dung",
+        "question": "第二次接到任务，作者先做什么？",
+        "options": [
+          "确认要求",
+          "马上猜答案",
+          "等到最后再处理",
+          "让客户修改时间"
+        ],
+        "answer": "确认要求",
+        "explanation": "Theo đoạn: “先确认要求”. Đáp án phù hợp: “确认要求”."
+      },
+      {
+        "id": "hsk4-L07-R04-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要谈什么？",
+        "options": [
+          "工作中及时沟通的重要性",
+          "实习生不能独立完成任务",
+          "整理材料只需要速度",
+          "负责人不喜欢别人提问"
+        ],
+        "answer": "工作中及时沟通的重要性",
+        "explanation": "Theo đoạn: “知道什么时候需要交流”. Đáp án phù hợp: “工作中及时沟通的重要性”."
+      },
+      {
+        "id": "hsk4-L07-R04-Q05",
+        "kind": "Suy luận",
+        "question": "作者怎样理解独立工作？",
+        "options": [
+          "也需要在合适的时候交流",
+          "永远不能向别人请教",
+          "只要自己猜就可以",
+          "所有任务都应该交给同事"
+        ],
+        "answer": "也需要在合适的时候交流",
+        "explanation": "Theo đoạn: “独立工作不是所有事情都自己猜”. Đáp án phù hợp: “也需要在合适的时候交流”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L07-R05",
+    "lesson": 7,
+    "title": "Nhìn lại một tháng làm việc",
+    "text": "进入社会后的第一个月，小安每天都很忙，却说不清自己学到了什么。老师建议他每周写一次工作记录，分清完成的任务、遇到的困难和解决的方法。小安照着做，慢慢发现自己在时间管理方面还有很多需要改进的地方。拿整理资料来说，以前他总是最后才开始，现在会提前分成几步完成。一个月以后，他不再经常加班，交出的内容也更细心。他觉得，积累经验不只是做过多少事，还要想一想为什么这样做，以及今后可以怎样做得更好。",
+    "pinyin": "jìn rù shè huì hòu de dì yí gè yuè ， xiǎo ān měi tiān dōu hěn máng ， què shuō bù qīng zì jǐ xué dào le shén me 。 lǎo shī jiàn yì tā měi zhōu xiě yī cì gōng zuò jì lù ， fēn qīng wán chéng de rèn wù 、 yù dào de kùn nán hé jiě jué de fāng fǎ 。 xiǎo ān zhào zhe zuò ， màn màn fā xiàn zì jǐ zài shí jiān guǎn lǐ fāng miàn hái yǒu hěn duō xū yào gǎi jìn de dì fāng 。 ná zhěng lǐ zī liào lái shuō ， yǐ qián tā zǒng shì zuì hòu cái kāi shǐ ， xiàn zài huì tí qián fēn chéng jǐ bù wán chéng 。 yí gè yuè yǐ hòu ， tā bù zài jīng cháng jiā bān ， jiāo chū de nèi róng yě gèng xì xīn 。 tā jué de ， jī lěi jīng yàn bù zhǐ shì zuò guò duō shǎo shì ， hái yào xiǎng yī xiǎng wèi shén me zhè yàng zuò ， yǐ jí jīn hòu kě yǐ zěn yàng zuò dé gèng hǎo 。",
+    "translation": "Tháng đầu đi làm, Tiểu An bận nhưng không rõ đã học gì. Giáo viên khuyên ghi việc, khó khăn, cách giải quyết mỗi tuần. Anh nhận ra cần cải thiện quản lý thời gian. Với việc sắp tài liệu, anh chia bước làm sớm thay vì để cuối. Một tháng sau ít tăng ca và cẩn thận hơn. Anh hiểu tích lũy cần nhìn lại lý do và cách cải tiến.",
+    "questions": [
+      {
+        "id": "hsk4-L07-R05-Q01",
+        "kind": "Nội dung",
+        "question": "老师建议小安做什么？",
+        "options": [
+          "每周写工作记录",
+          "停止整理所有资料",
+          "每天换一家公司",
+          "不要再想工作内容"
+        ],
+        "answer": "每周写工作记录",
+        "explanation": "Theo đoạn: “每周写一次工作记录”. Đáp án phù hợp: “每周写工作记录”."
+      },
+      {
+        "id": "hsk4-L07-R05-Q02",
+        "kind": "Nội dung",
+        "question": "小安发现自己在哪方面需要改进？",
+        "options": [
+          "时间管理",
+          "客户的国籍",
+          "产品的颜色",
+          "办公室的位置"
+        ],
+        "answer": "时间管理",
+        "explanation": "Theo đoạn: “在时间管理方面还有很多需要改进的地方”. Đáp án phù hợp: “时间管理”."
+      },
+      {
+        "id": "hsk4-L07-R05-Q03",
+        "kind": "Nội dung",
+        "question": "现在他怎样整理资料？",
+        "options": [
+          "提前分成几步完成",
+          "最后一天才开始",
+          "完全交给老师做",
+          "每天只整理一张纸"
+        ],
+        "answer": "提前分成几步完成",
+        "explanation": "Theo đoạn: “提前分成几步完成”. Đáp án phù hợp: “提前分成几步完成”."
+      },
+      {
+        "id": "hsk4-L07-R05-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要说明什么？",
+        "options": [
+          "通过总结工作积累经验",
+          "只要加班就能提高能力",
+          "所有记录都会浪费时间",
+          "进入社会后不用再学习"
+        ],
+        "answer": "通过总结工作积累经验",
+        "explanation": "Theo đoạn: “还要想一想为什么这样做”. Đáp án phù hợp: “通过总结工作积累经验”."
+      },
+      {
+        "id": "hsk4-L07-R05-Q05",
+        "kind": "Suy luận",
+        "question": "从小安的变化可以看出什么？",
+        "options": [
+          "反思方法能改善工作效果",
+          "工作记录只能增加压力",
+          "提前安排没有实际作用",
+          "做过的事情越少经验越多"
+        ],
+        "answer": "反思方法能改善工作效果",
+        "explanation": "Theo đoạn: “不再经常加班，交出的内容也更细心”. Đáp án phù hợp: “反思方法能改善工作效果”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L08-R01",
+    "lesson": 8,
+    "title": "Một ngày ra ngoại ô",
+    "text": "项目结束以后，小李和同事都觉得很累。有人提议周末去郊区游玩，看看大自然的景色。出发前，小李提醒大家戴帽子、带水，还查好了乘坐公交车的路线。跟市区相比，郊区安静得多，眼前的风景让大家暂时忘记了工作。午饭后，他们没有急着去更多景点，而是在树下休息聊天。回到公司时，小李发现自己的心情轻松了，处理事情也更有效率。他觉得，适当放松并不是浪费时间，而是为了之后更好地工作。",
+    "pinyin": "xiàng mù jié shù yǐ hòu ， xiǎo lǐ hé tóng shì dōu jué de hěn lèi 。 yǒu rén tí yì zhōu mò qù jiāo qū yóu wán ， kàn kàn dà zì rán de jǐng sè 。 chū fā qián ， xiǎo lǐ tí xǐng dà jiā dài mào zi 、 dài shuǐ ， hái chá hǎo le chéng zuò gōng jiāo chē de lù xiàn 。 gēn shì qū xiāng bǐ ， jiāo qū ān jìng dé duō ， yǎn qián de fēng jǐng ràng dà jiā zàn shí wàng jì le gōng zuò 。 wǔ fàn hòu ， tā men méi yǒu jí zhe qù gèng duō jǐng diǎn ， ér shì zài shù xià xiū xī liáo tiān 。 huí dào gōng sī shí ， xiǎo lǐ fā xiàn zì jǐ de xīn qíng qīng sōng le ， chǔ lǐ shì qíng yě gèng yǒu xiào lǜ 。 tā jué de ， shì dàng fàng sōng bìng bú shì làng fèi shí jiān ， ér shì wèi le zhī hòu gèng hǎo dì gōng zuò 。",
+    "translation": "Sau dự án, Tiểu Lý cùng đồng nghiệp đi ngoại ô. Anh nhắc mũ, nước và tra tuyến buýt. Nơi đó yên tĩnh hơn nội thành; họ ngắm cảnh rồi nghỉ dưới cây thay vì vội đi nhiều điểm. Trở lại công ty, anh thấy nhẹ nhõm, làm việc hiệu quả hơn. Anh hiểu thư giãn hợp lý giúp công việc sau đó.",
+    "questions": [
+      {
+        "id": "hsk4-L08-R01-Q01",
+        "kind": "Nội dung",
+        "question": "大家为什么决定去郊区？",
+        "options": [
+          "项目结束后觉得很累",
+          "要调查产品价格",
+          "准备搬进新家",
+          "需要去医院挂号"
+        ],
+        "answer": "项目结束后觉得很累",
+        "explanation": "Theo đoạn: “项目结束以后，小李和同事都觉得很累”. Đáp án phù hợp: “项目结束后觉得很累”."
+      },
+      {
+        "id": "hsk4-L08-R01-Q02",
+        "kind": "Nội dung",
+        "question": "出发前小李提醒大家带什么？",
+        "options": [
+          "帽子和水",
+          "所有工作材料",
+          "厚厚的调查表",
+          "公司的电脑"
+        ],
+        "answer": "帽子和水",
+        "explanation": "Theo đoạn: “戴帽子、带水”. Đáp án phù hợp: “帽子和水”."
+      },
+      {
+        "id": "hsk4-L08-R01-Q03",
+        "kind": "Nội dung",
+        "question": "午饭后他们做了什么？",
+        "options": [
+          "在树下休息聊天",
+          "马上回去加班",
+          "继续跑遍所有景点",
+          "整下午都在开会"
+        ],
+        "answer": "在树下休息聊天",
+        "explanation": "Theo đoạn: “在树下休息聊天”. Đáp án phù hợp: “在树下休息聊天”."
+      },
+      {
+        "id": "hsk4-L08-R01-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要说明什么？",
+        "options": [
+          "适当放松有助于之后的工作",
+          "旅游必须去很多景点",
+          "休息一定会使效率下降",
+          "所有工作都应该暂停"
+        ],
+        "answer": "适当放松有助于之后的工作",
+        "explanation": "Theo đoạn: “为了之后更好地工作”. Đáp án phù hợp: “适当放松有助于之后的工作”."
+      },
+      {
+        "id": "hsk4-L08-R01-Q05",
+        "kind": "Suy luận",
+        "question": "小李怎样看待这次休息？",
+        "options": [
+          "有价值而且使心情轻松",
+          "完全浪费了时间",
+          "比工作更让人紧张",
+          "没有带来任何改变"
+        ],
+        "answer": "有价值而且使心情轻松",
+        "explanation": "Theo đoạn: “处理事情也更有效率”. Đáp án phù hợp: “有价值而且使心情轻松”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L08-R02",
+    "lesson": 8,
+    "title": "Đổi thói quen thức khuya",
+    "text": "为了完成一个项目，小王连续几天加班，回家以后还熬夜看资料。虽然花的时间越来越多，效率却开始下降，白天还常常忘事。同事提醒他，不能一直这样，否则身体和工作都会受影响。小王决定每天晚上到时间就暂停工作，早点儿睡，早上再处理重要内容。一周以后，他发现自己不那么紧张了，同样的任务反而完成得更快。他明白，不管工作有多忙，都应该给自己留出休息的时间。真正值得坚持的，是能长期保持的好习惯。",
+    "pinyin": "wèi le wán chéng yí gè xiàng mù ， xiǎo wáng lián xù jǐ tiān jiā bān ， huí jiā yǐ hòu hái áo yè kàn zī liào 。 suī rán huā de shí jiān yuè lái yuè duō ， xiào lǜ què kāi shǐ xià jiàng ， bái tiān hái cháng cháng wàng shì 。 tóng shì tí xǐng tā ， bù néng yì zhí zhè yàng ， fǒu zé shēn tǐ hé gōng zuò dū huì shòu yǐng xiǎng 。 xiǎo wáng jué dìng měi tiān wǎn shàng dào shí jiān jiù zàn tíng gōng zuò ， zǎo diǎn ér shuì ， zǎo shàng zài chǔ lǐ zhòng yào nèi róng 。 yī zhōu yǐ hòu ， tā fā xiàn zì jǐ bù nà me jǐn zhāng le ， tóng yàng de rèn wù fǎn ér wán chéng dé gèng kuài 。 tā míng bái ， bù guǎn gōng zuò yǒu duō máng ， dōu yīng gāi gěi zì jǐ liú chū xiū xī de shí jiān 。 zhēn zhèng zhí de jiān chí de ， shì néng cháng qī bǎo chí de hǎo xí guàn 。",
+    "translation": "Tiểu Vương tăng ca và thức khuya đọc tài liệu, nhưng hiệu suất giảm, hay quên. Đồng nghiệp nhắc sức khỏe và việc đều bị ảnh hưởng. Anh đặt giờ dừng, ngủ sớm, làm việc quan trọng sáng hôm sau. Một tuần sau anh đỡ căng thẳng và làm nhanh hơn. Anh hiểu dù bận vẫn cần nghỉ và duy trì thói quen lâu dài.",
+    "questions": [
+      {
+        "id": "hsk4-L08-R02-Q01",
+        "kind": "Nội dung",
+        "question": "小王为什么连续加班？",
+        "options": [
+          "为了完成项目",
+          "为了参观景点",
+          "因为公交车没有了",
+          "因为不想回家"
+        ],
+        "answer": "为了完成项目",
+        "explanation": "Theo đoạn: “为了完成一个项目”. Đáp án phù hợp: “为了完成项目”."
+      },
+      {
+        "id": "hsk4-L08-R02-Q02",
+        "kind": "Nội dung",
+        "question": "熬夜以后，他的效率怎样了？",
+        "options": [
+          "开始下降",
+          "一直提高",
+          "没有任何变化",
+          "比所有同事都高"
+        ],
+        "answer": "开始下降",
+        "explanation": "Theo đoạn: “效率却开始下降”. Đáp án phù hợp: “开始下降”."
+      },
+      {
+        "id": "hsk4-L08-R02-Q03",
+        "kind": "Nội dung",
+        "question": "他后来把重要内容安排在什么时候处理？",
+        "options": [
+          "早上",
+          "半夜",
+          "午饭时",
+          "每次旅行中"
+        ],
+        "answer": "早上",
+        "explanation": "Theo đoạn: “早上再处理重要内容”. Đáp án phù hợp: “早上”."
+      },
+      {
+        "id": "hsk4-L08-R02-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要谈什么？",
+        "options": [
+          "调整作息以改善工作状态",
+          "工作时间越长效果越好",
+          "只要紧张就能完成任务",
+          "每天都应该到郊区游玩"
+        ],
+        "answer": "调整作息以改善工作状态",
+        "explanation": "Theo đoạn: “能长期保持的好习惯”. Đáp án phù hợp: “调整作息以改善工作状态”."
+      },
+      {
+        "id": "hsk4-L08-R02-Q05",
+        "kind": "Suy luận",
+        "question": "小王的经历给人什么启发？",
+        "options": [
+          "充分休息可能让工作更有效率",
+          "熬夜可以解决所有困难",
+          "同事的提醒没有必要",
+          "忙的时候应该完全不睡觉"
+        ],
+        "answer": "充分休息可能让工作更有效率",
+        "explanation": "Theo đoạn: “同样的任务反而完成得更快”. Đáp án phù hợp: “充分休息可能让工作更有效率”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L08-R03",
+    "lesson": 8,
+    "title": "Tham quan chậm để nhìn kỹ hơn",
+    "text": "寒假，我带妹妹参观首都的几个景点。她提前做了一份很满的计划，想一天去完所有地方。我提醒她，交通和排队都需要时间，否则到最后只会忙着赶路。我们商量后，决定上午只参观一个博物馆，下午到公园看风景。跟原来的计划相比，去的地方少了，看到的内容却更多了。妹妹在博物馆里认真听介绍，还画下了眼前喜欢的植物。晚上，她说这一天十分值得。实际上，游玩不一定要看谁去得多，放慢一点也能有很好的收获。",
+    "pinyin": "hán jià ， wǒ dài mèi mèi cān guān shǒu dū de jǐ gè jǐng diǎn 。 tā tí qián zuò le yī fèn hěn mǎn de jì huà ， xiǎng yī tiān qù wán suǒ yǒu dì fāng 。 wǒ tí xǐng tā ， jiāo tōng hé pái duì dōu xū yào shí jiān ， fǒu zé dào zuì hòu zhǐ huì máng zhe gǎn lù 。 wǒ men shāng liáng hòu ， jué dìng shàng wǔ zhǐ cān guān yí gè bó wù guǎn ， xià wǔ dào gōng yuán kàn fēng jǐng 。 gēn yuán lái de jì huà xiāng bǐ ， qù de dì fāng shǎo le ， kàn dào de nèi róng què gèng duō le 。 mèi mèi zài bó wù guǎn lǐ rèn zhēn tīng jiè shào ， hái huà xià le yǎn qián xǐ huān de zhí wù 。 wǎn shàng ， tā shuō zhè yī tiān shí fēn zhí de 。 shí jì shàng ， yóu wán bù yí dìng yào kàn shuí qù dé duō ， fàng màn yì diǎn yě néng yǒu hěn hǎo de shōu huò 。",
+    "translation": "Nghỉ đông tôi đưa em tham quan thủ đô. Em lên lịch kín, muốn đi hết trong một ngày. Tôi nhắc tính thời gian đi và xếp hàng. Hai người chọn một bảo tàng buổi sáng, công viên buổi chiều. Đi ít nơi nhưng xem kỹ hơn, em nghe thuyết minh và vẽ cây thích. Em thấy rất đáng; tôi hiểu đi chơi không phải thi số điểm đến.",
+    "questions": [
+      {
+        "id": "hsk4-L08-R03-Q01",
+        "kind": "Nội dung",
+        "question": "妹妹原来的计划有什么特点？",
+        "options": [
+          "一天安排了太多地方",
+          "完全没有目的地",
+          "只想待在家里",
+          "已经考虑了所有排队时间"
+        ],
+        "answer": "一天安排了太多地方",
+        "explanation": "Theo đoạn: “想一天去完所有地方”. Đáp án phù hợp: “一天安排了太多地方”."
+      },
+      {
+        "id": "hsk4-L08-R03-Q02",
+        "kind": "Nội dung",
+        "question": "上午最后安排了什么活动？",
+        "options": [
+          "参观一个博物馆",
+          "去所有景点",
+          "在公司加班",
+          "坐车返回家乡"
+        ],
+        "answer": "参观一个博物馆",
+        "explanation": "Theo đoạn: “上午只参观一个博物馆”. Đáp án phù hợp: “参观一个博物馆”."
+      },
+      {
+        "id": "hsk4-L08-R03-Q03",
+        "kind": "Nội dung",
+        "question": "妹妹在博物馆里还做了什么？",
+        "options": [
+          "画下喜欢的植物",
+          "填写治疗表",
+          "购买工作材料",
+          "参加产品测试"
+        ],
+        "answer": "画下喜欢的植物",
+        "explanation": "Theo đoạn: “画下了眼前喜欢的植物”. Đáp án phù hợp: “画下喜欢的植物”."
+      },
+      {
+        "id": "hsk4-L08-R03-Q04",
+        "kind": "Ý chính",
+        "question": "这篇文章主要说明什么？",
+        "options": [
+          "放慢游玩节奏也能有收获",
+          "旅行一定要去最多的地方",
+          "所有景点都不用排队",
+          "冬天不适合参观首都"
+        ],
+        "answer": "放慢游玩节奏也能有收获",
+        "explanation": "Theo đoạn: “放慢一点也能有很好的收获”. Đáp án phù hợp: “放慢游玩节奏也能有收获”."
+      },
+      {
+        "id": "hsk4-L08-R03-Q05",
+        "kind": "Suy luận",
+        "question": "妹妹为什么觉得这一天值得？",
+        "options": [
+          "有时间认真了解参观内容",
+          "完成了原来所有景点",
+          "一直忙着赶路",
+          "没有听任何介绍"
+        ],
+        "answer": "有时间认真了解参观内容",
+        "explanation": "Theo đoạn: “去的地方少了，看到的内容却更多了”. Đáp án phù hợp: “有时间认真了解参观内容”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L08-R04",
+    "lesson": 8,
+    "title": "Tạm dừng điện thoại để nghỉ ngơi",
+    "text": "小陈说自己每天都有休息时间，却总觉得没有真正放松。下班以后，他一边看手机一边回复工作信息，周末外出也不停地查看项目情况。朋友建议他试着暂停一小段时间，把手机收好，到附近的公园走走。第一次这样做，他心里很紧张，怕错过什么重要内容。后来，他发现大多数事情并不需要马上处理。看看眼前的美景，听听周围的声音，他的心情慢慢平静下来。现在，他会提前安排好联系时间，让休息和工作各有自己的位置。",
+    "pinyin": "xiǎo chén shuō zì jǐ měi tiān dōu yǒu xiū xī shí jiān ， què zǒng jué de méi yǒu zhēn zhèng fàng sōng 。 xià bān yǐ hòu ， tā yī biān kàn shǒu jī yī biān huí fù gōng zuò xìn xī ， zhōu mò wài chū yě bù tíng dì chá kàn xiàng mù qíng kuàng 。 péng yǒu jiàn yì tā shì zhe zàn tíng yī xiǎo duàn shí jiān ， bǎ shǒu jī shōu hǎo ， dào fù jìn de gōng yuán zǒu zǒu 。 dì yī cì zhè yàng zuò ， tā xīn lǐ hěn jǐn zhāng ， pà cuò guò shén me zhòng yào nèi róng 。 hòu lái ， tā fā xiàn dà duō shù shì qíng bìng bù xū yào mǎ shàng chǔ lǐ 。 kàn kàn yǎn qián de měi jǐng ， tīng tīng zhōu wéi de shēng yīn ， tā de xīn qíng màn màn píng jìng xià lái 。 xiàn zài ， tā huì tí qián ān pái hǎo lián xì shí jiān ， ràng xiū xī hé gōng zuò gè yǒu zì jǐ de wèi zhì 。",
+    "translation": "Tiểu Trần có giờ nghỉ nhưng luôn trả lời việc trên điện thoại. Bạn khuyên cất điện thoại, đi công viên một lúc. Ban đầu anh sợ lỡ thông tin; sau thấy đa số việc không cần xử lý ngay. Ngắm cảnh và lắng nghe giúp anh bình tĩnh. Anh bắt đầu hẹn giờ liên lạc để việc và nghỉ có khoảng riêng.",
+    "questions": [
+      {
+        "id": "hsk4-L08-R04-Q01",
+        "kind": "Nội dung",
+        "question": "小陈休息时常常做什么？",
+        "options": [
+          "查看并回复工作信息",
+          "学习种植物",
+          "一直在医院排队",
+          "给朋友做早餐"
+        ],
+        "answer": "查看并回复工作信息",
+        "explanation": "Theo đoạn: “一边看手机一边回复工作信息”. Đáp án phù hợp: “查看并回复工作信息”."
+      },
+      {
+        "id": "hsk4-L08-R04-Q02",
+        "kind": "Nội dung",
+        "question": "朋友建议他去哪里走走？",
+        "options": [
+          "附近的公园",
+          "公司的会议室",
+          "医院大厅",
+          "很远的机场"
+        ],
+        "answer": "附近的公园",
+        "explanation": "Theo đoạn: “到附近的公园走走”. Đáp án phù hợp: “附近的公园”."
+      },
+      {
+        "id": "hsk4-L08-R04-Q03",
+        "kind": "Nội dung",
+        "question": "第一次收好手机时，他感觉怎样？",
+        "options": [
+          "紧张",
+          "十分生气",
+          "非常困",
+          "没有任何感觉"
+        ],
+        "answer": "紧张",
+        "explanation": "Theo đoạn: “他心里很紧张”. Đáp án phù hợp: “紧张”."
+      },
+      {
+        "id": "hsk4-L08-R04-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要谈什么？",
+        "options": [
+          "给自己真正暂停工作的时间",
+          "手机不能提供任何帮助",
+          "周末必须完成所有项目",
+          "公园里的交通问题"
+        ],
+        "answer": "给自己真正暂停工作的时间",
+        "explanation": "Theo đoạn: “让休息和工作各有自己的位置”. Đáp án phù hợp: “给自己真正暂停工作的时间”."
+      },
+      {
+        "id": "hsk4-L08-R04-Q05",
+        "kind": "Suy luận",
+        "question": "小陈后来发现了什么？",
+        "options": [
+          "很多事情可以稍后处理",
+          "所有信息都不能错过",
+          "只有一直看手机才能放松",
+          "朋友不希望他工作"
+        ],
+        "answer": "很多事情可以稍后处理",
+        "explanation": "Theo đoạn: “大多数事情并不需要马上处理”. Đáp án phù hợp: “很多事情可以稍后处理”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L08-R05",
+    "lesson": 8,
+    "title": "Dành thời gian cho thiên nhiên",
+    "text": "妈妈退休以后，常常担心自己没有事情做，心里有点儿紧张。我建议她参加社区的游玩活动，和邻居一起到郊区看看。开始她觉得出门很麻烦，还担心不熟悉交通。工作人员提前说明了集合时间和乘车方式，提醒大家根据天气准备衣服。妈妈回来时十分高兴，说实际上的过程并不复杂，大自然的美丽也让她放松下来。之后，她不再每天待在家里，而是常和朋友一起外出。她说，不管年龄多大，都可以给生活安排一些新的内容。",
+    "pinyin": "mā mā tuì xiū yǐ hòu ， cháng cháng dān xīn zì jǐ méi yǒu shì qíng zuò ， xīn lǐ yǒu diǎn ér jǐn zhāng 。 wǒ jiàn yì tā cān jiā shè qū de yóu wán huó dòng ， hé lín jū yì qǐ dào jiāo qū kàn kàn 。 kāi shǐ tā jué de chū mén hěn má fán ， hái dān xīn bù shú xī jiāo tōng 。 gōng zuò rén yuán tí qián shuō míng le jí hé shí jiān hé chéng chē fāng shì ， tí xǐng dà jiā gēn jù tiān qì zhǔn bèi yī fú 。 mā mā huí lái shí shí fēn gāo xìng ， shuō shí jì shàng de guò chéng bìng bù fù zá ， dà zì rán de měi lì yě ràng tā fàng sōng xià lái 。 zhī hòu ， tā bù zài měi tiān dài zài jiā lǐ ， ér shì cháng hé péng yǒu yì qǐ wài chū 。 tā shuō ， bù guǎn nián líng duō dà ， dōu kě yǐ gěi shēng huó ān pái yī xiē xīn de nèi róng 。",
+    "translation": "Sau khi nghỉ hưu, mẹ lo không có việc làm. Tôi khuyên tham gia chuyến đi ngoại ô của khu dân cư. Mẹ ngại đi lại và không biết giao thông; nhân viên giải thích giờ tập trung, cách đi và quần áo theo thời tiết. Mẹ về rất vui, thấy không phức tạp và cảnh thiên nhiên giúp thư giãn. Từ đó mẹ ra ngoài với bạn, thấy tuổi nào cũng có thể thêm điều mới vào cuộc sống.",
+    "questions": [
+      {
+        "id": "hsk4-L08-R05-Q01",
+        "kind": "Nội dung",
+        "question": "妈妈退休后为什么有些紧张？",
+        "options": [
+          "担心没有事情做",
+          "公司要求一直加班",
+          "每天都要出差",
+          "准备参加考试"
+        ],
+        "answer": "担心没有事情做",
+        "explanation": "Theo đoạn: “担心自己没有事情做”. Đáp án phù hợp: “担心没有事情做”."
+      },
+      {
+        "id": "hsk4-L08-R05-Q02",
+        "kind": "Nội dung",
+        "question": "作者建议她参加什么？",
+        "options": [
+          "社区的游玩活动",
+          "公司的市场调查",
+          "医院的检查项目",
+          "学校的中文考试"
+        ],
+        "answer": "社区的游玩活动",
+        "explanation": "Theo đoạn: “参加社区的游玩活动”. Đáp án phù hợp: “社区的游玩活动”."
+      },
+      {
+        "id": "hsk4-L08-R05-Q03",
+        "kind": "Nội dung",
+        "question": "工作人员提前说明了什么？",
+        "options": [
+          "集合时间和乘车方式",
+          "每个邻居的工资",
+          "所有人的家庭地址",
+          "每个景点的历史考试题"
+        ],
+        "answer": "集合时间和乘车方式",
+        "explanation": "Theo đoạn: “集合时间和乘车方式”. Đáp án phù hợp: “集合时间和乘车方式”."
+      },
+      {
+        "id": "hsk4-L08-R05-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要讲什么？",
+        "options": [
+          "尝试新活动帮助适应退休生活",
+          "退休以后不能外出",
+          "交通越复杂越值得游玩",
+          "所有人都应该待在家里"
+        ],
+        "answer": "尝试新活动帮助适应退休生活",
+        "explanation": "Theo đoạn: “可以给生活安排一些新的内容”. Đáp án phù hợp: “尝试新活动帮助适应退休生活”."
+      },
+      {
+        "id": "hsk4-L08-R05-Q05",
+        "kind": "Suy luận",
+        "question": "妈妈的变化说明什么？",
+        "options": [
+          "新体验可以带来轻松和快乐",
+          "退休以后只能担心",
+          "游玩一定会使人失去信心",
+          "年龄大就无法认识新朋友"
+        ],
+        "answer": "新体验可以带来轻松和快乐",
+        "explanation": "Theo đoạn: “大自然的美丽也让她放松下来”. Đáp án phù hợp: “新体验可以带来轻松和快乐”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L09-R01",
+    "lesson": 9,
+    "title": "Tình bạn bắt đầu từ một lần lỡ xe",
+    "text": "上大学的第一天，我因为不熟悉路线，错过了去学校的公交车。当时我站在车站十分着急，一个小伙子主动过来问需不需要帮助。他耐心地告诉我另一种走法，还陪我走到地铁站。后来在教室里，我发现他竟然是自己的同学。从此，我们成了朋友。他性格阳光又幽默，我却比较安静，尽管如此，我们有很多共同爱好，经常一起读书和跑步。我一直记得第一次见面时的感受。真正吸引人的，不只是说了多少好听的话，更是愿意在需要时伸出手。",
+    "pinyin": "shàng dà xué de dì yī tiān ， wǒ yīn wèi bù shú xī lù xiàn ， cuò guò le qù xué xiào de gōng jiāo chē 。 dāng shí wǒ zhàn zài chē zhàn shí fēn zháo jí ， yí gè xiǎo huǒ zi zhǔ dòng guò lái wèn xū bù xū yào bāng zhù 。 tā nài xīn dì gào sù wǒ lìng yī zhǒng zǒu fǎ ， hái péi wǒ zǒu dào dì tiě zhàn 。 hòu lái zài jiào shì lǐ ， wǒ fā xiàn tā jìng rán shì zì jǐ de tóng xué 。 cóng cǐ ， wǒ men chéng le péng yǒu 。 tā xìng gé yáng guāng yòu yōu mò ， wǒ què bǐ jiào ān jìng ， jǐn guǎn rú cǐ ， wǒ men yǒu hěn duō gòng tóng ài hào ， jīng cháng yì qǐ dú shū hé pǎo bù 。 wǒ yì zhí jì de dì yī cì jiàn miàn shí de gǎn shòu 。 zhēn zhèng xī yǐn rén de ， bù zhǐ shì shuō le duō shǎo hǎo tīng de huà ， gèng shì yuàn yì zài xū yào shí shēn chū shǒu 。",
+    "translation": "Ngày đầu đại học tôi lỡ xe buýt, một chàng trai chỉ đường và đưa tới ga. Vào lớp mới biết anh là bạn học. Chúng tôi thành bạn: anh vui vẻ hài hước, tôi yên lặng nhưng cùng thích đọc và chạy. Tôi nhớ sự kiên nhẫn hôm gặp; điều thu hút không chỉ lời hay mà là sẵn lòng giúp đúng lúc.",
+    "questions": [
+      {
+        "id": "hsk4-L09-R01-Q01",
+        "kind": "Nội dung",
+        "question": "作者第一天遇到了什么困难？",
+        "options": [
+          "错过公交车",
+          "忘了所有书本",
+          "丢了身份证",
+          "不知道自己的姓名"
+        ],
+        "answer": "错过公交车",
+        "explanation": "Theo đoạn: “错过了去学校的公交车”. Đáp án phù hợp: “错过公交车”."
+      },
+      {
+        "id": "hsk4-L09-R01-Q02",
+        "kind": "Nội dung",
+        "question": "那个小伙子怎样帮助作者？",
+        "options": [
+          "指路并陪他到地铁站",
+          "替他参加考试",
+          "让他一直等下一天",
+          "给他购买一辆车"
+        ],
+        "answer": "指路并陪他到地铁站",
+        "explanation": "Theo đoạn: “陪我走到地铁站”. Đáp án phù hợp: “指路并陪他到地铁站”."
+      },
+      {
+        "id": "hsk4-L09-R01-Q03",
+        "kind": "Nội dung",
+        "question": "后来作者在哪里又看见了他？",
+        "options": [
+          "教室里",
+          "医院大厅",
+          "贸易公司",
+          "火车上"
+        ],
+        "answer": "教室里",
+        "explanation": "Theo đoạn: “后来在教室里”. Đáp án phù hợp: “教室里”."
+      },
+      {
+        "id": "hsk4-L09-R01-Q04",
+        "kind": "Ý chính",
+        "question": "这篇文章主要讲什么？",
+        "options": [
+          "一次帮助带来的友情",
+          "公交线路的正式调查",
+          "如何改变所有性格",
+          "大学毕业后的工作"
+        ],
+        "answer": "一次帮助带来的友情",
+        "explanation": "Theo đoạn: “从此，我们成了朋友”. Đáp án phù hợp: “一次帮助带来的友情”."
+      },
+      {
+        "id": "hsk4-L09-R01-Q05",
+        "kind": "Suy luận",
+        "question": "作者看重朋友的什么特点？",
+        "options": [
+          "愿意耐心帮助别人",
+          "只会说好听的话",
+          "与自己性格完全相同",
+          "拥有最多的巧克力"
+        ],
+        "answer": "愿意耐心帮助别人",
+        "explanation": "Theo đoạn: “愿意在需要时伸出手”. Đáp án phù hợp: “愿意耐心帮助别人”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L09-R02",
+    "lesson": 9,
+    "title": "Một món quà được chuẩn bị bằng sự quan tâm",
+    "text": "姐姐生日那天，哥哥没有安排浪漫的晚餐，只提前回家，做了她最喜欢的几道菜，还把一块巧克力放在桌上。姐姐最近工作忙，已经连续几天很晚才回家。她看到这一切，心里十分感动。哥哥说，礼物贵不贵并不是最重要的，关键是了解对方真正的感受。尽管两个人的性格不同，一个喜欢热闹，一个喜欢安静，他们一直相互理解、支持。我觉得，幸福有时就是普通日子里的一点耐心和关心，不一定要有特别精彩的安排。",
+    "pinyin": "jiě jiě shēng rì nà tiān ， gē gē méi yǒu ān pái làng màn de wǎn cān ， zhǐ tí qián huí jiā ， zuò le tā zuì xǐ huān de jǐ dào cài ， hái bǎ yī kuài qiǎo kè lì fàng zài zhuō shàng 。 jiě jiě zuì jìn gōng zuò máng ， yǐ jīng lián xù jǐ tiān hěn wǎn cái huí jiā 。 tā kàn dào zhè yī qiè ， xīn lǐ shí fēn gǎn dòng 。 gē gē shuō ， lǐ wù guì bù guì bìng bú shì zuì zhòng yào de ， guān jiàn shì liǎo jiě duì fāng zhēn zhèng de gǎn shòu 。 jǐn guǎn liǎng gè rén de xìng gé bù tóng ， yí gè xǐ huān rè nào ， yí gè xǐ huān ān jìng ， tā men yì zhí xiāng hù lǐ jiě 、 zhī chí 。 wǒ jué de ， xìng fú yǒu shí jiù shì pǔ tōng rì zi lǐ de yì diǎn nài xīn hé guān xīn ， bù yí dìng yào yǒu tè bié jīng cǎi de ān pái 。",
+    "translation": "Sinh nhật chị, anh về sớm nấu món chị thích và đặt sô-cô-la trên bàn thay vì bữa tối lãng mạn. Chị bận nhiều ngày nên rất cảm động. Anh nói quan trọng là hiểu cảm nhận hơn giá quà. Tuy khác tính, hai người thấu hiểu và ủng hộ nhau. Tôi thấy hạnh phúc có trong sự quan tâm và kiên nhẫn hằng ngày.",
+    "questions": [
+      {
+        "id": "hsk4-L09-R02-Q01",
+        "kind": "Nội dung",
+        "question": "哥哥为姐姐准备了什么？",
+        "options": [
+          "喜欢的菜和巧克力",
+          "一张出差计划",
+          "一套新的工作软件",
+          "医院的挂号单"
+        ],
+        "answer": "喜欢的菜和巧克力",
+        "explanation": "Theo đoạn: “做了她最喜欢的几道菜”. Đáp án phù hợp: “喜欢的菜和巧克力”."
+      },
+      {
+        "id": "hsk4-L09-R02-Q02",
+        "kind": "Nội dung",
+        "question": "姐姐最近为什么常常晚回家？",
+        "options": [
+          "工作很忙",
+          "每天都去看电影",
+          "一直在外地游玩",
+          "不喜欢家里的菜"
+        ],
+        "answer": "工作很忙",
+        "explanation": "Theo đoạn: “姐姐最近工作忙”. Đáp án phù hợp: “工作很忙”."
+      },
+      {
+        "id": "hsk4-L09-R02-Q03",
+        "kind": "Nội dung",
+        "question": "哥哥认为礼物最重要的是什么？",
+        "options": [
+          "了解对方真正的感受",
+          "一定要非常贵",
+          "必须让所有人知道",
+          "每次都要安排旅行"
+        ],
+        "answer": "了解对方真正的感受",
+        "explanation": "Theo đoạn: “关键是了解对方真正的感受”. Đáp án phù hợp: “了解对方真正的感受”."
+      },
+      {
+        "id": "hsk4-L09-R02-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要表达什么？",
+        "options": [
+          "平常日子中的关心也能带来幸福",
+          "性格不同就不能相处",
+          "生日必须有浪漫晚餐",
+          "巧克力比所有食物都重要"
+        ],
+        "answer": "平常日子中的关心也能带来幸福",
+        "explanation": "Theo đoạn: “普通日子里的一点耐心和关心”. Đáp án phù hợp: “平常日子中的关心也能带来幸福”."
+      },
+      {
+        "id": "hsk4-L09-R02-Q05",
+        "kind": "Suy luận",
+        "question": "姐姐为什么感动？",
+        "options": [
+          "自己的需要被理解和照顾",
+          "礼物的价格非常高",
+          "哥哥要求她早点下班",
+          "所有朋友都来参加晚餐"
+        ],
+        "answer": "自己的需要被理解和照顾",
+        "explanation": "Theo đoạn: “她看到这一切，心里十分感动”. Đáp án phù hợp: “自己的需要被理解和照顾”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L09-R03",
+    "lesson": 9,
+    "title": "Giải thích để hóa giải hiểu lầm",
+    "text": "小林和朋友约好周六一起去看电影，朋友却临时没有来，也没有及时说明。小林当时很失望，觉得对方不重视这份友情。第二天，朋友主动联系，解释家人生病，自己忙着去医院，手机也没有电了。他为没有提前告诉小林而道歉。小林听完以后，没有继续生气，而是问朋友是否需要帮助。两个人把各自的感受说清楚，又重新约了时间。这件事让小林明白，相互理解不是从来不产生误会，而是愿意耐心听对方解释，不轻易下结论。",
+    "pinyin": "xiǎo lín hé péng yǒu yuē hǎo zhōu liù yī qǐ qù kàn diàn yǐng ， péng yǒu què lín shí méi yǒu lái ， yě méi yǒu jí shí shuō míng 。 xiǎo lín dāng shí hěn shī wàng ， jué de duì fāng bù zhòng shì zhè fèn yǒu qíng 。 dì èr tiān ， péng yǒu zhǔ dòng lián xì ， jiě shì jiā rén shēng bìng ， zì jǐ máng zhe qù yī yuàn ， shǒu jī yě méi yǒu diàn le 。 tā wèi méi yǒu tí qián gào sù xiǎo lín ér dào qiàn 。 xiǎo lín tīng wán yǐ hòu ， méi yǒu jì xù shēng qì ， ér shì wèn péng yǒu shì fǒu xū yào bāng zhù 。 liǎng gè rén bǎ gè zì de gǎn shòu shuō qīng chǔ ， yòu chóng xīn yuē le shí jiān 。 zhè jiàn shì ràng xiǎo lín míng bái ， xiāng hù lǐ jiě bú shì cóng lái bù chǎn shēng wù huì ， ér shì yuàn yì nài xīn tīng duì fāng jiě shì ， bù qīng yì xià jié lùn 。",
+    "translation": "Bạn không đến buổi hẹn xem phim và không báo, khiến Tiểu Lâm thất vọng. Hôm sau bạn giải thích người nhà bị ốm, bận đi viện và điện thoại hết pin, rồi xin lỗi. Tiểu Lâm nghe xong hỏi có cần giúp không. Hai người nói rõ cảm nhận và hẹn lại. Anh hiểu thấu hiểu không phải không bao giờ hiểu lầm, mà là kiên nhẫn nghe giải thích.",
+    "questions": [
+      {
+        "id": "hsk4-L09-R03-Q01",
+        "kind": "Nội dung",
+        "question": "两个人原来约好周六做什么？",
+        "options": [
+          "看电影",
+          "去公司出差",
+          "参加市场调查",
+          "购买新手机"
+        ],
+        "answer": "看电影",
+        "explanation": "Theo đoạn: “一起去看电影”. Đáp án phù hợp: “看电影”."
+      },
+      {
+        "id": "hsk4-L09-R03-Q02",
+        "kind": "Nội dung",
+        "question": "朋友临时没来的原因是什么？",
+        "options": [
+          "家人生病要去医院",
+          "忘了小林是谁",
+          "不再喜欢看电影",
+          "想去买巧克力"
+        ],
+        "answer": "家人生病要去医院",
+        "explanation": "Theo đoạn: “家人生病，自己忙着去医院”. Đáp án phù hợp: “家人生病要去医院”."
+      },
+      {
+        "id": "hsk4-L09-R03-Q03",
+        "kind": "Nội dung",
+        "question": "听完解释后，小林怎么做？",
+        "options": [
+          "询问朋友是否需要帮助",
+          "拒绝再说任何话",
+          "立刻责备朋友家人",
+          "要求对方赔偿全部工资"
+        ],
+        "answer": "询问朋友是否需要帮助",
+        "explanation": "Theo đoạn: “问朋友是否需要帮助”. Đáp án phù hợp: “询问朋友是否需要帮助”."
+      },
+      {
+        "id": "hsk4-L09-R03-Q04",
+        "kind": "Ý chính",
+        "question": "这篇文章主要说明什么？",
+        "options": [
+          "耐心交流有助于消除误会",
+          "朋友不能改变任何计划",
+          "手机没电就可以不道歉",
+          "友情不需要共同感受"
+        ],
+        "answer": "耐心交流有助于消除误会",
+        "explanation": "Theo đoạn: “愿意耐心听对方解释”. Đáp án phù hợp: “耐心交流有助于消除误会”."
+      },
+      {
+        "id": "hsk4-L09-R03-Q05",
+        "kind": "Suy luận",
+        "question": "作者认为相互理解意味着什么？",
+        "options": [
+          "愿意听解释再判断",
+          "永远不会产生误会",
+          "要求朋友和自己完全相同",
+          "只表达自己的不满"
+        ],
+        "answer": "愿意听解释再判断",
+        "explanation": "Theo đoạn: “不轻易下结论”. Đáp án phù hợp: “愿意听解释再判断”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L09-R04",
+    "lesson": 9,
+    "title": "Ủng hộ nhau bằng hành động",
+    "text": "妹妹准备参加一次比赛，练习了很久，还是担心自己表现不好。她的好朋友小周没有只说“你一定会赢”，而是每天耐心听她练习，指出需要改进的地方。比赛当天，妹妹没有获得第一名，却比以前表现得自然多了。小周送给她一张卡片，写着“祝你今后继续进步”。妹妹说，自己虽然没有赢，却觉得十分幸运，因为身边有愿意支持自己的朋友。我觉得，美好的友情不是保证对方每次成功，而是在精彩和普通的日子里，都让对方知道自己并不孤单。",
+    "pinyin": "mèi mèi zhǔn bèi cān jiā yī cì bǐ sài ， liàn xí le hěn jiǔ ， hái shì dān xīn zì jǐ biǎo xiàn bù hǎo 。 tā de hǎo péng yǒu xiǎo zhōu méi yǒu zhǐ shuō “ nǐ yí dìng huì yíng ”， ér shì měi tiān nài xīn tīng tā liàn xí ， zhǐ chū xū yào gǎi jìn de dì fāng 。 bǐ sài dàng tiān ， mèi mèi méi yǒu huò dé dì yì míng ， què bǐ yǐ qián biǎo xiàn dé zì rán duō le 。 xiǎo zhōu sòng gěi tā yī zhāng kǎ piàn ， xiě zhe “ zhù nǐ jīn hòu jì xù jìn bù ”。 mèi mèi shuō ， zì jǐ suī rán méi yǒu yíng ， què jué de shí fēn xìng yùn ， yīn wèi shēn biān yǒu yuàn yì zhī chí zì jǐ de péng yǒu 。 wǒ jué de ， měi hǎo de yǒu qíng bú shì bǎo zhèng duì fāng měi cì chéng gōng ， ér shì zài jīng cǎi hé pǔ tōng de rì zi lǐ ， dōu ràng duì fāng zhī dào zì jǐ bìng bù gū dān 。",
+    "translation": "Em gái lo thi không tốt. Bạn Tiểu Châu không chỉ hứa em sẽ thắng mà kiên nhẫn nghe luyện và góp ý. Em không nhất nhưng tự nhiên hơn trước. Bạn tặng thiệp chúc tiếp tục tiến bộ. Em thấy may mắn được ủng hộ. Tôi nghĩ tình bạn không bảo đảm luôn thành công mà giúp nhau không cô đơn trong mọi ngày.",
+    "questions": [
+      {
+        "id": "hsk4-L09-R04-Q01",
+        "kind": "Nội dung",
+        "question": "妹妹为什么担心？",
+        "options": [
+          "怕比赛表现不好",
+          "忘了朋友的生日",
+          "不想收到卡片",
+          "没有找到比赛地址"
+        ],
+        "answer": "怕比赛表现不好",
+        "explanation": "Theo đoạn: “担心自己表现不好”. Đáp án phù hợp: “怕比赛表现不好”."
+      },
+      {
+        "id": "hsk4-L09-R04-Q02",
+        "kind": "Nội dung",
+        "question": "小周怎样支持妹妹？",
+        "options": [
+          "耐心听练习并提出建议",
+          "保证比赛一定取消",
+          "只让妹妹不要参加",
+          "替妹妹上台比赛"
+        ],
+        "answer": "耐心听练习并提出建议",
+        "explanation": "Theo đoạn: “指出需要改进的地方”. Đáp án phù hợp: “耐心听练习并提出建议”."
+      },
+      {
+        "id": "hsk4-L09-R04-Q03",
+        "kind": "Nội dung",
+        "question": "比赛结果怎么样？",
+        "options": [
+          "没有第一名但表现进步了",
+          "妹妹获得第一名",
+          "妹妹完全没有参加",
+          "朋友不再联系她"
+        ],
+        "answer": "没有第一名但表现进步了",
+        "explanation": "Theo đoạn: “却比以前表现得自然多了”. Đáp án phù hợp: “没有第一名但表现进步了”."
+      },
+      {
+        "id": "hsk4-L09-R04-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要谈什么？",
+        "options": [
+          "用实际行动支持朋友",
+          "友情必须保证每次成功",
+          "参加比赛只为了礼物",
+          "没有第一名就没有价值"
+        ],
+        "answer": "用实际行动支持朋友",
+        "explanation": "Theo đoạn: “身边有愿意支持自己的朋友”. Đáp án phù hợp: “用实际行动支持朋友”."
+      },
+      {
+        "id": "hsk4-L09-R04-Q05",
+        "kind": "Suy luận",
+        "question": "妹妹觉得幸运的原因是什么？",
+        "options": [
+          "有人一直支持自己",
+          "得到了最贵的奖品",
+          "不用再练习了",
+          "比赛没有评出结果"
+        ],
+        "answer": "有人一直支持自己",
+        "explanation": "Theo đoạn: “因为身边有愿意支持自己的朋友”. Đáp án phù hợp: “有人一直支持自己”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L09-R05",
+    "lesson": 9,
+    "title": "Vun đắp tình cảm trong ngày thường",
+    "text": "爸爸妈妈在一起很多年了，性格却一直不太相同。爸爸喜欢提前计划，妈妈更愿意随时改变安排。以前，他们常为小事争论，后来慢慢学会先说清自己的想法，再听听对方的需要。拿周末来说，爸爸安排上午买东西，下午就留给妈妈决定。尽管生活普通，两个人都愿意承担家庭责任，也从来不把对方的帮助当成理所当然。妈妈说，感情深不是不需要经营，恰恰是每天多一点理解，才让日子越来越美好。这些话给我留下了很深的印象。",
+    "pinyin": "bà bà mā mā zài yì qǐ hěn duō nián le ， xìng gé què yì zhí bù tài xiāng tóng 。 bà bà xǐ huān tí qián jì huà ， mā mā gèng yuàn yì suí shí gǎi biàn ān pái 。 yǐ qián ， tā men cháng wèi xiǎo shì zhēng lùn ， hòu lái màn màn xué huì xiān shuō qīng zì jǐ de xiǎng fǎ ， zài tīng tīng duì fāng de xū yào 。 ná zhōu mò lái shuō ， bà bà ān pái shàng wǔ mǎi dōng xī ， xià wǔ jiù liú gěi mā mā jué dìng 。 jǐn guǎn shēng huó pǔ tōng ， liǎng gè rén dōu yuàn yì chéng dān jiā tíng zé rèn ， yě cóng lái bù bǎ duì fāng de bāng zhù dàng chéng lǐ suǒ dāng rán 。 mā mā shuō ， gǎn qíng shēn bú shì bù xū yào jīng yíng ， qià qià shì měi tiān duō yì diǎn lǐ jiě ， cái ràng rì zi yuè lái yuè měi hǎo 。 zhè xiē huà gěi wǒ liú xià le hěn shēn de yìn xiàng 。",
+    "translation": "Bố thích lên kế hoạch, mẹ thích linh hoạt nên từng hay tranh luận. Sau này họ học nói rõ ý và nghe nhu cầu nhau. Cuối tuần bố sắp buổi sáng, chiều để mẹ quyết định. Cả hai chia trách nhiệm, không xem sự giúp đỡ là đương nhiên. Mẹ nói tình cảm sâu vẫn cần vun đắp bằng thấu hiểu mỗi ngày, khiến tôi nhớ mãi.",
+    "questions": [
+      {
+        "id": "hsk4-L09-R05-Q01",
+        "kind": "Nội dung",
+        "question": "爸爸喜欢怎样安排生活？",
+        "options": [
+          "提前计划",
+          "从来不做计划",
+          "只听别人的决定",
+          "每次都取消安排"
+        ],
+        "answer": "提前计划",
+        "explanation": "Theo đoạn: “爸爸喜欢提前计划”. Đáp án phù hợp: “提前计划”."
+      },
+      {
+        "id": "hsk4-L09-R05-Q02",
+        "kind": "Nội dung",
+        "question": "现在周末下午通常由谁决定安排？",
+        "options": [
+          "妈妈",
+          "作者的老师",
+          "爸爸的客户",
+          "邻居"
+        ],
+        "answer": "妈妈",
+        "explanation": "Theo đoạn: “下午就留给妈妈决定”. Đáp án phù hợp: “妈妈”."
+      },
+      {
+        "id": "hsk4-L09-R05-Q03",
+        "kind": "Nội dung",
+        "question": "两个人都愿意做什么？",
+        "options": [
+          "承担家庭责任",
+          "拒绝所有家务",
+          "不听对方说话",
+          "每天参加比赛"
+        ],
+        "answer": "承担家庭责任",
+        "explanation": "Theo đoạn: “愿意承担家庭责任”. Đáp án phù hợp: “承担家庭责任”."
+      },
+      {
+        "id": "hsk4-L09-R05-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要说明什么？",
+        "options": [
+          "长久的感情需要日常理解和经营",
+          "性格不同一定不能生活在一起",
+          "家庭责任只能交给一个人",
+          "争论越多感情就越好"
+        ],
+        "answer": "长久的感情需要日常理解和经营",
+        "explanation": "Theo đoạn: “每天多一点理解”. Đáp án phù hợp: “长久的感情需要日常理解和经营”."
+      },
+      {
+        "id": "hsk4-L09-R05-Q05",
+        "kind": "Suy luận",
+        "question": "妈妈认为感情深就不需要经营吗？",
+        "options": [
+          "仍然需要经营",
+          "完全不需要",
+          "只需要买礼物",
+          "只需要提前计划"
+        ],
+        "answer": "仍然需要经营",
+        "explanation": "Theo đoạn: “感情深不是不需要经营”. Đáp án phù hợp: “仍然需要经营”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L10-R01",
+    "lesson": 10,
+    "title": "Chuẩn bị cho mùa đông miền Bắc",
+    "text": "寒假，小林第一次去北方看朋友。出发前，他查到当地气温低于零下十摄氏度，却觉得和南方的冬天差别不会太大，只带了一件薄外套。到了车站，冷风让他冻得说不出话，心里很后悔。朋友把自己的厚衣服借给他，又带他到暖和的屋里休息。小林这才明白，不能只看地图上的距离，还要了解当地的气候。第二天外出以前，他认真查看天气信息，穿好了衣服。他说，以后旅行，说什么也得提前做好准备。",
+    "pinyin": "hán jià ， xiǎo lín dì yī cì qù běi fāng kàn péng yǒu 。 chū fā qián ， tā chá dào dāng dì qì wēn dī yú líng xià shí shè shì dù ， què jué de hé nán fāng de dōng tiān chā bié bú huì tài dà ， zhǐ dài le yī jiàn báo wài tào 。 dào le chē zhàn ， lěng fēng ràng tā dòng dé shuō bù chū huà ， xīn lǐ hěn hòu huǐ 。 péng yǒu bǎ zì jǐ de hòu yī fú jiè gěi tā ， yòu dài tā dào nuǎn huo de wū lǐ xiū xī 。 xiǎo lín zhè cái míng bái ， bù néng zhǐ kàn dì tú shàng de jù lí ， hái yào liǎo jiě dāng dì de qì hòu 。 dì èr tiān wài chū yǐ qián ， tā rèn zhēn chá kàn tiān qì xìn xī ， chuān hǎo le yī fú 。 tā shuō ， yǐ hòu lǚ xíng ， shuō shén me yě dé tí qián zuò hǎo zhǔn bèi 。",
+    "translation": "Tiểu Lâm lần đầu đến miền Bắc vào nghỉ đông. Dù biết dưới âm mười độ, anh nghĩ không khác miền Nam lắm nên chỉ mang áo mỏng. Gió lạnh khiến anh hối hận. Bạn cho mượn áo dày, đưa vào nhà ấm. Anh hiểu cần tìm hiểu khí hậu, kiểm tra thời tiết và mặc đủ trước khi đi. Anh quyết tâm chuẩn bị trước mọi chuyến sau.",
+    "questions": [
+      {
+        "id": "hsk4-L10-R01-Q01",
+        "kind": "Nội dung",
+        "question": "小林什么时候去北方？",
+        "options": [
+          "寒假",
+          "暑假",
+          "春天开学时",
+          "秋天毕业时"
+        ],
+        "answer": "寒假",
+        "explanation": "Theo đoạn: “寒假，小林第一次去北方看朋友”. Đáp án phù hợp: “寒假”."
+      },
+      {
+        "id": "hsk4-L10-R01-Q02",
+        "kind": "Nội dung",
+        "question": "出发前他带了什么衣服？",
+        "options": [
+          "一件薄外套",
+          "很多厚衣服",
+          "只有帽子",
+          "朋友借的厚外套"
+        ],
+        "answer": "一件薄外套",
+        "explanation": "Theo đoạn: “只带了一件薄外套”. Đáp án phù hợp: “一件薄外套”."
+      },
+      {
+        "id": "hsk4-L10-R01-Q03",
+        "kind": "Nội dung",
+        "question": "朋友怎样帮助他？",
+        "options": [
+          "借厚衣服并带他进屋休息",
+          "让他一直站在车站",
+          "取消所有暖气",
+          "要求他马上回南方"
+        ],
+        "answer": "借厚衣服并带他进屋休息",
+        "explanation": "Theo đoạn: “又带他到暖和的屋里休息”. Đáp án phù hợp: “借厚衣服并带他进屋休息”."
+      },
+      {
+        "id": "hsk4-L10-R01-Q04",
+        "kind": "Ý chính",
+        "question": "这篇文章主要讲什么？",
+        "options": [
+          "旅行前应了解气候并做好准备",
+          "南北方冬天气温完全相同",
+          "地图能说明所有天气情况",
+          "衣服的颜色决定是否暖和"
+        ],
+        "answer": "旅行前应了解气候并做好准备",
+        "explanation": "Theo đoạn: “以后旅行，说什么也得提前做好准备”. Đáp án phù hợp: “旅行前应了解气候并做好准备”."
+      },
+      {
+        "id": "hsk4-L10-R01-Q05",
+        "kind": "Suy luận",
+        "question": "小林为什么后悔？",
+        "options": [
+          "没有根据当地气温准备衣服",
+          "朋友没有来车站",
+          "自己提前查了天气",
+          "带了太多厚衣服"
+        ],
+        "answer": "没有根据当地气温准备衣服",
+        "explanation": "Theo đoạn: “冷风让他冻得说不出话”. Đáp án phù hợp: “没有根据当地气温准备衣服”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L10-R02",
+    "lesson": 10,
+    "title": "Khác biệt giữa trong nhà và ngoài trời",
+    "text": "南方的同学小陈到北方上学，第一天就发现一个有意思的差别。外面的气温很低，屋里却十分暖和，穿着厚外套反而觉得热。北方同学提醒他，出门要穿好，进屋以后可以适当减少衣服，不能因为屋里暖和就认为外面也一样。小陈把两地的生活写信告诉家人，还介绍了学校冬天举办的活动。尽管天气和过去不同，他正在慢慢适应。他觉得，了解一个地方不能只靠原来的印象，亲自生活以后，才会看到日常中更多具体的差别。",
+    "pinyin": "nán fāng de tóng xué xiǎo chén dào běi fāng shàng xué ， dì yī tiān jiù fā xiàn yí gè yǒu yì si de chā bié 。 wài miàn de qì wēn hěn dī ， wū lǐ què shí fēn nuǎn huo ， chuān zhe hòu wài tào fǎn ér jué de rè 。 běi fāng tóng xué tí xǐng tā ， chū mén yào chuān hǎo ， jìn wū yǐ hòu kě yǐ shì dàng jiǎn shǎo yī fú ， bù néng yīn wèi wū lǐ nuǎn huo jiù rèn wéi wài miàn yě yī yàng 。 xiǎo chén bǎ liǎng dì de shēng huó xiě xìn gào sù jiā rén ， hái jiè shào le xué xiào dōng tiān jǔ bàn de huó dòng 。 jǐn guǎn tiān qì hé guò qù bù tóng ， tā zhèng zài màn màn shì yìng 。 tā jué de ， liǎo jiě yí gè dì fāng bù néng zhǐ kào yuán lái de yìn xiàng ， qīn zì shēng huó yǐ hòu ， cái huì kàn dào rì cháng zhōng gèng duō jù tǐ de chā bié 。",
+    "translation": "Tiểu Trần từ miền Nam đến học miền Bắc, thấy ngoài trời lạnh nhưng trong nhà rất ấm. Bạn nhắc mặc đủ khi ra, vào có thể cởi bớt, không lấy nhiệt độ trong nhà suy ra ngoài trời. Anh viết thư kể khác biệt và hoạt động mùa đông. Anh dần thích nghi và hiểu cần sống thực tế để biết khác biệt, thay vì chỉ dựa ấn tượng cũ.",
+    "questions": [
+      {
+        "id": "hsk4-L10-R02-Q01",
+        "kind": "Nội dung",
+        "question": "小陈发现屋里怎么样？",
+        "options": [
+          "十分暖和",
+          "比外面更冷",
+          "没有人使用",
+          "到处都是垃圾"
+        ],
+        "answer": "十分暖和",
+        "explanation": "Theo đoạn: “屋里却十分暖和”. Đáp án phù hợp: “十分暖和”."
+      },
+      {
+        "id": "hsk4-L10-R02-Q02",
+        "kind": "Nội dung",
+        "question": "北方同学提醒他出门时做什么？",
+        "options": [
+          "穿好衣服",
+          "把所有厚衣服留在学校",
+          "只看屋里的温度",
+          "不必注意气温"
+        ],
+        "answer": "穿好衣服",
+        "explanation": "Theo đoạn: “出门要穿好”. Đáp án phù hợp: “穿好衣服”."
+      },
+      {
+        "id": "hsk4-L10-R02-Q03",
+        "kind": "Nội dung",
+        "question": "小陈把生活情况告诉了谁？",
+        "options": [
+          "家人",
+          "医院护士",
+          "房东的客户",
+          "快递员"
+        ],
+        "answer": "家人",
+        "explanation": "Theo đoạn: “写信告诉家人”. Đáp án phù hợp: “家人”."
+      },
+      {
+        "id": "hsk4-L10-R02-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要谈什么？",
+        "options": [
+          "通过实际生活了解南北差别",
+          "北方学生不需要厚衣服",
+          "所有地方的日常生活相同",
+          "只有地图上的距离重要"
+        ],
+        "answer": "通过实际生活了解南北差别",
+        "explanation": "Theo đoạn: “看到日常中更多具体的差别”. Đáp án phù hợp: “通过实际生活了解南北差别”."
+      },
+      {
+        "id": "hsk4-L10-R02-Q05",
+        "kind": "Suy luận",
+        "question": "根据文章，认识一个地方应该怎样做？",
+        "options": [
+          "结合实际体验了解",
+          "只相信以前的印象",
+          "只看室内温度",
+          "拒绝和当地人交流"
+        ],
+        "answer": "结合实际体验了解",
+        "explanation": "Theo đoạn: “亲自生活以后”. Đáp án phù hợp: “结合实际体验了解”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L10-R03",
+    "lesson": 10,
+    "title": "Dùng tiếng Phổ thông để hiểu nhau",
+    "text": "我们班有来自不同地方的同学，有些人平时喜欢使用方言。一次讨论环保活动时，两位同学因为一个词的意思不同产生了误会。老师没有马上判断谁对谁错，而是请他们都用普通话再解释一遍。说清楚以后，大家发现原来的想法其实很接近。老师说，方言各有特点，值得了解，不过共同讨论时也要考虑对方能否听懂。之后，我们开展活动前都会先确认重要内容，必要时写下来。大家的交流更顺利了，也学会了尊重不同地方的表达方式。",
+    "pinyin": "wǒ men bān yǒu lái zì bù tóng dì fāng de tóng xué ， yǒu xiē rén píng shí xǐ huān shǐ yòng fāng yán 。 yī cì tǎo lùn huán bǎo huó dòng shí ， liǎng wèi tóng xué yīn wèi yí gè cí de yì si bù tóng chǎn shēng le wù huì 。 lǎo shī méi yǒu mǎ shàng pàn duàn shuí duì shuí cuò ， ér shì qǐng tā men dōu yòng pǔ tōng huà zài jiě shì yī biàn 。 shuō qīng chǔ yǐ hòu ， dà jiā fā xiàn yuán lái de xiǎng fǎ qí shí hěn jiē jìn 。 lǎo shī shuō ， fāng yán gè yǒu tè diǎn ， zhí de liǎo jiě ， bù guò gòng tóng tǎo lùn shí yě yào kǎo lǜ duì fāng néng fǒu tīng dǒng 。 zhī hòu ， wǒ men kāi zhǎn huó dòng qián dū huì xiān què rèn zhòng yào nèi róng ， bì yào shí xiě xià lái 。 dà jiā de jiāo liú gèng shùn lì le ， yě xué huì le zūn zhòng bù tóng dì fāng de biǎo dá fāng shì 。",
+    "translation": "Lớp có bạn từ nhiều nơi, hay dùng phương ngữ. Khi bàn hoạt động môi trường, hai bạn hiểu lầm một từ. Giáo viên mời nói lại bằng tiếng Phổ thông thay vì kết luận ai sai. Hóa ra ý gần nhau. Cô nói phương ngữ đáng tìm hiểu, nhưng cần để người khác hiểu. Lớp xác nhận nội dung quan trọng, viết khi cần, nên trao đổi thuận lợi và tôn trọng khác biệt hơn.",
+    "questions": [
+      {
+        "id": "hsk4-L10-R03-Q01",
+        "kind": "Nội dung",
+        "question": "两位同学为什么产生误会？",
+        "options": [
+          "对一个词的理解不同",
+          "活动时间完全相同",
+          "没有参加讨论",
+          "不认识老师"
+        ],
+        "answer": "对一个词的理解不同",
+        "explanation": "Theo đoạn: “因为一个词的意思不同”. Đáp án phù hợp: “对一个词的理解不同”."
+      },
+      {
+        "id": "hsk4-L10-R03-Q02",
+        "kind": "Nội dung",
+        "question": "老师请他们怎样解释？",
+        "options": [
+          "用普通话再说一遍",
+          "完全不要说话",
+          "只给对方看地图",
+          "用更快的速度说方言"
+        ],
+        "answer": "用普通话再说一遍",
+        "explanation": "Theo đoạn: “都用普通话再解释一遍”. Đáp án phù hợp: “用普通话再说一遍”."
+      },
+      {
+        "id": "hsk4-L10-R03-Q03",
+        "kind": "Nội dung",
+        "question": "后来大家开展活动前会做什么？",
+        "options": [
+          "确认重要内容",
+          "拒绝所有方言",
+          "不再分配任务",
+          "只讨论天气"
+        ],
+        "answer": "确认重要内容",
+        "explanation": "Theo đoạn: “先确认重要内容”. Đáp án phù hợp: “确认重要内容”."
+      },
+      {
+        "id": "hsk4-L10-R03-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要说明什么？",
+        "options": [
+          "尊重语言差别并保证交流清楚",
+          "所有方言都没有价值",
+          "普通话会引起所有误会",
+          "讨论时不需要考虑别人"
+        ],
+        "answer": "尊重语言差别并保证交流清楚",
+        "explanation": "Theo đoạn: “考虑对方能否听懂”. Đáp án phù hợp: “尊重语言差别并保证交流清楚”."
+      },
+      {
+        "id": "hsk4-L10-R03-Q05",
+        "kind": "Suy luận",
+        "question": "老师没有马上判断对错说明什么？",
+        "options": [
+          "希望先弄清双方真正的意思",
+          "认为讨论没有必要",
+          "不愿意了解学生",
+          "希望大家停止活动"
+        ],
+        "answer": "希望先弄清双方真正的意思",
+        "explanation": "Theo đoạn: “说清楚以后，大家发现原来的想法其实很接近”. Đáp án phù hợp: “希望先弄清双方真正的意思”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L10-R04",
+    "lesson": 10,
+    "title": "Phân loại rác từ việc nhỏ",
+    "text": "学校准备开展一次环保活动，号召大家从垃圾分类做起。小周开始觉得这只是日常小事，不会产生多大效果。老师请他观察食堂一天用了多少一次性杯子，他才发现数量比想象中多得多。于是，小周和同学一起制作说明，把不同垃圾应该放在哪里写清楚。此外，他们还建议大家自己带杯子，拒绝不必要的浪费。一个月以后，食堂需要处理的杯子明显少了。小周说，保护资源不能只停留在口号里，很多小事坚持做，也能带来真实的改变。",
+    "pinyin": "xué xiào zhǔn bèi kāi zhǎn yī cì huán bǎo huó dòng ， hào zhào dà jiā cóng lā jī fēn lèi zuò qǐ 。 xiǎo zhōu kāi shǐ jué de zhè zhǐ shì rì cháng xiǎo shì ， bú huì chǎn shēng duō dà xiào guǒ 。 lǎo shī qǐng tā guān chá shí táng yī tiān yòng le duō shǎo yí cì xìng bēi zi ， tā cái fā xiàn shù liàng bǐ xiǎng xiàng zhōng duō dé duō 。 yú shì ， xiǎo zhōu hé tóng xué yì qǐ zhì zuò shuō míng ， bǎ bù tóng lā jī yīng gāi fàng zài nǎ lǐ xiě qīng chǔ 。 cǐ wài ， tā men hái jiàn yì dà jiā zì jǐ dài bēi zi ， jù jué bù bì yào de làng fèi 。 yí gè yuè yǐ hòu ， shí táng xū yào chǔ lǐ de bēi zi míng xiǎn shǎo le 。 xiǎo zhōu shuō ， bǎo hù zī yuán bù néng zhǐ tíng liú zài kǒu hào lǐ ， hěn duō xiǎo shì jiān chí zuò ， yě néng dài lái zhēn shí de gǎi biàn 。",
+    "translation": "Trường phát động phân loại rác. Tiểu Châu nghĩ việc nhỏ ít hiệu quả, nhưng quan sát số cốc dùng một lần ở nhà ăn khiến anh đổi ý. Nhóm làm hướng dẫn thùng rác, khuyên mang cốc riêng và tránh lãng phí. Một tháng sau số cốc phải xử lý giảm rõ. Anh hiểu bảo vệ tài nguyên cần hành động nhỏ kiên trì, không chỉ khẩu hiệu.",
+    "questions": [
+      {
+        "id": "hsk4-L10-R04-Q01",
+        "kind": "Nội dung",
+        "question": "学校号召大家先做什么？",
+        "options": [
+          "垃圾分类",
+          "更换所有植物",
+          "购买更多一次性杯子",
+          "只在屋里活动"
+        ],
+        "answer": "垃圾分类",
+        "explanation": "Theo đoạn: “从垃圾分类做起”. Đáp án phù hợp: “垃圾分类”."
+      },
+      {
+        "id": "hsk4-L10-R04-Q02",
+        "kind": "Nội dung",
+        "question": "什么让小周改变了看法？",
+        "options": [
+          "看到一天使用的杯子数量",
+          "听说气温下降",
+          "错过一次旅行",
+          "收到朋友的巧克力"
+        ],
+        "answer": "看到一天使用的杯子数量",
+        "explanation": "Theo đoạn: “数量比想象中多得多”. Đáp án phù hợp: “看到一天使用的杯子数量”."
+      },
+      {
+        "id": "hsk4-L10-R04-Q03",
+        "kind": "Nội dung",
+        "question": "除了分类，他们还建议什么？",
+        "options": [
+          "自己带杯子",
+          "把杯子全部扔进一个桶",
+          "每天使用更多新杯子",
+          "把垃圾带到教室存放"
+        ],
+        "answer": "自己带杯子",
+        "explanation": "Theo đoạn: “建议大家自己带杯子”. Đáp án phù hợp: “自己带杯子”."
+      },
+      {
+        "id": "hsk4-L10-R04-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要说明什么？",
+        "options": [
+          "坚持日常行动可以保护资源",
+          "环保只需要写口号",
+          "一次性杯子不需要处理",
+          "垃圾分类没有实际效果"
+        ],
+        "answer": "坚持日常行动可以保护资源",
+        "explanation": "Theo đoạn: “很多小事坚持做，也能带来真实的改变”. Đáp án phù hợp: “坚持日常行动可以保护资源”."
+      },
+      {
+        "id": "hsk4-L10-R04-Q05",
+        "kind": "Suy luận",
+        "question": "一个月后的结果说明什么？",
+        "options": [
+          "他们的行动产生了效果",
+          "大家浪费得更多了",
+          "说明材料完全没用",
+          "食堂已经停止营业"
+        ],
+        "answer": "他们的行动产生了效果",
+        "explanation": "Theo đoạn: “食堂需要处理的杯子明显少了”. Đáp án phù hợp: “他们的行动产生了效果”."
+      }
+    ],
+    "sourceType": "supplementary"
+  },
+  {
+    "id": "hsk4-L10-R05",
+    "lesson": 10,
+    "title": "Đi lại xanh khi thời tiết lạnh",
+    "text": "冬天到了，公司准备举办一次绿色出行活动，建议员工少开车，多乘坐公共交通。有人认为天气太冷，走到车站受不了，不愿参加。负责人没有要求所有人使用相同的方法，而是先了解大家住在哪里，再提供不同的路线。离公司近的人可以步行，距离较远的人可以坐地铁，遇到特别低的气温也能灵活调整。小李参加一周后，发现不仅节约了停车费，还少了找车位的麻烦。他觉得，环保并不是拒绝一切方便，而是在日常生活中找到适合自己的节约方式。",
+    "pinyin": "dōng tiān dào le ， gōng sī zhǔn bèi jǔ bàn yī cì lǜ sè chū xíng huó dòng ， jiàn yì yuán gōng shǎo kāi chē ， duō chéng zuò gōng gòng jiāo tōng 。 yǒu rén rèn wéi tiān qì tài lěng ， zǒu dào chē zhàn shòu bù liǎo ， bù yuàn cān jiā 。 fù zé rén méi yǒu yāo qiú suǒ yǒu rén shǐ yòng xiāng tóng de fāng fǎ ， ér shì xiān liǎo jiě dà jiā zhù zài nǎ lǐ ， zài tí gōng bù tóng de lù xiàn 。 lí gōng sī jìn de rén kě yǐ bù xíng ， jù lí jiào yuǎn de rén kě yǐ zuò dì tiě ， yù dào tè bié dī de qì wēn yě néng líng huó tiáo zhěng 。 xiǎo lǐ cān jiā yī zhōu hòu ， fā xiàn bù jǐn jié yuē le tíng chē fèi ， hái shǎo le zhǎo chē wèi de má fán 。 tā jué de ， huán bǎo bìng bú shì jù jué yī qiè fāng biàn ， ér shì zài rì cháng shēng huó zhōng zhǎo dào shì hé zì jǐ de jié yuē fāng shì 。",
+    "translation": "Công ty tổ chức đi lại xanh mùa đông. Có người ngại lạnh. Người phụ trách tìm hiểu nơi ở và gợi ý tuyến phù hợp, cho linh hoạt khi quá lạnh. Người gần đi bộ, người xa đi tàu. Sau một tuần, Tiểu Lý tiết kiệm phí đỗ và công tìm chỗ. Anh hiểu môi trường không có nghĩa từ bỏ tiện lợi, mà chọn cách tiết kiệm phù hợp hằng ngày.",
+    "questions": [
+      {
+        "id": "hsk4-L10-R05-Q01",
+        "kind": "Nội dung",
+        "question": "活动建议员工怎样出行？",
+        "options": [
+          "少开车，多乘公共交通",
+          "每人买一辆新车",
+          "只在家里工作",
+          "每天坐飞机"
+        ],
+        "answer": "少开车，多乘公共交通",
+        "explanation": "Theo đoạn: “少开车，多乘坐公共交通”. Đáp án phù hợp: “少开车，多乘公共交通”."
+      },
+      {
+        "id": "hsk4-L10-R05-Q02",
+        "kind": "Nội dung",
+        "question": "有人开始为什么不愿参加？",
+        "options": [
+          "担心天气太冷",
+          "不知道公司地址",
+          "没有工作任务",
+          "不喜欢任何活动"
+        ],
+        "answer": "担心天气太冷",
+        "explanation": "Theo đoạn: “认为天气太冷”. Đáp án phù hợp: “担心天气太冷”."
+      },
+      {
+        "id": "hsk4-L10-R05-Q03",
+        "kind": "Nội dung",
+        "question": "负责人怎样安排路线？",
+        "options": [
+          "根据不同住址提供方案",
+          "要求所有人走相同路线",
+          "只让住得远的人步行",
+          "不允许任何调整"
+        ],
+        "answer": "根据不同住址提供方案",
+        "explanation": "Theo đoạn: “先了解大家住在哪里”. Đáp án phù hợp: “根据不同住址提供方案”."
+      },
+      {
+        "id": "hsk4-L10-R05-Q04",
+        "kind": "Ý chính",
+        "question": "文章主要谈什么？",
+        "options": [
+          "结合实际情况实践绿色出行",
+          "冬天完全不能乘地铁",
+          "环保必须放弃所有方便",
+          "参加活动只能开车"
+        ],
+        "answer": "结合实际情况实践绿色出行",
+        "explanation": "Theo đoạn: “找到适合自己的节约方式”. Đáp án phù hợp: “结合实际情况实践绿色出行”."
+      },
+      {
+        "id": "hsk4-L10-R05-Q05",
+        "kind": "Suy luận",
+        "question": "小李参加后的感受是什么？",
+        "options": [
+          "既省钱又减少停车麻烦",
+          "比以前浪费更多资源",
+          "必须每天走很多公里",
+          "所有路线都不适合自己"
+        ],
+        "answer": "既省钱又减少停车麻烦",
+        "explanation": "Theo đoạn: “节约了停车费，还少了找车位的麻烦”. Đáp án phù hợp: “既省钱又减少停车麻烦”."
+      }
+    ],
+    "sourceType": "supplementary"
+  }
+]

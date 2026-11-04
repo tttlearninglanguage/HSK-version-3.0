@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-04 — Biên tập lại 50 bài đọc HSK 4
+
+- Viết lại 50 đoạn cho Bài 1–10, dài 238–279 chữ Hán; đa dạng tình huống và hình thức, tránh lặp kết cấu lời khuyên và bài học cuối đoạn.
+- Viết lại 250 câu hỏi với các dạng tìm thông tin, so sánh, trình tự, tính toán và suy luận; cập nhật bản dịch, pinyin và dẫn chứng, không cố định câu hỏi ý chính ở vị trí thứ tư.
+- Tra từ theo ngữ cảnh giữ cách đọc/nghĩa phù hợp; kết quả revision 2 không lấy nhầm điểm nội dung cũ. Giữ dữ liệu từ vựng, ngữ pháp, bài viết và lịch sử. Có bản thảo, công cụ tạo lại và báo cáo phạm vi.
+
 ## 2026-11-04 — Viết lại toàn bộ 90 bài đọc HSK 3
 
 - Mỗi Unit 1–18 có 5 tình huống riêng, dài 233–287 chữ Hán, dài hơn HSK 2; thêm 540 câu hỏi với bản dịch, pinyin và dẫn chứng mới.
