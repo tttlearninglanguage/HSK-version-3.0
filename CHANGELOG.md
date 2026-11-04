@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-04 — Dừng nghe bài đọc dài HSK 1–4
+
+- Nút nghe đoạn chuyển thành “Dừng đọc” khi phát; bấm để ngắt, bấm nghe lại để đọc từ đầu.
+- Khôi phục nút khi đọc xong, lỗi, phát nội dung khác hoặc rời bài; giữ phát âm trong thao tác bấm để hỗ trợ trình duyệt di động.
+- Kiểm tra phát/dừng/nghe lại/kết thúc/lỗi/thử lại/đổi nội dung/điều hướng ở 390px và 1440px cho cả bốn khóa.
+
 ## 2026-11-04 — Thu gọn toàn bộ game HSK 1–3
 
 - Áp dụng cỡ đề 32px, đáp án 23px và giãn dòng 1.45 theo mẫu HSK 4; giảm đệm khung, khoảng cách đáp án và thanh công cụ, nhất là trên điện thoại.
