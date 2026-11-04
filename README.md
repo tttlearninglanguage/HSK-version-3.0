@@ -76,3 +76,5 @@ HSK 2 có 75 bài đọc phiên bản 2 dài 167–217 chữ Hán, 450 câu hỏ
 HSK 3 có 90 bài đọc phiên bản 2, mỗi Unit 5 tình huống khác nhau, dài 233–287 chữ Hán và tổng cộng 540 câu hỏi: [bản thảo, phạm vi và kiểm thử](HSK3/content/README.md). Tạo lại bằng `python scripts/build-hsk3-readings.py`.
 
 HSK 4 Thượng có 50 bài đọc phiên bản 2 cho Bài 1–10, giữ 5 đoạn/25 câu hỏi mỗi bài học, với thông báo, thư, hội thoại và ghi chép riêng: [bản thảo và phạm vi](HSK4/content/README.md). Tạo lại bằng `python scripts/build-hsk4-readings.py`.
+
+Website đặt `<meta name="robots" content="noindex">` trực tiếp trong `<head>` của toàn bộ trang HTML (trang tổng, HSK 1–4 và 404). Trang mới cũng cần giữ chỉ thị này. Đây là yêu cầu không lập chỉ mục cho website, không đổi quyền truy cập hoặc trạng thái Public của repository GitHub.

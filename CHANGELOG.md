@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-04 — Không lập chỉ mục website
+
+- Thêm robots `noindex` trong HTML gốc của trang tổng, HSK 1–4 và 404; giữ nguyên giao diện và chức năng.
+
 ## 2026-11-04 — Biên tập lại 50 bài đọc HSK 4
 
 - Viết lại 50 đoạn cho Bài 1–10, dài 238–279 chữ Hán; đa dạng tình huống và hình thức, tránh lặp kết cấu lời khuyên và bài học cuối đoạn.
