@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-04 — Điều khiển nghe bài đọc HSK 1–4
+
+- Thêm tạm dừng/tiếp tục, chọn câu bắt đầu–kết thúc, thanh chuyển vị trí theo câu, câu trước/sau và về đầu phạm vi nghe.
+- Nghe riêng phần bôi đen trong bài, giữ thao tác tra từ bằng chuột/bàn phím; nghe loa tra từ tạm dừng bài đọc và giữ vị trí.
+- Giữ phạm vi khi đổi câu hỏi cùng đoạn; ngắt khi rời bài, xử lý giọng không hỗ trợ pause và bỏ qua sự kiện cũ sau khi đổi vị trí. Xếp hàng câu trong lượt bấm phát ban đầu.
+
 ## 2026-11-04 — Không lập chỉ mục website
 
 - Thêm robots `noindex` trong HTML gốc của trang tổng, HSK 1–4 và 404; giữ nguyên giao diện và chức năng.

@@ -130,3 +130,5 @@ Bảng màu dùng chung trong app.js quyết định cả thẻ trang tổng và
 Màu được áp dụng lại khi mở link trực tiếp, tải lại, Back hoặc đổi bài. Trang chủ/thống kê/ôn tập chung dùng màu trung tính riêng để không mang màu bài vừa mở; lượt ôn một bài dùng màu bài đó, ôn nhiều bài dùng màu ôn tập chung. `tests/hsk4-lesson-themes.cjs` đối chiếu màu thật của các thành phần với thẻ trang tổng trên máy tính và điện thoại, đồng thời kiểm tra tiến độ/bản nháp cũ vẫn được giữ.
 
 Bộ đọc phiên bản 2 giữ 50 đường dẫn nhưng lưu `readingRevision: 2` cho lượt mới; kết quả cũ vẫn có trong lịch sử, không tự đánh dấu hoàn thành nội dung đã đổi. Tra từ dùng cách chia từ và nghĩa/pinyin theo ngữ cảnh đã biên tập.
+
+Bộ nghe bài đọc dùng chung với HSK 1–3: tạm dừng/tiếp tục, chọn khoảng câu, kéo vị trí, chuyển câu và nghe phần bôi đen. `speech.js` giữ lựa chọn giọng riêng `hsk4-voice`; nội dung đọc được xếp hàng ngay trong lượt bấm phát. Phần tra từ vẫn dùng chuột và bàn phím, chữ trong đoạn có thể bôi đen.

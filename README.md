@@ -78,3 +78,7 @@ HSK 3 có 90 bài đọc phiên bản 2, mỗi Unit 5 tình huống khác nhau, 
 HSK 4 Thượng có 50 bài đọc phiên bản 2 cho Bài 1–10, giữ 5 đoạn/25 câu hỏi mỗi bài học, với thông báo, thư, hội thoại và ghi chép riêng: [bản thảo và phạm vi](HSK4/content/README.md). Tạo lại bằng `python scripts/build-hsk4-readings.py`.
 
 Website đặt `<meta name="robots" content="noindex">` trực tiếp trong `<head>` của toàn bộ trang HTML (trang tổng, HSK 1–4 và 404). Trang mới cũng cần giữ chỉ thị này. Đây là yêu cầu không lập chỉ mục cho website, không đổi quyền truy cập hoặc trạng thái Public của repository GitHub.
+
+Bài đọc HSK 1–4 có bộ điều khiển nghe chung trong `shared/js/reading-audio.js` và `shared/css/reading-audio.css`: tạm dừng/tiếp tục, chọn câu bắt đầu–kết thúc, chuyển câu, kéo vị trí và nghe phần bôi đen. Nút **Về đầu** quay về đầu phạm vi đang chọn. Khi nghe loa tra từ, bài đọc tạm dừng và giữ vị trí. Đổi câu hỏi trong cùng đoạn giữ phạm vi nghe; rời bài hoặc chuyển đoạn sẽ ngắt âm thanh.
+
+Thanh vị trí chia theo câu, không hiển thị số giây giả lập cho giọng đọc trình duyệt. Hệ thống xếp các câu trong lượt bấm phát ban đầu, dùng pause/resume của thiết bị; nếu giọng bỏ qua pause thì giữ mốc từ cuối cùng mà trình duyệt báo để nghe tiếp. Với giọng không báo mốc từ, phương án dự phòng tiếp tục từ câu đang nghe. Việc phát âm vẫn phụ thuộc giọng và thiết bị; kiểm thử dùng mô phỏng native speech để kiểm tra vị trí, hàng đợi, lỗi và tương tác.
