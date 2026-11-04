@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-04 — Thu gọn toàn bộ game HSK 1–3
+
+- Áp dụng cỡ đề 32px, đáp án 23px và giãn dòng 1.45 theo mẫu HSK 4; giảm đệm khung, khoảng cách đáp án và thanh công cụ, nhất là trên điện thoại.
+- Đồng bộ game cơ bản/nâng cao, chủ đề, đọc hiểu, viết, kiểm tra cuối bài và các cấp Grammar Mastery; giữ nguyên nội dung, tương tác, màu chủ đề và lưu tiến độ.
+- Đạt 1.371 kiểm tra giao diện ở 1440/390/360px; bộ ngữ pháp HSK 1 giải đủ 640 câu trên từng kích thước 1440/390px.
+
 ## 2026-11-03 — Đồng bộ màu chủ đề HSK 4
 
 - Dùng chung bảng màu giữa thẻ trang tổng và màn hình Bài 1–10, thay màu đỏ cố định bên trong mọi bài.

@@ -1,0 +1,94 @@
+/* HSK 1–3 games: the approved HSK 4 prompt/answer scale and compact spacing.
+   Loaded only by HSK1/HSK2/HSK3, after their legacy inline styles. */
+:root{--hsk-game-prompt-size:32px;--hsk-game-answer-size:23px}
+/* Question panels only: homepage, vocabulary, theory and flashcards keep their layout. */
+#app :is(.exercise-panel,.h2-exercise,.h2-reading-question,.h2-passage,.gm-question,
+ .panel:has(>#feedback),.panel:has(>#writingAnswer),.panel:has(>#examFeedback),
+ .panel:has(>#passageFeedback),.panel:has(#guidedText)){
+ padding:20px!important;min-width:0;
+}
+#app .exercise-question,
+#app .panel:has(>#feedback)>h2,
+#app .panel:has(>#feedback)>.answer-area>h2,
+#app .h2-exercise>h2,
+#app .h2-exercise:has(.h2-tiles)>p:not(.h2-exercise-label),
+#app .h2-reading-question>h3,
+#app .panel:has(>#examFeedback)>h2,
+#app .panel:has(>#passageFeedback)>h3,
+#app .panel:has(>#writingAnswer)>h2+p,
+#app .panel:has(#guidedText)>h2+p,
+#app .gm-question .gm-prompt,
+#app .gm-question>.gm-zh,
+#app .gm-question .gm-dialogue .gm-zh,
+#topicRoot #topicContent>.topic-panel:has(#topicFeedback)>:is(h2,.topic-hanzi){
+ font-size:var(--hsk-game-prompt-size)!important;font-weight:400!important;
+ line-height:1.45!important;margin:16px 0!important;overflow-wrap:anywhere;
+}
+#app .exercise-options .option,
+#app .cloze-options button,
+#app .panel:has(>#feedback) .option,
+#app .panel:has(>#examFeedback) .option,
+#app .panel:has(>#passageFeedback) .option,
+#app .h2-options .h2-answer,
+#app :is(#typed,#advInput,#examInput,#writingAnswer,#guidedText,#h2-grammar-input),
+#app :is(#selectedTiles,#tileBank button,.h2-tile-answer,.h2-tiles button),
+#app :is(#feedback,#writingFeedback,#examFeedback,#passageFeedback) .hanzi,
+#app #h2-feedback .h2-chinese,
+#app #guidedHints .hanzi,
+#app .gm-question :is(.gm-tiles button,.gm-answer-tiles button,#gm-input),
+#app .gm-question .gm-choice-row>button:first-child,
+#app .gm-question .gm-feedback .gm-zh,
+#topicRoot #topicContent :is(.topic-options button,#topicTyped,#topicFeedback .topic-hanzi){
+ font-size:var(--hsk-game-answer-size)!important;font-weight:400!important;
+ line-height:1.45!important;overflow-wrap:anywhere;
+}
+/* Choice padding and gaps match HSK 4, without shrinking touch targets. */
+#app :is(.exercise-options,.cloze-options,.h2-options,.panel:has(>#examFeedback)>.grid,.panel:has(>#passageFeedback)>.grid),
+#topicRoot #topicContent .topic-options{gap:10px!important;margin:14px 0!important}
+#app :is(.exercise-options .option,.cloze-options button,.panel:has(>#feedback) .option,.h2-options .h2-answer,
+ .panel:has(>#examFeedback) .option,.panel:has(>#passageFeedback) .option),
+#app .gm-question .gm-choice-row>button:first-child,
+#topicRoot #topicContent .topic-options button{
+ min-height:56px!important;padding:12px 14px!important;margin:0!important;white-space:normal!important;min-width:0;
+}
+#app .gm-question .gm-choice-row{margin:10px 0!important;gap:8px}
+#app .gm-question .gm-choice-row>button{margin-top:0}
+#app :is(#typed,#advInput,#examInput,#writingAnswer,#guidedText,#h2-grammar-input,#gm-input),
+#topicRoot #topicTyped{min-height:56px!important;padding:12px 14px!important;max-width:100%;box-sizing:border-box}
+#app :is(.exercise-panel,.h2-exercise,.h2-reading-question,.panel:has(>#feedback),
+ .panel:has(>#examFeedback),.panel:has(>#passageFeedback),.panel:has(>#writingAnswer),.panel:has(#guidedText),.gm-question) :is(.toolbar,.exercise-actions,.gm-tools){margin:12px 0!important;gap:8px!important}
+#app :is(.exercise-panel,.h2-exercise,.h2-reading-question,.panel:has(>#feedback),
+ .panel:has(>#examFeedback),.panel:has(>#passageFeedback),.gm-question) .progress{margin:10px 0!important}
+#app .exercise-head{margin-bottom:12px!important}
+#app :is(#selectedTiles,.h2-tile-answer,.gm-question .gm-answer-tiles){min-height:56px!important;padding:12px!important;margin:12px 0!important}
+#app :is(#tileBank,.h2-tiles,.gm-question .gm-tiles){gap:8px!important;margin:12px 0!important}
+#app .h2-exercise-label{margin:12px 0!important}
+#app :is(#feedback,#writingFeedback,#examFeedback,#passageFeedback) .result,
+#app .h2-feedback,#app .gm-question .gm-feedback{margin:14px 0!important;padding:14px!important;line-height:1.6!important}
+/* Compact the reading passage independently; preserve ruby/pinyin sizing. */
+#app .h2-passage .h2-passage-text,
+#app .panel:has(>#passageFeedback)>p.hanzi{font-size:27px!important;line-height:1.65!important;margin:16px 0!important}
+#app .panel:has(>#passageFeedback) .hsk-reading-pinyin{padding:12px!important;margin:12px 0!important}
+#app .h2-reading-layout{gap:16px!important}
+#topicRoot #topicContent>.topic-panel:has(#topicFeedback){padding:20px!important}
+#topicRoot #topicContent>.topic-panel:has(#topicFeedback) :is(.topic-tools,.topic-progress){margin:12px 0!important;gap:8px!important}
+@media(max-width:700px){
+ #app :is(.exercise-panel,.h2-exercise,.h2-reading-question,.h2-passage,.gm-question,
+  .panel:has(>#feedback),.panel:has(>#writingAnswer),.panel:has(>#examFeedback),
+  .panel:has(>#passageFeedback),.panel:has(#guidedText)),
+ #topicRoot #topicContent>.topic-panel:has(#topicFeedback){padding:16px!important}
+ #app :is(.exercise-question,.h2-question,.gm-question .gm-prompt){margin:12px 0!important}
+}
+
+#app .panel:has(>#feedback)>.answer-area{padding:12px!important;margin:12px 0!important}
+/* Reduce the surrounding frames only while an embedded game is open. */
+#app:has(.gm-question,#passageFeedback) .unit-title-banner{min-height:0!important;padding:20px!important;margin:12px 0!important}
+#app:has(.gm-question,#passageFeedback) .tabs{gap:6px!important;margin:12px 0!important}
+#app:has(.gm-question) .gm-shell{margin:12px auto!important}
+#app:has(.gm-question) .gm-title{margin:8px 0!important}
+#topicRoot:has(#topicFeedback) .topic-head{min-height:0!important;padding:20px!important;margin:12px 0!important}
+#topicRoot:has(#topicFeedback) .topic-tabs{gap:6px!important;margin:12px 0!important}
+@media(max-width:700px){
+ #app:has(.gm-question,#passageFeedback) .unit-title-banner,
+ #topicRoot:has(#topicFeedback) .topic-head{padding:16px!important}
+}
