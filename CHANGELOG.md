@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-04 — Hoàn thiện pinyin và nghĩa cho bài đọc HSK 1
+
+- Dùng chung từ điển đầy đủ cho pinyin và tra từ, bỏ giới hạn chú âm theo Unit đã học.
+- Bổ sung/chuẩn hóa 18 mục có nguồn đối chiếu, gồm tên riêng và các từ còn thiếu trong câu đọc; nghĩa tiếng Việt theo ngữ cảnh.
+- Kiểm tra 75 bài đọc, 450 câu hỏi/đáp án và 338 câu ví dụ: không còn chữ thiếu dữ liệu; giữ nội dung, danh sách từ cần học và tiến độ.
+
 ## 2026-11-04 — Đồng bộ trang chọn bài đọc HSK 1–4
 
 - HSK 2–3 dùng mẫu thẻ HSK 4: tên bài, số câu hỏi, trạng thái, số câu đã trả lời/số đúng và nút bắt đầu; 3 cột trên máy tính, 1 cột trên điện thoại.

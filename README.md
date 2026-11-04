@@ -49,6 +49,7 @@ node tests/reading-audio-stop.cjs
 node tests/hsk123-reading-ui.cjs
 node tests/reading-picker-parity.cjs
 node tests/hsk1-reading-translations.cjs
+node tests/hsk1-reading-dictionary.cjs
 node tests/hsk4-content.cjs
 node tests/hsk4-upper-content.cjs
 node tests/hsk4-upper-browser.cjs
