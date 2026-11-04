@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-04 — Viết lại toàn bộ 90 bài đọc HSK 3
+
+- Mỗi Unit 1–18 có 5 tình huống riêng, dài 233–287 chữ Hán, dài hơn HSK 2; thêm 540 câu hỏi với bản dịch, pinyin và dẫn chứng mới.
+- Đối chiếu từ vựng theo HSK 1–2 và HSK 3 đến Unit hiện tại; dữ liệu tra từ theo ngữ cảnh sửa các chữ nhiều âm mà không đổi mục từ gốc.
+- Giữ ID thẻ và giao diện; lưu riêng kết quả nội dung cũ, giữ lịch sử và tiến độ từ vựng. Có bản thảo, công cụ tạo lại và báo cáo phạm vi.
+
 ## 2026-11-04 — Viết lại toàn bộ 75 bài đọc HSK 2
 
 - Mỗi Unit 1–15 có 5 tình huống riêng, dài 167–217 chữ Hán, dài hơn bộ HSK 1; viết lại 450 câu hỏi, bản dịch và dẫn chứng giải thích.
