@@ -45,6 +45,7 @@ node tests/hsk123-compact-games.cjs
 node tests/course-navigation.cjs
 node tests/hsk3-smoke.cjs
 node tests/hsk-speech.cjs
+node tests/reading-audio-stop.cjs
 node tests/hsk4-content.cjs
 node tests/hsk4-upper-content.cjs
 node tests/hsk4-upper-browser.cjs
