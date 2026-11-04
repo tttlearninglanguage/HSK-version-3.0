@@ -152,7 +152,7 @@ case 'unpick':if(session&&!session.answered){session.chosen=session.chosen.filte
 case 'next':if(session?.answered){session.index++;renderQuestion()}break;
 case 'reading-pinyin':{const panel=$('#passagePin');panel.hidden=!panel.hidden;if(session)session.showPinyin=!panel.hidden;b.textContent=panel.hidden?'🔤 Hiện Pinyin':'🔤 Ẩn Pinyin';b.setAttribute('aria-expanded',String(!panel.hidden));break}
 case 'toggle-detail':{const el=document.getElementById(b.dataset.target);el.hidden=!el.hidden;break}
-case 'lookup':showGloss(b.dataset.word,b);break;
+case 'lookup':if(!window.getSelection()?.toString().trim())showGloss(b.dataset.word,b);break;
 case 'close-gloss':$('#gloss')?.remove();break;
 case 'record':recordSpeech();break;
 case 'say-writing':if($('#writingText').value.trim())window.speak($('#writingText').value);else notify('Hãy nhập bài viết trước khi nghe.');break;

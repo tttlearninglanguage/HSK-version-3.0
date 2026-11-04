@@ -27,6 +27,7 @@
   function lookup(event) {
     const target = event.target.closest?.('.reading-study .h2-word,.reading-study .hsk-clickword');
     if (!target) return;
+    if (event.type === 'click' && window.getSelection()?.toString().trim()) return;
     if (event.type === 'keydown' && !['Enter', ' '].includes(event.key)) return;
     const word = target.classList.contains('h2-word') ? window.h2ReadingWord(target.dataset.lookup) : window.hskWordIndex?.[target.dataset.word ?? target.getAttribute('onclick')?.match(/hskShowWord\((\d+)\)/)?.[1]];
     if (!word) return;

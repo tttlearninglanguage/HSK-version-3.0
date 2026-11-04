@@ -2,14 +2,7 @@
 (() => {
   const synth = window.speechSynthesis;
   let active = null;
-  let readingButton = null;
-  let readingLabel = '';
-  function resetReadingButton() {
-    if (!readingButton) return;
-    readingButton.textContent = readingLabel;
-    readingButton.setAttribute('aria-pressed', 'false');
-    readingButton = null;
-  }
+  let readingAudio;
   let startTimer = null;
   let voices = [];
   let preferred = '';
@@ -63,11 +56,11 @@
   function stop() {
     clearTimeout(startTimer);
     const needsCancel = active || synth?.speaking || synth?.pending;
-    resetReadingButton();
     active = null; // Ignore end/error events from the superseded request.
     if (synth && needsCancel) synth.cancel();
   }
-  function play(value, rate = .85, systemVoice = false, button = null) {
+  function play(value, rate = .85, systemVoice = false) {
+    readingAudio?.interrupt();
     const text = String(value ?? '').trim();
     if (!text) return;
     if (!synth || typeof window.SpeechSynthesisUtterance !== 'function') {
@@ -88,12 +81,6 @@
     if (voice) { utterance.voice = voice; utterance.lang = voice.lang.replace(/_/g, '-'); }
     // Retain the utterance until completion (including while native voices load).
     active = utterance;
-    if (button?.isConnected) {
-      readingButton = button;
-      readingLabel = button.textContent;
-      button.textContent = '⏹ Dừng đọc';
-      button.setAttribute('aria-pressed', 'true');
-    }
     utterance.onstart = () => {
       if (active !== utterance) return;
       clearTimeout(startTimer);
@@ -103,43 +90,28 @@
       if (active !== utterance) return;
       clearTimeout(startTimer);
       active = null;
-      resetReadingButton();
       hideNotice();
     };
     utterance.onerror = event => {
       if (active !== utterance) return;
       clearTimeout(startTimer);
       active = null;
-      resetReadingButton();
       if (event.error === 'canceled' || event.error === 'interrupted') return;
       const message = event.error === 'not-allowed'
         ? 'Trình duyệt yêu cầu bấm để phát âm. Hãy bấm Nghe lại.'
         : 'Chưa phát được tiếng Trung. Hãy bấm Nghe lại; nếu vẫn không có tiếng, kiểm tra âm lượng và giọng tiếng Trung trong cài đặt thiết bị.';
-      notice(message, () => play(text, rate, true, button));
+      notice(message, () => play(text, rate, true));
     };
     startTimer = setTimeout(() => {
-      if (active === utterance) notice('Chưa nhận được tín hiệu phát âm. Hãy bấm Nghe lại và kiểm tra âm lượng thiết bị.', () => play(text, rate, true, button));
+      if (active === utterance) notice('Chưa nhận được tín hiệu phát âm. Hãy bấm Nghe lại và kiểm tra âm lượng thiết bị.', () => play(text, rate, true));
     }, 5000);
     try {
       // Do not await voiceschanged or defer this call: iOS requires user activation.
       synth.speak(utterance);
     } catch (error) { utterance.onerror({error: error.name}); }
   }
-  window.hskReadPassage = (button, text, rate = .85) => {
-    if (readingButton === button && active) { stop(); hideNotice(); return; }
-    window.speak(text, rate, false, button);
-  };
-  document.addEventListener('click', event => {
-    const button = event.target.closest?.('[data-reading-audio]');
-    if (!button) return;
-    event.preventDefault();
-    event.stopImmediatePropagation();
-    window.hskReadPassage(button, button.dataset.say ?? button.dataset.text);
-  }, true);
-  // Stop an old passage when navigation or a new question removes its control.
-  new MutationObserver(() => {
-    if (readingButton && !readingButton.isConnected) { stop(); hideNotice(); }
-  }).observe(document.body, {childList: true, subtree: true});
+  readingAudio = window.createHSKReadingAudio({synth, beforePlay: () => { stop(); hideNotice(); refreshVoices(); }, voice: pickVoice, notice, hideNotice});
+  window.hskReadPassage = (button, text, rate = .85) => readingAudio.toggle(button, text, rate);
   window.speak = play;
   window.topicSay = text => play(text, .83);
   window.hskChooseSpeechVoice = value => {
