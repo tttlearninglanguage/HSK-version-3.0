@@ -1127,6 +1127,8 @@ const hsk3Advanced=renderAdvanced;renderAdvanced=function(){if(session&&session.
 const DATA=window.HSK3_UPDATE;
 const E=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const WORDS=new Map(DATA.dictionary.map(w=>[w.hanzi,w]));
+window.h2ReadingWord=key=>WORDS.get(key);
+window.h2ReadingAnnotated=text=>h2Tokens(text).replace(/<button[^>]*data-lookup="([^"]+)"[^>]*>(.*?)<\/button>/g,(_,key,hanzi)=>`<ruby>${hanzi}<rt>${E(WORDS.get(key)?.pinyin||'')}</rt></ruby>`);
 const lex=[...WORDS.keys()].sort((a,b)=>b.length-a.length),byFirst=new Map();
 for(const w of lex){const key=w[0];if(!byFirst.has(key))byFirst.set(key,[]);byFirst.get(key).push(w)}
 // All entries are bundled: clicking a word never sends text to an online service.
@@ -1220,4 +1222,4 @@ home();
 </script>
 
 <link rel="stylesheet" href="../shared/css/flashcard-compact.css"><script src="../shared/js/hsk-navigation.js"></script><link rel="stylesheet" href="../shared/css/hsk-header.css"><script src="../shared/js/hsk-speech.js?v=20261104-stop"></script><link rel="stylesheet" href="../shared/css/hsk-game-compact.css?v=20261104">
-</body></html>
+<link rel="stylesheet" href="../shared/css/hsk-reading-ui.css?v=20261104"><script src="../shared/js/hsk-reading-ui.js?v=20261104"></script></body></html>

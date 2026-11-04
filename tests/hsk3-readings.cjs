@@ -24,7 +24,7 @@ for(const p of data.readings){
 }
 assert.equal(ids.size,360);
 (async()=>{
- const server=http.createServer((req,res)=>{res.setHeader('Content-Type','text/html; charset=utf-8');res.end(html)});await new Promise(r=>server.listen(0,'127.0.0.1',r));
+ const server=http.createServer((req,res)=>{try{const f=path.resolve(root,'.'+new URL(req.url,'http://localhost').pathname);if(!f.startsWith(root+path.sep))throw Error();res.setHeader('Content-Type',f.endsWith('.js')?'text/javascript':f.endsWith('.css')?'text/css':'text/html; charset=utf-8');res.end(fs.readFileSync(f))}catch{res.statusCode=404;res.end()}});await new Promise(r=>server.listen(0,'127.0.0.1',r));
  const browser=await chromium.launch({executablePath:process.env.CHROMIUM_PATH||'/usr/bin/chromium',headless:true,args:['--no-sandbox']});
  try{for(const width of [1440,390]){
   const page=await browser.newPage({viewport:{width,height:1000},reducedMotion:'reduce'});const errors=[];page.on('pageerror',e=>errors.push(e.message));
@@ -41,10 +41,10 @@ assert.equal(ids.size,360);
    await page.locator('.h2-section-intro button.primary').click();
    await page.evaluate(()=>{
     const byText=t=>[...document.querySelectorAll('button')].find(b=>b.textContent.includes(t));
-    byText('Hiện pinyin').click();if(document.querySelector('#h2-reading-pinyin').hidden)throw Error('pinyin toggle');
+    byText('Hiện Pinyin').click();if(document.querySelector('#h2-reading-pinyin').hidden)throw Error('pinyin toggle');
     byText('Hiện bản dịch').click();if(document.querySelector('#h2-reading-translation').hidden)throw Error('translation toggle');
     document.querySelector('.h2-passage [data-say]').click();
-    const word=document.querySelector('.h2-passage-text [data-lookup]');word.click();if(!document.querySelector('#h2-dictionary').open)throw Error('dictionary');document.querySelector('#h2-dictionary').close();
+    const word=document.querySelector('.h2-passage-text [data-lookup]');word.click();if(!document.querySelector('#hsk-reading-gloss'))throw Error('dictionary');document.querySelector('#hsk-reading-gloss [aria-label="Đóng tra từ"]').click();
    });
    await page.evaluate(id=>{
     const bank=HSK3_UPDATE.readings.filter(p=>p.lesson===id);

@@ -46,6 +46,7 @@ node tests/course-navigation.cjs
 node tests/hsk3-smoke.cjs
 node tests/hsk-speech.cjs
 node tests/reading-audio-stop.cjs
+node tests/hsk123-reading-ui.cjs
 node tests/hsk4-content.cjs
 node tests/hsk4-upper-content.cjs
 node tests/hsk4-upper-browser.cjs
@@ -57,3 +58,5 @@ node tests/hsk4-ui-parity.cjs
 Cập nhật CSS dẫn xuất của HSK 4 khi giao diện HSK 3 thay đổi: `python scripts/sync-hsk3-theme.py`.
 
 HSK 1–3 dùng chung `shared/css/hsk-game-compact.css` cho các game: đề 32px, đáp án 23px, giãn dòng 1.45; khung 20px trên máy tính và 16px trên điện thoại, khoảng cách đáp án 10px. CSS chỉ áp dụng trong màn hình luyện tập, giữ nguyên màu chủ đề, nội dung và tiến độ.
+
+Bài đọc HSK 1–3 dùng `shared/js/hsk-reading-ui.js` và `shared/css/hsk-reading-ui.css` để trình bày một khung theo HSK 4, pinyin dạng ruby và hộp tra từ cạnh từ được chọn. Các bộ dữ liệu, chấm điểm và tiến độ vẫn do từng khóa quản lý.
