@@ -1,0 +1,23 @@
+/* Match HSK 4's compact, single-panel reading and anchored dictionary. */
+#app .h2-reading-layout{display:block!important;max-width:1100px;margin:16px auto!important}
+#app .reading-study{padding:20px!important;min-width:0}
+#app .reading-study>h2{font-size:24px!important;margin:14px 0!important;line-height:1.4!important}
+#app .reading-study :is(.hsk-reading-tip,.h2-lookup-hint){margin:8px 0!important;font-size:13px!important;line-height:1.5!important;color:#647087}
+#app .reading-study>.h2-passage-text,#app .reading-study>p.hanzi{font-size:27px!important;line-height:1.65!important;margin:16px 0!important;white-space:normal!important}
+#app .reading-study :is(.h2-word,.hsk-clickword){display:inline!important;padding:0!important;margin:0!important;border:0!important;background:transparent!important;box-shadow:none!important;font:inherit!important;line-height:inherit!important;color:inherit!important;min-height:0!important;white-space:normal!important;cursor:pointer}
+#app .reading-study :is(.h2-word,.hsk-clickword):is(:hover,:focus-visible){background:var(--soft,#f3f5f7)!important;text-decoration:underline;text-underline-offset:4px}
+#app .reading-study .reading-pinyin{background:#f3f5f7!important;color:#344b6c;font-size:17px!important;line-height:1.9!important;padding:12px!important;margin:12px 0!important;border-radius:14px;overflow-wrap:anywhere}
+#app .reading-study .reading-pinyin ruby{ruby-position:over}
+#app .reading-study .reading-pinyin rt{font-size:12px!important;line-height:normal;color:var(--accent,#b65340)}
+#app .reading-study .reading-pinyin[hidden]{display:none!important}
+#app .reading-study #hsk-reading-question{position:static!important;top:auto!important;padding:0!important;margin:0!important;border:0!important;box-shadow:none!important;background:transparent!important}
+#app .reading-study :is(.h2-reading-question>h3,h3.hanzi){font-size:32px!important;font-weight:400!important;line-height:1.45!important;margin:16px 0!important}
+#app .reading-study :is(.h2-options,.grid){display:grid!important;grid-template-columns:repeat(var(--reading-answer-columns,1),minmax(0,1fr))!important;gap:10px!important;margin:14px 0!important}
+#app .reading-study :is(.h2-answer,.option){min-height:56px!important;padding:12px 14px!important;font-size:23px!important;line-height:1.45!important;text-align:left;white-space:normal!important;overflow-wrap:anywhere}
+.hsk-reading-gloss{box-sizing:border-box;position:fixed;z-index:2500;width:310px;max-width:calc(100vw - 24px);max-height:calc(100dvh - 24px);overflow:auto;border:1px solid #d9dfe7;border-radius:16px;background:#fff;padding:18px;box-shadow:0 12px 36px #213c3433;color:#253344;font:16px/1.5 Arial,sans-serif}
+.hsk-reading-gloss .gloss-head{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.hsk-reading-gloss .gloss-hanzi{font-size:32px;font-weight:400}
+.hsk-reading-gloss .gloss-pin{color:#6c7a90}
+.hsk-reading-gloss p{margin:12px 0;overflow-wrap:anywhere}
+.hsk-reading-gloss button{font:600 14px/1.5 Arial,sans-serif;min-height:40px;padding:8px 12px;border:1px solid #d9dfe7;border-radius:12px;background:#fff;color:#253344;cursor:pointer}
+@media(max-width:700px){#app .reading-study{padding:16px!important}#app .reading-study :is(.h2-reading-question>h3,h3.hanzi){margin:12px 0!important}}

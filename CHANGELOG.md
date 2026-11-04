@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-04 — Đồng bộ giao diện đọc HSK 1–3 theo HSK 4
+
+- Gộp bài đọc và câu hỏi HSK 2–3 vào một khung; đồng bộ cỡ chữ, khoảng cách và bố cục đáp án theo độ dài với HSK 4.
+- Pinyin hiển thị trên từng từ trong khung mở rộng; đồng bộ nút hiện/ẩn và hộp tra từ pinyin/nghĩa/nghe nằm cạnh từ, hỗ trợ bàn phím và điện thoại cho cả HSK 1–3.
+- Giữ ngân hàng câu hỏi, chấm điểm, tiến độ, chọn bài độc lập và nút nghe/dừng; các màn hình ngoài đọc hiểu giữ giao diện cũ.
+
 ## 2026-11-04 — Dừng nghe bài đọc dài HSK 1–4
 
 - Nút nghe đoạn chuyển thành “Dừng đọc” khi phát; bấm để ngắt, bấm nghe lại để đọc từ đầu.
