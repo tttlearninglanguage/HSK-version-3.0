@@ -33,3 +33,5 @@ Nguồn cũ chỉ lưu lịch sử tổng hợp 30 câu sau cả 5 đoạn; tr�
 - Đối chiếu nguyên trạng phần HTML ngoài module mới; kiểm tra cú pháp JS và `git diff --check` đạt. Đã xem ảnh trang chọn bài trên máy tính/điện thoại.
 
 Chưa kiểm thử Safari/iPhone/Mac thật, VoiceOver hoặc âm thanh thực tế của hệ điều hành. Kiểm thử loa xác nhận lệnh phát với dữ liệu đọc gốc, không xác nhận đầu ra âm thanh trên mọi thiết bị.
+
+Mỗi bài đọc có bản dịch tiếng Việt đầy đủ trong trường `translation`. Nút “Hiện bản dịch” bên cạnh nút nghe bật/tắt phần dịch; mặc định ẩn và độc lập với pinyin. Bản dịch không ảnh hưởng chấm điểm hay tiến độ. Kiểm tra bằng `node tests/hsk1-reading-translations.cjs`.
