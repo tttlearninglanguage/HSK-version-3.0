@@ -1,0 +1,805 @@
+@1/Chào thầy cô
+学生：老师，您好！
+老师：你好！
+学生：老师好！
+老师：同学好！
+学生：谢谢老师！
+老师：不客气！
+学生：老师，再见！
+老师：再见！
+VI: Học sinh: Em chào thầy/cô ạ! Giáo viên: Chào em! Học sinh: Em chào thầy/cô! Giáo viên: Chào em học sinh! Học sinh: Em cảm ơn thầy/cô! Giáo viên: Không có gì! Học sinh: Em chào thầy/cô, em về ạ! Giáo viên: Tạm biệt em!
+学生：老师，____！|您好|chao
+学生：老师，您好！老师：____！|你好|chao
+学生：____好！|老师|nguoi
+老师：____好！|同学|nguoi
+学生：____老师！|谢谢|chao
+老师：____！学生：老师，再见！|不客气|chao
+@1/Cả lớp chào nhau
+老师：同学们好！
+学生们：老师好！
+老师：大家好！
+学生们：您好！
+老师：你们好！
+学生们：谢谢老师！
+老师：不客气。同学们，再见！
+学生们：再见！
+VI: Giáo viên: Chào các em học sinh! Các học sinh: Chúng em chào thầy/cô! Giáo viên: Chào mọi người! Các học sinh: Chúng em chào thầy/cô ạ! Giáo viên: Chào các em! Các học sinh: Chúng em cảm ơn thầy/cô! Giáo viên: Không có gì. Tạm biệt các em! Các học sinh: Tạm biệt ạ!
+老师：____们好！|同学|nguoi
+学生们：____好！|老师|nguoi
+老师：____好！|大家|nguoi
+老师：大家好！学生们：____！|您好|chao
+老师：____好！|你们|nguoi
+同学们，____！|再见|chao
+@1/Lời cảm ơn
+同学：谢谢您，老师！
+老师：不客气！
+同学：老师，再见！
+老师：同学，再见！
+学生们：谢谢老师！
+老师：不客气。大家，再见！
+VI: Một bạn học: Em cảm ơn thầy/cô ạ! Giáo viên: Không có gì! Bạn học: Em chào thầy/cô, em về ạ! Giáo viên: Tạm biệt em! Các học sinh: Chúng em cảm ơn thầy/cô! Giáo viên: Không có gì. Tạm biệt mọi người!
+同学：____您，老师！|谢谢|chao
+同学：谢谢您，老师！老师：____！同学：老师，再见！|不客气|chao
+同学：____，再见！|老师|nguoi
+老师：____，再见！|同学|nguoi
+____们：谢谢老师！|学生|nguoi
+大家，____！|再见|chao
+@1/Lời chào trang trọng
+同学：您好！
+老师：你好！
+同学：老师好！
+老师：同学好！
+老师们：大家好！
+同学们：老师们好！
+老师们：同学们好！
+VI: Bạn học: Em chào thầy/cô ạ! Giáo viên: Chào em! Bạn học: Em chào thầy/cô! Giáo viên: Chào em học sinh! Các giáo viên: Chào mọi người! Các bạn học: Chúng em chào các thầy cô! Các giáo viên: Chào các em học sinh!
+同学：____！老师：你好！|您好|chao
+老师：____！同学：老师好！|你好|chao
+同学：____好！|老师|nguoi
+老师：____好！|同学|nguoi
+老师们：____好！|大家|nguoi
+同学们：____们好！|老师|nguoi
+@1/Tạm biệt các bạn
+同学们：老师，再见！
+老师：同学们，再见！
+学生：大家，再见！
+同学们：再见！
+学生：谢谢大家！
+同学们：不客气！
+VI: Các bạn học: Chúng em chào thầy/cô, chúng em về ạ! Giáo viên: Tạm biệt các em! Một học sinh: Tạm biệt mọi người! Các bạn học: Tạm biệt! Học sinh: Cảm ơn mọi người! Các bạn học: Không có gì!
+同学们：____，再见！|老师|nguoi
+老师：____们，再见！|同学|nguoi
+____：大家，再见！|学生|nguoi
+同学们：____！学生：谢谢大家！|再见|chao
+学生：____大家！|谢谢|chao
+同学们：____！|不客气|chao
+@2/Tự giới thiệu tên
+老师：你好！你叫什么名字？
+学生：我叫李文。
+老师：李文，你好！
+学生：老师，您好！认识您，我很高兴。
+老师：我也很高兴。
+VI: Giáo viên: Chào em! Em tên là gì? Học sinh: Em tên là Lý Văn. Giáo viên: Lý Văn, chào em! Học sinh: Em chào thầy/cô ạ! Em rất vui được làm quen với thầy/cô. Giáo viên: Thầy/cô cũng rất vui.
+你叫什么____？|名字|tu
+我叫____。|李文|nguoi
+____：李文，你好！|老师|nguoi
+认识您，我很____。|高兴|tu
+我____很高兴。|也|tu
+学生：老师，____！|您好|chao
+@2/Đính chính cách gọi
+同学：老师，您好！
+李文：我不是老师。我是学生。我叫李文。
+同学：对不起，李文！
+李文：没关系。你好！
+同学：认识你，我很高兴。
+李文：我也很高兴。
+VI: Bạn học: Em chào thầy/cô ạ! Lý Văn: Mình không phải giáo viên. Mình là học sinh, tên là Lý Văn. Bạn học: Xin lỗi bạn, Lý Văn! Lý Văn: Không sao. Chào bạn! Bạn học: Rất vui được làm quen với bạn. Lý Văn: Mình cũng rất vui.
+我不____老师。|是|tu
+我是____。|学生|nguoi
+我叫____。|李文|nguoi
+同学：____，李文！|对不起|chao
+李文：____。你好！|没关系|chao
+认识你，我很____。|高兴|tu
+@2/Hỏi tên một cách lịch sự
+学生：您好！请问，您叫什么名字？
+老师：我叫李文。
+学生：李文老师，您好！
+老师：你好！你是学生？
+学生：我是学生。认识您，我很高兴。
+VI: Học sinh: Em chào thầy/cô ạ! Xin phép cho em hỏi, thầy/cô tên là gì? Giáo viên: Thầy/cô tên là Lý Văn. Học sinh: Em chào thầy/cô Lý Văn ạ! Giáo viên: Chào em! Em là học sinh à? Học sinh: Em là học sinh. Em rất vui được làm quen với thầy/cô.
+____，您叫什么名字？|请问|tu
+老师叫什么名字？|李文|nguoi
+李文是____。|老师|nguoi
+你是____？|学生|nguoi
+学生：认识____，我很高兴。|您|nguoi
+学生：李文老师，____！|您好|chao
+@2/Lời xin lỗi và lời đáp
+同学：对不起！
+李文：没事！
+同学：谢谢你！请问，你叫什么名字？
+李文：我叫李文。你也是学生？
+同学：我是学生。
+李文：认识你，我很高兴。
+VI: Bạn học: Xin lỗi bạn! Lý Văn: Không sao! Bạn học: Cảm ơn bạn! Cho mình hỏi bạn tên là gì? Lý Văn: Mình tên là Lý Văn. Bạn cũng là học sinh à? Bạn học: Mình là học sinh. Lý Văn: Rất vui được làm quen với bạn.
+同学：____！李文：没事！|对不起|chao
+李文：____！同学：谢谢你！|没事|chao
+同学：____你！|谢谢|chao
+你叫什么____？|名字|tu
+我叫____。|李文|nguoi
+同学是____。|学生|nguoi
+@2/Làm quen qua lời giới thiệu
+李文：大家好！我叫李文。我是学生。
+同学们：李文，你好！
+李文：认识你们，我很高兴。
+李文：你们是同学，我也是同学。谢谢大家！
+老师：李文，很好！
+VI: Lý Văn: Chào mọi người! Mình tên là Lý Văn. Mình là học sinh. Các bạn học: Lý Văn, chào bạn! Lý Văn: Mình rất vui được làm quen với các bạn. Lý Văn: Các bạn là bạn học, mình cũng là bạn học. Cảm ơn mọi người! Giáo viên: Lý Văn, tốt lắm!
+我叫____。|李文|nguoi
+我是____。|学生|nguoi
+____们：李文，你好！|同学|nguoi
+认识你们，我很____。|高兴|tu
+我____是同学。|也|tu
+____：李文，很好！|老师|nguoi
+@3/Đoán quốc tịch
+同学：李文，你是泰国人吗？
+李文：不，我是中国人。
+同学：她是中国人吗？
+李文：她不是中国人，她是法国人。她是我的姐姐。
+同学：认识你们，我很高兴。
+VI: Bạn học: Lý Văn, bạn là người Thái Lan à? Lý Văn: Không, mình là người Trung Quốc. Bạn học: Chị ấy là người Trung Quốc à? Lý Văn: Chị ấy không phải người Trung Quốc, chị ấy là người Pháp. Chị ấy là chị gái của mình. Bạn học: Rất vui được làm quen với hai người.
+李文是哪国人？|中国人|nguoi
+姐姐是哪国人？|法国人|nguoi
+她是李文的谁？|姐姐|nguoi
+李文是泰国人吗？|不是|dap|李文：不，我是中国人。
+姐姐是中国人吗？|不是|dap
+认识你们，同学很____。|高兴|tu
+@3/Nhận nhầm người qua điện thoại
+同学：喂，您好！您是李文老师吗？
+姐姐：不，我不是老师。我是李文的姐姐。
+同学：对不起！李文忙吗？
+姐姐：她工作很忙。
+同学：谢谢您，再见！
+姐姐：不客气，再见！
+VI: Bạn học: A lô, xin chào! Cô là giáo viên Lý Văn phải không ạ? Chị gái: Không, tôi không phải giáo viên. Tôi là chị gái của Lý Văn. Bạn học: Em xin lỗi! Lý Văn có bận không ạ? Chị gái: Em ấy rất bận, em ấy làm việc rất bận. Bạn học: Em cảm ơn, em chào chị! Chị gái: Không có gì, tạm biệt em!
+她是谁的姐姐？|李文|nguoi
+姐姐是老师吗？|不是|dap
+谁很忙？|李文|nguoi
+李文____很忙。|工作|viec
+同学：____！李文忙吗？|对不起|chao
+姐姐：____，再见！|不客气|chao
+@3/Chị gái dạy tiếng Trung
+我是李文。我是学生。我的姐姐是老师，她是中文老师。她的学生是法国人，也是我的同学。姐姐工作很忙。我认识她的学生。
+VI: Tôi là Lý Văn, là học sinh. Chị gái tôi là giáo viên dạy tiếng Trung. Học sinh của chị là người Pháp và cũng là bạn học của tôi. Chị làm việc rất bận. Tôi quen học sinh của chị.
+谁是学生？|李文|nguoi
+谁是中文老师？|姐姐|nguoi
+姐姐的学生是哪国人？|法国人|nguoi
+姐姐的学生也是我的____。|同学|nguoi
+姐姐工作忙吗？|很忙|dap
+我认识谁？|姐姐的学生|nguoi
+@3/Một cuộc làm quen mới
+她是我的同学，是泰国人。她的姐姐是老师。我的姐姐不是老师，是学生。我们认识她的姐姐。她的姐姐工作不太忙。认识我们，她也很高兴。
+VI: Cô ấy là bạn học của tôi, là người Thái Lan. Chị gái của cô ấy là giáo viên. Chị gái tôi không phải giáo viên mà là học sinh. Chúng tôi quen chị gái của cô ấy. Chị ấy làm việc không quá bận. Chị ấy cũng rất vui được làm quen với chúng tôi.
+我的同学是哪国人？|泰国人|nguoi
+谁的姐姐是老师？|同学的姐姐|nguoi
+我的姐姐是老师吗？|不是|dap
+我的姐姐是____。|学生|nguoi
+我们认识谁？|同学的姐姐|nguoi
+她的姐姐工作____忙。|不太|tu
+@3/Người đứng trước lớp
+大家好！我是你们的中文老师。我是中国人。她是我的姐姐，也是老师。她不是中文老师。我们工作很忙。你们是我的学生，我很高兴认识大家！
+VI: Chào mọi người! Tôi là giáo viên tiếng Trung của các bạn. Tôi là người Trung Quốc. Cô ấy là chị gái của tôi, cũng là giáo viên nhưng không dạy tiếng Trung. Chúng tôi làm việc rất bận. Các bạn là học sinh của tôi, tôi rất vui được làm quen với mọi người!
+我是你们的什么老师？|中文老师|nguoi
+我是哪国人？|中国人|nguoi
+她是我的谁？|姐姐|nguoi
+姐姐也是老师吗？|是|dap
+姐姐是中文老师吗？|不是|dap
+我们工作____。|很忙|dap
+@4/Đếm thành viên gia đình
+我家有五口人：爸爸、妈妈、姐姐、妹妹和我。爸爸妈妈是老师。姐姐十九岁，是学生。妹妹六岁。我没有哥哥，也没有儿子。
+VI: Gia đình tôi có năm người: bố, mẹ, chị gái, em gái và tôi. Bố mẹ là giáo viên. Chị gái mười chín tuổi, là học sinh. Em gái sáu tuổi. Tôi không có anh trai, cũng không có con trai.
+我家有几口人？|五口人|so
+爸爸妈妈是____。|老师|nguoi
+姐姐今年多大？|十九岁|so
+妹妹今年几岁？|六岁|so
+我有哥哥吗？|没有|dap
+我有儿子吗？|没有|dap
+@4/So sánh tuổi của hai người con
+老师：您有几个孩子？
+妈妈：我有两个孩子。儿子今年八岁，女儿今年四岁。
+老师：儿子是学生吗？
+妈妈：是。女儿不是学生。您呢？
+老师：我有一个女儿，今年六岁。
+VI: Giáo viên: Chị có mấy người con? Mẹ: Tôi có hai con. Con trai năm nay tám tuổi, con gái bốn tuổi. Giáo viên: Con trai chị là học sinh à? Mẹ: Đúng vậy. Con gái tôi chưa phải học sinh. Còn thầy/cô thì sao? Giáo viên: Tôi có một con gái, năm nay sáu tuổi.
+妈妈有几个孩子？|两个|so
+儿子今年几岁？|八岁|so
+女儿今年几岁？|四岁|so
+儿子是学生吗？|是|dap
+老师有几个女儿？|一个|so
+老师的女儿几岁？|六岁|so
+@4/Phỏng vấn một người anh
+我叫李文，今年十岁。我有一个哥哥，他二十岁。哥哥是学生，不是老师。妈妈是法国人，爸爸是中国人。我的家不大。你家有几口人呢？
+VI: Tôi tên là Lý Văn, năm nay mười tuổi. Tôi có một anh trai, anh ấy hai mươi tuổi. Anh trai là học sinh, không phải giáo viên. Mẹ là người Pháp, bố là người Trung Quốc. Nhà tôi không lớn. Gia đình bạn có mấy người?
+李文今年多大？|十岁|so
+李文有几个哥哥？|一个|so
+哥哥多大？|二十岁|so
+哥哥是老师吗？|不是|dap
+妈妈是哪国人？|法国人|nguoi
+爸爸是哪国人？|中国人|nguoi
+@4/Hai thế hệ làm nghề dạy học
+我爸爸今年四十岁，妈妈三十九岁。爸爸是中文老师，妈妈也是老师。姐姐十九岁，也是老师。我今年八岁，是学生。我有老师，也有同学。
+VI: Bố tôi năm nay bốn mươi tuổi, mẹ ba mươi chín tuổi. Bố là giáo viên tiếng Trung, mẹ cũng là giáo viên. Chị gái mười chín tuổi, cũng là giáo viên. Tôi năm nay tám tuổi, là học sinh. Tôi có thầy cô và bạn học.
+爸爸今年多大？|四十岁|so
+妈妈今年多大？|三十九岁|so
+爸爸是什么老师？|中文老师|nguoi
+妈妈也是老师吗？|是|dap
+姐姐今年多大？|十九岁|so
+我今年几岁？|八岁|so
+@4/Một gia đình ít người
+同学：你家有几口人？
+李文：三口人，爸爸、妈妈和我。
+同学：你有姐姐吗？
+李文：没有。你呢？
+同学：我有两个姐姐。我家有五口人。
+李文：你家人多！
+VI: Bạn học: Nhà bạn có mấy người? Lý Văn: Ba người: bố, mẹ và mình. Bạn học: Bạn có chị gái không? Lý Văn: Không. Còn bạn? Bạn học: Mình có hai chị gái. Nhà mình có năm người. Lý Văn: Nhà bạn đông người thật!
+李文家有几口人？|三口人|so
+谁没有姐姐？|李文|nguoi
+同学有几个姐姐？|两个|so
+同学家有几口人？|五口人|so
+李文有妈妈吗？|有|dap
+李文：你家人____！|多|tu
+@5/Ngày nghỉ và món ăn
+今天星期日，我休息。妈妈也休息，爸爸不休息。我会做面条儿，妈妈会做饺子。今天我想做面条儿。妈妈喜欢饺子，姐姐也喜欢饺子。爸爸下班，妈妈做饭。
+VI: Hôm nay là Chủ nhật, tôi nghỉ. Mẹ cũng nghỉ nhưng bố không nghỉ. Tôi biết làm mì, mẹ biết làm bánh sủi cảo. Hôm nay tôi muốn làm mì. Mẹ thích sủi cảo, chị gái cũng thích. Khi bố tan làm, mẹ nấu cơm.
+今天星期几？|星期日|gio
+谁不休息？|爸爸|nguoi
+我会做什么？|面条儿|mon
+妈妈会做什么？|饺子|mon
+谁也喜欢饺子？|姐姐|nguoi
+爸爸下班，谁做饭？|妈妈|nguoi
+@5/Chiếc máy tính mới
+这是我的新电脑，它很好看。姐姐也有电脑，她的电脑不是新的。我很喜欢新电脑。今天星期三，姐姐下班休息。我做一些菜，姐姐做面条儿。妈妈真高兴！
+VI: Đây là máy tính mới của tôi, nó rất đẹp. Chị gái cũng có máy tính nhưng máy của chị không mới. Tôi rất thích máy tính mới. Hôm nay là thứ Tư, chị gái tan làm rồi nghỉ. Tôi làm một ít món ăn, chị làm mì. Mẹ rất vui!
+什么是新的？|我的电脑|do
+姐姐有电脑吗？|有|dap
+姐姐的电脑是新的吗？|不是|dap
+今天星期几？|星期三|gio
+我做什么？|一些菜|mon
+谁做面条儿？|姐姐|nguoi
+@5/Bữa cơm ngày 8 tháng 3
+今天三月八号，爸爸今年四十岁。今天星期一，爸爸下班，妈妈做饭。我会做菜，姐姐会做饺子。我和姐姐做饭，妈妈很高兴。爸爸喜欢饺子。
+VI: Hôm nay là ngày 8 tháng 3. Bố năm nay bốn mươi tuổi. Hôm nay là thứ Hai. Khi bố tan làm, mẹ nấu cơm. Tôi biết làm món ăn, chị gái biết làm sủi cảo. Tôi và chị cùng nấu, mẹ rất vui. Bố thích sủi cảo.
+今天几月几号？|三月八号|gio
+爸爸今年多大？|四十岁|so
+今天星期几？|星期一|gio
+我会做什么？|菜|mon
+姐姐会做什么？|饺子|mon
+爸爸喜欢什么？|饺子|mon
+@5/Ai biết nấu món gì?
+老师：你会做饭吗？
+学生：会。我会做面条儿，不会做饺子。
+老师：你爸爸妈妈呢？
+学生：妈妈会做饺子。爸爸会做菜，爸爸的菜真好看！
+老师：今天你做饭吗？
+学生：不，今天妈妈做饭。
+VI: Giáo viên: Em biết nấu ăn không? Học sinh: Có ạ. Em biết làm mì, không biết làm sủi cảo. Giáo viên: Còn bố mẹ em? Học sinh: Mẹ biết làm sủi cảo. Bố biết làm món ăn, món bố làm trông đẹp lắm! Giáo viên: Hôm nay em nấu cơm à? Học sinh: Không, hôm nay mẹ nấu ạ.
+学生会做饭吗？|会|dap
+学生会做什么？|面条儿|mon
+学生会做饺子吗？|不会|dap
+谁会做饺子？|妈妈|nguoi
+谁会做菜？|爸爸|nguoi
+今天谁做饭？|妈妈|nguoi
+@5/Cuối tuần của chị gái
+姐姐是老师。星期一、星期二、星期三、星期四、星期五，她工作很忙。星期六她休息。今天星期六，她不想做饭。我做面条儿，妈妈做一些菜。姐姐很喜欢。
+VI: Chị gái là giáo viên. Từ thứ Hai đến thứ Sáu, chị làm việc rất bận. Thứ Bảy chị nghỉ. Hôm nay là thứ Bảy, chị không muốn nấu cơm. Tôi làm mì, mẹ làm một ít món ăn. Chị rất thích.
+姐姐是____。|老师|nguoi
+姐姐星期几休息？|星期六|gio
+今天星期几？|星期六|gio
+今天姐姐想做饭吗？|不想|dap
+谁做面条儿？|我|nguoi
+妈妈做什么？|一些菜|mon
+@6/Lời nhắn mua hàng
+妈妈：你今天去超市吗？
+我：去。您想买什么？
+妈妈：一些牛奶和包子。
+我：我也想买牛奶。爸爸想吃什么？
+妈妈：他想吃米饭。我今天做饭。
+VI: Mẹ: Hôm nay con có đi siêu thị không? Tôi: Có ạ. Mẹ muốn mua gì? Mẹ: Một ít sữa và bánh bao. Tôi: Con cũng muốn mua sữa. Bố muốn ăn gì ạ? Mẹ: Bố muốn ăn cơm. Hôm nay mẹ nấu.
+我今天去哪儿？|超市|noi
+妈妈想买什么？|牛奶和包子|mon
+我也想买什么？|牛奶|mon
+爸爸想吃什么？|米饭|mon
+谁今天做饭？|妈妈|nguoi
+今天我去超市吗？|去|dap
+@6/Hẹn nhau qua điện thoại
+同学：李文，你的手机号是多少？
+李文：一三八，六六六六，二二二二。
+同学：谢谢！明天你休息吗？
+李文：休息。我想坐出租车去超市买东西。
+同学：我也去。
+李文：明天去。
+VI: Bạn học: Lý Văn, số điện thoại di động của bạn là bao nhiêu? Lý Văn: 138 6666 2222. Bạn học: Cảm ơn! Ngày mai bạn có nghỉ không? Lý Văn: Có. Mình muốn đi taxi đến siêu thị mua đồ. Bạn học: Mình cũng đi. Lý Văn: Ngày mai đi nhé.
+手机号是____。|一三八六六六六二二二二|so
+李文明天休息吗？|休息|dap
+李文想去哪儿？|超市|noi
+李文想怎么去？|坐出租车|viec
+去超市做什么？|买东西|viec
+谁也想去？|同学|nguoi
+@6/Hai anh em chuẩn bị bữa tối
+今天爸爸妈妈工作很忙。我和哥哥想做晚饭。哥哥会做面条儿，我会做菜。我想买一些菜，哥哥想买包子。妈妈喜欢包子，爸爸喜欢米饭。哥哥的面条儿也非常好吃。
+VI: Hôm nay bố mẹ làm việc rất bận. Tôi và anh trai muốn nấu bữa tối. Anh biết làm mì, tôi biết làm món ăn. Tôi muốn mua một ít rau, anh muốn mua bánh bao. Mẹ thích bánh bao, bố thích cơm. Mì anh làm cũng rất ngon.
+谁想做晚饭？|我和哥哥|nguoi
+哥哥会做什么？|面条儿|mon
+我会做什么？|菜|mon
+哥哥想买什么？|包子|mon
+妈妈喜欢什么？|包子|mon
+爸爸喜欢什么？|米饭|mon
+@6/Chọn cách đi siêu thị
+姐姐：你想去哪儿？
+我：我想去那边的超市。
+姐姐：你怎么去？
+我：坐出租车。你也去吗？
+姐姐：不，我今天下班想休息。你想买一些牛奶吗？
+我：我想买牛奶，也想买包子。
+VI: Chị gái: Em muốn đi đâu? Tôi: Em muốn đến siêu thị bên kia. Chị gái: Em đi bằng gì? Tôi: Em đi taxi. Chị có đi không? Chị gái: Không, hôm nay tan làm chị muốn nghỉ. Em có muốn mua ít sữa không? Tôi: Em muốn mua sữa và cũng muốn mua bánh bao.
+我想去哪儿？|超市|noi
+____的超市。|那边|noi
+我怎么去？|坐出租车|viec
+姐姐也去吗？|不去|dap|姐姐：不，我今天下班想休息。
+姐姐下班想做什么？|休息|viec
+我想买牛奶和____。|包子|mon
+@6/Bữa sáng và bữa tối
+我喜欢吃包子，妹妹喜欢吃饺子。今天妈妈做饺子，爸爸买牛奶。妈妈的饺子非常好吃。明天我想吃面条儿。妹妹不想吃面条儿，她还想吃饺子。爸爸明天做晚饭。
+VI: Tôi thích ăn bánh bao, em gái thích ăn sủi cảo. Hôm nay mẹ làm sủi cảo, bố mua sữa. Sủi cảo của mẹ rất ngon. Ngày mai tôi muốn ăn mì. Em gái không muốn ăn mì, em vẫn muốn ăn sủi cảo. Ngày mai bố nấu bữa tối.
+我喜欢吃什么？|包子|mon
+妹妹喜欢吃什么？|饺子|mon
+今天谁买牛奶？|爸爸|nguoi
+谁的饺子非常好吃？|妈妈|nguoi
+我明天想吃什么？|面条儿|mon
+明天谁做晚饭？|爸爸|nguoi
+@7/Tấm lịch trong ngày
+我早上八点上班，下午六点半下班。姐姐上午九点上课，下午三点下课。今天晚上七点，我们想去电影院看电影。爸爸不去，他晚上在医院上班。妈妈在家做饭。
+VI: Buổi sáng tôi đi làm lúc tám giờ, buổi chiều tan làm lúc sáu giờ rưỡi. Chị gái lên lớp lúc chín giờ sáng, tan học lúc ba giờ chiều. Tối nay lúc bảy giờ, chúng tôi muốn đến rạp xem phim. Bố không đi vì tối bố làm ở bệnh viện. Mẹ nấu cơm ở nhà.
+我几点上班？|八点|gio
+我几点下班？|六点半|gio
+姐姐几点上课？|九点|gio
+姐姐几点下课？|三点|gio
+晚上七点我们去哪儿？|电影院|noi
+爸爸晚上在哪儿上班？|医院|noi
+@7/Rạp chiếu phim đổi giờ hẹn
+同学：我们晚上六点去电影院吧！
+我：六点我还在上课。六点半下课。
+同学：七点见吧。
+我：好！你现在在哪儿？
+同学：我在超市买东西呢。下课后你吃晚饭吗？
+我：吃。我在家吃。
+VI: Bạn học: Tối sáu giờ chúng ta đi rạp chiếu phim nhé! Tôi: Sáu giờ mình vẫn đang học. Sáu giờ rưỡi mới tan học. Bạn học: Vậy bảy giờ gặp nhé. Tôi: Được! Giờ bạn ở đâu? Bạn học: Mình đang mua đồ ở siêu thị. Tan học bạn có ăn tối không? Tôi: Có. Mình ăn ở nhà.
+六点我在做什么？|上课|viec
+我几点下课？|六点半|gio
+我们几点见？|七点|gio
+同学现在在哪儿？|超市|noi
+同学在超市做什么？|买东西|viec
+我在哪儿吃晚饭？|家|noi
+@7/Ở nhà đợi chị
+现在下午五点。我在家看电影呢。妈妈做饭呢，爸爸还在医院上班。姐姐六点下课。我们七点吃晚饭。今天妈妈做米饭和菜。姐姐喜欢吃米饭。
+VI: Bây giờ là năm giờ chiều. Tôi đang xem phim ở nhà. Mẹ đang nấu cơm, bố vẫn làm ở bệnh viện. Chị gái tan học lúc sáu giờ. Chúng tôi ăn tối lúc bảy giờ. Hôm nay mẹ nấu cơm và món ăn. Chị thích ăn cơm.
+现在几点？|下午五点|gio
+我在做什么？|看电影|viec
+谁做饭呢？|妈妈|nguoi
+爸爸在哪儿上班？|医院|noi
+姐姐几点下课？|六点|gio
+我们几点吃晚饭？|七点|gio
+@7/Lớp học buổi tối
+我不是老师，我是学生。我上午在店里上班，下午休息。晚上六点，我和姐姐上课，是中文课。老师八点半下课。下课后，姐姐想看电影，我想在家休息。明天早上我还上班。
+VI: Tôi không phải giáo viên mà là học sinh. Buổi sáng tôi làm ở cửa hàng, buổi chiều nghỉ. Tối sáu giờ tôi và chị học tiếng Trung. Giáo viên kết thúc buổi học lúc tám giờ rưỡi. Sau giờ học, chị muốn xem phim còn tôi muốn nghỉ ở nhà. Sáng mai tôi vẫn đi làm.
+我上午在哪儿上班？|店里|noi
+我下午做什么？|休息|viec
+谁和我上课？|姐姐|nguoi
+中文课几点上课？|六点|gio
+几点下课？|八点半|gio
+下课后姐姐想做什么？|看电影|viec
+@7/Cuộc gọi lúc tan làm
+姐姐：你下班吗？
+我：还没有。现在六点，六点十分下班。
+姐姐：我在电影院。电影七点半。
+我：好。下班后我吃晚饭。我七点去电影院。
+姐姐：我现在吃包子呢。七点见！
+VI: Chị gái: Em tan làm chưa? Tôi: Chưa. Bây giờ sáu giờ, sáu giờ mười em tan làm. Chị gái: Chị đang ở rạp chiếu phim. Phim lúc bảy giờ rưỡi. Tôi: Được. Tan làm em ăn tối. Bảy giờ em đến rạp. Chị gái: Giờ chị đang ăn bánh bao. Bảy giờ gặp nhé!
+现在几点？|六点|gio
+我几点下班？|六点十分|gio
+姐姐在哪儿？|电影院|noi
+电影几点？|七点半|gio
+我几点去电影院？|七点|gio
+姐姐现在吃什么？|包子|mon
+@8/Con mèo trốn dưới bàn
+我家有一只小猫。今天上午，我在房间里看电影，没有看见它。妈妈在桌子下看见小猫。它不在房间外。下午小猫在桌子前，我能看见它。
+VI: Nhà tôi có một con mèo nhỏ. Sáng nay tôi xem phim trong phòng nhưng không nhìn thấy nó. Mẹ nhìn thấy mèo dưới bàn. Nó không ở ngoài phòng, cũng không ở trên bàn. Buổi chiều mèo ở trước bàn, tôi có thể nhìn thấy nó.
+我家有几只猫？|一只|so
+上午我在哪儿？|房间里|noi
+我在房间里做什么？|看电影|viec
+谁看见小猫？|妈妈|nguoi
+上午小猫在哪儿？|桌子下|noi
+下午小猫在哪儿？|桌子前|noi
+@8/Bố làm việc ở bệnh viện
+我爸爸是医生，在医院工作。医院在学校前。爸爸早上八点上班，下午六点下班。今天病人很多，爸爸很忙。妈妈想去医院看爸爸，我也想去。爸爸现在不能休息。
+VI: Bố tôi là bác sĩ, làm việc ở bệnh viện. Bệnh viện ở trước trường học. Bố đi làm lúc tám giờ sáng, tan làm lúc sáu giờ chiều. Hôm nay có nhiều bệnh nhân, bố rất bận. Mẹ muốn đến bệnh viện thăm bố, tôi cũng muốn đi. Bây giờ bố không thể nghỉ.
+爸爸做什么工作？|医生|nguoi
+爸爸在哪儿工作？|医院|noi
+医院在哪儿？|学校前|noi
+爸爸几点上班？|八点|gio
+爸爸几点下班？|六点|gio
+爸爸现在能休息吗？|不能|dap
+@8/Tìm đúng hiệu sách
+同学：书店在哪儿？
+我：在学校外，医院前。
+同学：书店大吗？
+我：不大。很漂亮。你现在能去吗？
+同学：不能，我下午上课。下课后我去。
+我：好，我在书店前见你。
+VI: Bạn học: Hiệu sách ở đâu? Tôi: Ở ngoài trường, trước bệnh viện. Bạn học: Hiệu sách có lớn không? Tôi: Không lớn, rất đẹp. Giờ bạn có thể đi không? Bạn học: Không thể, chiều mình có lớp. Tan học mình đi. Tôi: Được, mình gặp bạn trước hiệu sách.
+书店在哪儿？|学校外|noi
+书店在医院____。|前|noi
+书店大吗？|不大|dap
+书店____。|很漂亮|dap
+同学现在能去吗？|不能|dap
+同学____去。|下课后|gio
+@8/Phòng nào có thể ăn trưa?
+学校有两个房间。大房间在前，小房间在后。老师在大房间上课，学生不能在大房间吃饭。小房间里有桌子。今天我和同学在小房间吃午饭。饭很好吃。
+VI: Trường có hai phòng. Phòng lớn ở phía trước, phòng nhỏ ở phía sau. Giáo viên dạy ở phòng lớn; học sinh không thể ăn cơm ở phòng đó. Trong phòng nhỏ có bàn. Hôm nay tôi và bạn học ăn trưa ở phòng nhỏ. Cơm rất ngon.
+学校有几个房间？|两个|so
+大房间在哪儿？|前|noi
+老师在哪儿上课？|大房间|noi
+学生能在大房间吃饭吗？|不能|dap
+小房间里有什么？|桌子|do
+我和同学在哪儿吃午饭？|小房间|noi
+@8/Đến trường sớm
+今天我上午七点半到学校。老师八点上课。学校前有一只猫，我很喜欢它。我在学校外看见爸爸。他是医生，想去医院。医院不大，病人很多。爸爸今天很忙。
+VI: Hôm nay tôi đến trường lúc bảy giờ rưỡi sáng. Giáo viên bắt đầu dạy lúc tám giờ. Trước trường có một con mèo, tôi rất thích nó. Tôi thấy bố ở ngoài trường. Bố là bác sĩ, đang muốn đến bệnh viện. Bệnh viện không lớn nhưng có nhiều bệnh nhân. Hôm nay bố rất bận.
+我几点到学校？|七点半|gio
+老师几点上课？|八点|gio
+猫在哪儿？|学校前|noi
+我在哪儿看见爸爸？|学校外|noi
+爸爸想去哪儿？|医院|noi
+爸爸今天忙吗？|很忙|dap
+@9/Bàn học và ghế
+这是我的房间。桌子上有三本书，桌子下有一只猫。椅子在桌子前。我明天上午在房间里学习，下午去学校上课。姐姐明天上午在学校读书，下午在家看电视。
+VI: Đây là phòng của tôi. Trên bàn có ba quyển sách, dưới bàn có một con mèo. Ghế ở trước bàn. Sáng mai tôi học trong phòng, chiều đến trường học. Sáng mai chị gái đọc sách ở trường, chiều xem tivi ở nhà.
+桌子上有几本书？|三本|so
+猫在哪儿？|桌子下|noi
+椅子在哪儿？|桌子前|noi
+明天上午我在哪儿学习？|房间里|noi
+明天下午我去哪儿？|学校|noi
+明天下午姐姐做什么？|看电视|viec
+@9/Buổi học với người bạn
+明天是星期日。我上午九点和朋友在学校学习中文。我们想看第一课。下午朋友在我家唱歌，我看电视。朋友的歌很好听。晚上我想去书店买书，朋友想在家休息。
+VI: Ngày mai là Chủ nhật. Chín giờ sáng tôi cùng bạn học tiếng Trung ở trường. Chúng tôi muốn đọc bài một. Buổi chiều bạn hát ở nhà tôi, tôi xem tivi. Bạn hát rất hay. Buổi tối tôi muốn đến hiệu sách mua sách, bạn muốn nghỉ ở nhà.
+明天星期几？|星期日|gio
+上午几点学习？|九点|gio
+我们想看第几课？|第一课|so
+下午谁唱歌？|朋友|nguoi
+我下午做什么？|看电视|viec
+晚上我想去哪儿？|书店|noi
+@9/Chó mèo trong sân trường
+学校前边有一只小狗。小狗的朋友是一只猫。白天猫在桌子下，小狗在房间外边玩。晚上小狗在家休息，猫在房间里。今天下午，我和朋友在学校前边看小狗。
+VI: Phía trước trường có một chú chó nhỏ. Bạn của chó là một con mèo. Ban ngày mèo ở dưới bàn, chó chơi ngoài phòng. Buổi tối chó nghỉ ở nhà, mèo ở trong phòng. Chiều nay tôi và bạn ngắm chú chó ở phía trước trường.
+学校前边有什么？|一只小狗|do
+小狗的朋友是谁？|一只猫|do
+白天猫在哪儿？|桌子下|noi
+白天小狗在哪儿玩？|房间外边|noi
+晚上小狗做什么？|休息|viec
+今天下午谁和我看小狗？|朋友|nguoi
+@9/Mượn sách để học
+朋友：你有中文书吗？
+我：有，桌子上有两本。一本是我的，一本是姐姐的。
+朋友：我想看第三课。
+我：好，我们今天下午在家学习吧！
+朋友：下午我有事。明天上午，你有事吗？
+我：好，明天九点见。
+VI: Bạn: Bạn có sách tiếng Trung không? Tôi: Có, trên bàn có hai quyển. Một quyển của mình, một quyển của chị. Bạn: Mình muốn đọc bài ba. Tôi: Được, chiều nay cùng học ở nhà nhé! Bạn: Chiều mình có việc. Sáng mai thì sao? Tôi: Được, mai chín giờ gặp.
+中文书在哪儿？|桌子上|noi
+桌子上有几本书？|两本|so
+一本书是谁的？|姐姐|nguoi
+朋友想看第几课？|第三课|so
+朋友今天下午有事吗？|有|dap
+明天几点见？|九点|gio
+@9/Một ngày của người thích hát
+妹妹喜欢唱歌，也喜欢看电视。她白天在学校学习，晚上在家唱歌。她的歌很好听。今天晚上我有中文课，不能和妹妹看电视。下课后，我想读书，不想看电影。
+VI: Em gái thích hát và xem tivi. Ban ngày em học ở trường, buổi tối hát ở nhà. Em hát rất hay. Tối nay tôi có lớp tiếng Trung, không thể xem tivi cùng em. Tan học tôi muốn đọc sách, không muốn xem phim.
+妹妹喜欢唱歌和____。|看电视|viec
+白天妹妹在哪儿学习？|学校|noi
+晚上妹妹在哪儿唱歌？|家|noi
+妹妹的歌____。|很好听|dap
+我今天晚上有什么课？|中文课|do
+下课后我想做什么？|读书|viec
+@10/Quầy táo trong siêu thị
+售货员：这边的苹果三块钱一斤，那边的五块钱一斤。
+我：这边真便宜！我买两斤。
+妈妈：我想买那边的苹果。
+我：那些苹果好看吗？
+妈妈：好看，也好吃。我买一斤。
+VI: Người bán: Táo bên này ba tệ một cân, bên kia năm tệ một cân. Tôi: Bên này rẻ thật! Tôi mua hai cân. Mẹ: Mẹ muốn mua táo bên kia. Tôi: Những quả đó có đẹp không? Mẹ: Đẹp và cũng ngon. Mẹ mua một cân.
+这边苹果一斤多少钱？|三块钱|so
+那边苹果一斤多少钱？|五块钱|so
+我买几斤？|两斤|so
+妈妈买几斤？|一斤|so
+哪边便宜？|这边|noi
+妈妈：苹果____。|好吃|dap
+@10/Chiếc áo nào phù hợp?
+我和姐姐去商店买衣服。这件衣服五十元，那件八十元。姐姐喜欢八十元的衣服，我喜欢五十元的。售货员：这些衣服很好看。我今天买一件，姐姐没有买。
+VI: Tôi và chị gái đến cửa hàng mua quần áo. Chiếc này năm mươi tệ, chiếc kia tám mươi tệ. Chị thích chiếc tám mươi tệ, tôi thích chiếc năm mươi tệ. Người bán nói những chiếc này rất đẹp. Hôm nay tôi mua một chiếc, chị không mua.
+我们去哪儿买衣服？|商店|noi
+这件衣服多少钱？|五十元|so
+那件衣服多少钱？|八十元|so
+我喜欢多少钱的衣服？|五十元|so
+姐姐喜欢多少钱的衣服？|八十元|so
+我买几件衣服？|一件|so
+@10/Hai chiếc cốc khác nhau
+桌子上有两个杯子。这是爸爸的杯子，那是妈妈的。爸爸的杯子很大，妈妈的小。爸爸的杯子二十块钱，妈妈的十五块钱。我喜欢妈妈的杯子，它很漂亮。我的杯子在房间里。
+VI: Trên bàn có hai chiếc cốc. Đây là cốc của bố, kia là cốc của mẹ. Cốc của bố lớn, cốc của mẹ nhỏ. Cốc của bố hai mươi tệ, cốc của mẹ mười lăm tệ. Tôi thích cốc của mẹ vì rất đẹp. Cốc của tôi ở trong phòng.
+桌子上有几个杯子？|两个|so
+谁的杯子大？|爸爸|nguoi
+爸爸的杯子多少钱？|二十块钱|so
+妈妈的杯子多少钱？|十五块钱|so
+我喜欢谁的杯子？|妈妈|nguoi
+我的杯子在哪儿？|房间里|noi
+@10/Đi mua trái cây cho gia đình
+今天我去超市买水果。苹果很便宜，三块钱一斤。我买三斤。妈妈喜欢苹果，爸爸不喜欢。我还想买牛奶。超市的牛奶五块钱。我买两？一？牛奶。妹妹想吃包子，我也买一些。
+VI: Hôm nay tôi đến siêu thị mua trái cây. Táo rất rẻ, ba tệ một cân. Tôi mua ba cân. Mẹ thích táo, bố không thích. Tôi còn muốn mua sữa. Sữa ở siêu thị giá năm tệ. Tôi cũng mua sữa. Em gái muốn ăn bánh bao nên tôi mua thêm một ít.
+今天我去哪儿？|超市|noi
+我去买什么水果？|苹果|mon
+苹果一斤多少钱？|三块钱|so
+我买几斤苹果？|三斤|so
+谁不喜欢苹果？|爸爸|nguoi
+妹妹想吃什么？|包子|mon
+@10/Cửa hàng trước hiệu sách
+学校外有一个商店，在书店前边。商店的售货员是我的姐姐。这里有衣服，也有杯子。这里的衣服不贵，杯子也很便宜。今天妈妈去买两个杯子。我下课后去看姐姐。
+VI: Ngoài trường có một cửa hàng, nằm trước hiệu sách. Người bán ở đó là chị gái tôi. Chị bán quần áo và cốc. Quần áo ở đây không đắt, cốc cũng rất rẻ. Hôm nay mẹ đến mua hai chiếc cốc. Sau giờ học tôi đến thăm chị.
+商店在哪儿？|学校外|noi
+商店在书店的哪边？|前边|noi
+谁是售货员？|姐姐|nguoi
+这里的衣服贵吗？|不贵|dap
+妈妈买几个杯子？|两个|so
+我____去看姐姐。|下课后|gio
+@11/Em trai học đại học
+我弟弟是大学生，正在学校学医。他早上六点半起床，晚上十点睡觉。昨天他在医院找爸爸，今天在家读书。他不想看电视。我问他：明天去不去书店？他想去，也想买一些书。
+VI: Em trai tôi là sinh viên đại học, đang học y ở trường. Em dậy lúc sáu giờ rưỡi sáng, ngủ lúc mười giờ tối. Hôm qua em đến bệnh viện tìm bố, hôm nay đọc sách ở nhà. Em không muốn xem tivi. Tôi hỏi mai em có đi hiệu sách không. Em muốn đi và cũng muốn mua một ít sách.
+弟弟是什么人？|大学生|nguoi
+弟弟正在学什么？|医|do
+弟弟几点起床？|六点半|gio
+弟弟几点睡觉？|十点|gio
+昨天弟弟去哪儿找爸爸？|医院|noi
+明天弟弟想去哪儿？|书店|noi
+@11/Đừng gọi khi đang ngủ
+姐姐：李文在哪儿？
+妈妈：他正在房间里睡觉。
+姐姐：现在九点，他还睡觉？
+妈妈：他昨天晚上在医院上班，今天早上六点下班。
+姐姐：我想问他什么时候去书店。
+妈妈：下午问吧。他现在要休息。
+VI: Chị gái: Lý Văn ở đâu ạ? Mẹ: Em đang ngủ trong phòng. Chị gái: Giờ chín giờ mà em vẫn ngủ sao? Mẹ: Tối qua em làm ở bệnh viện, sáng nay sáu giờ mới tan làm. Chị gái: Con muốn hỏi em một câu. Mẹ: Chiều hỏi nhé. Giờ em cần nghỉ.
+李文在哪儿？|房间里|noi
+李文正在做什么？|睡觉|viec
+现在几点？|九点|gio
+李文昨天晚上在哪儿上班？|医院|noi
+李文今天几点下班？|六点|gio
+妈妈想姐姐什么时候问？|下午|gio
+@11/Tìm bạn ở quán ăn
+今天我去饭店找朋友。朋友不在那里。他正在学校上课。我不知道他什么时候下课，想问他的姐姐。姐姐：他下午三点下课。现在你吃饭吧！我吃一些面条儿，三点去学校。
+VI: Hôm nay tôi đến quán ăn tìm bạn. Bạn không có ở đó mà đang học ở trường. Tôi không biết bạn tan học lúc nào nên hỏi chị gái của bạn. Chị bảo bạn tan học lúc ba giờ chiều và bảo tôi ăn cơm trước. Tôi ăn một ít mì, rồi đến trường lúc ba giờ.
+我去哪儿找朋友？|饭店|noi
+朋友在饭店吗？|不在|dap
+朋友正在做什么？|上课|viec
+朋友在哪儿？|学校|noi
+朋友几点下课？|三点|gio
+我吃什么？|面条儿|mon
+@11/Bố lái xe đến đâu?
+爸爸会开车。今天早上，他要去学校找老师。妈妈问：你知道老师在哪儿吗？爸爸：知道，在学校的大房间里。妈妈也想去。爸爸八点开车去，九点还要去医院上班。
+VI: Bố biết lái xe. Sáng nay bố muốn đến trường tìm giáo viên. Mẹ hỏi bố có biết giáo viên ở đâu không. Bố biết, ở phòng lớn trong trường. Mẹ cũng muốn đi. Bố lái xe đi lúc tám giờ, chín giờ còn phải đến bệnh viện làm việc.
+爸爸会做什么？|开车|viec
+爸爸要去哪儿找老师？|学校|noi
+老师在哪儿？|大房间里|noi
+谁也想去？|妈妈|nguoi
+爸爸几点开车去？|八点|gio
+爸爸九点要去哪儿？|医院|noi
+@11/Chọn học thay vì xem phim
+同学：今天晚上去不去看电影？
+我：不去。我正在读中文书，明天上午还有课。
+同学：你读第几课？
+我：第十课。我想问老师。
+同学：我也要学习。我们在学校见吧！
+VI: Bạn học: Tối nay đi xem phim không? Tôi: Không. Mình đang đọc sách tiếng Trung, sáng mai còn có lớp. Bạn học: Bạn đọc bài mấy? Tôi: Bài mười. Có chỗ mình chưa biết nên muốn hỏi thầy cô. Bạn học: Mình cũng phải học. Chúng ta gặp ở trường nhé!
+我今天晚上去看电影吗？|不去|dap|我：不去。
+我正在读什么？|中文书|do
+我明天什么时候有课？|上午|gio
+我正在读第几课？|第十课|so
+我想问谁？|老师|nguoi
+同学想在哪儿见？|学校|noi
+@12/Ngày đầu có tuyết
+昨天下雪了，天气很冷。今天早上，学校外有一些雪。我想去学校，妈妈：你有点儿热，在家休息吧。我今天喝水，在家看书。下午觉得不热了，想明天再去上课。
+VI: Hôm qua tuyết rơi, trời rất lạnh. Sáng nay ngoài trường có một ít tuyết. Tôi muốn đến trường, mẹ bảo tôi hơi nóng người nên ở nhà nghỉ. Hôm nay tôi uống nước, đọc sách ở nhà. Buổi chiều thấy không còn nóng nữa, tôi muốn ngày mai đi học lại.
+昨天天气怎么样？|很冷|dap
+学校外有什么？|雪|do
+妈妈想我在哪儿休息？|家|noi
+今天我喝什么？|水|mon
+我在家做什么？|看书|viec
+我想什么时候再去上课？|明天|gio
+@12/Đi khám cùng mẹ
+今天妈妈生病了，觉得有点儿冷。我和妈妈去医院看病。医生：您喝一点儿热水，再休息吧。您今天不上班。妈妈的公司在医院前边。下午我回家做饭，妈妈在房间里休息。
+VI: Hôm nay mẹ bị ốm, thấy hơi lạnh. Tôi đi cùng mẹ đến bệnh viện khám. Bác sĩ bảo mẹ uống một ít nước nóng và nghỉ, hôm nay mẹ không đi làm. Công ty của mẹ ở trước bệnh viện. Chiều tôi về nhà nấu cơm, mẹ nghỉ trong phòng.
+谁生病了？|妈妈|nguoi
+妈妈觉得怎么样？|有点儿冷|dap
+我们去哪儿看病？|医院|noi
+医生想妈妈喝什么？|热水|mon
+妈妈的公司在哪儿？|医院前边|noi
+下午我回家做什么？|做饭|viec
+@12/Cơn mưa làm đổi kế hoạch
+今天下午下雨了。我和朋友想去电影院，现在不去了。朋友来我家，我们在家看电影。妈妈回来了，觉得有点儿冷。她想喝热水。晚上雨很大，我们不想去超市。家里还有米饭和菜。
+VI: Chiều nay trời mưa. Tôi và bạn định đến rạp nhưng giờ không đi nữa. Bạn đến nhà tôi, chúng tôi xem phim ở nhà. Mẹ về, thấy hơi lạnh và muốn uống nước nóng. Buổi tối mưa rất lớn, chúng tôi không muốn đi siêu thị. Trong nhà vẫn có cơm và món ăn.
+今天下午天气怎么样？|下雨了|dap
+我们现在去电影院吗？|不去|dap
+朋友来哪儿？|我家|noi
+我们在家做什么？|看电影|viec
+谁觉得有点儿冷？|妈妈|nguoi
+家里还有什么？|米饭和菜|mon
+@12/Nước nóng hay nước lạnh?
+我下班回到家，觉得太热了，想喝冷水。爸爸：你有点儿生病，喝热水吧。妈妈在医院看病，还没有回家。我喝一点儿热水，在房间里休息。晚上妈妈回来了，她想喝一点儿水。
+VI: Tôi tan làm về nhà, thấy nóng quá và muốn uống nước lạnh. Bố bảo tôi hơi ốm nên uống nước nóng. Mẹ đang khám ở bệnh viện, chưa về nhà. Tôi uống một ít nước nóng rồi nghỉ trong phòng. Tối mẹ về, mẹ muốn uống một ít nước.
+我下班回到哪儿？|家|noi
+我觉得怎么样？|太热了|dap
+我想喝什么？|冷水|mon
+爸爸想我喝什么？|热水|mon
+妈妈在哪儿看病？|医院|noi
+我在哪儿休息？|房间里|noi
+@12/Lời nhắn từ công ty
+爸爸：我今天不回家吃午饭了，公司有事。
+妈妈：外边下雨了，你冷不冷？
+爸爸：不冷，公司里很热。
+妈妈：我有点儿生病，想去医院。
+爸爸：好。晚上我回家做饭，你休息吧。
+VI: Bố: Hôm nay bố không về nhà ăn trưa nữa, công ty có việc. Mẹ: Ngoài trời mưa rồi, bố có lạnh không? Bố: Không lạnh, trong công ty rất nóng. Mẹ: Mẹ hơi ốm, muốn đến bệnh viện. Bố: Được. Tối bố về nấu cơm, mẹ nghỉ nhé.
+爸爸今天在哪儿吃午饭？|公司|noi
+外边天气怎么样？|下雨了|dap
+公司里冷吗？|不冷|dap
+谁有点儿生病？|妈妈|nguoi
+妈妈想去哪儿？|医院|noi
+晚上谁做饭？|爸爸|nguoi
+@13/Gọi bữa sáng ở quán
+服务员：先生，您要什么？
+我：请给我一杯茶、一个鸡蛋和一些面包。
+服务员：好。女士，您呢？
+妈妈：我要一杯热牛奶，不想吃鸡蛋。
+我：妈妈，您可以吃一半面包。
+妈妈：谢谢！我喝牛奶。
+VI: Phục vụ: Thưa ông, ông dùng gì? Tôi: Xin cho tôi một cốc trà, một quả trứng và một ít bánh mì. Phục vụ: Còn vị nữ khách này? Mẹ: Tôi muốn một cốc sữa nóng, không muốn ăn trứng. Tôi: Mẹ có thể ăn một nửa bánh mì. Mẹ: Cảm ơn! Mẹ uống sữa.
+谁问我要什么？|服务员|nguoi
+我要一杯什么？|茶|mon
+我要几个鸡蛋？|一个|so
+妈妈要什么？|热牛奶|mon
+妈妈想吃鸡蛋吗？|不想|dap
+妈妈可以吃多少面包？|一半|so
+@13/Xin phép ngồi cùng bàn
+我去饭店吃午饭。桌子前有一个先生，他正在喝茶。我问：请问，我可以坐这儿吗？先生：可以，请坐。我在这儿吃午饭，服务员给我一杯水。我想看一下今天卖什么。这里的面条儿很便宜。
+VI: Tôi đến quán ăn ăn trưa. Trước bàn có một người đàn ông đang uống trà. Tôi hỏi có thể ngồi ở đây không. Ông đồng ý và mời ngồi. Tôi ăn trưa ở đây, phục vụ đưa cho tôi một cốc nước. Tôi muốn xem hôm nay quán bán gì. Mì ở đây rất rẻ.
+我去哪儿吃午饭？|饭店|noi
+先生正在喝什么？|茶|mon
+我可以坐这儿吗？|可以|dap
+谁给我水？|服务员|nguoi
+服务员给我什么？|一杯水|mon
+这里的什么很便宜？|面条儿|mon
+@13/Cuộc gọi hỏi món hàng
+我给超市打电话：请问，你们卖面包吗？售货员：卖，今天的面包很好吃。我：我还想买鸡蛋，多少钱一个？售货员：一块钱一个。我：好，我下午去。妈妈想买牛奶，我也买一些牛奶。
+VI: Tôi gọi điện cho siêu thị hỏi có bán bánh mì không. Người bán bảo có, bánh hôm nay rất ngon. Tôi còn muốn mua trứng và hỏi giá. Trứng một tệ một quả. Tôi nói chiều sẽ đến. Mẹ muốn mua sữa, tôi cũng sẽ mua một ít.
+我给哪儿打电话？|超市|noi
+我问____。|售货员|nguoi
+超市卖面包吗？|卖|dap
+鸡蛋一个多少钱？|一块钱|so
+我什么时候去？|下午|gio
+妈妈想买什么？|牛奶|mon
+@13/Chia nửa chiếc bánh mì
+今天早饭，我和妹妹吃面包。妹妹没有杯子，我给她一个杯子。妈妈给我们热牛奶。妹妹：我可以吃一半面包吗？我：可以，我吃一半。爸爸现在还在睡觉，我们给他一些面包和一个鸡蛋。
+VI: Bữa sáng hôm nay tôi và em gái ăn bánh mì. Em không có cốc nên tôi đưa em một chiếc. Mẹ cho chúng tôi sữa nóng. Em hỏi có thể ăn nửa bánh mì không. Tôi đồng ý, mình ăn một nửa. Bố vẫn đang ngủ, chúng tôi dành cho bố một ít bánh mì và một quả trứng.
+今天早饭我们吃什么？|面包|mon
+妹妹没有什么？|杯子|do
+我给妹妹什么？|一个杯子|do
+谁给我们热牛奶？|妈妈|nguoi
+妹妹吃多少面包？|一半|so
+爸爸正在做什么？|睡觉|viec
+@13/Hỏi giáo viên một chút
+下课后，我给老师打电话。老师正在吃晚饭。我问：老师，我可以问一下吗？老师：可以，你有什么问题？我想问第十二课。老师：你看一下书，明天上午来学校，我和你读。我：谢谢老师！
+VI: Sau giờ học, tôi gọi cho giáo viên. Thầy/cô đang ăn tối. Tôi xin phép hỏi một chút. Thầy/cô đồng ý và hỏi tôi có câu hỏi gì. Tôi muốn hỏi bài mười hai. Thầy/cô bảo tôi xem sách, sáng mai đến trường để cùng đọc. Tôi cảm ơn thầy/cô.
+我什么时候打电话？|下课后|gio
+我给谁打电话？|老师|nguoi
+老师正在做什么？|吃晚饭|viec
+我想问第几课？|第十二课|so
+明天什么时候来学校？|上午|gio
+老师想我看一下什么？|书|do
+@14/Đi xem phim rồi kể lại
+昨天下午，我和朋友看了一个电影。电影很好看，我们都很喜欢。我们还在饭店吃了晚饭。我吃面条儿，朋友吃米饭。今天朋友给我打电话，还想看那个电影。我想明天在家看书。
+VI: Chiều qua tôi và bạn xem một bộ phim. Phim rất hay, cả hai đều thích. Chúng tôi ăn tối ở quán sau đó. Tôi ăn mì, bạn ăn cơm. Hôm nay bạn gọi cho tôi, vẫn muốn xem bộ phim ấy. Tôi muốn ngày mai đọc sách ở nhà.
+我们什么时候看电影？|昨天下午|gio
+电影怎么样？|很好看|dap
+我们在哪儿吃晚饭？|饭店|noi
+我吃什么？|面条儿|mon
+朋友吃什么？|米饭|mon
+明天我想做什么？|看书|viec
+@14/Phân công buổi học tiếng Hán
+今天中文课，老师写了三个汉字。我们都看见了。有的同学读书，有的同学写字。我听见姐姐读汉语，她读书很好听。下课后，我问老师哪些字要写。老师给我一本书：不要只看，还要写。
+VI: Trong giờ tiếng Trung hôm nay, giáo viên viết ba chữ Hán. Chúng tôi đều nhìn thấy. Có bạn đọc sách, có bạn viết chữ. Tôi nghe chị gái đọc tiếng Hán, rất hay. Tan học tôi hỏi giáo viên những chữ nào khó. Thầy/cô đưa tôi một quyển sách và dặn đừng chỉ xem mà còn phải viết.
+老师写了几个汉字？|三个|so
+我们看见了吗？|看见了|dap
+有的同学读什么？|书|do
+有的同学做什么？|写字|viec
+谁读汉语？|姐姐|nguoi
+老师给我什么？|一本书|do
+@14/Lời nhắn trong thư viện nhỏ
+我今天在学校读了两本书。第一本是中文书，第二本也是中文书。房间里有很多同学，他们都在学习。有些同学说话，我想：不要说话，大家在读书呢。下午我还要写汉字，晚上再看电视。
+VI: Hôm nay tôi đọc hai quyển sách ở trường. Quyển thứ nhất là sách tiếng Trung, quyển thứ hai cũng là sách tiếng Hán. Trong phòng có nhiều bạn học, tất cả đều đang học. Một số bạn nói chuyện, tôi nghĩ: Đừng nói chuyện, mọi người đang đọc sách mà. Chiều tôi còn phải viết chữ Hán, tối mới xem tivi.
+我今天读了几本书？|两本|so
+我在哪儿读书？|学校|noi
+第一本是什么书？|中文书|do
+同学们都在做什么？|学习|viec
+有些同学做什么？|说话|viec
+我下午还要做什么？|写汉字|viec
+@14/Bọn trẻ đi học khác trường
+我有两个孩子。儿子是小学生，女儿是中学生。昨天儿子在家写了十个汉字，女儿读了三本书。他们都喜欢学习。今天我开车，他们上学。晚上我们不看电视，想听女儿读汉语。
+VI: Tôi có hai người con. Con trai là học sinh tiểu học, con gái là học sinh trung học. Hôm qua con trai viết mười chữ Hán ở nhà, con gái đọc ba quyển sách. Cả hai đều thích học. Hôm nay tôi lái xe, các con đi học. Buổi tối chúng tôi không xem tivi, muốn nghe con gái đọc tiếng Hán.
+我有几个孩子？|两个|so
+儿子是什么学生？|小学生|nguoi
+女儿是什么学生？|中学生|nguoi
+儿子写了几个汉字？|十个|so
+女儿读了几本书？|三本|so
+晚上我们想听谁读汉语？|女儿|nguoi
+@14/Chuyến tàu và cuộc gọi muộn
+昨天我坐火车去看姐姐。火车上有很多人，有的在睡觉，有的在看书。我给姐姐打电话了。她没有听见。晚上她再给我打电话：你到哪儿了？我：我到了你家外边。她很高兴。我们在她家见。
+VI: Hôm qua tôi đi tàu hỏa đến thăm chị. Trên tàu có nhiều người, có người ngủ, có người đọc sách. Tôi gọi cho chị nhưng chị không nghe thấy. Buổi tối chị gọi lại hỏi tôi đến đâu rồi. Tôi đã ở bên ngoài nhà chị. Chị rất vui. Chúng tôi gặp nhau ở nhà chị.
+我昨天怎么去看姐姐？|坐火车|viec
+火车上人多吗？|很多|dap
+有的人在看什么？|书|do
+我给谁打电话？|姐姐|nguoi
+姐姐听见电话了吗？|没有|dap
+我到了哪儿？|姐姐家外边|noi
+@15/Đón người nhà ở sân bay
+明天妈妈坐飞机来北京。我和爸爸去机场接她。飞机下午两点到，我们一点半去机场。爸爸想开车，我想坐出租车。妈妈去年住在西安，今年想在北京住一些时间。我很想妈妈。
+VI: Ngày mai mẹ đi máy bay đến Bắc Kinh. Tôi và bố đến sân bay đón mẹ. Máy bay đến lúc hai giờ chiều, chúng tôi đi sân bay lúc một giờ rưỡi. Bố muốn lái xe, tôi muốn đi taxi. Năm ngoái mẹ ở Tây An, năm nay muốn ở Bắc Kinh một thời gian. Tôi rất nhớ mẹ.
+谁明天来北京？|妈妈|nguoi
+妈妈怎么来？|坐飞机|viec
+飞机几点到？|下午两点|gio
+我们几点去机场？|一点半|gio
+爸爸想怎么去？|开车|viec
+妈妈去年住在哪儿？|西安|noi
+@15/Tính thời gian đến trường
+我住在北京，朋友住在学校前边。我早上七点起床，八点去学校。坐出租车要半个小时，朋友只要五分钟。明天我们九点上课，我想八点半到。朋友：你太早了！我们可以在学校外吃早饭。
+VI: Tôi sống ở Bắc Kinh, bạn sống trước trường. Buổi sáng tôi dậy lúc bảy giờ, đến trường lúc tám giờ. Đi taxi mất nửa giờ, bạn chỉ mất năm phút. Mai chúng tôi học lúc chín giờ, tôi muốn đến lúc tám giờ rưỡi. Bạn bảo tôi đến sớm quá, chúng tôi có thể ăn sáng bên ngoài trường.
+我住在哪儿？|北京|noi
+朋友住在哪儿？|学校前边|noi
+我几点起床？|七点|gio
+我坐出租车要多少时间？|半个小时|gio
+朋友要几分钟？|五分钟|so
+明天几点上课？|九点|gio
+@15/Chọn điểm đến cho năm tới
+去年我们一家人去了西安。那里的水果很便宜，饭也好吃。爸爸喜欢西安，妈妈想明年去北京。我爱看书，想去北京的书店。妹妹想坐飞机。我们还没有买。现在看一下时间。
+VI: Năm ngoái cả gia đình tôi đến Tây An. Trái cây ở đó rẻ, thức ăn cũng ngon. Bố thích Tây An, mẹ muốn năm sau đến Bắc Kinh. Tôi thích đọc sách, muốn đi hiệu sách ở Bắc Kinh. Em gái muốn đi máy bay. Chúng tôi vẫn chưa mua. Giờ chúng tôi xem thời gian.
+去年我们去哪儿？|西安|noi
+哪里的水果很便宜？|西安|noi
+谁喜欢西安？|爸爸|nguoi
+妈妈想什么时候去北京？|明年|gio
+我想去北京的哪儿？|书店|noi
+妹妹想怎么去？|坐飞机|viec
+@15/Bạn trai đến thăm gia đình
+姐姐的男朋友明天来我家。他是中国人，现在住在西安。他喜欢汉语，也喜欢唱歌。姐姐想在家做饭，妈妈还想买一些水果。我下午去机场接他，姐姐在家做菜。我们晚上六点半吃饭。
+VI: Ngày mai bạn trai của chị gái đến nhà tôi. Anh ấy là người Trung Quốc, hiện sống ở Tây An. Anh thích tiếng Hán và ca hát. Chị muốn nấu cơm ở nhà, mẹ còn muốn mua ít trái cây. Chiều tôi đến sân bay đón anh, chị ở nhà làm món ăn. Chúng tôi ăn tối lúc sáu giờ rưỡi.
+谁明天来我家？|姐姐的男朋友|nguoi
+他现在住在哪儿？|西安|noi
+他喜欢汉语和什么？|唱歌|viec
+妈妈还想买什么？|水果|mon
+谁去机场接他？|我|nguoi
+我们几点吃饭？|六点半|gio
+@15/Chuyến đi ngắn và ngày trở về
+我和朋友在北京住了三天。第一天看了电影，第二天去了书店，第三天在学校看朋友。北京很好玩儿，我很喜欢。明天早上我坐火车回西安，朋友还要在北京住一年。他明年再回家。
+VI: Tôi và bạn ở Bắc Kinh ba ngày. Ngày đầu xem phim, ngày thứ hai đến hiệu sách, ngày thứ ba đến trường thăm bạn. Bắc Kinh rất thú vị, tôi rất thích. Sáng mai tôi đi tàu hỏa về Tây An, bạn còn ở Bắc Kinh một năm. Năm sau bạn mới về nhà.
+我们在北京住了几天？|三天|so
+第一天我们做什么？|看电影|viec
+第二天我们去哪儿？|书店|noi
+我明天怎么回西安？|坐火车|viec
+朋友还要在北京住多少时间？|一年|gio
+朋友什么时候回家？|明年|gio
