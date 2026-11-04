@@ -1,0 +1,810 @@
+@1/Bức ảnh không giống người đến đón
+今天我们去机场接一位来学校上课的老师。我们没有见过他，只有手机上的照片。照片里的人头发很长，看起来很年轻，手里拿着一个白色箱子。爸爸让我站在服务台旁边，他到中间去看看。过了一会儿，一个短头发的先生向我走过来，问我是不是学校的学生。我以为他只是来问路，就给他介绍了去学校的车。他笑着说，他就是我们要接的老师，照片是很多年前的。我看了看，他身高一米八，跟照片里的人一样高，箱子也一样。爸爸回来了，才知道自己一直在找一个长头发的人。老师说，照片可以帮助认识一个人，但今天的头发不一定跟过去一样。我们一起去吃午饭，我还给他介绍了明天上课的教室。
+VI: Hôm nay chúng tôi ra sân bay đón giáo viên sẽ dạy ở trường, chỉ biết người ấy qua ảnh điện thoại. Trong ảnh thầy tóc dài, trẻ, cầm vali trắng. Bố bảo tôi đợi cạnh quầy dịch vụ, bố vào giữa tìm. Một người tóc ngắn đến hỏi tôi có phải học sinh trường không; tưởng hỏi đường, tôi giới thiệu xe đến trường. Thầy cười nói chính mình là người chúng tôi đón, ảnh chụp nhiều năm trước. Chiều cao một mét tám và vali vẫn giống ảnh. Bố quay lại mới biết đã tìm người tóc dài suốt. Thầy bảo ảnh giúp nhận ra người nhưng tóc hiện tại có thể khác. Chúng tôi ăn trưa, tôi giới thiệu phòng học ngày mai.
+照片里老师的头发怎么样？|很长|dap
+爸爸让我站在哪儿？|服务台旁边|noi
+我开始以为先生要做什么？|问路|viec
+现在老师的头发怎么样？|短|tu
+老师身高多少？|一米八|so
+照片是什么时候的？|很多年前|gio
+@1/Hai chiếc vali đổi chủ ở nhà
+明天姐姐和哥哥都要出去旅游。姐姐去北京，哥哥去西安，两个人的箱子都是黑色的，大小也很像。晚上妈妈让他们检查东西，别明天到了机场才发现不对。姐姐打开箱子，看到里面是一件男的衣服，就知道自己拿错了。哥哥还没回来，正在学校上课。姐姐给他打电话，让他回家后不要拿错箱子。哥哥说自己的护照在书包里，不在箱子里，箱子错了也不用太着急。妈妈说，护照重要，衣服和药也不能少。她让姐姐在箱子上写上自己的名字，再看清楚第二天的飞机时间。十点哥哥回家，两个人一起检查。姐姐找到了自己的衣服，哥哥找到了爸爸给他的书。他们都觉得，家里发现问题很好，明天出门就可以放心一点儿了。
+VI: Mai chị đi Bắc Kinh, anh đi Tây An. Hai vali đen giống kích cỡ nên mẹ nhắc kiểm tra tối nay, đừng đến sân bay mới biết nhầm. Chị mở thấy đồ nam nên gọi anh đang học, dặn về đừng lấy sai. Anh bảo hộ chiếu ở cặp chứ không trong vali, nên chưa cần quá lo. Mẹ nhắc ngoài hộ chiếu còn cần quần áo, thuốc, bảo viết tên lên vali và xem giờ bay. Mười giờ anh về, cả hai cùng kiểm tra; chị tìm được quần áo, anh có sách bố cho. Phát hiện ở nhà thì mai đi yên tâm hơn.
+姐姐要去哪儿旅游？|北京|noi
+两个人的箱子是什么颜色？|黑色|tu
+姐姐在箱子里看到什么？|男的衣服|do
+哥哥的护照在哪儿？|书包里|noi
+妈妈让姐姐写什么？|名字|do
+哥哥几点回家？|十点|gio
+@1/Lời giới thiệu dưới ảnh lớp học
+老师想给新同学看我们班的照片，让大家写几句介绍。我拿着三年前的照片，发现很多人现在都不一样了。那时候我又小又瘦，现在已经有一米七。姐姐的头发过去很短，现在很长。我想只写身高和头发，朋友说这些会变，还可以介绍大家喜欢做什么。他喜欢运动，一直想学游泳；我喜欢看书，已经看了很多中文书。我们拿照片给老师看，她让我们站在照片旁边，说说谁是谁。新同学听得很高兴，有个人以为照片中间的男孩儿是我哥哥，我说那就是我。下课后，大家没有马上离开，还问了很多过去的事。我觉得照片不只是给人看脸，也可以帮助新同学知道我们的生活。回家后我给妈妈打电话，让她再找一些小时候的照片。
+VI: Giáo viên nhờ viết giới thiệu ảnh cho bạn mới. Tôi lấy ảnh ba năm trước, thấy nhiều người thay đổi: mình hồi đó thấp, gầy, nay một mét bảy; chị tóc ngắn nay dài. Tôi định chỉ ghi ngoại hình, bạn gợi ý thêm sở thích vì ngoại hình đổi. Bạn thích thể thao, tôi thích sách. Chúng tôi đứng cạnh ảnh giới thiệu với lớp. Có bạn tưởng người ở giữa là anh trai tôi, thực ra là tôi. Tan học mọi người vẫn hỏi chuyện cũ. Tôi thấy ảnh còn giúp hiểu cuộc sống chứ không chỉ nhìn mặt, về gọi mẹ tìm thêm ảnh thời nhỏ.
+照片是几年前的？|三年|gio
+我现在身高多少？|一米七|so|那时候我又小又瘦，现在已经有一米七。
+姐姐现在头发怎么样？|很长|dap
+朋友喜欢做什么？|运动|viec|他喜欢运动，一直想学游泳；我喜欢看书，已经看了很多中文书。
+新同学以为中间的人是谁？|我哥哥|nguoi
+我让妈妈再找什么？|小时候的照片|do
+@1/Điện thoại ở quầy dịch vụ
+下午我在学校外买东西，看见服务台上有一个手机。一个先生正在问大家是谁丢的。我以为是妈妈的，因为她的手机也是白色的，就走过去看看。手机上的照片是两个孩子，但那不是我和妹妹。我知道自己看错了，没有拿走。先生让我给妈妈打电话，问她手机在不在。妈妈说手机就在手里，她现在正准备来接我。过了一会儿，一位着急的女士来了，说自己在买水果的时候找不到手机。先生问她号码，她很快说出来，还介绍了照片里的孩子。我听见以后，觉得这样做很好，不能只看颜色就拿东西。妈妈到的时候，我给她介绍了这件事。她让我下次丢了东西也别马上离开，可以先到服务台问问。我想，一个小手机里有很多重要的东西，自己也要看看。
+VI: Chiều mua đồ ngoài trường, tôi thấy điện thoại trắng ở quầy dịch vụ, tưởng của mẹ. Nhìn ảnh màn hình là hai đứa trẻ khác, tôi biết nhầm và không lấy. Người ở quầy bảo gọi mẹ; mẹ đang cầm điện thoại và chuẩn bị đón tôi. Một phụ nữ lo lắng đến, nói mất máy lúc mua trái cây. Bà đọc số và giới thiệu con trong ảnh, người ở quầy nhận đúng chủ. Tôi thấy không nên chỉ nhìn màu rồi lấy. Mẹ đến nghe chuyện, dặn mất đồ đừng bỏ đi ngay, hãy hỏi quầy dịch vụ. Tôi cũng muốn giữ cẩn thận vì máy có nhiều thứ quan trọng.
+手机是什么颜色？|白色|tu
+我开始以为是谁的？|妈妈|nguoi|我以为是妈妈的，因为她的手机也是白色的，就走过去看看。
+照片里是我和妹妹吗？|不是|dap
+妈妈的手机在哪儿？|她手里|noi|妈妈说手机就在手里，她现在正准备来接我。
+女士什么时候找不到手机？|买水果的时候|gio
+先生问女士什么？|手机号码|do|先生问她号码，她很快说出来，还介绍了照片里的孩子。
+@1/Lời nhắn của giáo viên mới
+同学们：你们好！我是明天来上课的中文老师。我从北京来，现在住在学校旁边的小房子里。我的头发很短，身高一米八，明天会穿白色的衣服。你们没有见过我，可以在教室外看我的照片。明天下午三点，我们在大教室见面，不用带很多书，带一个本子和一支笔就可以。第一天我想听听大家喜欢做什么，不只问名字和几岁了。喜欢运动的同学，可以介绍自己会做哪些运动；喜欢看书的，也可以说说看过的书。我年轻的时候喜欢游泳，现在也常常去。上课前有问题，可以到服务台问，东西不见了也请到那里去，不要太着急。下课后我还会在教室坐一会儿，想跟我说话的同学不用马上走。希望明天能认识你们，也希望我们以后能一起学习。
+VI: Các em thân mến, tôi là giáo viên tiếng Trung đến dạy ngày mai, từ Bắc Kinh, hiện ở căn nhà nhỏ cạnh trường. Tôi tóc ngắn, cao một mét tám, mai mặc áo trắng; có thể xem ảnh ngoài lớp. Ba giờ chiều gặp ở phòng học lớn, chỉ cần vở và bút. Buổi đầu tôi muốn nghe sở thích chứ không chỉ tên, tuổi: các em kể môn thể thao hoặc sách đã đọc. Thời trẻ tôi thích bơi, nay vẫn thường đi. Có câu hỏi hay thất lạc đồ hãy tới quầy dịch vụ, đừng lo quá. Sau giờ tôi ở lại để trò chuyện, mong quen và giúp đỡ nhau.
+老师从哪里来？|北京|noi
+明天下午几点见面？|三点|gio
+大家在哪里见面？|大教室|noi
+大家要带一个本子和什么？|一支笔|do
+东西不见了可以去哪里？|服务台|noi
+老师年轻时喜欢什么运动？|游泳|viec
+@2/Món ăn cho người ăn ít
+今天中午，我和两位同学去学校前面的饭馆。菜单上有很多菜，一位同学说自己早饭吃得晚，现在不太饿，但是还有一位很饿，想点很多。我说大家想吃什么就点什么，但可以少点一些，不够再买。我们选了鱼和鸡，还点了三碗米饭。我很渴，想喝凉牛奶，服务员说只有热的和茶。我选了茶，同学们都喝水。菜送来以后，我们发现鱼比照片上大，三个人吃已经够了。那位不太饿的同学也尝了很多，说味道又好又不太贵。吃完后，服务员问要不要蛋糕，我们都说今天不要了。回学校的路上，我想点菜不一定要一下点很多，知道大家的意思，再看看菜单，吃得好也不会买太多东西。我还记下了三个人喜欢吃什么，下次一起吃饭，就知道可以先问哪些菜。
+VI: Trưa tôi và hai bạn ra quán. Một bạn ăn sáng muộn nên ít đói, bạn kia rất đói muốn gọi nhiều. Tôi đề nghị gọi món thích nhưng ít trước, thiếu mới thêm. Chúng tôi chọn cá, gà, ba bát cơm. Tôi khát muốn sữa lạnh nhưng chỉ có nóng và trà nên chọn trà, các bạn uống nước. Cá đến lớn hơn ảnh, ba người ăn đủ; bạn ít đói cũng khen ngon, không đắt. Ăn xong không ai muốn bánh. Tôi thấy nên hiểu nhu cầu rồi gọi vừa đủ, không cần nhiều ngay từ đầu.
+我们有几个人？|三个|so
+一个同学为什么不太饿？|早饭吃得晚|dap
+我们选了什么菜？|鱼和鸡|mon
+我喝什么？|茶|mon
+鱼比照片上怎么样？|大|tu
+吃完后我们还要蛋糕吗？|不要|dap
+@2/Đồ ăn gửi nhầm phòng
+下午老师请我们帮忙给来学校的同学介绍中文书。到了十二点，大家都饿了，老师就用手机点外卖。我想吃面条，同学想吃鸡和米饭，我们还点了热水。等了半个小时，饭没有来，老师给饭馆打电话。服务员说已经送到了，可是我们谁也没看见。我出去看了一下，前面的教室里有三个同学，桌子上正是我们的饭。他们也点了外卖，以为桌子上的东西是自己的，但还没有吃。我问了一下号码，知道饭馆看错了两个教室的号码。我们一起给服务员打电话，介绍了这件事。几分钟后，他们的面条也来了。大家没有生气，还坐在一起吃午饭。服务员说下次会看清楚再送，我觉得有问题时，先问清楚比着急更有帮助。
+VI: Chúng tôi giúp giáo viên giới thiệu sách cho bạn đến trường. Trưa đói nên đặt mì, cơm gà và nước nóng. Nửa giờ chưa thấy, quán bảo đã giao. Tôi sang lớp phía trước thấy ba bạn cùng bàn đồ của chúng tôi; họ cũng đặt nên tưởng của mình, nhưng chưa ăn. Đối chiếu số mới biết quán nhầm phòng. Chúng tôi gọi giải thích, vài phút sau mì của nhóm kia cũng đến. Không giận, mọi người ngồi ăn cùng. Quán hứa xem kỹ số lần sau. Tôi thấy có chuyện nên hỏi rõ thay vì chỉ lo.
+老师让我们介绍什么？|中文书|do
+我们等了多少时间？|半个小时|gio
+饭送到了哪儿？|前面的教室|noi
+那三个同学已经吃了吗？|没有|dap
+饭馆看错了什么？|教室的号码|do
+后来大家一起做什么？|吃午饭|viec
+@2/Đôi đũa cho người bạn mới
+我的朋友第一次到中国，今天来我家吃晚饭。我知道他会说一点儿中文，但不知道他会不会用筷子。妈妈已经准备好鱼、菜和米饭，还让我给每个人拿一双筷子。朋友坐下以后，看了看桌子，说菜的味道很好，但手里的筷子不太听话。他试了一会儿，碗里的米饭还是很多。我想马上给他拿勺子，但是妈妈问他想不想再试。他说很想学，就请我慢慢给他看。我没有一直帮助他，让他自己试，最后他能吃一点儿了。吃完后，他说今天不是只尝了中国菜，还学了一个新办法。我让他下次再来，可以自己选菜单。妈妈拿来蛋糕和饮料，我们说了很多他家里的事。他说不用太客气，和家人一起吃饭就很好。
+VI: Bạn lần đầu đến Trung Quốc, tối nay đến nhà. Mẹ làm cá, rau, cơm và nhờ tôi lấy đũa. Bạn nói món ngon nhưng chưa điều khiển được đũa, thử mãi cơm vẫn còn. Tôi định lấy thìa, mẹ hỏi bạn có muốn học tiếp không. Bạn muốn nên nhờ tôi làm chậm cho xem. Tôi để bạn tự thử và bạn ăn được một ít. Bạn vui vì vừa thử món Trung Quốc vừa học kỹ năng mới. Tôi mời lần sau tự chọn thực đơn. Mẹ mang bánh, nước, mọi người trò chuyện chuyện nhà; bạn bảo không cần khách sáo, ăn như gia đình là tốt.
+朋友第几次来中国？|第一次|so
+妈妈让我给每个人拿什么？|一双筷子|do
+我想给朋友拿什么？|勺子|do
+妈妈问朋友想不想做什么？|再试|viec
+吃完后妈妈拿来什么？|蛋糕和饮料|mon
+我让朋友下次自己选什么？|菜单|do
+@2/Thực đơn trên điện thoại khác ở quán
+下课后，我想请姐姐吃饭，在手机上看了一家饭馆的菜单。照片上的面条又多又便宜，我就给姐姐打电话，让她在学校外等我。我们到了饭馆，但是服务员给的菜单跟手机上的不一样。面条现在贵了五元，鱼也不是每天都有。我有点儿不好意思，以为自己让姐姐来错了地方。她让我先问问服务员。服务员说，手机上的菜单是去年的，现在还有面条，只是不能跟去年一样便宜。我问有没有简单一点儿的饭，他给我们介绍了鸡肉饭。我和姐姐都觉得不错，就选了这个，还要了两杯茶。吃完后，我没有马上去写不好的话，想先在手机上看看日期。原来是自己没有看清楚以前的菜单。下次请人吃饭，我还要问问今天有什么。
+VI: Tôi xem thực đơn quán trên điện thoại, thấy mì nhiều rẻ nên mời chị tan học đợi ngoài trường. Đến nơi thực đơn khác: mì tăng năm tệ, cá không có mỗi ngày. Tôi ngại tưởng chọn nhầm quán. Hỏi mới biết ảnh trên mạng là thực đơn năm ngoái, hiện vẫn bán mì nhưng giá mới. Tôi hỏi món đơn giản hơn, quán gợi ý cơm gà; chúng tôi chọn cùng trà. Ăn xong tôi chưa vội viết nhận xét xấu mà xem ngày trên ảnh, biết mình chưa đọc kỹ. Lần sau mời ai tôi sẽ hỏi món hôm nay.
+我在哪里看菜单？|手机上|noi
+我请谁吃饭？|姐姐|nguoi
+面条现在贵了多少钱？|五元|so
+手机上的菜单是哪年的？|去年|gio
+我们最后选了什么？|鸡肉饭|mon
+我们喝了什么？|茶|mon
+@2/Đồ uống cho buổi học chiều
+今天下午有四个同学来我家看书。我早上去超市买了牛奶、面包和一些方便面，以为谁饿了都可以吃。中午天气很热，我已经喝了两杯水。朋友们到的时候，大家都渴了，我让他们选饮料。一个同学不喝牛奶，还有一个不想喝凉的，还有一个说水就可以。我发现给大家买一样的东西不一定方便，就问每个人想喝什么。妈妈给我们准备了热茶和水，还拿来几个碗，说想吃方便面的人可以自己做。看书看了一个小时，我们休息一下。两个同学饿了，一起做面，还有两个人吃面包。我没有让大家一定吃我买的东西，觉得客人自己选也很好。晚上朋友走后，妈妈说请人来家里，热情重要，也要知道每个人的习惯。
+VI: Chiều bốn bạn đến học, tôi mua sữa, bánh mì, mì ăn liền để ai đói có thể ăn. Trời nóng, các bạn đến đều khát nhưng người không uống sữa, người không uống lạnh, người chỉ cần nước. Tôi nhận ra không nên mua giống nhau cho tất cả, hỏi từng bạn. Mẹ chuẩn bị trà, nước và bát để ai muốn tự làm mì. Học một giờ rồi nghỉ, hai bạn nấu mì, hai bạn ăn bánh. Tôi không ép ăn đồ mình mua. Khách về, mẹ nhắc hiếu khách cũng cần hiểu sở thích mỗi người.
+下午有几个同学来？|四个|so
+我早上去哪里买东西？|超市|noi
+朋友们到时都觉得怎么样？|渴|dap
+妈妈准备了什么喝的？|热茶和水|mon
+看书多久以后休息？|一个小时|gio
+几个同学做方便面？|两个|so
+@3/Những chiếc đèn của căn nhà mới
+我们上星期搬进新小区，房间比原来的大，家里每个人都很高兴。第一天晚上，我去学校上课，爸爸妈妈到超市买东西，妹妹一个人在家。我们回来的时候，发现所有的灯都开着，空调也没有关。妹妹说，新家太大，她不知道我们什么时候回来，就让每个房间都亮着。我没有笑她，带她看看每个房间，介绍什么是灯，什么是空调的开关。妈妈说不在房间里时可以关灯，但不用让妹妹一个人在黑的地方等。第二天，爸爸让我们出门前说好几点回来，手机也要有电。我和妹妹在纸上写了家人的号码，拿到桌子上。现在她知道可以给谁打电话，不再开着所有的灯等我们。搬家不只是换房子，家里的人也要慢慢知道新的生活怎么过。
+VI: Tuần trước nhà tôi chuyển đến khu mới rộng hơn. Tối đầu tôi đi học, bố mẹ đi siêu thị, em ở nhà. Về thấy bật hết đèn, chưa tắt điều hòa; em chưa quen nhà lớn, không biết bao giờ mọi người về. Tôi dẫn em xem từng phòng, chỉ đèn và công tắc. Mẹ bảo ra khỏi phòng thì tắt nhưng cũng đừng để em một mình đợi nơi tối. Hôm sau bố nhắc báo giờ về, điện thoại đủ pin. Tôi cùng em ghi số người nhà ra giấy để trên bàn. Nay em biết gọi ai, không còn bật hết đèn đợi. Chuyển nhà cũng cần làm quen nếp sống.
+我们什么时候搬家？|上星期|gio
+第一天晚上谁在家？|妹妹|nguoi
+家人回来时什么没有关？|灯和空调|do
+第二天爸爸让大家说好什么？|几点回来|gio
+我和妹妹在纸上写了什么？|家人的号码|do
+现在妹妹还开所有的灯等吗？|不|dap
+@3/Ngân hàng không xa nhưng phải chuẩn bị
+妈妈想去小区外的银行办信用卡，让我跟她一起去。我以为走过去就能办好，所以只拿了手机。到了银行，里面的人问妈妈有没有护照，还问想用卡做什么。妈妈的护照在家，手机里只有照片。服务台的人说照片不能用，要拿护照来。我们没有着急，坐在旁边的椅子上给爸爸打电话。爸爸正在家里打扫，让我们自己回去找。我有点儿不高兴，觉得又要走一次。妈妈说银行离家近，来回就当运动，重要的东西还是要准备好。回家后，她拿出护照和一张纸，纸上写了几个要问的问题。这次我们再去，事情办得很快。下午我去学校，发现老师也让我准备自己的问题。我想，去银行和上课一样，想清楚再来会方便很多。
+VI: Mẹ muốn đến ngân hàng ngoài khu làm thẻ, tôi tưởng chỉ cần đi là được nên mang mỗi điện thoại. Ngân hàng hỏi hộ chiếu và mục đích dùng thẻ; hộ chiếu ở nhà, ảnh trong máy không dùng được. Chúng tôi bình tĩnh gọi bố nhưng bố đang dọn nhà, bảo tự về lấy. Tôi hơi bực vì đi lại, mẹ coi là vận động và nhắc chuẩn bị. Lần sau mẹ mang hộ chiếu cùng giấy ghi câu hỏi, làm nhanh hơn. Chiều giáo viên cũng yêu cầu chuẩn bị câu hỏi, tôi thấy đi đâu cũng nên nghĩ trước.
+妈妈去银行想办什么？|信用卡|do
+第一次护照在哪儿？|家|noi
+爸爸正在做什么？|打扫|viec
+妈妈觉得来回可以做什么？|运动|viec
+纸上写了什么？|要问的问题|do
+下午谁也让我准备问题？|老师|nguoi
+@3/Giặt đồ khi máy bị hỏng
+家里的洗衣机今天不能洗好衣服，妈妈说要找人看看。我下课回来，看到姐姐拿着很多衣服，想去旁边人家洗。我们刚搬家，还不认识这里的人。我觉得这样不好，就请她先别去。小区服务台的人给我们介绍了一家可以洗衣服的店，走路只要五分钟。姐姐问明天早上能不能拿，店里的人说可以。她拿出要洗的衣服，我发现里面有明天要上课穿的衣服，就让她现在送过去。晚上妈妈回来，说已经请了人，明天会来看看洗衣机。我们没有因为一件东西坏了就买新的，也没有让不认识的人帮忙。吃晚饭时，爸爸说新小区的服务挺好，有问题问问就知道。我想下次家里需要什么，可以去服务台问，但也要先跟家人说好。
+VI: Máy giặt nhà tôi không giặt được, mẹ muốn gọi người xem. Tôi về thấy chị mang nhiều đồ, định sang hàng xóm giặt. Mới chuyển chưa quen ai, tôi khuyên đừng vội. Quầy dịch vụ giới thiệu tiệm giặt cách năm phút, có thể lấy sáng mai. Trong đồ có quần áo chị cần đi học nên tôi nhắc gửi ngay. Tối mẹ báo mai có người đến xem máy. Chúng tôi không mua mới ngay hay nhờ người lạ. Bố khen dịch vụ khu nhà tốt, tôi thấy có vấn đề nên hỏi rồi trao đổi với gia đình.
+家里什么坏了？|洗衣机|do
+我们认识小区的人吗？|不认识|dap
+谁介绍了洗衣服的店？|服务台的人|nguoi
+去那家店走路要多久？|五分钟|gio
+姐姐明天要穿什么？|衣服|do
+谁已经请人看洗衣机？|妈妈|nguoi
+@3/Chọn phòng mát hay phòng sáng?
+我和弟弟都想住新家的大房间。弟弟说那个房间有空调，我说桌子前可以看见花园，很方便学习。妈妈没有马上说好，让我们每个人去住一晚，第二天再介绍。第一晚我睡大房间，早上发现外面的灯很亮，睡得不太好。弟弟在小房间，觉得又小又舒服。第二天我们换了，我睡得挺好，但是他说大房间的空调太冷。我们现在都想住小房间了。爸爸听了笑起来，说可以让妈妈住大房间，我们两个人在小房间一起学习。他还帮我们搬了两张桌子。房间小了一点儿，但东西都有地方放，家人也不用再听我们说谁应该住哪里。这个星期我和弟弟一起打扫，发现自己住得舒服比房间大不大更重要。
+VI: Tôi và em đều muốn phòng lớn vì có điều hòa và nhìn ra vườn. Mẹ cho mỗi người thử một đêm. Tôi thấy đèn ngoài sáng làm khó ngủ, em thấy phòng nhỏ thoải mái. Đổi đêm sau, tôi ngủ tốt ở phòng nhỏ, em lại chê điều hòa phòng lớn lạnh. Giờ cả hai muốn nhỏ. Bố đề nghị mẹ ở phòng lớn, chúng tôi cùng học phòng nhỏ và chuyển hai bàn vào. Diện tích ít hơn nhưng đồ có chỗ, không tranh nữa. Tuần này cùng dọn tôi thấy ở dễ chịu quan trọng hơn phòng lớn.
+弟弟开始为什么想住大房间？|空调|dap
+大房间外可以看见什么？|花园|do
+妈妈让我们每个人住多久？|一晚|gio
+我第一晚为什么睡不好？|外面的灯很亮|dap
+爸爸搬了几张桌子？|两张|so
+这个星期谁一起打扫？|我和弟弟|nguoi
+@3/Tờ giấy trước cửa
+小区的服务台今天给每家一张纸，让我们看好明天的时间。妈妈看了一眼，以为明天要搬家，着急坏了。我读了以后才知道，只是检查空调，不是让大家离开。明天上午十点，工作人员会从一层开始看，每个房间都要有人在。爸爸要上班，妈妈九点去看医生，我下午才有课，就说自己可以等。我在纸上写好家人的电话，又给服务台打了电话，问要不要准备什么。他说空调旁边不要有太多东西就好。我拿书和衣服拿到别的房间。第二天，人到时间就来了，很快就检查完，还给我介绍了怎样关好空调。我给妈妈打电话，说事情办好了。她很高兴，也说下次看到这样的纸，要认真读，不要只看见“房间”就着急。
+VI: Quầy dịch vụ phát giấy ghi giờ ngày mai. Mẹ nhìn vội tưởng phải chuyển nhà, lo lắng. Tôi đọc biết chỉ kiểm tra điều hòa, mười giờ bắt đầu từ tầng một, cần có người. Bố đi làm, mẹ chín giờ khám, tôi chiều mới học nên nhận đợi. Tôi ghi số gia đình, gọi hỏi chuẩn bị gì; họ nhắc đừng để nhiều đồ cạnh máy. Tôi chuyển sách quần áo sang phòng khác. Hôm sau họ đến đúng giờ, kiểm tra nhanh và chỉ tắt máy. Tôi gọi báo mẹ, mẹ vui, rút kinh nghiệm đọc kỹ thay vì thấy chữ “phòng” đã lo.
+妈妈开始以为要做什么？|搬家|viec
+明天要检查什么？|空调|do
+检查从几层开始？|一层|so
+妈妈几点看医生？|九点|gio
+谁在家等？|我|nguoi
+空调旁边不要有什么？|太多东西|do
+@4/Căn phòng có chỗ viết bài
+放假后，我们准备坐飞机去看海。爸爸在网上看了三家宾馆，觉得离海最近的那家最好。我问他房间里有没有桌子，因为我想每天写一点儿中文。爸爸只看了照片，不能回答，就给宾馆打电话。服务台的人说，小房间没有桌子，大房间有，但要贵一百元。妈妈说我们不是只去睡觉，写字、吃早饭都需要桌子，还是选大一点儿的吧。我们到了以后，发现房间没有照片上那么漂亮，但挺干净，也很安静。我每天晚上坐在桌子前写今天做的事，爸爸也在那儿看书。离开前，服务台问住得满不满意，我说除了空调有点儿冷，别的都很好。回家后，我没有只给别人看海的照片，还介绍了我们怎样选房间。出去玩以前，多问一个问题，就可以少一点儿不方便。
+VI: Kỳ nghỉ cả nhà định bay đi biển. Bố chọn khách sạn gần biển nhất qua ảnh, tôi hỏi có bàn để viết tiếng Trung không. Gọi mới biết phòng nhỏ không bàn, phòng lớn có nhưng thêm một trăm tệ. Mẹ thấy cần bàn nên chọn lớn. Đến nơi không đẹp như ảnh nhưng sạch, yên tĩnh. Tối tôi viết chuyện trong ngày, bố đọc sách. Trả phòng tôi đánh giá mọi thứ tốt trừ điều hòa hơi lạnh. Về không chỉ khoe ảnh biển mà kể cách chọn phòng; hỏi thêm giúp chuyến đi dễ chịu.
+我们准备去看什么？|海|do
+爸爸看了几家宾馆？|三家|so
+小房间有什么问题？|没有桌子|dap
+大房间贵多少钱？|一百元|so
+我晚上在桌子前做什么？|写中文|viec
+我觉得什么有点儿冷？|空调|do
+@4/Chuyến bay chậm và buổi tối khác kế hoạch
+我们去旅游，飞机本来下午两点起飞，到了机场，服务台的人说要晚点。妈妈想先去买东西，爸爸让我在服务台问要等多久。我等了很长时间，人很多，有的客人很着急。我也想马上知道，但没有一直问。服务台后来告诉我们四点可以走。我给来接我们的朋友打电话，介绍了新的时间。朋友说没关系，他先去宾馆帮我们看房间。我们到的时候，天已经不太亮了，本来想去海边的计划也不能做。朋友让我们先吃饭，说明天早上看海一样好。宾馆的饭很简单，但热热的，大家都很满意。吃完我给奶奶打电话，她说旅游不一定每件事都跟想的一样，家人在一起就很好。我想，今天没有看到海，但是学会了等，也知道有不同的事情要告诉别人。
+VI: Chuyến bay dự kiến hai giờ bị chậm. Mẹ mua đồ, bố nhờ tôi hỏi quầy; đông khách lo lắng nhưng tôi không hỏi dồn. Họ báo bốn giờ đi được, tôi gọi bạn đón để báo giờ mới. Bạn tiện xem phòng khách sạn giúp. Đến nơi trời tối nên chưa ra biển được. Bạn mời ăn, bảo sáng mai biển vẫn đẹp. Bữa khách sạn đơn giản, nóng, ai cũng hài lòng. Gọi bà, bà nhắc đi chơi không phải mọi chuyện đúng ý, gia đình cùng nhau là tốt. Tôi học cách đợi và báo khi đổi giờ.
+飞机原来几点起飞？|两点|gio
+谁让我去服务台问？|爸爸|nguoi
+后来几点可以走？|四点|gio
+朋友先去哪里？|宾馆|noi
+我们当天看到海了吗？|没有|dap
+晚上我给谁打电话？|奶奶|nguoi
+@4/Không cưỡi ngựa vẫn có một ngày vui
+假期我们去了草原。哥哥很想骑马，早上一直说要骑得很远。我以前没有骑过，有点儿不好意思，问能不能只看看。工作人员让我们别急，先听他说怎么做。哥哥觉得自己会骑车，骑马应该也不难，但坐上去以后，就不想动了。我没有笑他，和他一起在旁边学。妈妈给我们照相，照片里除了马，还有远的地方的羊和牛。中午太阳有点儿大，我们回宾馆休息。哥哥说今天没骑很远，不太满意。爸爸让他看看照片，知道自己已经学会一点儿，下次还可以再来。晚上月亮出来，我们站在宾馆外看草原。哥哥觉得现在比早上更高兴，我也觉得不骑马的时间一样有意思。回去以前，哥哥还问工作人员，下一次来能不能再学一个小时。那个人说，可以，慢慢学就好。
+VI: Đi thảo nguyên, anh muốn cưỡi ngựa xa, tôi chưa từng nên chỉ muốn xem. Người hướng dẫn dặn nghe trước. Anh tưởng giống xe đạp nhưng lên mới không dám cử động; tôi cùng anh học chứ không cười. Mẹ chụp cả ngựa, bò, cừu. Trưa nắng về nghỉ, anh chưa hài lòng vì đi không xa. Bố cho xem ảnh, nhắc đã học được chút, lần sau quay lại. Tối trăng lên, đứng ngoài khách sạn nhìn thảo nguyên, cả hai vui hơn, thấy không cưỡi cũng thú vị.
+哥哥早上最想做什么？|骑马|viec
+我以前骑过马吗？|没有|dap
+哥哥坐上马后怎么样？|不想动|dap
+照片里除了马还有什么？|羊和牛|do
+中午我们回哪里？|宾馆|noi
+晚上我们看见什么？|月亮|do
+@4/Đón khách bằng xe nào?
+爷爷奶奶到北京旅游，我在网上给他们找了宾馆。离我们家最近的那家一个房间也没有了，还有一家虽然远一些，但有司机可以去机场接人。我给服务台打电话，问车几点来、车上有几个人。他说只接爷爷奶奶，不接别的客人。我觉得不错，就准备花钱。爸爸让我先问清楚，车的钱是不是已经在房间的钱里。我再问，才知道要多给五十元。爸爸说家人可以开车去，不用让他们在机场找司机。我们给爷爷打电话，他说自己带的箱子不大，坐地铁也行。我知道他们第一次来，不想让他们着急，还是请爸爸开车。接到人后，我们一起去宾馆，奶奶说房间很干净，比有没有车更重要。晚上爷爷给家里打电话，说已经到了，让大家不用等。他还问我，明天早上能不能一起出去吃北京的早饭。
+VI: Tôi đặt khách sạn cho ông bà đến Bắc Kinh. Chỗ gần nhà hết phòng; chỗ xa có xe đón sân bay. Hỏi biết xe chỉ đón ông bà nên tôi định trả tiền, bố nhắc xác nhận đã gồm trong phòng chưa. Hóa ra thêm năm mươi tệ, bố có thể tự lái. Ông bảo ít hành lý nên đi tàu điện cũng được, nhưng lần đầu đến tôi vẫn nhờ bố đón để khỏi lo. Cả nhà đưa đến khách sạn, bà khen phòng sạch, quan trọng hơn có xe.
+离家最近的宾馆还有房间吗？|没有|dap
+还有一家宾馆可以帮忙做什么？|接人|viec
+车会接别的客人吗？|不会|dap
+接车要多给多少钱？|五十元|so
+最后谁去接爷爷奶奶？|爸爸|nguoi
+奶奶觉得房间怎么样？|很干净|dap
+@4/Chọn thời gian chứ không chỉ chọn giá
+朋友请我跟他去海边旅游，说星期六出门，星期日就回来。我看看网上的飞机票，早上七点的最便宜，九点的贵八十元。我很想买便宜的，朋友问我家离机场远不远。我家很远，坐车要一个半小时，七点起飞就要很早起床。妈妈说，假期本来想休息，别只看票的钱。我们又看看，发现火车也能到，虽然要多坐两个小时，但是时间合适。我没有马上说好，给朋友介绍了两个方法。他说除了看海，还想跟我好好说话，坐火车很好。我们买了八点半的火车票，带了早饭和书。那天在车上，我们说了很多学校的事，时间一点儿也不长。我知道便宜、快和舒服不一定是一样的事。回来的时候我们也坐火车。我看着车外，朋友在旁边看书，两个人都没有急着下车。
+VI: Bạn rủ cuối tuần đi biển. Vé bay bảy giờ rẻ nhất, chín giờ thêm tám mươi tệ. Nhà xa sân bay một giờ rưỡi, chọn sớm phải dậy rất sớm. Mẹ nhắc nghỉ mà đừng chỉ nhìn tiền. Xem thêm có tàu, lâu hơn hai giờ nhưng giờ hợp. Tôi trình bày hai cách; bạn muốn vừa đi biển vừa trò chuyện nên thích tàu. Mua vé tám giờ rưỡi, mang sáng và sách, trên tàu kể nhiều chuyện trường nên thấy nhanh. Rẻ, nhanh và thoải mái không luôn cùng một lựa chọn.
+早上九点的机票贵多少？|八十元|so
+我家到机场要多久？|一个半小时|gio
+妈妈让我别只看什么？|票的钱|do
+火车要多坐多久？|两个小时|gio
+我们最后买了几点的票？|八点半|gio
+朋友除了看海还想做什么？|跟我说话|viec
+@5/Ảnh cần cho việc gì?
+老师让我们给学校的书店照一些照片，发给下个月要来的同学。我很感兴趣，带着手机就去了。开始我只照了好看的书和花，拍完觉得自己水平不错。但是朋友看了以后问，看照片的人怎么知道书店在哪里、几点开门。我才发现，有用的照片不只是好看，还要让人知道事情。我重新到书店外，拍了前面的路和门上写的时间，又请朋友站在旁边，让大家知道书店有多大。下午太阳很大，我有点儿累，但终于拍好了想拍的东西。老师收到照片后，说这些比只有花的更有帮助。晚上我给每张照片写了简单的介绍，准备发邮件。我觉得照相以前，知道照片给谁看、让他知道什么，比马上拍很多更重要。
+VI: Giáo viên nhờ chụp hiệu sách gửi các bạn sắp đến. Tôi hào hứng chỉ chụp sách đẹp và hoa, bạn hỏi thế biết địa chỉ, giờ mở bằng cách nào. Tôi hiểu ảnh cần cung cấp thông tin, quay lại chụp đường, giờ trên cửa và bạn đứng làm mốc kích cỡ. Nắng chiều khiến mệt nhưng hoàn thành. Cô nhận khen hữu ích hơn ảnh hoa. Tối tôi viết chú thích gửi thư điện tử. Trước khi chụp phải biết ảnh cho ai, nhằm nói gì.
+老师让我们拍哪里？|书店|noi
+我开始只拍了什么？|书和花|do
+朋友觉得还要让人知道什么？|地点和时间|do|但是朋友看了以后问，看照片的人怎么知道书店在哪里、几点开门。
+谁站在书店旁边？|朋友|nguoi
+老师收到照片后觉得怎么样？|有帮助|dap
+晚上我准备怎么发照片？|发邮件|viec
+@5/Đôi giày mới và cuộc hẹn chụp ảnh
+星期日我们去爬山，姐姐说山上的树和太阳拍照很好看。我穿了新鞋，觉得照片里一定好看。刚开始走路，鞋还挺舒服，走了一个小时，脚就有点儿疼。我不想让大家知道，一直站在后面拍树。朋友看我脸上不高兴，问是不是累了。我说鞋不合适，她让我别只想着照片，身体不舒服就要休息。我们坐下喝水，哥哥给我看他拍的照片。照片里我没有一直笑，但大家都在帮助我，我看了很感兴趣。回家后，我给家人发了邮件，说这次照片比想的少，但是收到的帮助很多。下次爬山我会穿以前的鞋，带一件大衣，照片好不好看不再是第一件重要的事。晚上我洗了鞋，又看了看手机里的照片。姐姐让我留下大家一起喝水的一张，说这也是爬山时很重要的一刻。
+VI: Chủ nhật leo núi, tôi mang giày mới để lên ảnh đẹp. Đi đầu còn ổn, sau một giờ chân đau nhưng ngại nói nên đứng sau chụp cây. Bạn thấy không vui, hỏi rồi nhắc đừng chỉ nghĩ ảnh, khó chịu phải nghỉ. Ngồi uống nước, anh cho xem ảnh mọi người giúp tôi; dù không luôn cười, tôi vẫn thích. Về gửi thư kể ảnh ít hơn dự định nhưng được giúp nhiều. Lần sau tôi mang giày cũ, áo khoác, không xem ảnh đẹp là quan trọng nhất.
+我为什么穿新鞋？|想拍好看的照片|viec
+走了多久以后不舒服？|一个小时|gio
+我开始站在哪里？|后面|noi
+谁问我是不是累了？|朋友|nguoi
+谁给我看照片？|哥哥|nguoi
+下次我准备穿什么鞋？|以前的鞋|do
+@5/Một lá thư thay cho cuộc gọi dài
+奶奶没有天天上网的习惯，但很喜欢看我的照片。今天我收到她给我的一封邮件，只有一句话：学校怎么样？我很高兴，想马上给她打电话。妈妈说奶奶现在在医院跟爷爷一起，没有时间说太久。我就想给她发一些学校的照片。我先拍了自己常坐的桌子，再拍大家下课后锻炼的地方。朋友让我在照片上写清楚名字，要不奶奶不知道谁是谁。我觉得他说得对，每张都写了一点儿中文。下午三点，我发了邮件，心里有点儿着急，不知道她能不能打开。晚上奶奶回邮件说都收到了，还问照片里的树是不是已经很高。我才知道，她记得我上学第一天说过的事。这封邮件不长，但是让我们比一次只说再见的电话知道更多家里的事。
+VI: Bà ít lên mạng nhưng thích ảnh tôi. Hôm nay bà gửi thư chỉ hỏi trường thế nào. Tôi định gọi ngay, mẹ nhắc bà đang ở viện với ông, không rảnh lâu. Tôi chụp bàn thường ngồi và nơi các bạn tập sau giờ học. Bạn khuyên ghi tên rõ để bà biết từng người. Ba giờ gửi rồi lo bà mở được không; tối bà báo nhận, còn hỏi cây đã cao chưa. Bà nhớ chuyện ngày đầu đi học của tôi. Lá thư ngắn giúp hiểu nhau hơn một cuộc gọi vội chỉ chào tạm biệt.
+谁给我发邮件？|奶奶|nguoi
+奶奶现在在哪里？|医院|noi
+我先拍了什么？|常坐的桌子|do
+朋友让我在照片上写清楚什么？|名字|do
+我几点发邮件？|三点|gio
+奶奶回邮件问什么？|树是不是很高|do
+@5/Không chụp khi mọi người chưa đồng ý
+同学要给我们拍照片，准备发到学校的网上。我觉得很好，站到中间，其他人也一个一个过来。有一个同学一直在后面，脸上不太高兴。我以为他觉得自己照相难看，就请他站近一点儿。他说不是这个意思，只是不想让不认识的人都看见自己。我不知道该怎么做，就去问老师。老师让我们先介绍照片要给谁看，再问每个人想不想参加。后来那位同学愿意拍一张给家人看的，但不发到网上。我帮助拍了，照片也很好。老师没有说谁做错了，只让我们知道，每个人对照片的想法可能不一样。今天我没有学到新的拍照方法，但是知道拍人以前还要听听他的意思。回家后，我给妹妹拍蛋糕，也先问她想不想发给朋友。
+VI: Bạn chụp ảnh để đưa lên trang trường, tôi và nhiều người hào hứng nhưng một bạn cứ đứng sau. Tưởng bạn ngại lên ảnh xấu, tôi mời gần; bạn chỉ không muốn người lạ xem. Hỏi giáo viên, cô bảo nói rõ ảnh cho ai rồi hỏi mọi người. Sau đó bạn đồng ý ảnh gửi gia đình, không đăng mạng. Tôi giúp chụp, ảnh vẫn đẹp. Cô không trách ai, nhắc mỗi người có ý khác. Tôi học được cần hỏi người trước khi chụp, tối chụp bánh cho em cũng hỏi có muốn gửi bạn không.
+照片开始准备发到哪里？|学校的网上|noi
+那个同学开始站在哪里？|后面|noi
+我开始以为他为什么不高兴？|觉得照相难看|dap
+我去问了谁？|老师|nguoi
+他愿意拍给谁看？|家人|nguoi
+回家后我给妹妹拍了什么？|蛋糕|do
+@5/Ba bức ảnh kể một ngày
+我想给朋友介绍星期六的生活，手机里已经有三十多张照片。每张我都喜欢，但邮件里照片太多，他可能没时间看。姐姐让我选三张：一张是今天最想记得的事，一张是爬山时的问题，一张是家人帮助我的时候。我看了一会儿，终于选好。第一张是早上我自己做的早饭，第二张是爬山时鞋坏了，第三张是爸爸带我回家。朋友收到后，没有只说照片好看，是问我鞋现在怎么样，还说下次可以给我介绍舒服的鞋。我很高兴，因为三张照片就让他知道了很多事。晚上我没有再照很多一样的照片，想先看看自己真正感兴趣的是什么。爸爸说，照片不是越多越好，认真选一选也可以提高水平。我觉得他说的对，准备下次再试。
+VI: Muốn kể ngày thứ Bảy, tôi có hơn ba mươi ảnh nhưng chị gợi ý chỉ ba: việc muốn nhớ, vấn đề và lúc gia đình giúp. Tôi chọn bữa sáng tự làm, giày hỏng khi leo núi, bố đưa về. Bạn nhận không chỉ khen mà hỏi giày, hứa giới thiệu loại thoải mái. Ba ảnh đã kể nhiều điều. Tối tôi không chụp lặp nhiều nữa, muốn hiểu mình thực sự thích gì. Bố nhắc không phải càng nhiều càng tốt, lựa chọn cũng nâng trình; tôi sẽ thử tiếp.
+我开始有多少照片？|三十多张|so
+姐姐让我选几张？|三张|so
+第一张是什么？|自己做的早饭|do
+第二张发生了什么事？|鞋坏了|dap
+谁带我回家？|爸爸|nguoi
+朋友收到后问我什么？|鞋怎么样|do
+@6/Bưu thiếp từ cửa sổ tàu
+姐姐：我已经到了朋友家，今天的高铁坐了五个小时。以前我一直想在车上用手机看电影，这次打算给你写一封长一点儿的邮件，就一直看着车外。刚出发时是高房子，后来树越来越多，还看见了山和水。每过一个大站，我就在本子上写下时间，想知道哪一段路走得最快。中午我没有急着吃带来的面包，先问旁边的人要不要一起喝水。他也去看朋友，我们说起自己的学校，觉得有很多一样的地方。快到的时候，我提前收好耳机和充电宝，检查书有没有拿全。下车后跟着大家走，坐电梯到车站外，朋友已经在那里等我了。晚上我们会一起吃饭，明天打算去爬山。如果天气不好，就在他家看书。回去以后，我想给你看看本子上的时间和拍的照片，你也可以选一选最想去哪里。
+VI: Chị ơi, em đã đến nhà bạn sau năm giờ tàu cao tốc. Lần này thay vì xem hết phim, em ngắm ngoài xe để viết thư: nhà cao dần nhường chỗ cho cây, rồi núi và nước. Em ghi giờ qua mỗi ga lớn để xem đoạn nào nhanh nhất. Trưa mời người cạnh uống nước, trò chuyện về trường vì người ấy cũng đi thăm bạn. Gần đến em cất tai nghe, sạc dự phòng và kiểm tra sách; ra ga bằng thang máy gặp bạn đợi sẵn. Tối ăn cùng, mai leo núi, nếu trời xấu thì đọc sách ở nhà bạn. Về em sẽ cho chị xem sổ giờ và ảnh để chọn nơi muốn đi.
+我今天坐了多久高铁？|五个小时|gio
+我在哪里写时间？|本子上|noi
+旁边的人也去做什么？|看朋友|viec
+快到时我收好耳机和什么？|充电宝|do
+谁在车站外等我？|朋友|nguoi
+如果天气不好我们打算做什么？|看书|viec
+@6/Rẽ nhầm trước ga tàu
+今天早上我骑自行车去车站，准备坐九点的高铁。妈妈说路口的红绿灯很重要，让我别只看手机。骑到学校外，我以为红灯很快就会变，想过去再看时间。一个先生让我等一等，前面正有车开过来。我停下来，看了看，知道自己太急了。绿灯以后，我往右走，才发现应该往左。我没有马上再骑回去，先在旁边问清楚怎么走。到车站时已经八点四十分，还有二十分钟。我刷手机上的票进站，检查了箱子，坐电梯下去。车站的人让我不要跑，时间还够。我终于上了车，觉得自己没有迟到不是应该下次也来这么晚。晚上给妈妈打电话，我告诉她下次会早一点儿出门，路上看见红灯就等，找不到方向也先停下再问。
+VI: Tôi đạp xe đến ga bắt tàu chín giờ, mẹ nhắc chú ý đèn. Ở ngã đường tôi sốt ruột muốn vượt, một người bảo đợi vì đang có xe. Tôi dừng, nhận ra vội. Đèn xanh lại rẽ phải thay vì trái, tôi hỏi đường rồi mới đi. Tám giờ bốn mươi đến, còn hai mươi phút, quét vé, kiểm tra vali, đi thang máy. Nhân viên nhắc đừng chạy, vẫn đủ giờ. Kịp tàu không có nghĩa lần sau cứ muộn vậy; tối tôi hứa đi sớm, đèn đỏ thì đợi, chưa biết hướng thì dừng hỏi.
+高铁几点走？|九点|gio
+妈妈让我看看什么？|红绿灯|do
+绿灯后我往哪边走错了？|右边|noi
+我几点到车站？|八点四十分|gio
+我怎么进站？|刷手机上的票|viec
+我下次准备什么时候出门？|早一点儿|gio
+@6/Chọn chỗ yên tĩnh để đọc
+这次放假，我和姐姐坐高铁回家。姐姐想看书，我想用手机看电影。我们坐下以后，发现旁边有个孩子正在跟妈妈说话，声音有点儿大。姐姐没有马上让人家安静，她知道孩子第一次坐高铁，很高兴。我说可以跟前面的同学换座位，他们想坐在一起。我们问过大家，选择了他们原来的地方。我拿出耳机看电影，姐姐看看我，说这样就不会影响别人。我给妈妈发一句话，说这次不是边走边玩手机，东西也都分开准备好了。快到站时，姐姐让我检查充电宝和书。我以前经常忘拿书，这次先给自己写好了要拿的东西。下车后，妈妈看见我们一点儿也不急，很高兴。我觉得坐车不只是买到票就行，想想自己和别人的需要，也会更舒服。
+VI: Nghỉ về nhà bằng cao tốc, chị đọc sách còn tôi xem phim. Bên cạnh có bé lần đầu đi tàu hào hứng nói lớn. Chị không vội yêu cầu im; tôi gợi ý đổi với nhóm bạn muốn ngồi chung. Hỏi đồng ý rồi đổi, tôi dùng tai nghe để không làm phiền. Nhắn mẹ báo đã xếp riêng đồ và không vừa đi vừa nhìn máy. Sắp đến, chị nhắc kiểm tra sạc, sách; tôi hay quên nên lần này có ghi chú. Mẹ đón thấy chúng tôi bình tĩnh rất vui. Ngoài vé còn phải nghĩ nhu cầu mình và người khác.
+姐姐想在车上做什么？|看书|viec
+孩子为什么高兴？|第一次坐高铁|dap
+前面的同学想怎么坐？|坐在一起|viec
+我看电影用什么？|耳机|do
+姐姐让我检查什么？|充电宝和书|do
+我以前经常忘拿什么？|书|do
+@6/Mua vé cho hai ngày khác nhau
+朋友请我放假去他家住两天。我在手机上看高铁票，发现星期五晚上很贵，星期六早上便宜很多。我想早点到，但还没有下班，坐晚上的车可能会很急。朋友说如果星期六来，可以一起吃午饭，不用因为早来坐很贵的车。我想了一会儿，选择了星期六八点的票，又给妈妈打电话，告诉她不用星期五来学校帮我拿行李。买好后，我才发现回家的票忘了看。星期日下午的票已经不多，买不到的话星期一就要请假。我马上检查，终于买到一张晚上七点的。这样我可以在朋友家住一晚，星期日还有一天可以玩。出门前我让姐姐帮我检查日期，她说去和回分开看，别只记得第一张。我觉得这次选择不只是便宜，还让我知道要一起准备回来怎么走。
+VI: Bạn mời nghỉ hai ngày. Vé tối thứ Sáu đắt, sáng thứ Bảy rẻ; tôi chưa tan làm nên đi tối sẽ vội. Bạn bảo đến sáng vẫn cùng ăn trưa được. Tôi chọn tàu tám giờ thứ Bảy, báo mẹ không cần đến trường giúp hành lý chiều thứ Sáu. Rồi nhớ chưa xem vé về: chiều Chủ nhật gần hết, không có thì thứ Hai phải nghỉ làm. Tôi kiểm tra, mua được chuyến bảy tối. Ở một đêm, Chủ nhật vẫn đi chơi cả ngày. Chị giúp kiểm tra ngày và nhắc xem riêng cả đi lẫn về. Chọn không chỉ theo giá, còn phải tính đường về.
+哪天早上的票便宜？|星期六|gio
+我买了几点去的票？|八点|gio
+谁不用星期五帮拿行李？|妈妈|nguoi
+我开始忘看什么？|回家的票|do
+回家的高铁几点？|晚上七点|gio
+谁帮我检查日期？|姐姐|nguoi
+@6/Sạc dự phòng không ở chiếc túi quen thuộc
+上高铁以前，弟弟让我让他的手机有电。他的手机里有票，已经只有一点儿电。我说充电宝在包里，他找了一会儿，说没有。我有点儿急，以为昨天没有准备好。姐姐让我们别到处找，先看看昨天怎么分开东西的。我才想起，充电宝跟耳机在别的小包里，大箱子里只有衣服。找到以后，弟弟没有马上玩手机，先打开票让我看。我们过了检票的地方，在旁边等车。他说以后要让手机先有电，我也觉得应该常常拿着要用的东西。车来了，大家慢慢上去，没有人跑。我发现一次小问题可以让人越来越会准备，但如果只着急、不检查，东西就在包里也找不到。回家后，我准备写一张简单的纸，下次出门前再看一看。
+VI: Trước lên tàu, em xin sạc vì vé trong máy mà gần hết pin. Tôi nhớ sạc trong túi, em tìm không thấy nên lo. Chị nhắc xem cách xếp đồ hôm qua: sạc cùng tai nghe trong túi nhỏ, vali chỉ quần áo. Tìm được, em mở vé thay vì chơi. Qua kiểm vé chúng tôi đợi, rút kinh nghiệm sạc máy trước và để đồ hay dùng gần mình. Lên tàu không chạy. Tôi thấy bình tĩnh kiểm tra sẽ học được cách chuẩn bị, chỉ lo thì đồ ngay trong túi cũng không tìm thấy. Về tôi sẽ ghi danh sách cho lần sau.
+弟弟为什么要让手机有电？|手机里有票|dap
+谁让我们别只着急？|姐姐|nguoi
+充电宝跟什么在一起？|耳机|do
+大箱子里有什么？|衣服|do
+弟弟找到充电宝后先打开什么？|票|do
+我回家准备写什么？|要准备的东西|do
+@7/Chiếc xe dành cho hai người
+哥哥想买自行车，带我去看了三辆。一辆又高又新，一辆矮一点儿，还有一辆已经用了三年。哥哥觉得新的好看，但是我让他试一试旧的。他骑了一会儿回来，说车虽然旧，但是骑起来很舒服，而且比新车便宜两百元。我平时也要用车去学校，所以我也试了。新车对我来说太高，旧车的大小正合适。哥哥原来只想自己周末骑车去玩儿，现在发现，买一辆两个人都能用的更方便。我们决定买旧车，用少花的钱买一件黄色的衣服。回家的时候，哥哥骑车，我坐公交车。他没有骑得很快，因为还不太习惯这辆车。到了家，爸爸先检查了车，又让我们记住，车新也好，旧也好，在路口都要小心。明天早上该我骑车去上课了。
+VI: Anh dẫn tôi xem ba xe đạp: xe mới cao, xe thấp hơn và xe đã dùng ba năm. Tôi đề nghị thử xe cũ. Anh thấy đi thoải mái, rẻ hơn xe mới hai trăm tệ. Tôi cũng cần xe đi học nên thử và thấy xe mới quá cao, xe cũ vừa. Anh nhận ra chọn xe cả hai dùng được tiện hơn chỉ nghĩ đến chuyến đi chơi của mình. Chúng tôi mua xe cũ, dùng tiền tiết kiệm mua áo vàng. Anh đạp chậm về vì chưa quen xe; bố kiểm tra và nhắc cẩn thận ở ngã tư. Sáng mai đến lượt tôi dùng xe.
+哥哥带我看了几辆自行车？|三辆|so
+旧车比新车便宜多少？|两百元|so
+新车对我怎么样？|太高|dap
+谁也需要骑车去学校？|我|nguoi
+我们最后决定买什么？|旧车|do
+回家时我怎么走？|坐公交车|viec
+@7/Một cân hay một ki-lô-gam?
+星期天我和妈妈去买水果。爸爸说晚上有朋友来，希望我们多买一点儿。水果店里，西瓜每公斤六元，香蕉每斤四元。我看见四比六小，就说香蕉便宜。妈妈没有马上回答，让我想想一公斤是多少斤。我这才记起来，一公斤是两斤。这样一看，西瓜每斤三元，比香蕉还便宜一元。我们买了一个三公斤的西瓜和两斤香蕉，一共二十六元。回家以后，我想让西瓜更冰一点儿，但是妈妈说晚上吃以前再拿出来就行，不用一直拿着它。我帮爸爸洗杯子，等朋友们来。吃水果的时候，大家说西瓜甜极了，香蕉也很新鲜。爸爸问我今天学会了什么。我说，买东西不能只看前面的数，还要看看后面写的是斤还是公斤，要不就可能想错。
+VI: Tôi tưởng chuối bốn tệ mỗi cân rẻ hơn dưa sáu tệ mỗi ki-lô-gam. Mẹ nhắc một ki-lô-gam bằng hai cân: dưa chỉ ba tệ mỗi cân, rẻ hơn chuối một tệ. Chúng tôi mua dưa ba ki-lô-gam và chuối hai cân, hết hai mươi sáu tệ. Về nhà tôi giúp bố rửa cốc đón khách; mọi người khen dưa ngọt và chuối tươi. Tôi hiểu phải đọc cả đơn vị chứ không chỉ nhìn số tiền.
+西瓜每公斤多少钱？|六元|so
+一公斤是多少斤？|两斤|so
+哪个水果每斤便宜一点儿？|西瓜|mon
+我们买了几斤香蕉？|两斤|so
+两个水果一共多少钱？|二十六元|so
+回家后我帮爸爸做什么？|洗杯子|viec
+@7/Chiếc váy không dùng cho một ngày
+姐姐下个月结婚，妈妈带我去买裙子。我先选了一条红色的，觉得拍照一定很好看。可是试了以后，我发现裙子太短，坐下也不舒服。服务员又拿来一条蓝色的，让我试试。蓝裙子大小合适，穿着走路也方便，只是没有红裙子那么好看。我正在想，妈妈问我，姐姐结婚以后还会不会穿它。我想了想，红裙子很特别，去学校穿不太合适；蓝裙子上课、吃饭的时候都能穿。后来我决定买蓝色的，还选了一双白鞋。晚上姐姐看见了，说我穿蓝色很好看，不一定每个人都穿红色。她又让我帮她选结婚那天的音乐。我很高兴，因为我不但买到了衣服，而且还能做一件姐姐需要的事。我开始觉得，参加姐姐的好日子，比穿什么颜色重要多了。
+VI: Mua váy dự lễ cưới chị, tôi thích váy đỏ lên ảnh đẹp nhưng quá ngắn và ngồi không thoải mái. Áo xanh vừa và dễ đi lại. Mẹ hỏi sau đám cưới có mặc nữa không; tôi thấy váy xanh dùng được khi đi học hoặc ăn ngoài nên chọn nó cùng giày trắng. Chị khen hợp và nhờ chọn nhạc lễ cưới. Tôi vui vì vừa mua được đồ vừa giúp chị; tham dự ngày vui quan trọng hơn màu váy.
+姐姐什么时候结婚？|下个月|gio
+我先选了什么颜色的裙子？|红色|tu
+红裙子有什么问题？|太短|dap
+我最后买了什么颜色的裙子？|蓝色|tu
+我还买了一双什么颜色的鞋？|白色|tu
+姐姐让我帮她选什么？|音乐|do
+@7/Điện thoại tưởng đã hỏng
+妈妈的手机今天一直没有声音。她以为手机坏了，让我跟她去买新的。我先用自己的手机给她打电话，看到她的手机上有我的名字，但是没有听到声音。妈妈说，她早上开机后就没听到过电话。我看了看，发现她昨天看电影时，声音关小了，后来忘了开大。我帮她改好，再打一次电话，这次声音大极了。妈妈笑了，说差一点儿就去买手机了。她问我要不要喝点冰的东西，我说想吃西瓜。我们没有去手机店，去了家旁边的水果店。店里不但有西瓜，而且还有很甜的香蕉。我们买了半个西瓜，回家一起吃。妈妈说，以后东西不能用的时候，先检查一下，再决定是不是要换。我觉得自己今天也能帮助大人了，不只是请他们帮助我。
+VI: Mẹ tưởng điện thoại hỏng vì không nghe chuông và định mua mới. Tôi gọi thử, thấy hiện tên nhưng không có tiếng. Kiểm tra mới biết tối qua xem phim mẹ đã giảm âm lượng rồi quên tăng lại. Sau khi chỉnh, chuông rất to. Hai mẹ con đổi kế hoạch, đi mua nửa quả dưa thay vì điện thoại. Mẹ bảo lần sau nên kiểm tra trước khi quyết định đổi đồ; tôi vui vì đã giúp được người lớn.
+妈妈以为手机怎么了？|坏了|dap
+妈妈昨天做什么时关小了声音？|看电影|viec
+我用什么给妈妈打电话？|自己的手机|do
+检查后电话的声音怎么样？|大极了|dap
+我们后来去了哪儿？|水果店|noi
+我们买了多少西瓜？|半个|so
+@7/Hai chiếc quần cho chuyến đi
+放假了，我要和哥哥一起去旅游。家里有两条短裤，一条去年买的，一条今年买的。我觉得今年的更好看，就想只带这一条。哥哥让我试穿去爬山的鞋，再穿上短裤走一走。我发现新短裤坐着的时候有点儿小，旧的穿着更舒服。哥哥说，旅游的时候每天要走很多路，舒服比新更重要。我们看了天气，白天热，但是晚上只有十几度，所以还得带大衣。我问哥哥为什么箱子那么小，他打开给我看：衣服不多，但是东西都有。我照着他的办法重新选，带了两件衣服、两条短裤和一件大衣。箱子没有以前那么重，拿着方便极了。晚上妈妈检查以后，说药和护照也要带。我在纸上写了它们，第二天出门以前再看一次，这样就不会忘记。
+VI: Chuẩn bị du lịch, tôi chỉ muốn mang quần mới đẹp hơn. Anh bảo thử cùng giày leo núi và đi lại; quần mới hơi chật khi ngồi, quần cũ thoải mái hơn. Đêm chỉ hơn mười độ nên phải mang áo khoác. Học cách chọn ít mà đủ của anh, tôi mang hai áo, hai quần soóc và áo khoác; vali nhẹ hơn. Mẹ nhắc thuốc và hộ chiếu, tôi ghi ra giấy để kiểm tra trước lúc đi.
+我觉得哪条短裤更好看？|今年买的|dap
+新短裤坐着时怎么样？|有点儿小|dap
+晚上为什么要带大衣？|只有十几度|dap
+我带了几件衣服？|两件|so
+我的箱子后来怎么样？|没有以前那么重|dap
+妈妈还让我带什么？|药和护照|do
+@8/Không cần chạy giống người khác
+最近我发现以前的裤子有点儿小，想每天去体育馆跑步。第一天我跟着哥哥跑，他跑得快，我一会儿就累了，腿也不舒服。我有点儿难过，觉得自己什么运动都不行。哥哥说，他已经跑了两年，我才刚开始，不能一下跑得一样快。第二天，我们换了一个方法：先走十分钟，再慢慢跑五分钟，累了就休息。体育馆里的老师也告诉我，身体不舒服时不要一直跑下去。我照着做了一个星期，虽然没有瘦很多，但是每天晚上睡得比以前好。现在我不是每天看自己胖不胖，是记下今天运动的时间。我还和朋友说好，周末一起打羽毛球。朋友说，喜欢这个运动，就想一直做下去。我希望以后能养成一个习惯，不是买了新裤子就不再运动了。
+VI: Muốn mặc vừa quần, tôi chạy theo anh ngay buổi đầu nên mau mệt, đau chân và nản. Anh đã chạy hai năm, còn tôi mới bắt đầu; hôm sau đổi sang đi bộ mười phút rồi chạy chậm năm phút, mệt thì nghỉ. Thầy ở phòng tập cũng nhắc không cố chạy khi khó chịu. Sau một tuần tôi chưa gầy nhiều nhưng ngủ tốt hơn. Tôi ghi thời gian vận động thay vì chỉ cân, hẹn bạn đánh cầu lông và mong duy trì thành thói quen.
+我为什么想跑步？|裤子有点儿小|dap
+哥哥已经跑了多久？|两年|gio
+第二天我们先走多长时间？|十分钟|gio
+一个星期后我睡得怎么样？|比以前好|dap
+现在我记下什么？|运动的时间|do
+周末我打算做什么？|打羽毛球|viec
+@8/Buổi chiều chờ bạn xuất viện
+朋友住院三天了，今天可以出院。我和同学说好去接他，还想请他去吃饭。我们到了医院，看见他正在收东西，妈妈在旁边帮忙。他很高兴，但说今天只想回家好好睡觉。我原来已经选好了饭馆，听了以后有一点儿不高兴。但是同学说，接朋友是因为关心他，不是一定要照我们的打算做。我们就帮他拿东西，一起坐车回家。路上他告诉我们，住院的时候最担心跟不上学校的课。我说，身体好了以后，我们可以给他看上课的笔记，也可以一起复习。到家后，他妈妈请我们喝水，我们没有坐很久，说了十分钟就走了。回学校时我想，关心别人，有时候是跟他说话，有时候也是早一点让他休息。饭可以改天吃，朋友现在需要什么才最重要。
+VI: Bạn nằm viện ba ngày, hôm nay xuất viện. Tôi định đón rồi mời ăn, nhưng bạn chỉ muốn về ngủ nên hơi hụt hẫng. Một bạn khác nhắc mục đích là quan tâm chứ không buộc làm theo kế hoạch. Chúng tôi giúp mang đồ, đưa bạn về và hứa hỗ trợ bài vở khi khỏe. Uống nước, nói chuyện mười phút rồi ra về để bạn nghỉ. Tôi hiểu quan tâm cũng có thể là rời đi sớm; bữa ăn để hôm khác.
+朋友住院了几天？|三天|so
+朋友今天最想做什么？|回家睡觉|viec|他很高兴，但说今天只想回家好好睡觉。
+谁在医院帮朋友收东西？|妈妈|nguoi
+朋友住院时最担心什么？|学校的课|do
+我们在朋友家说了多久？|十分钟|gio
+我们为什么没有坐很久？|让朋友休息|viec|回学校时我想，关心别人，有时候是跟他说话，有时候也是早一点让他休息。
+@8/Tin nhắn hỏi thăm đúng lúc
+今天早上我没去上课。半夜我突然觉得很冷，妈妈发现我发烧了，就带我去医院。看过医生以后，我回家吃药、睡觉。中午手机上来了很多同学写来的话，有人问我什么时候回学校，有人告诉我今天的作业。我很想回答，可是眼睛难受，只看了一会儿就不想看了。班长后来给大家说，先让他休息，下午再问吧。下午四点我起床，已经没有早上那么热了，才给班长打电话。他没有一直问我病得怎么样，只说今天学的东西已经记下来了，让我不用担心。我听了心里很舒服。晚上我可以吃一点儿面条了，妈妈也放心了。我给同学们说谢谢，还请他们明天不要一早打电话，因为我可能还在睡觉。大家说好，让我身体好了再来学校。
+VI: Nửa đêm rét và sốt, mẹ đưa tôi khám rồi về uống thuốc, ngủ. Trưa nhiều bạn nhắn hỏi và gửi bài nhưng tôi mỏi mắt, khó trả lời. Lớp trưởng nhắc để tôi nghỉ. Bốn giờ chiều hạ sốt hơn, tôi gọi và được trấn an rằng bài học đã ghi đầy đủ. Tối ăn được ít mì, mẹ yên tâm. Tôi cảm ơn mọi người, xin đừng gọi quá sớm hôm sau vì có thể còn ngủ; các bạn bảo khỏe rồi hãy đi học.
+我什么时候突然觉得很冷？|半夜|gio
+谁带我去医院？|妈妈|nguoi
+我为什么不想一直看手机？|眼睛难受|dap
+我下午几点起床？|四点|gio
+班长帮我记下了什么？|今天学的东西|do
+晚上我吃了什么？|面条|mon
+@8/Đổi giờ tập cầu lông
+我和姐姐最近常去打羽毛球。以前我们习惯晚上八点去，以为那时候人少。可是去了两次，都等了很久，还没有地方打。工作人员告诉我们，很多人下班后才来，所以晚上最忙。姐姐想以后不去了，但是我觉得可以换个时间。我们看了自己的课，发现星期三下午两个人都有时间。第三次我们下午四点就到，真的不用等。打了四十分钟以后，我们休息了一会儿，看到门口的人越来越多。姐姐说，原来不是自己不能运动，只是选的时间不合适。回家以后，她在纸上写了星期三下午，告诉妈妈那天会晚一点儿回来。我也学会了先喝水、休息，再去洗澡。现在每个星期都有一次运动，我觉得比以前只在想起来的时候去，更能一直做下去。
+VI: Tôi và chị hai lần đến sân cầu lông lúc tám giờ tối đều chờ lâu. Nhân viên giải thích nhiều người đến sau giờ làm. Chị định bỏ, tôi đề nghị đổi giờ; thứ tư cả hai rảnh nên đến bốn giờ chiều, không phải chờ. Đánh bốn mươi phút rồi nghỉ, thấy khách đông dần. Chị hiểu vấn đề ở thời điểm, không phải mình không hợp vận động. Chúng tôi ghi lịch cố định hằng tuần, dễ duy trì hơn đi tùy hứng.
+以前我们晚上几点去？|八点|gio
+晚上为什么人多？|很多人下班后才来|dap
+我们改成星期几去？|星期三|gio
+第三次我们几点到？|下午四点|gio
+我们打了多久才休息？|四十分钟|gio
+姐姐拿什么写在纸上？|星期三下午|do
+@8/Đôi tai nghe và thói quen trên xe
+每天坐车上学的时候，我都用着耳机听音乐。有一天，旁边的同学叫了我好几次，我都没听见。下车后他才告诉我，早上他想告诉我书包没关好，我的笔差点掉出来。我这才发现，耳机的声音有点儿大。晚上我问爸爸，这样听音乐会不会影响耳朵。爸爸说，如果不舒服就应该去问医生，平时也要注意不要听得太大、太久。第二天我只听了十分钟，就收好耳机，看看车外。以前我一直觉得路上没有意思，现在发现每天走一样的路，也会看见不一样的东西。有时同学上车，我们还可以说说话。到了学校，我没有以前那么累了。音乐还是我喜欢的东西，不过我不想因为多听一些歌，就一直不注意身边的人和事。
+VI: Tôi thường đeo tai nghe đi học, một hôm không nghe bạn gọi nhắc cặp chưa đóng, suýt rơi bút. Tối hỏi bố, bố nhắc chú ý âm lượng, thời gian nghe và hỏi bác sĩ nếu khó chịu. Hôm sau nghe mười phút rồi cất, ngắm đường và trò chuyện với bạn. Cùng một tuyến xe vẫn có điều mới; đến trường tôi đỡ mệt. Tôi vẫn thích nhạc nhưng muốn chú ý cả người và việc xung quanh.
+我每天在车上做什么？|听音乐|viec
+同学为什么叫我？|书包没关好|dap
+什么东西差点掉出来？|笔|do
+晚上我问了谁？|爸爸|nguoi
+第二天我听了多久音乐？|十分钟|gio
+收起耳机后我看什么？|车外|noi
+@9/Điểm số không kể hết trận đấu
+今天是学校的网球比赛。我和朋友一起参加，第一场我们得分比别人少，只得了两分。我很紧张，觉得自己练了一个月但是一点儿成绩也没有。朋友让我想想上个月，第一次拿球的时候，我球也接不住。现在虽然得分不多，可是已经能和别人打很长时间了。第二场开始以前，我们没有一直看别人的成绩，是说好每一个球都认真接。比赛结束时，我们的得分还是比别人少，但是比分比第一场好多了。回家的路上，体育老师问我们还想不想接着练。我说想，因为现在知道自己哪儿需要练习了。朋友也说，他越打越喜欢网球。晚上我在本子上写下两件事：今天能做到什么，下次想做到什么。比赛不只是为了得到第一名，也让我看见一个月以前没有的水平。
+VI: Trận quần vợt đầu chỉ được hai điểm khiến tôi thất vọng sau một tháng tập. Bạn nhắc buổi đầu tôi còn không đỡ nổi bóng, nay đã đánh qua lại lâu. Trận sau chúng tôi tập trung từng bóng, vẫn thua nhưng điểm tốt hơn. Tôi muốn tập tiếp vì biết cần cải thiện gì; bạn càng đánh càng thích. Tối tôi ghi điều đã làm được và mục tiêu lần sau, nhận ra thi đấu còn giúp thấy tiến bộ.
+我们参加什么比赛？|网球比赛|do
+第一场我们得了几分？|两分|so
+我已经练了多久？|一个月|gio
+第二场的成绩比第一场怎么样？|好多了|dap
+谁问我们还想不想接着练？|体育老师|nguoi
+晚上我在什么上面写下两件事？|本子上|noi
+@9/Chiếc thẻ vào sân bóng
+运动会那天，校园里的人特别多。我和同学说好去球场看比赛，到了门口才发现校园卡不在书包里。门口的老师不认识我，让我先去服务台问问。同学想给我用自己的卡，我觉得这样不合适，因为卡上的照片不是我。我们一起到服务台，说明了自己的名字和班级。老师查过以后，给我的老师打了电话，才让我们进去。比赛已经开始了十分钟，但是我们没有错过最后的得分。回教室后，我在昨天穿的衣服里找到了卡。原来昨天体育课以后，我直接拿衣服回家，忘了拿卡。我在卡上写了自己的电话，又决定以后回家前检查一次。今天虽然多走了一段路，但我觉得，有问题的时候说清楚事情，比借别人的东西去试更好。
+VI: Đến sân xem hội thao, tôi quên thẻ trường. Bạn định cho mượn nhưng ảnh khác nên chúng tôi tới quầy dịch vụ khai tên, lớp. Thầy kiểm tra và gọi giáo viên chủ nhiệm rồi mới cho vào. Trận đã qua mười phút nhưng còn xem được điểm cuối. Sau đó tôi tìm thấy thẻ trong áo mặc hôm qua; tôi ghi số điện thoại lên thẻ và quyết định kiểm tra trước khi về. Giải thích rõ tình huống tốt hơn thử dùng đồ của người khác.
+我到球场门口发现少了什么？|校园卡|do
+同学想给我用什么？|自己的卡|do
+我们先去了哪儿？|服务台|noi
+进去时比赛开始了多久？|十分钟|gio
+我后来在哪儿找到卡？|昨天穿的衣服里|noi
+我在卡上写了什么？|自己的电话|do
+@9/Người chạy chậm nhất nhóm
+为了准备运动会，我们班每天下午一起跑步。几个男生跑得很快，我一直在后面。第一次练习结束，我想不参加了，怕影响大家。老师没有马上说好，还让我第二天带着手表来。他让每个人只记自己的时间，不要一开始就和别人比。一个星期以后，我还是跑得最慢，但是比第一次快了半分钟。同学说，我每天都来，没有一次迟到，这也是一种成绩。后来我决定接着参加，先跑好自己的那一段。运动会那天，听见同学叫我的名字，我没有以前那么紧张。我们班最后没有得到第一名，但是大家一起拍了一张照片。照片里我站在最前面，手里拿着每天记时间的本子。那不是得分最高的东西，也是我最想留下来的东西。
+VI: Tập chạy chuẩn bị hội thao, tôi chậm nhất và muốn bỏ vì sợ ảnh hưởng lớp. Thầy bảo mang đồng hồ, ghi thời gian bản thân thay vì so ngay với người khác. Một tuần sau tôi vẫn cuối nhưng nhanh hơn nửa phút; bạn khen luôn đến đủ, đúng giờ. Tôi tiếp tục, thi bớt run. Lớp không nhất nhưng cùng chụp ảnh; tôi cầm sổ ghi giờ, món lưu niệm có ý nghĩa hơn điểm cao.
+我们为什么每天下午跑步？|准备运动会|viec
+我第一次练习后想做什么？|不参加了|viec
+老师让我第二天带什么？|手表|do
+一个星期后我快了多少？|半分钟|so
+同学说我没有一次怎么样？|迟到|dap
+照片里我手里拿着什么？|本子|do
+@9/Không xem hết trận bóng tối nay
+爸爸最喜欢看足球比赛，今天晚上有他很想看的一场。我原来想和他一起看，但是明天早上还要参加学校的网球练习。比赛十一点才开始，看完可能已经一点了。我有点儿担心，睡得太晚，明天一定起不来。爸爸说，喜欢体育不一定每一场比赛都要看到最后，自己运动也很重要。我们决定先看前半个小时，我就去睡觉。第二天我在说好的时间起床，爸爸在吃早饭时告诉我最后的成绩。他说，昨天后面的比赛虽然好看，可是我做的选择也很好。到了球场，我发现自己跑得动，上次接不到的球也能接到了。朋友问我有没有看比赛，我说只看了一点儿。他笑着说，今天我们自己的比赛开始了。我拿着球，觉得昨天晚上少看一些也没关系。
+VI: Tôi muốn xem bóng đá với bố nhưng trận bắt đầu mười một giờ, mai còn tập quần vợt sớm. Bố bảo yêu thể thao không nhất thiết xem hết mọi trận. Tôi xem nửa giờ rồi ngủ, sáng dậy đúng giờ nghe bố kể kết quả. Ra sân thấy khỏe, đỡ bóng dễ hơn. Bạn nói trận của chính chúng tôi bắt đầu rồi; tôi không tiếc phần đã bỏ lỡ tối qua.
+爸爸最喜欢看什么比赛？|足球比赛|do
+比赛晚上几点开始？|十一点|gio
+我第二天早上要做什么？|练网球|viec
+我看了多长时间就去睡觉？|半个小时|gio
+谁告诉我最后的成绩？|爸爸|nguoi
+第二天我接球怎么样？|能接到以前接不到的球|dap
+@9/Luyện tập hay thi đấu?
+朋友说周六体育馆有羽毛球比赛，问我要不要去。我以为他想让我参加，几天都很紧张，怕自己打得不好。他看我一直练，就问我为什么突然这么认真。我说，周六要比赛，一定得多练。他听了笑起来，说那是让我们去看运动员比赛，不是让我们上场。我这才知道自己听错了，心里一下不紧张了。可是练了几天以后，我发现本来接不到的球，现在能接到了。周六我们一起去看，主要注意运动员怎么站、怎么接球。以前我只看谁得分，现在也看他们在没得分的时候做什么。比赛后，朋友问我下个星期还练不练。我说一定练，虽然不用上场，练习也不是白做的。我们说好周三下午再去，这次不用为了让别人看，只为了自己喜欢。
+VI: Bạn rủ xem giải cầu lông, tôi hiểu thành tham gia nên luyện rất căng thẳng. Bạn hỏi mới làm rõ chỉ đi xem vận động viên. Dù hiểu nhầm, mấy ngày tập giúp tôi đỡ được bóng trước kia không đỡ nổi. Khi xem, tôi chú ý tư thế và cách xử lý cả lúc không ghi điểm. Sau giải chúng tôi vẫn hẹn tập thứ tư, lần này vì yêu thích chứ không vì phải thi trước người khác.
+朋友说比赛在星期几？|周六|gio
+我以为自己要做什么？|参加比赛|viec
+我们实际去做什么？|看比赛|viec|他听了笑起来，说那是让我们去看运动员比赛，不是让我们上场。
+练了几天以后我有什么不同？|能接到以前接不到的球|dap
+我们主要注意运动员怎么做？|怎么站和接球|dap
+我们说好什么时候再练？|周三下午|gio
+@10/Trang vở bị thiếu một bước
+数学考试以前，我借朋友的笔记复习。前面的题都看得懂，但是看到第四页时怎么也不明白。我以为自己上课没有认真听，越看越着急。朋友回来后，让我把本子拿给他。他看了一下，发现第三页和第四页中间少了一张纸。原来那张纸昨天掉出来了，上面正好写着老师讲的一个重要方法。他从书包里找出来，我再把前后一起看，一下就清楚了。我们没有直接背最后的回答，是一起把每个方法写了一遍。第二天考试，有一题跟笔记上的不一样，但是用的方法差不多，我还是做出来了。回家后我告诉妈妈，有时候看不懂，不一定是不够努力，也可能是少看了前面的一个方法。妈妈让我以后借东西时检查是不是都在，自己的笔记也要写清楚。
+VI: Mượn vở toán ôn thi, tôi không hiểu trang bốn và tưởng mình học không nghiêm túc. Bạn phát hiện giữa trang ba và bốn thiếu tờ giấy ghi phương pháp quan trọng; tìm lại trong cặp, tôi đọc nối thì hiểu. Chúng tôi viết từng bước thay vì học thuộc đáp án. Đề hôm sau khác nhưng dùng cách tương tự nên tôi làm được. Tôi hiểu đôi khi thiếu một bước thông tin chứ không phải thiếu cố gắng; mẹ nhắc kiểm tra đủ trang và ghi rõ.
+我借了什么复习？|朋友的笔记|do
+我看到第几页时不明白？|第四页|so
+少的纸上写着什么？|一个重要方法|do
+朋友在哪儿找到那张纸？|书包里|noi
+我们一起把每个方法写了几遍？|一遍|so
+第二天考试的方法跟笔记上怎么样？|差不多|dap
+@10/Một câu hỏi ở văn phòng
+历史课上，老师讲了一个故事。我听懂了大部分，但是不知道故事里的人为什么离开自己住的地方。下课后，同学都去吃饭了，我想去办公室问老师，又怕问题太简单。朋友说，有问题就应该问，要不回家还会一直想。我到了办公室，先把自己记的笔记给老师看。老师没有马上给我回答，是让我读前面的一句话。我读了两遍，才发现那句话已经说了原因，只是我原来没有注意到。老师说，读历史不只是记名字和时间，也要看前面的事情和后面的事情有什么关系。我把这句话写在本子上，又回教室把故事看了一遍。午饭虽然比平时晚吃了十分钟，但是心里很高兴。下午朋友问我老师说了什么，我没有只告诉他回答，还把自己怎么找到回答的方法讲给他听。
+VI: Tôi không hiểu vì sao nhân vật trong câu chuyện lịch sử rời thành phố. Ngại hỏi câu dễ, được bạn động viên mới đến văn phòng. Thầy bảo đọc câu phía trước; đọc hai lượt tôi nhận ra nguyên nhân đã có ở đó. Thầy nhắc lịch sử không chỉ là tên và thời gian mà còn quan hệ sự việc. Tôi ghi lại, đọc lại cả chuyện; ăn trễ mười phút nhưng vui. Chiều tôi giải thích với bạn cả cách tìm, không chỉ đáp án.
+我在哪门课上有问题？|历史课|do
+我去哪里问老师？|办公室|noi
+老师先让我读哪儿？|前面的一句话|noi
+我读了几遍才发现原因？|两遍|so
+我把老师的话写在哪儿？|本子上|noi
+我的午饭晚了多久？|十分钟|gio
+@10/Đọc đối thoại mà không nhìn sách
+外语课要求我们下星期两个人一起读对话。我和同学已经读了很多遍，每次看着书都读得很好。但是老师让我们不看书试一试，我们马上就忘了一半。我原来只记自己要说哪一句，没有认真听同学说的东西。回家后，我们换了一个方法，不从第一句一直背到最后，是先说清楚两个人为什么说话、每个人想问什么。第二天，我们在教室外练习，还把对话里买水果的地方换成了买书。我发现，句子换了一点儿，意思还是能说清楚。到了上课那天，我还是紧张，朋友少说了一句话，但是我没有跟着忘记，还是问了后面的问题。老师说，我们这次是在说话，不只是背书。虽然成绩不是最高，我觉得自己的外语真的比上个星期好了一点儿。
+VI: Đọc đối thoại khi nhìn sách rất dễ, bỏ sách thì chúng tôi quên nửa bài. Tôi nhận ra mình chỉ nhớ lượt nói, không nghe bạn. Hai đứa đổi cách: hiểu mục đích và điều muốn hỏi, rồi biến cảnh mua trái cây thành mua sách. Đến buổi trình bày, bạn thiếu một câu nhưng tôi vẫn hỏi tiếp được. Thầy khen đang giao tiếp chứ không chỉ học thuộc; điểm chưa cao nhất nhưng tôi thấy tiến bộ.
+老师要求什么时候读对话？|下星期|gio
+开始不看书时我们忘了多少？|一半|so
+我原来没有认真听什么？|同学说的东西|do
+我们把买水果换成了什么？|买书|viec
+上课那天朋友少说了什么？|一句话|do
+老师说我们这次是在做什么？|说话|viec
+@10/Bài tập đúng nhưng tên bị nhầm
+今天老师发作业时，把我的本子给了旁边的同学。我们的名字只差一个字，本子的颜色也一样，所以常常拿错。我看见本子上都是对的，特别高兴，后来才发现那不是自己的。自己的作业有两题做错了。我想起昨天写完以后只看了最后的回答，没有检查前面怎么算的。同学把他的本子拿回来，没有笑我，是和我一起看错在哪儿。他让我先自己讲一遍，我讲到第三个方法，就发现少写了一个数。第二题也是因为看得太快，要求做三遍，但是我只做了一遍。晚上我没有把作业从头再做，是把错的原因写在题旁边，再做一样方法的新题。第二天交作业前，我还看了一下名字。这一次，我希望拿回来的是自己真正的成绩。
+VI: Hai bạn tên gần giống, vở cùng màu nên thầy phát nhầm. Tôi mừng khi thấy toàn đúng rồi mới biết không phải vở mình; vở thật sai hai bài. Bạn cùng phân tích: một bài thiếu số ở bước ba, một bài đề yêu cầu làm ba lần nhưng tôi chỉ làm một. Tối tôi ghi nguyên nhân cạnh bài sai và luyện bài mới cùng phương pháp. Trước khi nộp hôm sau còn kiểm tra tên, mong nhận kết quả thực của mình.
+我们的名字差几个字？|一个字|so
+我自己的作业错了几道题？|两题|so
+第一题少写了什么？|一个数|do
+第二题要求做几遍？|三遍|so
+我把错的原因写在哪儿？|题旁边|noi
+第二天交作业前我检查了什么？|名字|do
+@10/Ai cũng nhìn rõ bảng chưa?
+最近我的座位在教室后面。老师写在黑板上的字，我常常看不清楚。我怕别人说我上课不认真，一直没有告诉老师，只在下课后借同学的笔记。后来有一次同学请假，我就少记了半节课。回家复习时，我越看越不明白，妈妈问了才知道事情。第二天我去找老师，说自己坐得远，有些字看不清楚。老师让我到前面坐了一个星期，也请我告诉他什么样的字能看清楚。换了座位后，我能一边听一边记，上课也能回答问题了。妈妈又带我去医院检查眼睛。现在我知道，遇到问题只是不说，不能让问题自己变好。老师也在课上问大家，后面的同学能不能看见，不再等有人少了笔记才发现这件事。
+VI: Ngồi cuối lớp, tôi không nhìn rõ bảng nhưng giấu, chỉ mượn vở bạn sau giờ. Một hôm bạn nghỉ, tôi thiếu nửa tiết và ôn không hiểu. Mẹ hỏi ra, hôm sau tôi báo thầy. Thầy đổi tôi lên trước một tuần, hỏi kiểu chữ dễ nhìn; tôi ghi bài và trả lời tự tin hơn. Mẹ đưa đi kiểm tra mắt. Tôi hiểu im lặng không tự giải quyết vấn đề; thầy cũng chủ động hỏi học sinh cuối lớp có nhìn rõ không.
+我的座位原来在哪儿？|教室后面|noi
+我下课后借同学的什么？|笔记|do
+同学请假那天我少记了多久？|半节课|gio
+老师让我到前面坐多久？|一个星期|gio
+妈妈带我去哪里检查眼睛？|医院|noi
+老师后来在课上问谁能不能看见？|后面的同学|nguoi
+@11/Cuộc họp ở hai căn phòng
+经理昨天发邮件，说今天下午三点在二楼开会。我看见时间以后就关了邮箱，没有认真看后面。今天两点五十分，我带着笔记本到了以前常用的会议室，但是里面一个人也没有。我以为自己记错了日期，给同事打电话才知道，这次换到了三楼，因为二楼的空调坏了。邮件后面早就写了新地点。我来到三楼时还没迟到，但是心里很不好意思。开会以后，经理让我们想办法，怎样让大家都看见重要的事。同事说，可以把时间和地点写在邮件最前面，不要让人往后找。我也说，看邮件的人应该读完，不能只看自己以为重要的一点儿。经理说好了。下次通知来的时候，我把地点和时间一起记在本子上，又和同事对了一次。这件小事让我改变了看邮件的习惯。
+VI: Chỉ đọc giờ họp trong email, tôi đến phòng cũ tầng hai lúc hai giờ năm mươi. Gọi đồng nghiệp mới biết chuyển lên tầng ba vì điều hòa hỏng; cuối thư đã ghi rõ. Vẫn kịp nhưng tôi ngượng. Họp bàn cách tránh bỏ sót: người gửi đặt giờ và địa điểm đầu thư, người nhận đọc hết. Tôi ghi cả hai thông tin rồi đối chiếu với đồng nghiệp, thay đổi thói quen đọc thư.
+会议原来通知几点开始？|下午三点|gio
+我先去了几楼？|二楼|so
+这次会议在哪一层？|三楼|so
+二楼的什么坏了？|空调|do
+谁在电话里告诉我新地点？|同事|nguoi
+下次我把时间和地点记在哪儿？|本子上|noi
+@11/Một ngày nghỉ cần bàn trước
+下个月我想回老家看爸爸妈妈，准备请两天假。我原来以为，只要把自己的工作做完就可以了。经理看过以后，问我星期四的会议谁来参加、星期五的邮件谁来回答。我这才发现，工作不是一个人做的，有些事情还需要跟同事说好。我先问了旁边的同事，他愿意帮我参加会议，但是星期五要去别的城市。我又跟别的一位同事商量，她可以帮我看邮箱。我把需要注意的事情写清楚，给两个人都发了一次。经理知道我们都准备好了，就让我休假。回家前，我也问了爸爸妈妈哪天比较有时间，没有直接买最便宜的票。爸爸说，星期四下午他就能来接我。我觉得这次请假不只是少来公司两天，还让我学会，自己的选择会影响别人，所以要早一点说，也要听听别人的事情。
+VI: Xin nghỉ hai ngày về quê, tôi tưởng hoàn tất việc riêng là đủ. Quản lý hỏi ai dự họp thứ năm và trả lời email thứ sáu. Tôi bàn với hai đồng nghiệp: một người dự họp, người kia xem hộp thư, rồi viết rõ lưu ý. Quản lý duyệt. Trước khi mua vé, tôi còn hỏi bố mẹ khi nào rảnh; bố có thể đón chiều thứ năm. Tôi học được lựa chọn của mình ảnh hưởng người khác nên cần báo sớm và lắng nghe.
+我准备请几天假？|两天|so
+星期四有什么事情？|会议|do
+第一位同事星期五要去哪里？|别的城市|noi
+谁说好我休假？|经理|nguoi
+我买票前先问了谁？|爸爸妈妈|nguoi
+爸爸什么时候能来接我？|星期四下午|gio
+@11/Âm thanh trong cuộc gọi
+今天我要和外地的同事开会。九点以前，我已经打开电脑，也把要说的东西写好了。可是会议开始以后，大家都说听不到我的声音。我越着急，说得越大声，还是没有用。旁边的同事过来看了一下，发现电脑没有选对耳机。他帮我换好，大家马上就能听见了。经理没有让我从头说所有的话，只请我先讲最需要大家决定的两件事。我用了五分钟说完，同事们也都回答了问题。会议结束后，我没有马上关电脑，是把今天遇到的问题记下来。下午又有一次电话，我提前十分钟请同事跟我试一试。这次声音很好，我也不紧张了。我发现，准备开会不只是准备自己要说什么，还要让别人能听到、听懂。出了问题以后，找人帮忙有时比一个人一直试更快。
+VI: Tôi chuẩn bị nội dung kỹ nhưng họp trực tuyến mọi người không nghe thấy. Nói to vẫn không được; đồng nghiệp phát hiện chọn sai tai nghe trên máy. Sửa xong, quản lý cho tôi trình bày hai việc cần quyết định trong năm phút. Tôi ghi lỗi để nhớ; cuộc gọi chiều thử âm thanh trước mười phút, thuận lợi và bớt run. Chuẩn bị họp còn là giúp người khác nghe và hiểu; nhờ hỗ trợ đôi khi nhanh hơn tự thử mãi.
+会议几点开始？|九点|gio
+大家开始听不到什么？|我的声音|do
+电脑没有选对什么？|耳机|do
+经理让我先讲几件事？|两件事|so
+我用了多久说完？|五分钟|gio
+下午我提前多久试声音？|十分钟|gio
+@11/Cơ hội ở thành phố khác
+公司问我想不想去别的城市工作一年。听到的时候，我特别高兴，以为换个城市一定能学到很多东西。回家跟家人说起，妈妈问我，住在哪儿、每天怎么去公司、周末能不能回来。我发现自己只想了工作的机会，还没有认真想生活。我给已经在那边的同事打电话，问了房子要多少钱和上班需要的时间。他说，离公司近的房子贵，但是坐车能少花一个小时。我又算了每个月的钱，没有马上给经理回答。星期五，我跟经理说自己愿意去，希望先去看两天，再决定房子。经理说好了，还让同事帮助我。现在我还是很高兴，不过不再只想新城市有什么好玩儿的地方。对我来说，好的机会也需要自己准备，问清楚以后再走，自己也能更放心。
+VI: Được đề nghị công tác thành phố khác một năm, tôi hào hứng nhưng chưa nghĩ chỗ ở, đi lại, thăm nhà. Tôi gọi đồng nghiệp hỏi giá thuê và thời gian đi làm; ở gần đắt nhưng tiết kiệm một giờ xe. Tính chi tiêu xong, tôi nhận lời và xin đi khảo sát hai ngày trước khi chọn chỗ. Quản lý đồng ý. Tôi hiểu cơ hội tốt cũng cần chuẩn bị thực tế, hỏi rõ rồi quyết định.
+公司希望我去多久？|一年|gio
+谁先问我住在哪里？|妈妈|nguoi
+我给谁打电话问事情？|那边的同事|nguoi
+住得近每天能少坐多久车？|一个小时|gio
+我什么时候回答经理？|星期五|gio
+我希望先去看几天？|两天|so
+@11/Ngày đầu phụ trách hộp thư
+今天是我第一次帮助经理看公司的邮箱。早上八点半，同事先给我介绍了三件事：会议换了地点要马上告诉大家，客人问的问题当天回答，不能决定的事情先问经理。九点以后，邮件越来越多，我没有从第一封一直看下去，是先把有关今天下午会议的找出来。那边的同事希望把时间改到四点，我问过经理以后，给每个人都发了新的通知。中午我和老同事一起吃饭，他说这个工作不只是打字快，还要知道每件事跟谁有关。下午一位客人问周末能不能到公司看看，我没有直接说可以，先查了谁来上班，再请经理决定。下班前，我把还没有解决的两件事写在本子上，明天早上先看。虽然一天都坐在电脑前，但是我认识了很多不在这间办公室的人。
+VI: Ngày đầu giúp quản lý xem hộp thư, tám giờ rưỡi đồng nghiệp dặn ba việc: đổi nơi họp phải báo ngay, câu hỏi khách trả lời trong ngày, việc chưa quyết được thì hỏi quản lý. Sau chín giờ thư đông, tôi ưu tiên cuộc họp chiều, xin phép đổi sang bốn giờ rồi báo mọi người. Trưa đồng nghiệp giải thích công việc không chỉ gõ nhanh mà cần biết ai liên quan. Khách hỏi cuối tuần ghé công ty, tôi kiểm tra người trực rồi xin quản lý quyết định. Trước về ghi hai việc chưa xong để xử lý sáng mai; ngồi máy cả ngày vẫn biết thêm nhiều người ngoài văn phòng.
+同事早上几点介绍工作？|八点半|gio
+客人的问题应该什么时候回答？|当天|gio
+我先看有关什么的邮件？|下午会议|do
+会议改到几点？|四点|gio
+客人想什么时候来公司？|周末|gio
+下班前还有几件事没解决？|两件|so
+@12/Cơn gió đổi chuyến đi thuyền
+星期六早上，天气很好，我和朋友说好去公园坐船。到了公园，但是水边刮起了风，工作人员说现在不能开船，让大家下午再来看看。朋友有点儿不高兴，觉得白跑了一次。我看见旁边的花都开了，就说不如先走一走。我们在水边走，找到一条以前没走过的小路，那里人不多，树下很凉快。中午我们坐在旁边吃面包，又看了一下天气新闻，下午风还会大。我们没有接着等，改去公园外的书店。朋友买了一本介绍花的书，回去想查今天看到的花叫什么。晚上他给我发照片，说下次不一定要坐船，也可以带着书来认识花。我们原来想做的事情没有做成，但是发现了公园里别的好地方。这一天比一直站在水边等有意思多了。
+VI: Đến công viên đi thuyền thì gió nổi, nhân viên tạm ngừng. Thay vì đứng chờ, chúng tôi đi đường nhỏ bên hồ, ngắm hoa dưới bóng cây. Trưa xem tin thấy chiều vẫn gió lớn nên chuyển sang hiệu sách. Bạn mua sách về hoa để tra loài đã gặp, hẹn lần sau mang sách đi nhận biết. Không đi thuyền được nhưng tìm ra góc khác thú vị của công viên.
+我们原来想去公园做什么？|坐船|viec
+为什么现在不能开船？|刮风|dap
+树下怎么样？|很凉快|dap
+我们中午吃什么？|面包|mon
+下午我们改去了哪里？|书店|noi
+朋友买了介绍什么的书？|花|do
+@12/Chiếc ô có hai lần được mượn
+下班时突然下雨，我没带伞，只好站在公司门口。旁边的同事说，她家就在旁边，可以先把伞借给我，明天再还。我很不好意思，问她自己怎么办。她拿出雨衣，说早上看过新闻，所以多带了一件。我拿着伞走到车站，看见一位妈妈带着孩子，头发上都是水。我请她和孩子站到伞下面，一起等车。车来了以后，我们上的不是一辆车，她向我说谢谢，就带孩子走了。第二天我把伞还给同事，还告诉她昨天的事。她笑着说，一把伞能帮到三个人，真不错。我问她为什么能记得看天气，她说不是每天都记得，只是以前在很大的雨里走过一次。现在我每天出门前也会看一眼，不是一定要带很多东西，是希望少一点儿没有准备的时候。
+VI: Tan làm gặp mưa, đồng nghiệp cho mượn ô vì đã mang thêm áo mưa sau khi xem dự báo. Ở bến xe tôi che cùng mẹ bế con tóc ướt, đợi đến khi họ lên chuyến khác. Hôm sau trả ô và kể lại, đồng nghiệp vui vì một ô giúp ba người. Cô từng bị ướt mưa nên có thói quen xem thời tiết; tôi cũng bắt đầu xem trước khi ra ngoài để chuẩn bị tốt hơn.
+下班时我站在哪里？|公司门口|noi
+谁把伞借给我？|同事|nguoi
+同事还带了什么？|雨衣|do
+我在车站帮助了谁？|一位妈妈和孩子|nguoi|我拿着伞走到车站，看见一位妈妈带着孩子，头发上都是水。
+我什么时候还伞？|第二天|gio
+同事以前遇到过什么天气？|很大的雨|dap
+@12/Bốn mùa qua một hàng cây
+我家到学校的路上有一些树。以前我每天低头看手机，一直没认真看过它们。今年春天，老师让我们找一个地方，每个月拍一张照片。我选了这条路，因为每天都会经过，不用特别坐车去。三月的树刚有小叶子，五月已经很绿。夏天中午走在树下，比马路旁边凉快多了。到了秋天，叶子变黄，地上也有很多。冬天我又去拍，发现树上的叶子差不多都掉了，能看见后面的房子。把照片放在一起以后，我才明白，不是只看天气新闻才能知道季节不同，每天上学的路也一直在变。最后我没有选最漂亮的一张交给老师，是把四季的照片一起给他看。老师说，能常常注意一样的地方，也是一种学习。我决定明年还接着拍。
+VI: Bài tập chụp một nơi mỗi tháng khiến tôi chú ý hàng cây trên đường đi học thay vì cúi nhìn điện thoại. Tháng ba lá nhỏ, tháng năm xanh, hè che mát, thu vàng, đông gần trụi lộ nhà phía sau. Xếp ảnh cạnh nhau tôi thấy mùa thay đổi ngay con đường quen. Tôi nộp cả bốn mùa, thầy khen quan sát một nơi thường xuyên cũng là học. Tôi định tiếp tục năm sau.
+老师要求多久拍一张照片？|每个月|gio
+我选的地方在哪里？|上学的路上|noi|我家到学校的路上有一些树。
+五月的叶子是什么颜色？|绿色|tu
+夏天树下比马路旁边怎么样？|凉快多了|dap
+冬天能看见树后面的什么？|房子|do
+我最后交了哪一些照片？|四季的照片|do
+@12/Tin dự báo của thành phố nào?
+明天我们要去北方看朋友，妈妈早上看新闻，说那边只有五度，让我多带衣服。我拿着手机一查，但是看到二十度，以为妈妈听错了。我们看了半天才发现，我查的是名字很像的别的城市，而且是上个星期的新闻。爸爸说，看天气不能只看最大的一个数，城市和日期都要对。我重新查了明天的天气，还发现下午可能有雪。我们给朋友打电话，他说最近天气每天都不一样，前两天还不太冷，今天已经穿大衣了。我把短衣服拿出来，换成两件长一点儿的衣服，又带了一双下雪天穿的鞋。到了那边，真的比家里冷很多。朋友来接我们时说，还好你们没有只带夏天的衣服。我笑着告诉他，我差点就看着别的城市的天气出门了。
+VI: Mẹ xem tin nói nơi sắp đến chỉ năm độ, điện thoại tôi lại báo hai mươi. Hóa ra tôi chọn thành phố tên gần giống và bản tin tuần trước. Bố nhắc kiểm tra cả nơi, ngày, không chỉ nhiệt độ. Xem đúng dự báo có thể tuyết chiều, gọi bạn cũng xác nhận trời đổi lạnh. Tôi đổi đồ mỏng sang áo dài hơn và giày đi trời tuyết. Đến nơi lạnh thật, may không mang toàn đồ hè.
+妈妈说那边只有多少度？|五度|so
+我第一次查到多少度？|二十度|so
+我查到的是哪天的新闻？|上个星期|gio
+明天下午可能有什么天气？|下雪|dap
+朋友今天已经穿了什么？|大衣|do
+我带了几件长一点儿的衣服？|两件|so
+@12/Công viên vào một ngày thường
+奶奶想去新开的公园，我说周末带她去。但是她问我，能不能找一个工作日下午。我以为她等不了，后来才知道，周末她要在家照顾爷爷，而且她不喜欢人太多的地方。我问了经理，决定星期三下午请半天假。那天我们到的时候，公园里很安静，门口有很多花。奶奶走得慢，我没有一直让她走快一点儿，是跟着她看看树、坐一会儿。她告诉我，小时候家旁边也有一些这样的树，夏天大家常常在下面说话。我原来只想带她看看新东西，但是听到了很多以前不知道的事。回家前，我们在门口拍照，又买了两个热包子。奶奶说，今天不用去很多地方，能慢慢走就很好。我也觉得，这半天不只是跟她出来，更像又认识了一个不一样的她。
+VI: Bà muốn đi công viên chiều ngày làm việc vì cuối tuần chăm ông và không thích đông. Tôi xin nghỉ nửa chiều thứ tư. Chúng tôi đi chậm, ngắm cây, ngồi nghỉ; bà kể hồi nhỏ mọi người trò chuyện dưới cây tương tự. Tôi tưởng dẫn bà xem cái mới nhưng lại biết thêm chuyện xưa. Trước về chụp ảnh, mua hai bánh bao nóng; bà vui vì được thong thả, tôi cảm thấy hiểu bà thêm.
+奶奶为什么不想周末去？|要照顾爷爷|viec|我以为她等不了，后来才知道，周末她要在家照顾爷爷，而且她不喜欢人太多的地方。
+我请了多久假？|半天|gio
+我们星期几去公园？|星期三|gio
+奶奶小时候大家在哪里说话？|树下面|noi|她告诉我，小时候家旁边也有一些这样的树，夏天大家常常在下面说话。
+回家前我们买了几个包子？|两个|so
+奶奶觉得怎样走很好？|慢慢走|dap
+@13/Bữa cơm có hai cách nêm
+朋友第一次来我家做客，我准备做他喜欢的面条。我们一个来自南方，一个来自北方，对面条的做法想得不太一样。我习惯把菜和面一起做，但是他想先把面做好，再加菜。开始我觉得自己的方法更方便，他也一直说家里的做法更好。妈妈听见以后，让我们每人做一碗，自己尝尝，不用先说谁对。两碗面做好了，我发现他的面也很有味道，他也觉得我做的很好吃。我们一边吃一边说起小时候家里谁做饭，才知道，喜欢哪种味道常常跟家里的生活有关。饭后，朋友把他的做法写给我，我也告诉他自己用了什么菜。下次请客的时候，我们打算让客人自己选。不是所有人的习惯都一样，可是多知道一种方法，桌子上的饭就能让更多人吃得开心。
+VI: Bạn miền bắc đến nhà tôi miền nam ăn mì; tôi quen nấu rau cùng mì, bạn muốn làm mì trước rồi thêm rau. Hai đứa đều cho cách nhà mình tốt. Mẹ đề nghị mỗi người làm một bát rồi nếm thay vì tranh đúng sai. Chúng tôi thấy cách kia cũng ngon, vừa ăn vừa kể ai nấu cơm thời nhỏ, hiểu khẩu vị gắn với gia đình. Sau bữa trao đổi cách làm, hẹn lần sau để khách chọn; thêm một cách có thể giúp nhiều người ăn vui hơn.
+朋友第一次来我家做什么？|做客|viec
+我准备做什么？|面条|mon
+妈妈让我们每人做几碗？|一碗|so
+我们吃饭时说起谁做饭？|小时候家里的人|nguoi
+饭后朋友写给我什么？|他的做法|do
+下次我们打算让谁自己选？|客人|nguoi
+@13/Đừng tặng món quà quá lớn
+下星期我要去邻居家吃饭，想带一件礼物。商店里有一张很大的画，画的是山和河，我觉得漂亮极了。但是哥哥看了以后问，邻居家有没有地方放。我想起他们的房子不大，墙上已经有照片，也有孩子画的画。这张画可能不是礼物，还让他们不知道放哪儿。我又看了看，选了一些茶，因为上次说话时，邻居说过每天晚上都喝一点儿茶。去做客那天，我把茶交给主人，没有说它多贵，只说记得他们喜欢喝。邻居很高兴，饭后就拿出来请大家尝。我们坐在一起说了一个小时，还说好下次到我家吃饭。回去时，哥哥问我还想不想买那张画。我说想，但那是我喜欢的，不一定是别人需要的。给别人选东西，先想想他，比先看大小更重要。
+VI: Định mang tranh lớn tặng hàng xóm mời ăn, tôi được anh hỏi nhà họ có chỗ treo không. Nhà nhỏ, tường đã đầy ảnh và tranh của con; quà có thể thành khó xử. Nhớ họ nói hay uống trà, tôi chọn hộp trà nhỏ. Chủ vui, mở mời mọi người sau ăn và trò chuyện một giờ. Tôi vẫn thích tranh nhưng hiểu món mình thích chưa chắc người khác cần; chọn quà nên nghĩ đến người nhận.
+我下星期要去谁家吃饭？|邻居家|noi
+我开始想买什么？|一张画|do|商店里有一张很大的画，画的是山和河，我觉得漂亮极了。
+画上有什么？|山和河|do
+我最后选了什么？|一些茶|do
+邻居什么时候拿茶请大家尝？|饭后|gio
+我们说了多久？|一个小时|gio
+@13/Tấm bản đồ trên bàn khách
+一对外国夫妻来我们城市旅游，朋友请我帮他们介绍旁边好玩儿的地方。我准备了很多地方的照片，以为越多越好。见面以后才知道，他们带着已经七十多岁的爸爸，不能一天走太多路，也不想每天换房子。我就把照片收起来，拿出地图，先问他们住在哪儿、每天几点想出门。我们一起选了三个地方，都在宾馆旁边，坐车不用换很多次。丈夫对文化感兴趣，想去看画；妻子喜欢在街上走，就选了一条安静的小街。他们的爸爸说，下午想找一个能坐着喝茶的地方，我也记在地图上。最后，我们没有一天去很多地方，还想好了下雨时可以做什么。朋友说这张地图很有用。我发现，介绍城市不只是告诉别人我喜欢什么，还要先问他们怎样玩才舒服。
+VI: Được nhờ giới thiệu thành phố cho đôi vợ chồng nước ngoài, tôi chuẩn bị nhiều ảnh danh thắng nhưng biết họ đưa bố lớn tuổi, không đi nhiều và không muốn đổi nơi ở. Tôi dùng bản đồ, hỏi khách sạn và giờ ra ngoài, chọn ba điểm gần, ít chuyển xe: xem tranh cho chồng, phố yên cho vợ, chỗ ngồi uống trà cho bố. Lịch còn khoảng nghỉ và phương án mưa. Tôi hiểu giới thiệu thành phố cần hỏi cách đi phù hợp với khách.
+我原来准备了很多什么？|地方的照片|do
+他们带着谁一起旅游？|爸爸|nguoi
+我们最后选了几个地方？|三个|so
+丈夫对什么感兴趣？|文化|do
+妻子喜欢做什么？|在街上走|viec
+爸爸下午想在哪里坐着？|能喝茶的地方|noi
+@13/Hỏi khách trước khi nấu
+周末同事要来我家，我打算做很多好吃的。爸爸让我提前问问客人有没有不能吃的东西。我觉得大家在公司常一起吃午饭，应该没有问题，就没有问。后来同事打电话，说她最近不能喝酒，也想少吃一点冰的东西，问我能不能带一瓶茶来。我这才发现，自己准备的饮料全是冰的，还有给大家买的啤酒。我马上说不用带，我家有热水和茶，又问了其他几位客人。原来其中一人不吃牛肉，还有一个晚饭吃得比较少。我重新选了几个简单的菜，没有让每个人都照着我喜欢的吃。那天大家吃得很开心，菜也差不多都吃完了。爸爸说，热情不是一直让别人多吃、多喝，问清楚以后让客人放心，才是请客时真正应该注意的事。
+VI: Mời đồng nghiệp đến ăn, tôi không hỏi điều kiêng vì tưởng đã hiểu qua các bữa trưa. Một người gọi nói không uống rượu, hạn chế đồ lạnh, muốn mang trà; tôi mới nhận ra chỉ chuẩn bị đồ lạnh và bia. Hỏi thêm thì có người không ăn bò, người ăn tối ít. Tôi đổi món đơn giản, chuẩn bị trà nước ấm. Bữa ăn thoải mái, ít thừa; bố nhắc hiếu khách còn là hỏi kỹ và để khách yên tâm, không ép ăn uống.
+爸爸让我提前问客人什么？|有没有不能吃的东西|dap
+打电话的同事最近不能喝什么？|酒|mon
+她想带什么来？|一瓶茶|do
+其中一位客人不吃什么肉？|牛肉|mon
+我后来选了什么样的菜？|简单的菜|do
+那天多出来的菜多不多？|不太多|dap
+@13/Bức tranh chưa cần xem giá
+城市里有一位画家，周六请大家到他的画室看看。我和朋友都喜欢画，就说好一起去。朋友一进门先问哪一张最贵，但是画家没有马上说多少钱，是让我们选自己最想看的。我选了一张画着小河的画，因为它很像我小时候住的地方。朋友选的是水果，他说颜色让人看了很开心。画家一边听我们说，一边介绍这些画是什么时候画的。有的只用了一个下午，有的画了一个多月。原来想看懂一张画，不用先知道多少钱。离开前，画家让每个人在纸上画一个自己知道的东西。我画了家里的茶杯，朋友画了妈妈常用的盘子。我们没有买画，但是带着自己的小画回家。后来再看墙上的画，我会先想想画里有什么故事，不再只问它贵不贵。
+VI: Đến thăm xưởng họa sĩ, bạn hỏi tranh đắt nhất nhưng họa sĩ mời chọn bức muốn xem trước. Tôi thích dòng sông giống quê thời nhỏ, bạn thích đĩa trái cây tươi màu. Nghe chuyện thời gian sáng tác, tôi hiểu giá không phải bước đầu để hiểu tranh. Trước về mỗi người vẽ vật quen: tôi vẽ cốc trà, bạn vẽ đĩa của mẹ. Không mua tranh nhưng mang tranh tự vẽ về; từ đó tôi tìm câu chuyện trước khi hỏi giá.
+谁请大家去看画？|一位画家|nguoi
+朋友进门先问什么？|哪一张最贵|dap
+我选的画上有什么？|小河|do
+朋友选的画上有什么？|水果|do
+我自己画了什么？|家里的茶杯|do
+我们有没有买画？|没有|dap
+@14/Quyển sách trở về muộn
+我在图书馆借了一本名人的故事，答应星期五还。但是星期四晚上准备收书包时，发现书不见了。我先找了桌子和床，又给一起上课的朋友打电话，他也没看见。第二天我没有假装忘记这件事，先去图书馆告诉老师。老师帮我查了书的名字，让我回家再找一天。下午妹妹说，她昨天把一本书拿给妈妈看，以为那是家里的。我到妈妈房间一看，正是这本书，里面还有我写的笔记。原来书不是被别人拿走了，是我们自己没有说清楚。我马上去还书，也向老师说对不起。后来我在借来的书外面加了一张纸，写清楚什么时候要还。妹妹想看的话，我会先告诉她这是借的。一本书能让很多人读，自己喜欢也不能让下一个想借的人一直等。
+VI: Sách truyện danh nhân phải trả thứ sáu bỗng mất. Tìm và hỏi bạn không thấy, sáng tôi báo thư viện thay vì lờ đi. Chiều em nói đã đưa mẹ xem vì tưởng sách nhà; trong phòng mẹ tìm đúng sách, còn kẹp ghi chú. Tôi trả ngay, xin lỗi, từ đó dán giấy ngày trả và nói rõ sách mượn khi người nhà đọc. Thích sách cũng không nên để người mượn tiếp chờ mãi.
+我借了什么书？|名人的故事|do
+我答应星期几还？|星期五|gio
+谁把书拿给妈妈看？|妹妹|nguoi
+我最后在哪里找到书？|妈妈房间|noi
+书里面有什么？|我的笔记|do
+后来我在书外面写清楚什么？|什么时候要还|dap
+@14/Đoạn video không phải buổi biểu diễn
+班级的新年晚会需要一个节目，我和两位同学准备读一段故事。我们看了网站上的视频，觉得别人读得很好，就想完全照着学。练习时，别人什么时候笑我们也跟着笑，但是自己不知道为什么要笑。老师看了一遍，说可以学习方法，但是故事要先读懂。我重新看书，发现视频里少了中间的一段，所以前后有些地方跟书不一样。我们讨论以后，决定读书里所有的东西，三个人分别读不同的人，再加上一点儿自己的想法。第一次在同学面前练时，大家没有一直笑，但是听到最后都很安静。表演结束后，有人问我们书叫什么名字，想借来看。那一刻我觉得，节目不一定要跟网上大家最喜欢的一样，让人愿意接着读，也是一次很好的表演。
+VI: Ba bạn chuẩn bị đọc truyện cho liên hoan năm mới, định bắt chước video cả chỗ cười mà chưa hiểu lý do. Thầy nhắc hiểu truyện trước. Đọc sách mới thấy video lược đoạn giữa. Chúng tôi giữ truyện đầy đủ, chia vai và thêm suy nghĩ riêng. Khi biểu diễn, khán giả không cười liên tục nhưng lắng nghe, rồi hỏi tên sách để mượn. Tôi hiểu tiết mục khơi hứng đọc cũng thành công, không cần giống video nổi tiếng.
+我们准备什么节目？|读故事|viec
+一共有几个人表演？|三个人|so
+我们开始学习什么里的表演？|网站上的视频|do
+视频少了故事的哪一段？|中间的一段|noi
+我们决定读什么样的故事？|书里所有的东西|do
+表演后有人想借什么？|那本书|do
+@14/Từ điển trên màn hình nhỏ
+老师让我们读一篇故事，遇到不认识的词可以查词典。我平时只用手机，觉得纸词典又重又慢。可是今天手机快没电了，我只好借同学的词典。找到第一个词用了很久，我有点儿生气，觉得还是手机方便。同学让我看看旁边的介绍和句子。我发现，那个词在故事里的意思不是我平时记的意思，后面的句子正好帮助我看懂。我把这个意思写在本子上，再读故事，原来不明白的一段就清楚了。下午手机有了电，我也没有只看跳出来的第一个介绍，是往下多看了一点儿。现在我还是常用手机查词，但是不再觉得哪一种词典一定更好。重要的是有没有读到这句话里的意思，不是自己用了多贵的手机，或者查得比别人快多少。
+VI: Đọc truyện, điện thoại gần hết pin nên tôi mượn từ điển giấy, ban đầu bực vì tra chậm. Bạn nhắc xem giải thích và câu mẫu, tôi nhận ra từ có nghĩa khác điều đã nhớ, nhờ đó hiểu đoạn khó. Sạc điện thoại xong tôi cũng đọc thêm thay vì chọn nghĩa đầu tiên. Tôi vẫn tra máy thường xuyên nhưng hiểu cần tìm đúng nghĩa trong câu, không phải tranh công cụ hay tốc độ.
+今天为什么借纸词典？|手机快没电了|dap
+我向谁借词典？|同学|nguoi
+什么帮助我看懂新的意思？|句子|do
+我把新的意思写在哪里？|本子上|noi
+手机什么时候有了电？|下午|gio
+现在我还常用什么查词？|手机|do
+@14/Tờ báo bị cắt mất ngày
+爷爷今天拿着一张报纸，说周末公园有表演，想带我去。我看到上面的照片，也觉得很好玩儿，就给朋友发一句话。朋友问表演几点开始，我再看才发现，报纸下面被拿走了一块，日期看不全。我本来想自己说一个时间，但是爷爷说，先查清楚再请别人来。我们到公园的网站上找，发现那是去年新年的节目，今年已经换成别的了。爷爷有点儿不高兴，说自己把旧报纸当成了新的。我告诉他，今年的节目下午两点开始，也有他喜欢的音乐。他听了又高兴起来。周末我们照新的时间到了公园，朋友也来了。表演结束以后，爷爷把去年那张照片和今年拍的放在一起。他说，旧报纸不是没有意思，只是不能拿过去的日期来准备今天的事。
+VI: Ông thấy báo có biểu diễn công viên, tôi rủ bạn. Khi hỏi giờ mới nhận ra báo bị cắt phần ngày. Tra website thấy đó là chương trình năm ngoái, năm nay đổi nhưng vẫn có nhạc ông thích, bắt đầu hai giờ. Cuối tuần cả nhóm đi đúng lịch mới. Ông đặt ảnh năm cũ cạnh ảnh mới, nói báo cũ vẫn thú vị nhưng không thể dùng ngày cũ lên kế hoạch hôm nay.
+谁想带我去看表演？|爷爷|nguoi
+报纸上的什么看不全？|日期|do
+我们到哪里查新的节目？|公园的网站|noi
+报纸上说的是哪年的节目？|去年|gio
+今年节目下午几点开始？|两点|gio
+谁也来公园看表演？|朋友|nguoi
+@14/Chiếc ghế còn trống trên sân khấu
+学校晚会以前，一位参加表演的女生突然请假。我们班的节目是四个人一起读故事，少了她，原来的准备就不能用了。有同学说最好不表演了，也有人想马上请老师来读。班长先问了请假的同学，她说故事里自己要读的话不多，可以提前用手机先读出来。我们试了一次，发现声音太小，后面的同学听不清楚。后来大家决定把那几句话分给其他三个人，前面还留一把椅子，椅子上放着她画的画。表演以前，我们告诉大家她为什么没有来，也说这张画是她准备的。虽然没有视频里那么好看，大家还是认真听完了。第二天，她回到班级，看见我们给她拍的照片，很开心。这个节目没有因为少一个人就结束，也没有让她觉得自己被忘记了。
+VI: Một bạn nữ nghỉ đột xuất trước tiết mục đọc truyện bốn người. Có bạn muốn hủy, có bạn mời thầy. Thử ghi âm lời của bạn nhưng âm nhỏ, cuối cùng chia lời cho ba người, vẫn để ghế cùng tranh bạn đã vẽ trên sân khấu và giải thích với khán giả. Hôm sau bạn xem ảnh rất vui. Tiết mục vẫn diễn ra mà người vắng cũng cảm thấy được nhớ đến.
+原来的节目有几个人？|四个人|so
+一位女生为什么没来？|请假了|dap|学校晚会以前，一位参加表演的女生突然请假。
+第一次试用手机里的声音有什么问题？|声音太小|dap
+后来几个人读故事？|三个人|so
+椅子上放着什么？|她画的画|do
+她什么时候回到班级？|第二天|gio
+@15/Con đường đi học của hai thế hệ
+爸爸小时候也在我现在的学校上学。他一直说以前从家走到学校只要十分钟，但是我每天要走二十分钟。周末我们一起去看，想知道为什么差这么多。爸爸带我走到一条小路口，发现前面已经是一个新小区，不能像以前一样直接过去了。现在大家要在马路上多走一段，再过一个路口。他有点儿没想到，说地图上的两个地方没有变，但是走的方法完全不同了。我又带他看学校旁边的书店和球场，这些都是他放学时没有的。我们没有一直说以前好还是现在好，是每人讲了一件自己喜欢的事。回家后，我根据今天走过的路画了两条路，一条是爸爸记得的，一条是我每天走的。下次爷爷来，我还想请他画一画，看看一样的地方，在三个人记得的东西里会有什么不一样。
+VI: Bố từng học trường tôi, nhớ đi bộ mười phút, tôi lại mất hai mươi. Cùng đi mới thấy đường tắt cũ bị khu nhà mới chặn, nay phải vòng theo đường lớn thêm một ngã tư. Vị trí nhà và trường không đổi nhưng lối đi khác. Tôi dẫn bố xem hiệu sách, sân bóng mới; mỗi người kể điều thích, không tranh xưa hay nay tốt hơn. Về tôi vẽ hai tuyến, muốn nhờ ông vẽ thêm ký ức thế hệ thứ ba.
+爸爸以前走到学校要多久？|十分钟|gio
+我现在要走多久？|二十分钟|gio
+原来的小路前面现在是什么？|新小区|noi
+我带爸爸看了书店和什么？|球场|noi
+我一共画了几条路？|两条|so
+下次我还想请谁画路？|爷爷|nguoi
+@15/Khách đến từ nơi khác không muốn đi xa
+外地朋友来我们城市，只有半天时间。我查了很多有名的地方，想带他一个一个去。他看过地图以后，但是问我平时周末去哪儿。我说有时候到河边走走，旁边还有一个很小的市场。他听了特别感兴趣，说这次不想把时间都用在坐车上，更想看看我平时怎么生活。我们就从家里走到河边，经过我买早饭的地方，又在市场买了两个苹果。一个卖菜的老人认识我，问是不是带同学来玩。我给他们介绍以后，三个人说了一会儿。朋友说，这样的半天比他一个人照着地图找地方更有意思。走以前，他还拍了河上的船。我原来觉得不够有名的地方，但是在他看来很新鲜。看来介绍家里住的城市，不一定每次都要带客人去人最多、名字最大的地方。
+VI: Bạn ngoại tỉnh chỉ có nửa ngày, tôi định chạy nhiều danh thắng. Bạn lại muốn xem nơi tôi đi cuối tuần, không tốn hết giờ trên xe. Chúng tôi đi bộ ra sông, qua hàng ăn sáng và chợ nhỏ mua táo, trò chuyện với bác bán rau quen. Bạn chụp thuyền trên sông, thấy buổi đi thú vị hơn tự dò điểm du lịch. Tôi nhận ra nơi bình thường của mình có thể mới mẻ với khách, không nhất thiết đưa đến chỗ nổi tiếng nhất.
+朋友有多少时间？|半天|gio
+朋友更想了解什么？|我平时的生活|do
+我们先走到哪里？|河边|noi
+我们在市场买了什么？|两个苹果|do
+谁认识我？|卖菜的老人|nguoi
+朋友拍了什么？|河上的船|do
+@15/Chú mèo ở căn nhà bên cạnh
+旁边的老人养了一只白猫，放学时我常看见它在门口睡觉。有一天，猫不在，老人也没坐在平时的椅子上。我以为他们搬家了，回家告诉妈妈。妈妈让我别只看见一天不一样就说是这样，明天经过时可以问问。第二天下午，我遇见老人的邻居，才知道老人去看女儿，猫现在请邻居照顾。邻居说，猫不习惯新地方，在房间里，不想出来。我带了一件老人以前给猫用过的小东西，放在门口，自己站远一点儿等。不一会儿，猫出来看了看，又慢慢走回去。几天后老人回来了，听说我来过，向我说谢谢。我没有觉得自己做了什么大事，但是明白，关心旁边的人不能只靠想。多问一句，有时就能少一些不用有的担心，也能知道别人是不是真的需要帮助。
+VI: Không thấy ông hàng xóm và mèo trắng ở cửa, tôi đoán họ chuyển nhà. Mẹ nhắc đừng kết luận từ một ngày. Hôm sau hỏi hàng xóm mới biết ông thăm con gái, gửi mèo nhưng nó chưa quen chỗ. Tôi đặt đồ quen của mèo gần cửa và đứng xa đợi; lát nó ra nhìn rồi vào. Ông về cảm ơn. Tôi hiểu quan tâm không nên chỉ đoán: hỏi thêm giúp bớt lo và biết có cần hỗ trợ thật không.
+老人养的猫是什么颜色？|白色|tu
+我原来以为老人怎么样了？|搬家了|dap
+老人实际去看谁？|女儿|nguoi
+谁现在照顾猫？|邻居|nguoi
+猫为什么在房间里？|不习惯新地方|dap
+猫出来以后又去哪里？|房间里|noi
+@15/Tấm biển khiến khách đi nhầm
+周末我在家里住的城市的一个地方帮忙。一位游客拿着手机问我，去河边是不是往左走。我看了地图，说是的，但是他告诉我刚才已经走过，左边只有停车的地方。我跟他一起去看，发现路口的新纸上的字有一半在叶子后面，看不见，老纸还在旁边，两条路看起来很像。我先带他走到对的小路，又告诉门口的老师。老师请人把树上的叶子拿走了一些，再把旧纸拿走。下午我坐在早上那个路口，看见游客都能直接找到路，问的人比早上少了很多。老师问我今天做了什么，我没有说自己带了多少人，是说发现了一个会让大家走错的地方。他说，这比一天回答一样的问题更有用。我想，以后再遇到别人不明白，也可以看看是不是前面的说明不够清楚。
+VI: Hỗ trợ khách ở quê, tôi thấy du khách đi trái theo bản đồ nhưng vào bãi xe. Cùng kiểm tra mới biết lá che nửa biển mới, biển cũ còn cạnh đó. Tôi dẫn đúng lối, báo thầy để tỉa lá và bỏ biển cũ. Chiều ít người hỏi hơn. Thầy khen phát hiện nguyên nhân tốt hơn trả lời cùng câu cả ngày; tôi học cách xem hướng dẫn có rõ thay vì chỉ trách người chưa hiểu.
+游客想去哪里？|河边|noi
+他走错后看到什么？|停车的地方|noi
+什么让大家看不见新纸上的字？|树上的叶子|do
+旧纸后来怎么样？|被拿走了|dap|老师请人把树上的叶子拿走了一些，再把旧纸拿走。
+下午问路的人比早上怎么样？|少了很多|dap
+我把问题告诉了谁？|门口的老师|nguoi
+@15/Trò chơi không cần điện thoại
+弟弟放学后来我家，一进门就问能不能玩手机游戏。我想起小时候常在旁边的草地上玩，就带他下楼。他开始不太愿意，说外面没有什么好玩儿的。我拿出纸，写了五个要找的东西：黄色的叶子、红色的花、一个黄色的门、一只鸟和一条船。我们说好，只看、只画，不把花和叶子带回家。弟弟一边找一边画，慢慢走到了以前从没注意过的河边。那里有一只鸟，他看了很久，还问我它吃什么。我也不知道，就说好回家一起查。一个小时以后，他已经忘了手机，拿着自己的小画给妈妈看。妈妈说，下次可以换成他来给我出题。我觉得这个游戏没有第一名和最后一名，但是让我们都重新看见了每天经过的地方。
+VI: Em tới muốn chơi điện thoại. Tôi dẫn ra bãi cỏ, giao tìm và vẽ năm thứ: lá vàng, hoa đỏ, cửa màu vàng, chim và thuyền; chỉ quan sát, không hái lá, hoa mang về. Em dần thích, đi tới bờ sông trước kia ít chú ý và hỏi chim ăn gì; tôi chưa biết nên hẹn về cùng tra. Một giờ sau em quên điện thoại, khoe tranh với mẹ. Mẹ gợi ý lần sau em ra đề cho tôi. Không có người nhất hay cuối nhưng trò chơi giúp cả hai nhìn lại những nơi đi qua hằng ngày.
+弟弟进门想玩什么？|手机游戏|do
+我写了几个要找的东西？|五个|so
+我们可以把花带回家吗？|不可以|dap
+弟弟在哪里看见鸟？|河边|noi
+我们玩了多久？|一个小时|gio
+妈妈说下次谁来出题？|弟弟|nguoi
+@16/Giấc ngủ của gấu trúc
+周末我带妹妹去动物园。她最想看大熊猫，早早就准备好了相机。到了那里，但是大熊猫在睡觉，旁边只有一些竹子。妹妹很不高兴，问为什么它不起来跟大家玩。我让她看看纸，上面写着大熊猫每天需要吃很多竹子，也会用不少时间休息。我们没有给它吃东西，也没有一直叫它，是先去看别的动物。半个小时以后回来，大熊猫起来了，坐在地上慢慢吃东西。妹妹一会儿看它的脚，一会儿看它的嘴，还认真画了一张画。离开时，她没有买最大的东西，是选了一本介绍动物生活的书。回家以后，她告诉妈妈，今天学到的不只是大熊猫很可爱，还知道了看动物也要注意它们的习惯。我们想看见的，不一定正好是动物那时候想做的。
+VI: Em háo hức chụp gấu trúc nhưng đến nơi nó ngủ. Đọc bảng biết nó cần nhiều tre và thời gian nghỉ, chúng tôi không gõ kính hay gọi, chuyển xem con khác. Nửa giờ sau quay lại thấy nó ăn, em quan sát chân miệng và vẽ. Em chọn sách đời sống động vật thay đồ chơi lớn, kể mẹ rằng không chỉ thấy đáng yêu mà còn hiểu cần tôn trọng thói quen của chúng; mong muốn người xem không luôn trùng điều con vật muốn làm.
+妹妹最想看什么动物？|大熊猫|do
+刚到时大熊猫在做什么？|睡觉|viec
+大熊猫每天吃很多什么？|竹子|do
+我们过了多久再回来？|半个小时|gio
+妹妹最后买了什么？|介绍动物生活的书|do
+妹妹还认真做了什么？|画画|viec
+@16/Chú chó nhận ra ai trước?
+奶奶家的小狗很可爱，我每次去它都会跑过来。这个周末我换了新大衣，还穿了一件红色衣服，但是刚进门时它一直叫，好像不认识我。我有点儿难过，觉得它忘了我。奶奶让我先别着急，不要直接找小狗玩。我站在原来的地方，像平时一样叫它的名字。小狗听了一会儿，走过来闻了闻我的鞋，才开心地在我身边跑起来。原来它不是完全不认识，只是我的样子跟以前不太一样。后来妹妹也想试，她把我的大衣穿上，但是小狗马上知道是她。我们笑了半天，奶奶说，不能以为动物只看一件衣服就知道谁是谁。下午我们带它出去，路上遇见别的小狗，我没有直接让它们靠近，是先问主人能不能让它们一起玩。跟动物一起玩很开心，也有很多需要慢慢了解的地方。
+VI: Mặc áo khoác mới cùng áo đỏ đến nhà bà, tôi bị chó sủa nên tưởng nó quên mình. Bà bảo đừng vội bế lên, cứ đứng và gọi tên như thường. Nó nghe, ngửi giày rồi vui vẻ chạy quanh. Em cũng thử mặc áo khoác của tôi nhưng chó vẫn nhận ra, chúng tôi hiểu nó không chỉ dựa vào một món đồ. Chiều dắt đi gặp chó khác, tôi hỏi chủ trước khi cho chúng chơi cùng; chơi với động vật vui nhưng cần tìm hiểu dần.
+我去的是谁家？|奶奶家|noi
+我今天穿着什么？|大衣|do
+奶奶让我不要马上做什么？|直接找小狗玩|viec
+小狗闻了我的什么？|鞋|do
+后来谁也穿了我的大衣？|妹妹|nguoi
+下午我们带小狗去做什么？|出去走走|viec
+@16/Đừng cho ăn chỉ vì thấy dễ thương
+动物园里有一只小动物，一直把嘴张着，好像在等别人给吃的。弟弟刚拿出自己的面包，就被妈妈叫住了。旁边的纸说，请不要给动物吃自己带来的东西。弟弟不明白，觉得面包很好吃，自己也每天都吃。妈妈说，人觉得好吃的，不一定合适所有动物，动物园里有照顾它们的人，会根据需要准备吃的。后来我们看到工作人员拿来食物，那只动物先闻了闻，再慢慢吃起来。弟弟问它是不是没吃饱，工作人员说今天已经吃过，只是现在到了下一次吃饭的时间。回家的路上，弟弟把没给出去的面包吃了，还说下次可以带本子，把不知道的问题记下来问。我觉得他今天虽然没有给动物吃面包，但是学会了一点儿怎么爱它们。可爱不是让我们想做什么就做什么的原因。
+VI: Em định đưa bánh mì cho con vật đang há miệng, mẹ ngăn vì bảng cấm cho ăn đồ mang vào. Mẹ giải thích thức ăn ngon với người chưa chắc hợp động vật, đã có người chuẩn bị phù hợp. Thấy nhân viên cho ăn, em hỏi có đói không và biết nó đã ăn, giờ đến bữa khác. Trên đường về em ăn bánh và định mang sổ ghi câu hỏi lần sau. Không tự cho ăn nhưng em học cách quan tâm đúng hơn.
+弟弟准备给动物吃什么？|面包|mon
+谁叫住了弟弟？|妈妈|nguoi
+纸上说不要给动物吃什么？|自己带来的东西|do
+谁给动物准备食物？|工作人员|nguoi
+动物先做什么再吃？|闻一闻|viec
+弟弟下次想带什么记问题？|本子|do
+@16/Ba bức ảnh của cùng một chú mèo
+朋友给我看三张猫的照片，让我想是不是他家那一只。第一张猫很小，眼睛看起来特别大；第二张比第一张胖了一点儿；第三张已经能站到椅子上。我看了脸上的颜色，发现三张都有一样的小黑点，才说是他家那一只。朋友笑着告诉我，这些照片都是他家的猫，只是时间不同。他原来每天都给猫拍照，但是没有注意到它长得这么快。后来家人把一个月前的照片找出来，放在旁边，他才看见它长大了。我想到自己小时候的照片，也常常觉得跟现在不像。我们又一起看了猫每天吃什么、玩多长时间的笔记，发现最近它玩的时间比以前少。朋友决定先请照顾动物的人看看，不只是觉得胖一点儿更可爱就不关心了。我也明白，认真看照片不只是为了选最好看的一张，有时还能帮助我们注意身体跟以前有什么不同。
+VI: Bạn đưa ba ảnh mèo khác tuổi, tôi nhận ra cùng chấm đen trên mặt nên đoán cùng con. Chụp mỗi ngày khiến bạn không thấy lớn nhanh, đặt ảnh tháng trước cạnh nhau mới rõ. Xem thêm sổ ăn và chơi thấy gần đây mèo vận động ít; bạn định hỏi người chăm sóc chuyên môn thay vì chỉ khen mập dễ thương. Tôi hiểu ảnh còn giúp nhận thay đổi sức khỏe, không chỉ chọn tấm đẹp.
+朋友给我看几张照片？|三张|so
+我看什么知道照片里是他家的猫？|脸上的小黑点|do|我看了脸上的颜色，发现三张都有一样的小黑点，才说是他家那一只。
+第三张照片里猫能站到哪里？|椅子上|noi
+朋友把多久以前的照片找出来？|一个月前|gio
+最近猫玩的时间比以前怎么样？|少|dap
+朋友想请谁看看？|照顾动物的人|nguoi
+@16/Ai chăm chú mèo khi nhà đi vắng?
+我们全家周末要去看爷爷，两天以后才回家，可是家里的猫需要每天有人照顾。爸爸想请邻居每天来看看，但是妈妈担心邻居不了解猫平时的习惯。我说可以先请她过来，跟着我们做一次。星期五晚上，邻居来了，我把猫吃东西的碗、喝水的地方和常玩的东西都介绍了一遍，还把需要注意的事写在纸上。她问，如果猫一直在床下面怎么办。我告诉她，它怕见生人，不用一定拿出来，只要知道它吃了东西、喝了水就好。我们还留下电话，方便她有问题时问。周末回来，猫好像没有很生气，邻居也说照顾起来没有想的那么难。妈妈说，找别人帮忙以前，自己先把事情说清楚，别人才能放心。我决定下次她出去的时候，也帮助照顾她家的花。
+VI: Cả nhà vắng hai ngày, bố nhờ hàng xóm chăm mèo, mẹ lo cô chưa biết thói quen. Chúng tôi mời cô đến làm thử tối thứ sáu, giới thiệu bát, nước, đồ chơi và ghi lưu ý, để số liên lạc. Mèo sợ người lạ, không cần lôi khỏi gầm giường, chỉ kiểm tra ăn uống. Về thấy ổn, cô nói không khó như tưởng. Tôi hiểu cần hướng dẫn rõ trước khi nhờ; lần sau sẽ giúp chăm hoa nhà cô.
+我们全家要出去几天？|两天|so
+爸爸想请谁帮忙？|邻居|nguoi
+邻居什么时候先来问事情？|星期五晚上|gio
+猫怕什么？|生人|nguoi
+我们留下什么方便打电话？|电话|do
+下次我想帮助照顾邻居家的什么？|花|do
+@17/Điện thoại đã tắt vẫn có cách gặp
+前天我和朋友说好在图书馆门口见面。出门以前，我发现手机只有一点儿电，就把它关机，想留到需要时再开。但是到了图书馆没有看见朋友。我等了十分钟，打开手机才发现他发过一句话，说门口不能走，请到后面的楼梯旁边等。我走过去时，他也有点儿生气，以为我忘了说好的时间。我先告诉他手机的事情，又问以后遇到这样的事怎么办。我们决定，下次说见面的地方时就说好第二个地点，如果打电话没人接，过十五分钟到那里找。后来我们一起查留学的介绍，我的手机又没电了，这次没有影响到见面。回家后，我没有觉得关机一定对或者一定错，是发现只说一个地点还不够。真正有用的办法，是在出问题以前就想一想，两个人怎么才能见面。
+VI: Tắt máy giữ chút pin, tôi đến thư viện không gặp bạn, đợi mười phút mở mới thấy tin cửa đang sửa, hẹn cầu thang sau. Bạn tưởng tôi quên giờ nên bực. Giải thích xong, hai đứa thống nhất lần sau có điểm dự phòng, không liên lạc được thì sau mười lăm phút đến đó. Hôm ấy vẫn tra tài liệu du học được; tôi hiểu cần tính cách tìm nhau trước khi xảy ra trục trặc, không chỉ tranh tắt máy đúng sai.
+我为什么出门前关机？|手机快没电了|dap
+原来说好的地点是哪里？|图书馆门口|noi
+朋友后来在哪里等？|后面的楼梯旁边|noi
+我等了多久才打开手机？|十分钟|gio
+以后打电话不上过多久去第二个地点？|十五分钟|gio
+我们见面后查什么介绍？|留学的介绍|do
+@17/Không phải cứ nhanh là biết đường
+我带新同学去办公室，走到楼梯口，他说往右更近。我记得上次是往左，就没有听他的，带着他一直走。结果到了体育馆旁边，离办公室还更远。我有点儿不好意思，想说只是带他看看学校。但是他笑着说，不认识路也没关系，可以一起查。我拿出校园地图，才发现自己把二楼和三楼的方向记错了。我们重新回到楼梯口，看地图走了三分钟就到。老师没有因为晚来几分钟生气，是问我们找她有什么事。回去时，我先让新同学带路，发现他前天已经来过一次，当然比我清楚。我想，带别人走不是说自己一定知道得更多。只有愿意听他说，也愿意说自己不知道，才不容易把小问题越弄越大。
+VI: Dẫn bạn mới tới văn phòng, tôi bỏ qua lời bạn nói rẽ phải gần hơn, đi trái rồi lạc ra sân thể thao. Ngại nhận sai, tôi định giả vờ dẫn tham quan nhưng bạn đề nghị xem bản đồ. Hóa ra tôi nhớ nhầm hướng tầng hai với ba; quay lại chỉ ba phút là tới. Thầy không giận. Lúc về tôi để bạn dẫn, mới biết bạn đã đến hôm kia. Tôi hiểu dẫn người khác không có nghĩa biết hơn, cần nghe và nhận điều chưa biết.
+我们要去哪里？|办公室|noi
+新同学说往哪边更近？|右边|noi
+我们走错后到了哪里旁边？|体育馆|noi
+我把哪两层的方向记错了？|二楼和三楼|do
+看地图走了多久就到？|三分钟|gio
+新同学什么时候来过一次？|前天|gio
+@17/Hai ý kiến cho góc đọc sách
+班里想把教室后面的地方改成读书的地方。我认为应该多买放书的东西，但是朋友说先准备舒服的椅子。我们都在说自己的，谁也不同意，最后花多少钱都没说好。老师让我们先问问其他同学，大家真正需要什么。我们查了十几个人的想法，发现很多人不是没有书，是课间只有几分钟，不知道能读什么。我和朋友重新商量，决定先选一些短故事，放在大家容易拿到的地方，再用原来的两把椅子试一个星期。试过以后，来读书的人多了，有人还愿意把家里的书带来。后来我们才根据需要买了一个放书的小东西。我发现，开始的两个意见不一定只能选一个，也不一定要马上做得很大。只有先了解大家怎样用，才知道钱应该花在哪儿。
+VI: Tôi muốn mua giá sách, bạn muốn ghế êm cho góc đọc lớp, tranh mãi chưa ra ngân sách. Thầy bảo hỏi nhu cầu; hơn mười bạn nói giờ nghỉ ngắn, không biết chọn gì đọc, chứ không thiếu sách. Chúng tôi chọn truyện ngắn dễ lấy, dùng hai ghế sẵn thử một tuần. Nhiều người đọc, có bạn góp sách; sau đó mới mua giá nhỏ. Tôi hiểu cần biết cách sử dụng trước, không nhất thiết chọn một trong hai ý hoặc làm lớn ngay.
+我们想改教室的哪个地方？|后面|noi
+我原来想多买什么？|放书的东西|do
+朋友原来想准备什么？|椅子|do
+我们先试了多久？|一个星期|gio
+开始用了几把椅子？|两把|so
+后来我们买了什么？|一个放书的小东西|do
+@17/Câu trả lời cần được kiểm tra
+准备去国外学习以前，我在网上查了很多信息。一位不认识的人说，到了那边再找房子最便宜，不用提前准备。我差一点儿就相信了，因为他说自己在那里住过。爸爸问我，他是什么时候住的、现在跟以前是不是一样。我回头再看，发现那句话已经是五年前的。我又给正在那边留学的同学写信，他告诉我，今年开学前很难找到合适的房子，最好早一点问学校。我把两个不同的回答放在一起，才知道网上说的东西不一定对现在的自己有用。后来我向学校发了邮件，问清楚可以选择的房间和日期，也没有直接给不认识的人钱。这次查信息花的时间比我想的长，但是让我心里更安静。容易找到的回答，不一定就是真正有用的回答；跟自己的事情有关，还需要多问一次。
+VI: Chuẩn bị du học, tôi đọc lời khuyên đến nơi mới tìm phòng rẻ và suýt tin vì người viết từng sống đó. Bố hỏi thời điểm, tôi phát hiện bài đã năm năm. Bạn đang học bên ấy nói năm nay đầu kỳ khó tìm chỗ, nên hỏi trường sớm. Tôi email xác minh phòng và ngày, không gửi tiền người lạ. Tra lâu hơn nhưng yên tâm; câu trả lời dễ tìm chưa chắc hợp hoàn cảnh hiện tại, cần kiểm tra thêm.
+我准备去国外做什么？|学习|viec
+网上的一句话是多久以前的？|五年前|gio
+爸爸让我注意什么？|现在跟以前是不是一样|dap|爸爸问我，他是什么时候住的、现在跟以前是不是一样。
+我又给谁写信？|留学的同学|nguoi
+同学让我早一点问哪里？|学校|noi
+我最后用什么向学校问？|邮件|do
+@17/Tức giận vì nghĩ mình bị bỏ quên
+今天朋友们去看电影，没有叫我。我在网上看见他们的照片，马上觉得很生气，以为大家不愿意跟我一起玩。我想直接给朋友发一句很重的话，但是哥哥让我先问问事情。我向一位朋友打电话，他没想到我会生气，说前天已经在大家一起说话的地方问过我，我自己说周末要复习。我打开手机看了看大家写的话，才发现那天我回答的是还有一个问题，但是大家以为我不能去。原来不是谁故意不叫我，只是两边都没有说清楚。我没有接着生气，是告诉他们，下次最好把我的名字写出来，再问一次。朋友也说可以，下星期还有一个电影，我们可以提前说好。我关上手机以后觉得，刚才如果只照着自己的想法说话，可能会把本来能解决的小事弄成真正的问题。认为别人错以前，先查清楚发生了什么，很重要。
+VI: Thấy ảnh bạn đi phim không rủ, tôi tức và định gửi lời nặng. Anh nhắc hỏi trước. Gọi mới biết trong nhóm đã hỏi, tôi trả lời chuyện khác khiến họ tưởng bận ôn bài. Hai bên hiểu nhầm chứ không cố bỏ rơi. Tôi nhờ lần sau ghi rõ tên hỏi lại, hẹn phim tuần sau. Tôi nhận ra nếu phản ứng theo suy đoán, chuyện nhỏ dễ thành mâu thuẫn thật; nên tìm rõ trước khi kết lỗi.
+朋友们今天去做什么？|看电影|viec
+我在哪里看到照片？|网上|noi
+谁让我先问问事情？|哥哥|nguoi
+朋友什么时候在大家一起说话的地方问过我？|前天|gio
+大家以为我周末要做什么？|复习|viec
+我们可以什么时候再看电影？|下星期|gio
+@18/Ngày tốt nghiệp không chỉ có ảnh
+毕业那天，我们班准备拍照。我想把每一位老师都请来，可是有的老师还在上课，有的已经去了外地。班长说，只要把时间说得清楚，能来的老师都会想办法来，不要为了等所有人一直改。我们决定上午十点在校园门口见面，再给不能来的老师留一段视频。我来收大家想说的话，发现每个人记得的事情都不同。有人感谢老师讲难题，有人记得生病时同学送来的笔记，还有人说自己终于能在大家面前说中文了。拍照结束以后，我们没有马上离开，是坐下来把这些话读了一遍。平时看起来很普通的三年，这时候突然变得很有意思。下午刚刚回家，我就收到一位老师写来的话。他虽然没来，但是看完了视频，说希望我们以后有新的目标，也记得接着学习。
+VI: Ngày tốt nghiệp khó mời đủ thầy vì người dạy, người xa; lớp chốt mười giờ trước cổng và quay video gửi người vắng thay vì đổi mãi. Tôi thu lời nhắn, thấy mỗi người nhớ chuyện khác: giải bài khó, bạn gửi vở lúc ốm, tự tin nói tiếng Trung. Chụp xong cả lớp đọc lời nhắn, ba năm bình thường bỗng phong phú. Vừa về tôi nhận tin thầy đã xem video, chúc có mục tiêu mới và học tiếp.
+我们上午几点见面？|十点|gio
+见面的地点在哪里？|校园门口|noi
+我们给不能来的老师留什么？|一段视频|do
+我来收什么？|大家想说的话|do
+大家在学校一起过了几年？|三年|so
+老师希望我们接着做什么？|学习|viec
+@18/Buổi liên hoan không mua quá nhiều nước
+学期快结束了，班里准备开联欢会。以前每次买东西，大家都说越多越好，最后总多出来很多矿泉水和吃的。这次老师让我们先问有多少人能来、愿意喝什么，再算要买多少。我问了问大家，大概有三十个人来，其中十个人想喝热茶，其他人觉得矿泉水就行。我没有直接买三十瓶，是先准备二十瓶和一些热水，告诉大家不够再加。节目开始以前，又有两位同学刚从外地回来，问能不能参加。我们当然欢迎，还把原来没有人的椅子搬过来。联欢结束后，水差不多正好，多出来的两瓶给了打扫教室的同学。老师说，准备活动不只是把钱花出去，了解大家真正需要什么，也是一种水平。我把这次买的东西记下来，下次就不用完全从头想了。
+VI: Liên hoan cuối kỳ trước đây thường thừa đồ vì mua càng nhiều càng tốt. Lần này khảo sát khoảng ba mươi người, mười thích trà nóng, còn lại nước khoáng. Tôi chuẩn bị hai mươi chai và nước nóng, thiếu bổ sung. Hai bạn vừa về từ xa cũng tham gia, chuyển ghế trống cho họ. Kết thúc gần vừa đủ, hai chai dư cho bạn dọn lớp. Tôi ghi lượng đã dùng để lần sau dựa vào nhu cầu thật, không đoán từ đầu.
+我们为什么开联欢会？|学期快结束了|dap
+大概有多少人来？|三十个人|so
+多少人想喝热茶？|十个人|so
+我先准备了多少瓶矿泉水？|二十瓶|so
+后来有几位同学刚回来？|两位|so
+多出来的水给了谁？|打扫教室的同学|nguoi
+@18/Vừa khởi hành hay vẫn chưa đi?
+周末阿姨带孩子来我们家。叔叔来开车，妈妈让他们出发时说一句已经出发了，好准备午饭。十一点，阿姨说“刚走”，妈妈以为他们已经在路上，就开始下面条。过了半个小时，他们还没到，打电话才知道，阿姨说的是刚从房间出来，正在楼下找停车的地方。叔叔又发现孩子的包没拿，还得回去一次。妈妈没有生气，只是不再做面条，换成到了以后再做。十二点半他们终于来了，孩子一进门就说饿了。我们一边准备吃的，一边笑着说，以后“出发了”最好说明白是走到哪儿了。午饭虽然晚了一点儿，大家还是吃得很开心。后来我给朋友说时间时，也不再只说“快了”，是告诉他现在在哪里，大概还需要几分钟，让他不用一直想。
+VI: Dì báo “vừa đi”, mẹ tưởng xe đã lên đường nên nấu mì. Nửa giờ chưa tới, gọi mới biết dì chỉ vừa ra khỏi phòng, còn tìm xe, chú lại quên túi con phải quay lên. Mẹ dừng mì, đợi khách đến mới nấu. Mười hai rưỡi họ tới, con đói; vừa chuẩn bị vừa đùa lần sau nên nói rõ đang ở đâu. Bữa trễ vẫn vui; tôi cũng học báo vị trí và số phút dự kiến thay vì nói mơ hồ “sắp rồi”.
+谁来开车？|叔叔|nguoi
+阿姨几点发一句话说刚走？|十一点|gio
+妈妈原来准备做什么？|面条|mon
+叔叔发现什么没拿？|孩子的包|do
+他们最后几点到？|十二点半|gio
+以后说时间时我会说明什么？|在哪里和还要几分钟|dap|后来我给朋友说时间时，也不再只说“快了”，是告诉他现在在哪里，大概还需要几分钟，让他不用一直想。
+@18/Mục tiêu nhỏ của một học kỳ
+开学的时候，我给自己写了一个很大的目标：这个学期要读完二十本中文书。第一个月，我每天都读很久，还认真写笔记，可是很快就觉得累。有时候遇到不懂的句子，一晚上只看了两页，我就想是不是自己太慢。老师听了以后，让我先选一本真的感兴趣的书，每天读十分钟，只要坚持，比一直想着二十本更重要。我照着试了两个星期，发现自己不再害怕打开书。后来我也会多读一点儿，但没有因为想多读几本去选自己不喜欢的。学期结束，我只读完了四本，但是能把每本的大概意思讲给同学听，还记得不少有用的句子。现在我给下个学期写的目标不是更大的数，是每周找一次机会，跟别人说说自己读到的东西。过去我只想读完，现在也想真正懂得。
+VI: Đặt mục tiêu hai mươi sách Trung một học kỳ, tháng đầu đọc và ghi lâu rồi mệt, gặp câu khó cả tối chỉ hai trang nên nản. Thầy đề nghị chọn một cuốn thích thật, mỗi ngày mười phút, chú trọng duy trì. Sau hai tuần tôi không ngại mở sách, dần đọc thêm mà không chọn sách không thích để đủ số. Cuối kỳ chỉ xong bốn cuốn nhưng kể được nội dung, nhớ câu hữu ích. Mục tiêu kỳ tới là mỗi tuần trao đổi một lần, từ chỉ đọc xong sang thật sự hiểu.
+我原来想读完多少本书？|二十本|so
+老师让每天先读多久？|十分钟|gio
+我照着新方法试了多久？|两个星期|gio
+学期结束我读完了几本？|四本|so
+我能把书的大概意思讲给谁？|同学|nguoi
+下学期我想每周找几次机会说一说？|一次|so
+@18/Sinh nhật của người thường chuẩn bị cho cả nhà
+我们家过节时，总是妈妈准备吃的，爸爸准备出门，我只等着参加。今年妈妈生日，我和爸爸决定换一换，让她什么也不用准备。我先问妈妈最想做什么，她说想睡晚一点儿，下午去河边走走，不想在饭馆坐很久。爸爸本来已经想好请很多人，听了以后就改了，只请阿姨和叔叔晚上来家里喝茶。我来做一张卡，把过去一年妈妈帮助过我的几件事写下来。写的时候才发现，很多事情当时觉得很小，但是回头看很重要。生日那天，妈妈十点才起床，看见桌子上的早饭和卡，笑了很久。下午我们慢慢走到河边，没有急着拍照，也没有去别的地方。晚上阿姨说，今天过得很简单，但是妈妈说这正是她想要的一天。原来给别人过节，也要先听听他怎样才开心。
+VI: Ngày lễ mẹ thường nấu, bố lên lịch, tôi chỉ tham gia. Sinh nhật mẹ năm nay chúng tôi hỏi mong muốn: ngủ muộn, chiều dạo sông, không ngồi nhà hàng lâu. Bố bỏ kế hoạch mời đông, chỉ mời dì chú tối uống trà. Tôi viết thiệp kể những việc mẹ giúp trong năm, nhận ra chuyện nhỏ có ý nghĩa. Mẹ dậy mười giờ thấy bữa sáng và thiệp rất vui; chiều thong thả không chạy điểm tham quan. Mẹ bảo ngày đơn giản đúng ý; tổ chức cho ai cần nghe người ấy muốn gì.
+我们决定给谁过生日？|妈妈|nguoi
+妈妈下午最想去哪里？|河边|noi
+爸爸最后请谁晚上来？|阿姨和叔叔|nguoi
+我来做什么？|一张卡|do
+妈妈生日那天几点起床？|十点|gio
+妈妈觉得这一天怎么样？|正是她想要的|dap

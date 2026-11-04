@@ -1,0 +1,5402 @@
+[
+  {
+    "id": "H3-R01",
+    "lesson": 1,
+    "title": "Đón bạn ở sân bay",
+    "text": "今天下午，我去机场接朋友。他给我打电话，说行李不见了。他很着急。我让他先去服务台问一问，不要离开那里。后来，工作人员找到了他的箱子。我们都很高兴。",
+    "pinyin": "Jīn tiān xià wǔ， wǒ qù jī chǎng jiē péng you。 tā gěi wǒ dǎ diàn huà， shuō xíng lǐ bú jiàn le。 tā hěn zháo jí。 wǒ ràng tā xiān qù fú wù tái wèn yī wèn， bú yào lí kāi nà lǐ。 hòu lái， gōng zuò rén yuán zhǎo dào le tā de xiāng zi。 wǒ men dōu hěn gāo xìng。",
+    "translation": "Chiều nay tôi ra sân bay đón bạn. Bạn gọi điện nói hành lý biến mất. Bạn rất sốt ruột. Tôi bảo bạn đến quầy dịch vụ hỏi trước và đừng rời khỏi đó. Sau đó nhân viên tìm được va li của bạn. Chúng tôi đều rất vui.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R01-Q1",
+        "question": "我去机场做什么？",
+        "answer": "接朋友",
+        "options": [
+          "接朋友",
+          "买票",
+          "上班",
+          "买箱子"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 接朋友"
+      },
+      {
+        "id": "H3-R01-Q2",
+        "question": "朋友为什么着急？",
+        "answer": "行李不见了",
+        "options": [
+          "行李不见了",
+          "飞机晚点了",
+          "手机坏了",
+          "没有护照"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 行李不见了"
+      },
+      {
+        "id": "H3-R01-Q3",
+        "question": "我让朋友先去哪儿？",
+        "answer": "服务台",
+        "options": [
+          "服务台",
+          "饭馆",
+          "学校",
+          "商店"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 服务台"
+      },
+      {
+        "id": "H3-R01-Q4",
+        "question": "最后谁找到了箱子？",
+        "answer": "工作人员",
+        "options": [
+          "工作人员",
+          "老师",
+          "司机",
+          "我的妈妈"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 工作人员"
+      }
+    ]
+  },
+  {
+    "id": "H3-R01-2",
+    "lesson": 1,
+    "title": "Cuộc gọi trước chuyến bay",
+    "text": "明天姐姐要来北京。我问她几点到，她说下午三点。我以为她会带很多行李，想开车去接她。姐姐说只有一个小箱子，坐地铁也很方便。我还是决定到机场等她，因为这是她第一次来北京。",
+    "pinyin": "Míng tiān jiě jie yào lái běi jīng。 wǒ wèn tā jǐ diǎn dào， tā shuō xià wǔ sān diǎn。 wǒ yǐ wéi tā huì dài hěn duō xíng lǐ， xiǎng kāi chē qù jiē tā。 jiě jie shuō zhǐ yǒu yí gè xiǎo xiāng zi， zuò dì tiě yě hěn fāng biàn。 wǒ hái shì jué dìng dào jī chǎng děng tā， yīn wèi zhè shì tā dì yī cì lái běi jīng。",
+    "translation": "Ngày mai chị đến Bắc Kinh. Tôi hỏi giờ đến, chị nói ba giờ chiều. Tôi tưởng chị mang nhiều hành lý nên định lái xe đón. Chị nói chỉ có một va li nhỏ, đi tàu điện ngầm cũng tiện. Tôi vẫn quyết định chờ chị ở sân bay vì đây là lần đầu chị đến Bắc Kinh.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R01-2-Q1",
+        "question": "姐姐几点到北京？",
+        "answer": "下午三点",
+        "options": [
+          "下午三点",
+          "下个月",
+          "两分钟",
+          "六点"
+        ],
+        "explanation": "Đối chiếu đoạn: “我问她几点到，她说下午三点。” → Chọn “下午三点”."
+      },
+      {
+        "id": "H3-R01-2-Q2",
+        "question": "姐姐带几个箱子？",
+        "answer": "一个",
+        "options": [
+          "一个",
+          "两个",
+          "两个晚上",
+          "五张"
+        ],
+        "explanation": "Đối chiếu đoạn: “姐姐说只有一个小箱子，坐地铁也很方便。” → Chọn “一个”."
+      },
+      {
+        "id": "H3-R01-2-Q3",
+        "question": "我决定去哪儿等姐姐？",
+        "answer": "机场",
+        "options": [
+          "机场",
+          "小区里",
+          "卖早饭的店",
+          "楼门口"
+        ],
+        "explanation": "Đối chiếu đoạn: “我还是决定到机场等她，因为这是她第一次来北京。” → Chọn “机场”."
+      },
+      {
+        "id": "H3-R01-2-Q4",
+        "question": "我为什么去接姐姐？",
+        "answer": "她第一次来北京",
+        "options": [
+          "她第一次来北京",
+          "准备下个月的比赛",
+          "回家时还要检查",
+          "用错了方法"
+        ],
+        "explanation": "Đối chiếu đoạn: “我还是决定到机场等她，因为这是她第一次来北京。” → Chọn “她第一次来北京”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R01-3",
+    "lesson": 1,
+    "title": "Nhận lại hành lý",
+    "text": "下飞机以后，哥哥发现自己的箱子不见了。他没有马上离开机场，就去服务台请工作人员帮助查找。他告诉对方箱子的颜色，还拿出一张照片。半个小时以后，箱子找到了。哥哥检查了一下，里面的东西都在。",
+    "pinyin": "Xià fēi jī yǐ hòu， gē ge fā xiàn zì jǐ de xiāng zi bú jiàn le。 tā méi yǒu mǎ shàng lí kāi jī chǎng， jiù qù fú wù tái qǐng gōng zuò rén yuán bāng zhù chá zhǎo。 tā gào sù duì fāng xiāng zi de yán sè， hái ná chū yī zhāng zhào piān。 bàn gè xiǎo shí yǐ hòu， xiāng zi zhǎo dào le。 gē ge jiǎn chá le yī xià， lǐ miàn de dōng xi dōu zài。",
+    "translation": "Sau khi xuống máy bay, anh phát hiện mất va li. Anh không rời sân bay mà đến quầy dịch vụ nhờ nhân viên tìm giúp. Anh mô tả màu sắc và đưa ảnh. Nửa tiếng sau tìm thấy va li. Anh kiểm tra, đồ đạc vẫn đầy đủ.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R01-3-Q1",
+        "question": "哥哥发现什么不见了？",
+        "answer": "箱子",
+        "options": [
+          "箱子",
+          "身体",
+          "油",
+          "鸡蛋"
+        ],
+        "explanation": "Đối chiếu đoạn: “下飞机以后，哥哥发现自己的箱子不见了。” → Chọn “箱子”."
+      },
+      {
+        "id": "H3-R01-3-Q2",
+        "question": "哥哥去哪儿请人帮忙？",
+        "answer": "服务台",
+        "options": [
+          "服务台",
+          "卖早饭的店",
+          "楼门口",
+          "楼后"
+        ],
+        "explanation": "Đối chiếu đoạn: “他没有马上离开机场，就去服务台请工作人员帮助查找。” → Chọn “服务台”."
+      },
+      {
+        "id": "H3-R01-3-Q3",
+        "question": "工作人员多久以后找到箱子？",
+        "answer": "半个小时以后",
+        "options": [
+          "半个小时以后",
+          "九点",
+          "二十分钟",
+          "下班以后"
+        ],
+        "explanation": "Đối chiếu đoạn: “半个小时以后，箱子找到了。” → Chọn “半个小时以后”."
+      },
+      {
+        "id": "H3-R01-3-Q4",
+        "question": "箱子里的东西怎么样？",
+        "answer": "都在",
+        "options": [
+          "都在",
+          "不太好",
+          "每个人都看得很清楚",
+          "可以"
+        ],
+        "explanation": "Đối chiếu đoạn: “哥哥检查了一下，里面的东西都在。” → Chọn “都在”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R01-4",
+    "lesson": 1,
+    "title": "Đón thầy giáo",
+    "text": "今天我们去车站接新老师。以前只在网上见过他的照片，所以大家有点儿着急。一位年轻人向我们走来，他的头发很短，身高一米八左右。听到他叫我们的名字，我们才知道他就是新老师。他比照片上看起来更年轻。",
+    "pinyin": "Jīn tiān wǒ men qù chē zhàn jiē xīn lǎo shī。 yǐ qián zhǐ zài wǎng shàng jiàn guò tā de zhào piān， suǒ yǐ dà jiā yǒu diǎn ér zháo jí。 yī wèi nián qīng rén xiàng wǒ men zǒu lái， tā de tóu fà hěn duǎn， shēn gāo yī mǐ bā zuǒ yòu。 tīng dào tā jiào wǒ men de míng zi， wǒ men cái zhī dao tā jiù shì xīn lǎo shī。 tā bǐ zhào piān shàng kàn qǐ lái gèng nián qīng。",
+    "translation": "Hôm nay chúng tôi ra ga đón thầy mới. Trước đây chỉ thấy ảnh trên mạng nên hơi lo. Một người trẻ tóc ngắn, cao khoảng mét tám đi tới. Khi anh gọi tên, chúng tôi mới biết đó là thầy. Thầy trông trẻ hơn trong ảnh.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R01-4-Q1",
+        "question": "我们去哪儿接老师？",
+        "answer": "车站",
+        "options": [
+          "车站",
+          "卖早饭的店",
+          "楼门口",
+          "楼后"
+        ],
+        "explanation": "Đối chiếu đoạn: “今天我们去车站接新老师。” → Chọn “车站”."
+      },
+      {
+        "id": "H3-R01-4-Q2",
+        "question": "以前我们在哪儿见过老师的照片？",
+        "answer": "网上",
+        "options": [
+          "网上",
+          "楼门口",
+          "楼后",
+          "规定的地方"
+        ],
+        "explanation": "Đối chiếu đoạn: “以前只在网上见过他的照片，所以大家有点儿着急。” → Chọn “网上”."
+      },
+      {
+        "id": "H3-R01-4-Q3",
+        "question": "老师的头发怎么样？",
+        "answer": "很短",
+        "options": [
+          "很短",
+          "每个人都看得很清楚",
+          "可以",
+          "少一些，但是更满意"
+        ],
+        "explanation": "Đối chiếu đoạn: “一位年轻人向我们走来，他的头发很短，身高一米八左右。” → Chọn “很短”."
+      },
+      {
+        "id": "H3-R01-4-Q4",
+        "question": "老师比照片上看起来怎么样？",
+        "answer": "更年轻",
+        "options": [
+          "更年轻",
+          "可以",
+          "少一些，但是更满意",
+          "不靠门"
+        ],
+        "explanation": "Đối chiếu đoạn: “他比照片上看起来更年轻。” → Chọn “更年轻”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R01-5",
+    "lesson": 1,
+    "title": "Kiểm tra trước khi đi",
+    "text": "早上出门以前，妈妈让我检查护照和手机。我打开包，发现手机在，护照但是不见了。我很着急，到处找。妈妈让我先想一想昨天做过什么。我这才想起来，昨天晚上把护照放进了箱子。找到以后，我们一起出门了。",
+    "pinyin": "Zǎo shàng chū mén yǐ qián， mā ma ràng wǒ jiǎn chá hù zhào hé shǒu jī。 wǒ dǎ kāi bāo， fā xiàn shǒu jī zài， hù zhào dàn shì bú jiàn le。 wǒ hěn zháo jí， dào chù zhǎo。 mā ma ràng wǒ xiān xiǎng yī xiǎng zuó tiān zuò guò shén me。 wǒ zhè cái xiǎng qǐ lái， zuó tiān wǎn shàng bǎ hù zhào fàng jìn le xiāng zi。 zhǎo dào yǐ hòu， wǒ men yì qǐ chū mén le。",
+    "translation": "Trước khi ra ngoài, mẹ bảo tôi kiểm tra hộ chiếu và điện thoại. Điện thoại còn nhưng không thấy hộ chiếu. Tôi lo lắng tìm khắp nơi. Mẹ bảo nhớ lại việc hôm qua. Tôi mới nhớ tối qua đã cất hộ chiếu vào va li. Tìm được rồi chúng tôi cùng ra ngoài.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R01-5-Q1",
+        "question": "妈妈让我检查什么？",
+        "answer": "护照和手机",
+        "options": [
+          "护照和手机",
+          "蛋糕",
+          "山和河照片",
+          "面包"
+        ],
+        "explanation": "Đối chiếu đoạn: “早上出门以前，妈妈让我检查护照和手机。” → Chọn “护照和手机”."
+      },
+      {
+        "id": "H3-R01-5-Q2",
+        "question": "刚打开包时我看到了什么？",
+        "answer": "手机",
+        "options": [
+          "手机",
+          "山和河照片",
+          "面包",
+          "鸡肉饭"
+        ],
+        "explanation": "Đối chiếu đoạn: “我打开包，发现手机在，护照但是不见了。” → Chọn “手机”."
+      },
+      {
+        "id": "H3-R01-5-Q3",
+        "question": "护照最后在哪儿找到？",
+        "answer": "箱子里",
+        "options": [
+          "箱子里",
+          "楼后",
+          "规定的地方",
+          "北京"
+        ],
+        "explanation": "Đối chiếu đoạn: “我这才想起来，昨天晚上把护照放进了箱子。” → Chọn “箱子里”."
+      },
+      {
+        "id": "H3-R01-5-Q4",
+        "question": "妈妈让我先做什么？",
+        "answer": "想一想昨天做过什么",
+        "options": [
+          "想一想昨天做过什么",
+          "先看说明",
+          "按医生说的做",
+          "吃早饭"
+        ],
+        "explanation": "Đối chiếu đoạn: “妈妈让我先想一想昨天做过什么。” → Chọn “想一想昨天做过什么”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R02",
+    "lesson": 2,
+    "title": "Gọi món cùng bạn",
+    "text": "周末，我们到一家饭馆吃饭。服务员拿来菜单，让我们慢慢看。朋友喜欢吃鱼，我想吃饺子。我们还点了两杯茶。这家饭馆的菜味道不错，价格也不贵。吃完饭，我们一起去散步。",
+    "pinyin": "Zhōu mò， wǒ men dào yī jiā fàn guǎn chī fàn。 fú wù yuán ná lái cài dān， ràng wǒ men màn màn kàn。 péng you xǐ huan chī yú， wǒ xiǎng chī jiǎo zi。 wǒ men hái diǎn le liǎng bēi chá。 zhè jiā fàn guǎn de cài wèi dào bù cuò， jià gé yě bù guì。 chī wán fàn， wǒ men yì qǐ qù sàn bù。",
+    "translation": "Cuối tuần chúng tôi đến nhà hàng ăn. Nhân viên mang thực đơn và để chúng tôi xem từ từ. Bạn thích cá, tôi muốn ăn sủi cảo. Chúng tôi còn gọi hai cốc trà. Món ăn ngon và giá không đắt. Ăn xong, chúng tôi đi dạo cùng nhau.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R02-Q1",
+        "question": "朋友喜欢吃什么？",
+        "answer": "鱼",
+        "options": [
+          "鱼",
+          "牛肉",
+          "面包",
+          "鸡蛋"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 鱼"
+      },
+      {
+        "id": "H3-R02-Q2",
+        "question": "我们点了几杯茶？",
+        "answer": "两杯",
+        "options": [
+          "两杯",
+          "一杯",
+          "三杯",
+          "四杯"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 两杯"
+      },
+      {
+        "id": "H3-R02-Q3",
+        "question": "这家饭馆的价格怎么样？",
+        "answer": "不贵",
+        "options": [
+          "不贵",
+          "非常贵",
+          "没有说",
+          "比别家贵"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 不贵"
+      },
+      {
+        "id": "H3-R02-Q4",
+        "question": "吃完饭以后，我们做什么？",
+        "answer": "散步",
+        "options": [
+          "散步",
+          "上课",
+          "睡觉",
+          "坐飞机"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 散步"
+      }
+    ]
+  },
+  {
+    "id": "H3-R02-2",
+    "lesson": 2,
+    "title": "Chọn món cho cả nhà",
+    "text": "星期六爸爸不用上班，我们一起去吃饭。妈妈不想吃太油的菜，爸爸说吃什么都可以。我给弟弟看菜单，让他想吃什么就点什么。最后我们点了鱼、菜和米饭。服务员还给我们拿来了热水，大家吃得很开心。",
+    "pinyin": "Xīng qī liù bà ba bù yòng shàng bān， wǒ men yì qǐ qù chī fàn。 mā ma bù xiǎng chī tài yóu de cài， bà ba shuō chī shén me dōu kě yǐ。 wǒ gěi dì di kàn cài dān， ràng tā xiǎng chī shén me jiù diǎn shén me。 zuì hòu wǒ men diǎn le yú、 cài hé mǐ fàn。 fú wù yuán huán gěi wǒ men ná lái le rè shuǐ， dà jiā chī de hěn kāi xīn。",
+    "translation": "Thứ bảy bố nghỉ làm, cả nhà đi ăn. Mẹ không muốn món nhiều dầu, bố ăn gì cũng được. Tôi đưa thực đơn để em chọn món thích. Cuối cùng gọi cá, rau và cơm. Nhân viên mang nước nóng, mọi người ăn vui vẻ.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R02-2-Q1",
+        "question": "爸爸星期六要上班吗？",
+        "answer": "不用上班",
+        "options": [
+          "不用上班",
+          "看清楚想拍什么",
+          "看书",
+          "向她说谢谢"
+        ],
+        "explanation": "Đối chiếu đoạn: “星期六爸爸不用上班，我们一起去吃饭。” → Chọn “不用上班”."
+      },
+      {
+        "id": "H3-R02-2-Q2",
+        "question": "妈妈不想吃什么样的菜？",
+        "answer": "太油的菜",
+        "options": [
+          "太油的菜",
+          "面包和鸡蛋",
+          "蛋糕",
+          "山和河照片"
+        ],
+        "explanation": "Đối chiếu đoạn: “妈妈不想吃太油的菜，爸爸说吃什么都可以。” → Chọn “太油的菜”."
+      },
+      {
+        "id": "H3-R02-2-Q3",
+        "question": "谁看菜单点菜？",
+        "answer": "弟弟",
+        "options": [
+          "弟弟",
+          "我和妈妈",
+          "旁边的姐姐",
+          "女儿"
+        ],
+        "explanation": "Đối chiếu đoạn: “我给弟弟看菜单，让他想吃什么就点什么。” → Chọn “弟弟”."
+      },
+      {
+        "id": "H3-R02-2-Q4",
+        "question": "服务员拿来了什么？",
+        "answer": "热水",
+        "options": [
+          "热水",
+          "山和河照片",
+          "面包",
+          "鸡肉饭"
+        ],
+        "explanation": "Đối chiếu đoạn: “服务员还给我们拿来了热水，大家吃得很开心。” → Chọn “热水”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R02-3",
+    "lesson": 2,
+    "title": "Bữa trưa hơi muộn",
+    "text": "今天上午工作很多，我到下午一点才去吃午饭。饭馆里人已经不多了，服务员很快就把面条送来了。面条又热又好吃，我把面都吃完了。吃完以后，我没有马上回去，就在旁边的公园走了十分钟。",
+    "pinyin": "Jīn tiān shàng wǔ gōng zuò hěn duō， wǒ dào xià wǔ yì diǎn cái qù chī wǔ fàn。 fàn guǎn lǐ rén yǐ jīng bù duō le， fú wù yuán hěn kuài jiù bǎ miàn tiáo sòng lái le。 miàn tiáo yòu rè yòu hǎo chī， wǒ bǎ miàn dōu chī wán le。 chī wán yǐ hòu， wǒ méi yǒu mǎ shàng huí qù， jiù zài páng biān de gōng yuán zǒu le shí fēn zhōng。",
+    "translation": "Sáng nay nhiều việc, một giờ chiều tôi mới ăn trưa. Quán đã vắng, nhân viên nhanh chóng mang mì. Mì nóng và ngon, tôi ăn hết. Sau bữa tôi đi bộ mười phút ở công viên bên cạnh rồi mới về.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R02-3-Q1",
+        "question": "我几点才去吃午饭？",
+        "answer": "下午一点",
+        "options": [
+          "下午一点",
+          "六点",
+          "九点",
+          "二十分钟"
+        ],
+        "explanation": "Đối chiếu đoạn: “今天上午工作很多，我到下午一点才去吃午饭。” → Chọn “下午一点”."
+      },
+      {
+        "id": "H3-R02-3-Q2",
+        "question": "我点的是什么？",
+        "answer": "面条",
+        "options": [
+          "面条",
+          "鸡蛋",
+          "面包和鸡蛋",
+          "蛋糕"
+        ],
+        "explanation": "Đối chiếu đoạn: “饭馆里人已经不多了，服务员很快就把面条送来了。” → Chọn “面条”."
+      },
+      {
+        "id": "H3-R02-3-Q3",
+        "question": "面条怎么样？",
+        "answer": "又热又好吃",
+        "options": [
+          "又热又好吃",
+          "不太好",
+          "每个人都看得很清楚",
+          "可以"
+        ],
+        "explanation": "Đối chiếu đoạn: “面条又热又好吃，我把面都吃完了。” → Chọn “又热又好吃”."
+      },
+      {
+        "id": "H3-R02-3-Q4",
+        "question": "吃完以后我去哪儿走了走？",
+        "answer": "公园",
+        "options": [
+          "公园",
+          "楼后",
+          "规定的地方",
+          "北京"
+        ],
+        "explanation": "Đối chiếu đoạn: “吃完以后，我没有马上回去，就在旁边的公园走了十分钟。” → Chọn “公园”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R02-4",
+    "lesson": 2,
+    "title": "Món ăn ít cay",
+    "text": "朋友第一次来我家吃饭，我不知道他能不能吃油多的菜，就先给他打电话。他说自己什么都吃，但是最近身体不太舒服，希望少放一点儿油。妈妈听了以后，做了两个油少的菜。朋友吃完以后说，这顿饭让他想起了自己的家。",
+    "pinyin": "Péng you dì yī cì lái wǒ jiā chī fàn， wǒ bù zhī dao tā néng bù néng chī yóu duō de cài， jiù xiān gěi tā dǎ diàn huà。 tā shuō zì jǐ shén me dōu chī， dàn shì zuì jìn shēn tǐ bù tài shū fu， xī wàng shǎo fàng yì diǎn ér yóu。 mā ma tīng le yǐ hòu， zuò le liǎng gè yóu shǎo de cài。 péng you chī wán yǐ hòu shuō， zhè dùn fàn ràng tā xiǎng qǐ le zì jǐ de jiā。",
+    "translation": "Bạn lần đầu đến nhà ăn cơm, tôi gọi hỏi có ăn nhiều dầu được không. Bạn ăn mọi thứ nhưng gần đây cơ thể khó chịu nên muốn ít dầu. Mẹ làm hai món ít dầu. Bạn nói bữa cơm gợi nhớ nhà mình.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R02-4-Q1",
+        "question": "朋友是第几次来我家吃饭？",
+        "answer": "第一次",
+        "options": [
+          "第一次",
+          "五张",
+          "二十八度",
+          "三个"
+        ],
+        "explanation": "Đối chiếu đoạn: “朋友第一次来我家吃饭，我不知道他能不能吃油多的菜，就先给他打电话。” → Chọn “第一次”."
+      },
+      {
+        "id": "H3-R02-4-Q2",
+        "question": "朋友最近身体怎么样？",
+        "answer": "身体",
+        "options": [
+          "身体",
+          "蛋糕",
+          "山和河照片",
+          "面包"
+        ],
+        "explanation": "Đối chiếu đoạn: “他说自己什么都吃，但是最近身体不太舒服，希望少放一点儿油。” → Chọn “身体”."
+      },
+      {
+        "id": "H3-R02-4-Q3",
+        "question": "朋友希望少放什么？",
+        "answer": "油",
+        "options": [
+          "油",
+          "面包",
+          "鸡肉饭",
+          "衣服"
+        ],
+        "explanation": "Đối chiếu đoạn: “他说自己什么都吃，但是最近身体不太舒服，希望少放一点儿油。” → Chọn “油”."
+      },
+      {
+        "id": "H3-R02-4-Q4",
+        "question": "妈妈做了几个油少的菜？",
+        "answer": "两个",
+        "options": [
+          "两个",
+          "二十八度",
+          "三个",
+          "一个"
+        ],
+        "explanation": "Đối chiếu đoạn: “妈妈听了以后，做了两个油少的菜。” → Chọn “两个”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R02-5",
+    "lesson": 2,
+    "title": "Chọn quán ăn",
+    "text": "下课以后，我们想找个地方吃晚饭。学校门口的新饭馆又近又便宜，可是人太多，可能要等很久。我们讨论了一下，决定去街对面的老店。那里虽然没有那么漂亮，但是不用等，菜的味道也很好。",
+    "pinyin": "Xià kè yǐ hòu， wǒ men xiǎng zhǎo gè dì fang chī wǎn fàn。 xué xiào mén kǒu de xīn fàn guǎn yòu jìn yòu pián yi， kě shì rén tài duō， kě néng yào děng hěn jiǔ。 wǒ men tǎo lùn le yī xià， jué dìng qù jiē duì miàn de lǎo diàn。 nà lǐ suī rán méi yǒu nà me piào liàng， dàn shì bù yòng děng， cài de wèi dào yě hěn hǎo。",
+    "translation": "Tan học chúng tôi tìm quán ăn tối. Quán mới trước cổng trường gần, rẻ nhưng đông, có thể chờ lâu. Bàn bạc xong chúng tôi sang quán cũ đối diện. Quán không đẹp bằng nhưng không phải đợi, đồ ăn cũng ngon.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R02-5-Q1",
+        "question": "我们什么时候去吃晚饭？",
+        "answer": "下课以后",
+        "options": [
+          "下课以后",
+          "二十分钟",
+          "下班以后",
+          "下星期"
+        ],
+        "explanation": "Đối chiếu đoạn: “下课以后，我们想找个地方吃晚饭。” → Chọn “下课以后”."
+      },
+      {
+        "id": "H3-R02-5-Q2",
+        "question": "学校门口的新饭馆怎么样？",
+        "answer": "又近又便宜",
+        "options": [
+          "又近又便宜",
+          "每个人都看得很清楚",
+          "可以",
+          "少一些，但是更满意"
+        ],
+        "explanation": "Đối chiếu đoạn: “学校门口的新饭馆又近又便宜，可是人太多，可能要等很久。” → Chọn “又近又便宜”."
+      },
+      {
+        "id": "H3-R02-5-Q3",
+        "question": "我们为什么没去新饭馆？",
+        "answer": "人太多，可能要等很久",
+        "options": [
+          "人太多，可能要等很久",
+          "手机没电了",
+          "一道题做不出来",
+          "怕热"
+        ],
+        "explanation": "Đối chiếu đoạn: “学校门口的新饭馆又近又便宜，可是人太多，可能要等很久。” → Chọn “人太多，可能要等很久”."
+      },
+      {
+        "id": "H3-R02-5-Q4",
+        "question": "我们最后去哪儿吃饭？",
+        "answer": "街对面的老店",
+        "options": [
+          "街对面的老店",
+          "北京",
+          "地铁站",
+          "花园"
+        ],
+        "explanation": "Đối chiếu đoạn: “我们讨论了一下，决定去街对面的老店。” → Chọn “街对面的老店”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R03",
+    "lesson": 3,
+    "title": "Khu nhà mới",
+    "text": "我搬到一个新小区。这里离学校很近，走路十分钟就到了。小区里有花，有树，还有一个小商店。晚上很安静。我每天早上在小区里跑步，然后去学校上课。我觉得住在这里很方便。",
+    "pinyin": "Wǒ bān dào yí gè xīn xiǎo qū。 zhè lǐ lí xué xiào hěn jìn， zǒu lù shí fēn zhōng jiù dào le。 xiǎo qū lǐ yǒu huā， yǒu shù， hái yǒu yí gè xiǎo shāng diàn。 wǎn shàng hěn ān jìng。 wǒ měi tiān zǎo shàng zài xiǎo qū lǐ pǎo bù， rán hòu qù xué xiào shàng kè。 wǒ jué de zhù zài zhè lǐ hěn fāng biàn。",
+    "translation": "Tôi chuyển đến khu dân cư mới. Từ đây đi bộ đến trường chỉ mười phút. Trong khu có hoa, cây và một cửa hàng nhỏ. Buổi tối yên tĩnh. Mỗi sáng tôi chạy bộ rồi đến trường học. Tôi thấy sống ở đây rất tiện.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R03-Q1",
+        "question": "从小区走到学校要多久？",
+        "answer": "十分钟",
+        "options": [
+          "十分钟",
+          "一个小时",
+          "两分钟",
+          "半天"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 十分钟"
+      },
+      {
+        "id": "H3-R03-Q2",
+        "question": "小区晚上怎么样？",
+        "answer": "很安静",
+        "options": [
+          "很安静",
+          "很有意思",
+          "很冷",
+          "很吵"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 很安静"
+      },
+      {
+        "id": "H3-R03-Q3",
+        "question": "我每天早上先做什么？",
+        "answer": "跑步",
+        "options": [
+          "跑步",
+          "买菜",
+          "上课",
+          "打电话"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 跑步"
+      },
+      {
+        "id": "H3-R03-Q4",
+        "question": "我觉得住在这里怎么样？",
+        "answer": "很方便",
+        "options": [
+          "很方便",
+          "不方便",
+          "很累",
+          "很远"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 很方便"
+      }
+    ]
+  },
+  {
+    "id": "H3-R03-2",
+    "lesson": 3,
+    "title": "Tìm nhà gần trường",
+    "text": "以前我住的地方离学校很远，每天坐车要一个小时。这个月我想找一个近一点儿的房子。朋友介绍的小区虽然房间不大，但是附近有地铁站和超市。我去看过以后很喜欢，决定下个月搬进去。",
+    "pinyin": "Yǐ qián wǒ zhù de dì fang lí xué xiào hěn yuǎn， měi tiān zuò chē yào yí gè xiǎo shí。 zhè ge yuè wǒ xiǎng zhǎo yí gè jìn yì diǎn ér de fáng zi。 péng you jiè shào de xiǎo qū suī rán fáng jiān bù dà， dàn shì fù jìn yǒu dì tiě zhàn hé chāo shì。 wǒ qù kàn guò yǐ hòu hěn xǐ huan， jué dìng xià gè yuè bān jìn qù。",
+    "translation": "Trước đây tôi ở xa trường, mỗi ngày đi xe mất một tiếng. Tháng này tôi tìm nhà gần hơn. Khu bạn giới thiệu phòng không lớn nhưng gần ga tàu điện và siêu thị. Xem nhà xong tôi thích và quyết định tháng sau chuyển đến.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R03-2-Q1",
+        "question": "以前坐车去学校要多久？",
+        "answer": "一个小时",
+        "options": [
+          "一个小时",
+          "九点",
+          "二十分钟",
+          "下班以后"
+        ],
+        "explanation": "Đối chiếu đoạn: “以前我住的地方离学校很远，每天坐车要一个小时。” → Chọn “一个小时”."
+      },
+      {
+        "id": "H3-R03-2-Q2",
+        "question": "谁介绍了这个小区？",
+        "answer": "朋友",
+        "options": [
+          "朋友",
+          "全班",
+          "我和妈妈",
+          "旁边的姐姐"
+        ],
+        "explanation": "Đối chiếu đoạn: “朋友介绍的小区虽然房间不大，但是附近有地铁站和超市。” → Chọn “朋友”."
+      },
+      {
+        "id": "H3-R03-2-Q3",
+        "question": "房间大不大？",
+        "answer": "不大",
+        "options": [
+          "不大",
+          "不太好",
+          "每个人都看得很清楚",
+          "可以"
+        ],
+        "explanation": "Đối chiếu đoạn: “朋友介绍的小区虽然房间不大，但是附近有地铁站和超市。” → Chọn “不大”."
+      },
+      {
+        "id": "H3-R03-2-Q4",
+        "question": "我打算什么时候搬进去？",
+        "answer": "下个月",
+        "options": [
+          "下个月",
+          "下星期",
+          "早饭后和晚饭后",
+          "三天"
+        ],
+        "explanation": "Đối chiếu đoạn: “我去看过以后很喜欢，决定下个月搬进去。” → Chọn “下个月”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R03-3",
+    "lesson": 3,
+    "title": "Cửa hàng trong khu nhà",
+    "text": "我们小区里开了一家小商店。店不大，东西但是很齐全，可以买水果、面包和牛奶。昨天晚上我做饭时发现没有鸡蛋了，走了两分钟就买到了。以前要去很远的超市，现在方便多了。邻居们都说这家店开得好。",
+    "pinyin": "Wǒ men xiǎo qū lǐ kāi le yī jiā xiǎo shāng diàn。 diàn bù dà， dōng xi dàn shì hěn qí quán， kě yǐ mǎi shuǐ guǒ、 miàn bāo hé niú nǎi。 zuó tiān wǎn shàng wǒ zuò fàn shí fā xiàn méi yǒu jī dàn le， zǒu le liǎng fēn zhōng jiù mǎi dào le。 yǐ qián yào qù hěn yuǎn de chāo shì， xiàn zài fāng biàn duō le。 lín jū men dōu shuō zhè jiā diàn kāi dé hǎo。",
+    "translation": "Khu tôi có cửa hàng nhỏ mới mở, bán khá đủ đồ như trái cây, bánh mì, sữa. Tối qua nấu ăn mới thấy hết trứng, tôi đi hai phút đã mua được. Trước phải đi siêu thị xa, giờ tiện hơn. Hàng xóm đều khen.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R03-3-Q1",
+        "question": "新商店开在哪儿？",
+        "answer": "小区里",
+        "options": [
+          "小区里",
+          "卖早饭的店",
+          "楼门口",
+          "楼后"
+        ],
+        "explanation": "Đối chiếu đoạn: “我们小区里开了一家小商店。” → Chọn “小区里”."
+      },
+      {
+        "id": "H3-R03-3-Q2",
+        "question": "昨天做饭时我发现少了什么？",
+        "answer": "鸡蛋",
+        "options": [
+          "鸡蛋",
+          "蛋糕",
+          "山和河照片",
+          "鸡肉饭"
+        ],
+        "explanation": "Đối chiếu đoạn: “昨天晚上我做饭时发现没有鸡蛋了，走了两分钟就买到了。” → Chọn “鸡蛋”."
+      },
+      {
+        "id": "H3-R03-3-Q3",
+        "question": "我走了多久买到鸡蛋？",
+        "answer": "两分钟",
+        "options": [
+          "两分钟",
+          "下班以后",
+          "下星期",
+          "早饭后和晚饭后"
+        ],
+        "explanation": "Đối chiếu đoạn: “昨天晚上我做饭时发现没有鸡蛋了，走了两分钟就买到了。” → Chọn “两分钟”."
+      },
+      {
+        "id": "H3-R03-3-Q4",
+        "question": "和以前比，现在怎么样？",
+        "answer": "方便多了",
+        "options": [
+          "方便多了",
+          "不靠门",
+          "贵一点儿",
+          "大一点儿的"
+        ],
+        "explanation": "Đối chiếu đoạn: “以前要去很远的超市，现在方便多了。” → Chọn “方便多了”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R03-4",
+    "lesson": 3,
+    "title": "Buổi sáng yên tĩnh",
+    "text": "搬家以后，我开始早起。每天六点，小区里的路上还没有几个人。我先慢慢走一会儿，再跑步。七点回家的时候，楼下卖早饭的店已经开门了。我买好早饭带回家，和家人一起吃，然后去上班。",
+    "pinyin": "Bān jiā yǐ hòu， wǒ kāi shǐ zǎo qǐ。 měi tiān liù diǎn， xiǎo qū lǐ de lù shàng hái méi yǒu jǐ gè rén。 wǒ xiān màn màn zǒu yī huì er， zài pǎo bù。 qī diǎn huí jiā de shí hou， lóu xià mài zǎo fàn de diàn yǐ jīng kāi mén le。 wǒ mǎi hǎo zǎo fàn dài huí jiā， hé jiā rén yì qǐ chī， rán hòu qù shàng bān。",
+    "translation": "Sau khi chuyển nhà tôi bắt đầu dậy sớm. Sáu giờ đường trong khu còn vắng. Tôi đi bộ rồi chạy, bảy giờ về thì quán ăn sáng dưới nhà đã mở. Tôi mua đồ mang về ăn cùng gia đình rồi đi làm.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R03-4-Q1",
+        "question": "我每天几点开始在小区活动？",
+        "answer": "六点",
+        "options": [
+          "六点",
+          "二十分钟",
+          "下班以后",
+          "下星期"
+        ],
+        "explanation": "Đối chiếu đoạn: “每天六点，小区里的路上还没有几个人。” → Chọn “六点”."
+      },
+      {
+        "id": "H3-R03-4-Q2",
+        "question": "我先做什么？",
+        "answer": "慢慢走一会儿",
+        "options": [
+          "慢慢走一会儿",
+          "爬山",
+          "先看说明",
+          "按医生说的做"
+        ],
+        "explanation": "Đối chiếu đoạn: “我先慢慢走一会儿，再跑步。” → Chọn “慢慢走一会儿”."
+      },
+      {
+        "id": "H3-R03-4-Q3",
+        "question": "七点回家时什么店开门了？",
+        "answer": "卖早饭的店",
+        "options": [
+          "卖早饭的店",
+          "北京",
+          "地铁站",
+          "花园"
+        ],
+        "explanation": "Đối chiếu đoạn: “七点回家的时候，楼下卖早饭的店已经开门了。” → Chọn “卖早饭的店”."
+      },
+      {
+        "id": "H3-R03-4-Q4",
+        "question": "我和谁一起吃早饭？",
+        "answer": "家人",
+        "options": [
+          "家人",
+          "女儿",
+          "妹妹",
+          "老师"
+        ],
+        "explanation": "Đối chiếu đoạn: “我买好早饭带回家，和家人一起吃，然后去上班。” → Chọn “家人”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R03-5",
+    "lesson": 3,
+    "title": "Xe đạp để ở đâu",
+    "text": "昨天我回小区时，把自行车停在了楼门口。晚上下楼，发现车不见了，急坏了。邻居告诉我，门口不能停车，工作人员把车放到后面去了。我到楼后找到了车。从那以后，我每次都把车停在规定的地方。",
+    "pinyin": "Zuó tiān wǒ huí xiǎo qū shí， bǎ zì xíng chē tíng zài le lóu mén kǒu。 wǎn shàng xià lóu， fā xiàn chē bú jiàn le， jí huài le。 lín jū gào sù wǒ， mén kǒu bù néng tíng chē， gōng zuò rén yuán bǎ chē fàng dào hòu miàn qù le。 wǒ dào lóu hòu zhǎo dào le chē。 cóng nà yǐ hòu， wǒ měi cì dōu bǎ chē tíng zài guī dìng de dì fang。",
+    "translation": "Hôm qua tôi để xe đạp ở cửa tòa nhà. Tối xuống không thấy xe nên rất lo. Hàng xóm nói cửa không được đỗ, nhân viên chuyển ra sau. Tôi ra sau tìm thấy. Từ đó tôi luôn đỗ đúng nơi quy định.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R03-5-Q1",
+        "question": "昨天我把自行车停在哪儿？",
+        "answer": "楼门口",
+        "options": [
+          "楼门口",
+          "北京",
+          "地铁站",
+          "花园"
+        ],
+        "explanation": "Đối chiếu đoạn: “昨天我回小区时，把自行车停在了楼门口。” → Chọn “楼门口”."
+      },
+      {
+        "id": "H3-R03-5-Q2",
+        "question": "谁告诉我车被拿走了？",
+        "answer": "邻居",
+        "options": [
+          "邻居",
+          "旁边的姐姐",
+          "女儿",
+          "妹妹"
+        ],
+        "explanation": "Đối chiếu đoạn: “邻居告诉我，门口不能停车，工作人员把车放到后面去了。” → Chọn “邻居”."
+      },
+      {
+        "id": "H3-R03-5-Q3",
+        "question": "我最后在哪儿找到车？",
+        "answer": "楼后",
+        "options": [
+          "楼后",
+          "花园",
+          "床边",
+          "门旁边"
+        ],
+        "explanation": "Đối chiếu đoạn: “我到楼后找到了车。” → Chọn “楼后”."
+      },
+      {
+        "id": "H3-R03-5-Q4",
+        "question": "以后我把车停在哪儿？",
+        "answer": "规定的地方",
+        "options": [
+          "规定的地方",
+          "床边",
+          "门旁边",
+          "河边"
+        ],
+        "explanation": "Đối chiếu đoạn: “从那以后，我每次都把车停在规定的地方。” → Chọn “规定的地方”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R04",
+    "lesson": 4,
+    "title": "Chọn khách sạn",
+    "text": "我们去北京旅游，在网上找宾馆。一家宾馆离车站近，但是房间很小。第二家宾馆远一点儿，但是房间很干净，也比较安静。妈妈想好好休息，所以我们选了第二家。第二天，我们坐公共汽车去车站。",
+    "pinyin": "Wǒ men qù běi jīng lǚ yóu， zài wǎng shàng zhǎo bīn guǎn。 yī jiā bīn guǎn lí chē zhàn jìn， dàn shì fáng jiān hěn xiǎo。 dì èr jiā bīn guǎn yuǎn yì diǎn ér， dàn shì fáng jiān hěn gān jìng， yě bǐ jiào ān jìng。 mā ma xiǎng hǎo hǎo xiū xī， suǒ yǐ wǒ men xuǎn le dì èr jiā。 dì èr tiān， wǒ men zuò gōng gòng qì chē qù chē zhàn。",
+    "translation": "Chúng tôi đi du lịch Bắc Kinh và tìm khách sạn trên mạng. Một nơi gần bến xe nhưng phòng nhỏ. Nơi khác xa hơn chút nhưng sạch và yên tĩnh. Mẹ muốn nghỉ ngơi nên chúng tôi chọn nơi thứ hai. Hôm sau chúng tôi đi xe buýt đến bến.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R04-Q1",
+        "question": "我们在哪儿找宾馆？",
+        "answer": "网上",
+        "options": [
+          "网上",
+          "机场",
+          "学校",
+          "公园"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 网上"
+      },
+      {
+        "id": "H3-R04-Q2",
+        "question": "第一家宾馆的房间怎么样？",
+        "answer": "很小",
+        "options": [
+          "很小",
+          "很大",
+          "很脏",
+          "很冷"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 很小"
+      },
+      {
+        "id": "H3-R04-Q3",
+        "question": "我们为什么选第二家？",
+        "answer": "妈妈想好好休息",
+        "options": [
+          "妈妈想好好休息",
+          "离车站最近",
+          "没有别的房间",
+          "朋友住在那里"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 妈妈想好好休息"
+      },
+      {
+        "id": "H3-R04-Q4",
+        "question": "第二天怎么去车站？",
+        "answer": "坐公共汽车",
+        "options": [
+          "坐公共汽车",
+          "走路",
+          "骑车",
+          "坐飞机"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 坐公共汽车"
+      }
+    ]
+  },
+  {
+    "id": "H3-R04-2",
+    "lesson": 4,
+    "title": "Đặt phòng qua điện thoại",
+    "text": "下周我们要去北京，爸爸让我帮忙订房间。我在网上看到一家宾馆，离地铁站很近。我给服务台打电话，问还有没有两个人住的房间。工作人员说有，还告诉我房间里可以上网。我订了两个晚上，把名字发给了爸爸。",
+    "pinyin": "Xià zhōu wǒ men yào qù běi jīng， bà ba ràng wǒ bāng máng dìng fáng jiān。 wǒ zài wǎng shàng kàn dào yī jiā bīn guǎn， lí dì tiě zhàn hěn jìn。 wǒ gěi fú wù tái dǎ diàn huà， wèn hái yǒu méi yǒu liǎng gè rén zhù de fáng jiān。 gōng zuò rén yuán shuō yǒu， hái gào sù wǒ fáng jiān lǐ kě yǐ shàng wǎng。 wǒ dìng le liǎng gè wǎn shàng， bǎ míng zi fā gěi le bà ba。",
+    "translation": "Tuần sau chúng tôi đi Bắc Kinh, bố nhờ đặt phòng. Tôi thấy một khách sạn gần ga tàu điện và gọi hỏi phòng hai người. Nhân viên nói còn và có mạng trong phòng. Tôi đặt hai đêm rồi gửi địa chỉ cho bố.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R04-2-Q1",
+        "question": "我们下周要去哪儿？",
+        "answer": "北京",
+        "options": [
+          "北京",
+          "楼门口",
+          "楼后",
+          "规定的地方"
+        ],
+        "explanation": "Đối chiếu đoạn: “下周我们要去北京，爸爸让我帮忙订房间。” → Chọn “北京”."
+      },
+      {
+        "id": "H3-R04-2-Q2",
+        "question": "宾馆离什么地方很近？",
+        "answer": "地铁站",
+        "options": [
+          "地铁站",
+          "楼后",
+          "规定的地方",
+          "花园"
+        ],
+        "explanation": "Đối chiếu đoạn: “我在网上看到一家宾馆，离地铁站很近。” → Chọn “地铁站”."
+      },
+      {
+        "id": "H3-R04-2-Q3",
+        "question": "我打电话给谁？",
+        "answer": "服务台的工作人员",
+        "options": [
+          "服务台的工作人员",
+          "旁边的姐姐",
+          "女儿",
+          "妹妹"
+        ],
+        "explanation": "Đối chiếu đoạn: “我给服务台打电话，问还有没有两个人住的房间。” → Chọn “服务台的工作人员”."
+      },
+      {
+        "id": "H3-R04-2-Q4",
+        "question": "我订了几个晚上？",
+        "answer": "两个晚上",
+        "options": [
+          "两个晚上",
+          "一个",
+          "第一次",
+          "五张"
+        ],
+        "explanation": "Đối chiếu đoạn: “我订了两个晚上，把名字发给了爸爸。” → Chọn “两个晚上”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R04-3",
+    "lesson": 4,
+    "title": "Đổi phòng yên tĩnh hơn",
+    "text": "我们住进宾馆以后，发现门外的车很多，晚上有点儿吵。妈妈睡不好，第二天去服务台问能不能换房间。工作人员带我们看了楼上的一间，门对着花园。虽然小一点儿，但是安静多了，我们很满意。",
+    "pinyin": "Wǒ men zhù jìn bīn guǎn yǐ hòu， fā xiàn mén wài de chē hěn duō， wǎn shàng yǒu diǎn ér chǎo。 mā ma shuì bù hǎo， dì èr tiān qù fú wù tái wèn néng bù néng huàn fáng jiān。 gōng zuò rén yuán dài wǒ men kàn le lóu shàng de yī jiān， mén duì zhe huā yuán。 suī rán xiǎo yì diǎn ér， dàn shì ān jìng duō le， wǒ men hěn mǎn yì。",
+    "translation": "Nhận phòng xong chúng tôi thấy ngoài cửa nhiều xe, tối hơi ồn. Mẹ ngủ không ngon nên hôm sau hỏi đổi phòng. Nhân viên dẫn xem phòng tầng trên nhìn ra vườn. Phòng nhỏ hơn chút nhưng yên tĩnh, chúng tôi hài lòng.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R04-3-Q1",
+        "question": "第一间房间晚上怎么样？",
+        "answer": "有点儿吵",
+        "options": [
+          "有点儿吵",
+          "不太好",
+          "每个人都看得很清楚",
+          "可以"
+        ],
+        "explanation": "Đối chiếu đoạn: “我们住进宾馆以后，发现门外的车很多，晚上有点儿吵。” → Chọn “有点儿吵”."
+      },
+      {
+        "id": "H3-R04-3-Q2",
+        "question": "谁睡不好？",
+        "answer": "妈妈",
+        "options": [
+          "妈妈",
+          "旁边的姐姐",
+          "女儿",
+          "妹妹"
+        ],
+        "explanation": "Đối chiếu đoạn: “妈妈睡不好，第二天去服务台问能不能换房间。” → Chọn “妈妈”."
+      },
+      {
+        "id": "H3-R04-3-Q3",
+        "question": "新房间的门对着哪儿？",
+        "answer": "花园",
+        "options": [
+          "花园",
+          "规定的地方",
+          "北京",
+          "地铁站"
+        ],
+        "explanation": "Đối chiếu đoạn: “工作人员带我们看了楼上的一间，门对着花园。” → Chọn “花园”."
+      },
+      {
+        "id": "H3-R04-3-Q4",
+        "question": "新房间和原来的相比怎么样？",
+        "answer": "小一点儿，但是更安静",
+        "options": [
+          "小一点儿，但是更安静",
+          "不靠门",
+          "贵一点儿",
+          "大一点儿的"
+        ],
+        "explanation": "Đối chiếu đoạn: “虽然小一点儿，但是安静多了，我们很满意。” → Chọn “小一点儿，但是更安静”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R04-4",
+    "lesson": 4,
+    "title": "Bữa sáng ở khách sạn",
+    "text": "这家宾馆的早饭跟别的地方不一样。每天早上都有热面条，也有水果和牛奶。爸爸喜欢吃面，妈妈只吃面包和鸡蛋。我什么都想尝一点。服务员说早饭到九点结束，所以我们决定明天早一点下来。",
+    "pinyin": "Zhè jiā bīn guǎn de zǎo fàn gēn bié de dì fang bù yí yàng。 měi tiān zǎo shàng dōu yǒu rè miàn tiáo， yě yǒu shuǐ guǒ hé niú nǎi。 bà ba xǐ huan chī miàn， mā ma zhǐ chī miàn bāo hé jī dàn。 wǒ shén me dōu xiǎng cháng yì diǎn。 fú wù yuán shuō zǎo fàn dào jiǔ diǎn jié shù， suǒ yǐ wǒ men jué dìng míng tiān zǎo yì diǎn xià lái。",
+    "translation": "Bữa sáng ở khách sạn này khác nơi khác: có mì nóng, trái cây, sữa. Bố thích mì, mẹ chỉ ăn bánh mì và trứng. Tôi muốn thử mỗi thứ một chút. Bữa sáng kết thúc lúc chín giờ nên chúng tôi định mai xuống sớm.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R04-4-Q1",
+        "question": "爸爸喜欢吃什么？",
+        "answer": "面条",
+        "options": [
+          "面条",
+          "鸡肉饭",
+          "衣服",
+          "蓝色"
+        ],
+        "explanation": "Đối chiếu đoạn: “爸爸喜欢吃面，妈妈只吃面包和鸡蛋。” → Chọn “面条”."
+      },
+      {
+        "id": "H3-R04-4-Q2",
+        "question": "妈妈吃什么？",
+        "answer": "面包和鸡蛋",
+        "options": [
+          "面包和鸡蛋",
+          "衣服",
+          "蓝色",
+          "运动鞋"
+        ],
+        "explanation": "Đối chiếu đoạn: “爸爸喜欢吃面，妈妈只吃面包和鸡蛋。” → Chọn “面包和鸡蛋”."
+      },
+      {
+        "id": "H3-R04-4-Q3",
+        "question": "早饭几点结束？",
+        "answer": "九点",
+        "options": [
+          "九点",
+          "早饭后和晚饭后",
+          "三天",
+          "十点半"
+        ],
+        "explanation": "Đối chiếu đoạn: “服务员说早饭到九点结束，所以我们决定明天早一点下来。” → Chọn “九点”."
+      },
+      {
+        "id": "H3-R04-4-Q4",
+        "question": "我们决定明天怎么做？",
+        "answer": "早一点下来",
+        "options": [
+          "早一点下来",
+          "吃早饭",
+          "散步",
+          "篮球比赛"
+        ],
+        "explanation": "Đối chiếu đoạn: “服务员说早饭到九点结束，所以我们决定明天早一点下来。” → Chọn “早一点下来”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R04-5",
+    "lesson": 4,
+    "title": "Trước khi trả phòng",
+    "text": "早上离开宾馆以前，我们把东西都准备好了。爸爸去服务台问一下，妈妈又检查了一遍房间。她在床边发现了我的手机，马上叫住我。我很不好意思。爸爸说，出门不能只看行李，重要的东西要一个一个检查。",
+    "pinyin": "Zǎo shàng lí kāi bīn guǎn yǐ qián， wǒ men bǎ dōng xi dōu zhǔn bèi hǎo le。 bà ba qù fú wù tái wèn yī xià， mā ma yòu jiǎn chá le yī biàn fáng jiān。 tā zài chuáng biān fā xiàn le wǒ de shǒu jī， mǎ shàng jiào zhù wǒ。 wǒ hěn bù hǎo yì sī。 bà ba shuō， chū mén bù néng zhǐ kàn xíng lǐ， zhòng yào de dōng xi yào yí gè yí gè jiǎn chá。",
+    "translation": "Trước khi rời khách sạn chúng tôi thu xếp đồ. Bố đến hỏi, mẹ kiểm tra lại và thấy điện thoại của tôi cạnh giường. Mẹ gọi tôi, tôi ngại quá. Bố nói không chỉ nhìn hành lý mà phải kiểm tra từng đồ quan trọng.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R04-5-Q1",
+        "question": "谁去服务台问一下？",
+        "answer": "爸爸",
+        "options": [
+          "爸爸",
+          "妹妹",
+          "老师",
+          "姐姐"
+        ],
+        "explanation": "Đối chiếu đoạn: “爸爸去服务台问一下，妈妈又检查了一遍房间。” → Chọn “爸爸”."
+      },
+      {
+        "id": "H3-R04-5-Q2",
+        "question": "妈妈在哪儿发现手机？",
+        "answer": "床边",
+        "options": [
+          "床边",
+          "北京",
+          "地铁站",
+          "花园"
+        ],
+        "explanation": "Đối chiếu đoạn: “她在床边发现了我的手机，马上叫住我。” → Chọn “床边”."
+      },
+      {
+        "id": "H3-R04-5-Q3",
+        "question": "手机是谁的？",
+        "answer": "我的",
+        "options": [
+          "我的",
+          "姐姐",
+          "附近的店员",
+          "学校的"
+        ],
+        "explanation": "Đối chiếu đoạn: “她在床边发现了我的手机，马上叫住我。” → Chọn “我的”."
+      },
+      {
+        "id": "H3-R04-5-Q4",
+        "question": "爸爸建议怎么检查重要的东西？",
+        "answer": "一个一个检查",
+        "options": [
+          "一个一个检查",
+          "散步",
+          "篮球比赛",
+          "一起努力"
+        ],
+        "explanation": "Đối chiếu đoạn: “爸爸说，出门不能只看行李，重要的东西要一个一个检查。” → Chọn “一个一个检查”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R05",
+    "lesson": 5,
+    "title": "Chụp ảnh trong công viên",
+    "text": "星期天，我和妹妹去公园拍照片。开始的时候，她站得太远，照片里看不到她的脸。我请她走近一点儿，再站到树旁边。这样拍出来的照片好看多了。回家以后，她把照片发给妈妈看。",
+    "pinyin": "Xīng qī tiān， wǒ hé mèi mei qù gōng yuán pāi zhào piān。 kāi shǐ de shí hou， tā zhàn dé tài yuǎn， zhào piān lǐ kàn bú dào tā de liǎn。 wǒ qǐng tā zǒu jìn yì diǎn ér， zài zhàn dào shù páng biān。 zhè yàng pāi chū lái de zhào piān hǎo kàn duō le。 huí jiā yǐ hòu， tā bǎ zhào piān fā gěi mā ma kàn。",
+    "translation": "Chủ nhật tôi cùng em gái chụp ảnh ở công viên. Ban đầu em đứng quá xa nên ảnh không rõ mặt. Tôi bảo em lại gần và đứng cạnh cây. Ảnh chụp như vậy đẹp hơn nhiều. Về nhà em gửi ảnh cho mẹ xem.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R05-Q1",
+        "question": "我们去哪儿拍照片？",
+        "answer": "公园",
+        "options": [
+          "公园",
+          "机场",
+          "饭馆",
+          "医院"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 公园"
+      },
+      {
+        "id": "H3-R05-Q2",
+        "question": "开始为什么看不到妹妹的脸？",
+        "answer": "她站得太远",
+        "options": [
+          "她站得太远",
+          "天太黑",
+          "没有手机",
+          "她没来"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 她站得太远"
+      },
+      {
+        "id": "H3-R05-Q3",
+        "question": "后来妹妹站在哪儿？",
+        "answer": "树旁边",
+        "options": [
+          "树旁边",
+          "车里",
+          "门外",
+          "桌子上"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 树旁边"
+      },
+      {
+        "id": "H3-R05-Q4",
+        "question": "妹妹把照片发给谁？",
+        "answer": "妈妈",
+        "options": [
+          "妈妈",
+          "老师",
+          "医生",
+          "同学"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 妈妈"
+      }
+    ]
+  },
+  {
+    "id": "H3-R05-2",
+    "lesson": 5,
+    "title": "Chụp ảnh cả lớp",
+    "text": "今天是我们在这所学校上课的最后一天，老师想给全班拍一张照片。开始大家站得不太好，前面的人和后面的人站得太近了。老师让个子高的站在后面，其他人坐在前面。照片拍好以后，每个人都能看得很清楚。",
+    "pinyin": "Jīn tiān shì wǒ men zài zhè suǒ xué xiào shàng kè de zuì hòu yī tiān， lǎo shī xiǎng gěi quán bān pāi yī zhāng zhào piān。 kāi shǐ dà jiā zhàn dé bù tài hǎo， qián miàn de rén hé hòu miàn de rén zhàn dé tài jìn le。 lǎo shī ràng gè zi gāo de zhàn zài hòu miàn， qí tā rén zuò zài qián miàn。 zhào piān pāi hǎo yǐ hòu， měi gè rén dōu néng kàn de hěn qīng chǔ。",
+    "translation": "Hôm nay là buổi học cuối ở trường, thầy muốn chụp ảnh lớp. Ban đầu mọi người đứng lộn xộn, người trước che người sau. Thầy bảo người cao đứng sau, những người khác ngồi trước. Chụp xong ai cũng rõ.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R05-2-Q1",
+        "question": "老师想给谁拍照片？",
+        "answer": "全班",
+        "options": [
+          "全班",
+          "教她做蛋糕的朋友",
+          "我和妈妈",
+          "旁边的姐姐"
+        ],
+        "explanation": "Đối chiếu đoạn: “今天是我们在这所学校上课的最后一天，老师想给全班拍一张照片。” → Chọn “全班”."
+      },
+      {
+        "id": "H3-R05-2-Q2",
+        "question": "开始大家站得怎么样？",
+        "answer": "不太好",
+        "options": [
+          "不太好",
+          "每个人都看得很清楚",
+          "可以",
+          "少一些，但是更满意"
+        ],
+        "explanation": "Đối chiếu đoạn: “开始大家站得不太好，前面的人和后面的人站得太近了。” → Chọn “不太好”."
+      },
+      {
+        "id": "H3-R05-2-Q3",
+        "question": "个子高的人站在哪儿？",
+        "answer": "后面",
+        "options": [
+          "后面",
+          "楼后",
+          "规定的地方",
+          "北京"
+        ],
+        "explanation": "Đối chiếu đoạn: “老师让个子高的站在后面，其他人坐在前面。” → Chọn “后面”."
+      },
+      {
+        "id": "H3-R05-2-Q4",
+        "question": "最后照片拍得怎么样？",
+        "answer": "每个人都看得很清楚",
+        "options": [
+          "每个人都看得很清楚",
+          "不靠门",
+          "贵一点儿",
+          "大一点儿的"
+        ],
+        "explanation": "Đối chiếu đoạn: “照片拍好以后，每个人都能看得很清楚。” → Chọn “每个人都看得很清楚”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R05-3",
+    "lesson": 5,
+    "title": "Ánh sáng bên cửa sổ",
+    "text": "妹妹想给自己做的蛋糕拍照片，可是放在桌子上总是拍不好。我发现房间里不太亮，就建议她把蛋糕放到门旁边。妹妹试了一下，照片果然好看多了。她没有马上吃蛋糕，先把照片发给了教她做蛋糕的朋友。",
+    "pinyin": "Mèi mei xiǎng gěi zì jǐ zuò de dàn gāo pāi zhào piān， kě shì fàng zài zhuō zi shàng zǒng shì pāi bù hǎo。 wǒ fā xiàn fáng jiān lǐ bù tài liàng， jiù jiàn yì tā bǎ dàn gāo fàng dào mén páng biān。 mèi mei shì le yī xià， zhào piān guǒ rán hǎo kàn duō le。 tā méi yǒu mǎ shàng chī dàn gāo， xiān bǎ zhào piān fā gěi le jiāo tā zuò dàn gāo de péng you。",
+    "translation": "Em muốn chụp chiếc bánh mình làm nhưng chụp trên bàn chưa đẹp. Tôi thấy phòng tối nên gợi ý đặt bánh bên cửa. Ảnh đẹp hơn hẳn. Em chưa ăn ngay mà gửi ảnh cho người bạn đã dạy làm bánh.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R05-3-Q1",
+        "question": "妹妹想拍什么？",
+        "answer": "蛋糕",
+        "options": [
+          "蛋糕",
+          "面包和鸡蛋",
+          "山和河照片",
+          "面包"
+        ],
+        "explanation": "Đối chiếu đoạn: “妹妹想给自己做的蛋糕拍照片，可是放在桌子上总是拍不好。” → Chọn “蛋糕”."
+      },
+      {
+        "id": "H3-R05-3-Q2",
+        "question": "开始为什么拍不好？",
+        "answer": "房间里不太亮",
+        "options": [
+          "房间里不太亮",
+          "手机没电了",
+          "一道题做不出来",
+          "怕热"
+        ],
+        "explanation": "Đối chiếu đoạn: “我发现房间里不太亮，就建议她把蛋糕放到门旁边。” → Chọn “房间里不太亮”."
+      },
+      {
+        "id": "H3-R05-3-Q3",
+        "question": "我建议把蛋糕放在哪儿？",
+        "answer": "门旁边",
+        "options": [
+          "门旁边",
+          "规定的地方",
+          "北京",
+          "地铁站"
+        ],
+        "explanation": "Đối chiếu đoạn: “我发现房间里不太亮，就建议她把蛋糕放到门旁边。” → Chọn “门旁边”."
+      },
+      {
+        "id": "H3-R05-3-Q4",
+        "question": "妹妹先把照片发给了谁？",
+        "answer": "教她做蛋糕的朋友",
+        "options": [
+          "教她做蛋糕的朋友",
+          "姐姐",
+          "附近的店员",
+          "学校的"
+        ],
+        "explanation": "Đối chiếu đoạn: “她没有马上吃蛋糕，先把照片发给了教她做蛋糕的朋友。” → Chọn “教她做蛋糕的朋友”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R05-4",
+    "lesson": 5,
+    "title": "Chọn ảnh gửi cho bà",
+    "text": "我们周末去公园玩，拍了很多照片。回家以后，我和姐姐一起选照片给奶奶看。姐姐喜欢山和河，我但是觉得有家人的照片更有意思。最后我们选了五张，其中三张都有爷爷。奶奶看到照片，高兴得很，说下次也要一起去。",
+    "pinyin": "Wǒ men zhōu mò qù gōng yuán wán， pāi le hěn duō zhào piān。 huí jiā yǐ hòu， wǒ hé jiě jie yì qǐ xuǎn zhào piān gěi nǎi nai kàn。 jiě jie xǐ huan shān hé hé， wǒ dàn shì jué de yǒu jiā rén de zhào piān gèng yǒu yì si。 zuì hòu wǒ men xuǎn le wǔ zhāng， qí zhōng sān zhāng dōu yǒu yé ye。 nǎi nai kàn dào zhào piān， gāo xìng de hěn， shuō xià cì yě yào yì qǐ qù。",
+    "translation": "Cuối tuần chúng tôi đi công viên và chụp nhiều ảnh. Về nhà tôi cùng chị chọn ảnh cho bà. Chị thích phong cảnh, tôi thấy ảnh có gia đình thú vị hơn. Chúng tôi chọn năm ảnh, ba ảnh có ông. Bà rất vui và muốn lần sau đi cùng.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R05-4-Q1",
+        "question": "我们在哪儿拍了照片？",
+        "answer": "公园",
+        "options": [
+          "公园",
+          "规定的地方",
+          "北京",
+          "地铁站"
+        ],
+        "explanation": "Đối chiếu đoạn: “我们周末去公园玩，拍了很多照片。” → Chọn “公园”."
+      },
+      {
+        "id": "H3-R05-4-Q2",
+        "question": "姐姐喜欢什么样的照片？",
+        "answer": "山和河照片",
+        "options": [
+          "山和河照片",
+          "面包",
+          "鸡肉饭",
+          "衣服"
+        ],
+        "explanation": "Đối chiếu đoạn: “姐姐喜欢山和河，我但是觉得有家人的照片更有意思。” → Chọn “山和河照片”."
+      },
+      {
+        "id": "H3-R05-4-Q3",
+        "question": "最后选了几张照片？",
+        "answer": "五张",
+        "options": [
+          "五张",
+          "一个",
+          "第一次",
+          "两个"
+        ],
+        "explanation": "Đối chiếu đoạn: “最后我们选了五张，其中三张都有爷爷。” → Chọn “五张”."
+      },
+      {
+        "id": "H3-R05-4-Q4",
+        "question": "奶奶下次想做什么？",
+        "answer": "一起去公园",
+        "options": [
+          "一起去公园",
+          "散步",
+          "篮球比赛",
+          "一起努力"
+        ],
+        "explanation": "Đối chiếu đoạn: “奶奶看到照片，高兴得很，说下次也要一起去。” → Chọn “一起去公园”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R05-5",
+    "lesson": 5,
+    "title": "Học chụp ảnh bằng điện thoại",
+    "text": "朋友说，拍照片不一定要用很贵的相机，手机也可以拍得很好。他带我到河边，让我先看清楚想拍什么，再找合适的地方。我以前总是一到地方就拍，这次慢慢地想了一下。虽然照片不多，但是比以前满意多了。",
+    "pinyin": "Péng you shuō， pāi zhào piān bù yí dìng yào yòng hěn guì de xiàng jī， shǒu jī yě kě yǐ pāi de hěn hǎo。 tā dài wǒ dào hé biān， ràng wǒ xiān kàn qīng chǔ xiǎng pāi shén me， zài zhǎo hé shì de dì fang。 wǒ yǐ qián zǒng shì yī dào dì fang jiù pāi， zhè cì màn màn de xiǎng le yī xià。 suī rán zhào piān bù duō， dàn shì bǐ yǐ qián mǎn yì duō le。",
+    "translation": "Bạn nói không nhất thiết cần máy ảnh đắt, điện thoại cũng chụp đẹp. Bạn dẫn tôi ra bờ sông, bảo quan sát rồi chọn vị trí. Trước tôi đến là chụp ngay, lần này suy nghĩ kỹ hơn. Ảnh ít nhưng tôi hài lòng hơn.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R05-5-Q1",
+        "question": "朋友说手机能不能拍好照片？",
+        "answer": "可以",
+        "options": [
+          "可以",
+          "少一些，但是更满意",
+          "不靠门",
+          "贵一点儿"
+        ],
+        "explanation": "Đối chiếu đoạn: “朋友说，拍照片不一定要用很贵的相机，手机也可以拍得很好。” → Chọn “可以”."
+      },
+      {
+        "id": "H3-R05-5-Q2",
+        "question": "朋友带我去哪儿？",
+        "answer": "河边",
+        "options": [
+          "河边",
+          "北京",
+          "地铁站",
+          "花园"
+        ],
+        "explanation": "Đối chiếu đoạn: “他带我到河边，让我先看清楚想拍什么，再找合适的地方。” → Chọn “河边”."
+      },
+      {
+        "id": "H3-R05-5-Q3",
+        "question": "朋友让我先做什么？",
+        "answer": "看清楚想拍什么",
+        "options": [
+          "看清楚想拍什么",
+          "散步",
+          "篮球比赛",
+          "一起努力"
+        ],
+        "explanation": "Đối chiếu đoạn: “他带我到河边，让我先看清楚想拍什么，再找合适的地方。” → Chọn “看清楚想拍什么”."
+      },
+      {
+        "id": "H3-R05-5-Q4",
+        "question": "这次的照片和以前比怎么样？",
+        "answer": "少一些，但是更满意",
+        "options": [
+          "少一些，但是更满意",
+          "很舒服",
+          "颜色和以前不一样了",
+          "很难过"
+        ],
+        "explanation": "Đối chiếu đoạn: “虽然照片不多，但是比以前满意多了。” → Chọn “少一些，但是更满意”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R06",
+    "lesson": 6,
+    "title": "Chuyến tàu cao tốc",
+    "text": "今天我坐高铁去看朋友。出门太早，我没吃早饭。在车上，我发现手机上可以点外卖，就点了一份米饭和一杯热茶。饭送到的时候还是热的。吃完饭，我给朋友发消息，告诉他我快到了。",
+    "pinyin": "Jīn tiān wǒ zuò gāo tiě qù kàn péng you。 chū mén tài zǎo， wǒ méi chī zǎo fàn。 zài chē shàng， wǒ fā xiàn shǒu jī shàng kě yǐ diǎn wài mài， jiù diǎn le yī fèn mǐ fàn hé yī bēi rè chá。 fàn sòng dào de shí hou hái shì rè de。 chī wán fàn， wǒ gěi péng you fā xiāo xī， gào sù tā wǒ kuài dào le。",
+    "translation": "Hôm nay tôi đi tàu cao tốc thăm bạn. Ra ngoài sớm quá nên tôi chưa ăn sáng. Trên tàu tôi thấy có thể đặt đồ ăn qua điện thoại, liền gọi một phần cơm và trà nóng. Cơm đến vẫn nóng. Ăn xong tôi nhắn cho bạn là sắp đến.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R06-Q1",
+        "question": "我坐什么去看朋友？",
+        "answer": "高铁",
+        "options": [
+          "高铁",
+          "飞机",
+          "自行车",
+          "出租车"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 高铁"
+      },
+      {
+        "id": "H3-R06-Q2",
+        "question": "我为什么没吃早饭？",
+        "answer": "出门太早",
+        "options": [
+          "出门太早",
+          "不饿",
+          "没有钱",
+          "不喜欢米饭"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 出门太早"
+      },
+      {
+        "id": "H3-R06-Q3",
+        "question": "我怎么点外卖？",
+        "answer": "用手机",
+        "options": [
+          "用手机",
+          "去商店",
+          "给妈妈打电话",
+          "问司机"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 用手机"
+      },
+      {
+        "id": "H3-R06-Q4",
+        "question": "饭送到的时候怎么样？",
+        "answer": "还是热的",
+        "options": [
+          "还是热的",
+          "已经冷了",
+          "没有米饭",
+          "太少了"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 还是热的"
+      }
+    ]
+  },
+  {
+    "id": "H3-R06-2",
+    "lesson": 6,
+    "title": "Chờ chuyến tàu",
+    "text": "今天我们坐高铁去北京。妈妈怕迟到，让我们早一个小时到车站。到了以后，弟弟说有点儿饿，爸爸就带他去买面包。我和妈妈留在原来的地方看行李。车快来的时候，爸爸和弟弟回来了，我们一起排队上车。",
+    "pinyin": "Jīn tiān wǒ men zuò gāo tiě qù běi jīng。 mā ma pà chí dào， ràng wǒ men zǎo yí gè xiǎo shí dào chē zhàn。 dào le yǐ hòu， dì di shuō yǒu diǎn ér è， bà ba jiù dài tā qù mǎi miàn bāo。 wǒ hé mā ma liú zài yuán lái de dì fang kàn xíng lǐ。 chē kuài lái de shí hou， bà ba hé dì di huí lái le， wǒ men yì qǐ pái duì shàng chē。",
+    "translation": "Hôm nay chúng tôi đi tàu cao tốc đến Bắc Kinh. Mẹ sợ muộn nên đến ga sớm một tiếng. Em đói, bố dẫn mua bánh. Tôi và mẹ ở lại trông hành lý. Gần giờ tàu, bố và em về, cả nhà xếp hàng lên tàu.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R06-2-Q1",
+        "question": "我们坐高铁去哪儿？",
+        "answer": "北京",
+        "options": [
+          "北京",
+          "楼后",
+          "规定的地方",
+          "地铁站"
+        ],
+        "explanation": "Đối chiếu đoạn: “今天我们坐高铁去北京。” → Chọn “北京”."
+      },
+      {
+        "id": "H3-R06-2-Q2",
+        "question": "妈妈让我们提前多久到车站？",
+        "answer": "一个小时",
+        "options": [
+          "一个小时",
+          "下星期",
+          "早饭后和晚饭后",
+          "三天"
+        ],
+        "explanation": "Đối chiếu đoạn: “妈妈怕迟到，让我们早一个小时到车站。” → Chọn “一个小时”."
+      },
+      {
+        "id": "H3-R06-2-Q3",
+        "question": "爸爸带弟弟去买什么？",
+        "answer": "面包",
+        "options": [
+          "面包",
+          "鸡肉饭",
+          "衣服",
+          "蓝色"
+        ],
+        "explanation": "Đối chiếu đoạn: “到了以后，弟弟说有点儿饿，爸爸就带他去买面包。” → Chọn “面包”."
+      },
+      {
+        "id": "H3-R06-2-Q4",
+        "question": "谁留下来看行李？",
+        "answer": "我和妈妈",
+        "options": [
+          "我和妈妈",
+          "附近的店员",
+          "学校的",
+          "一个同学"
+        ],
+        "explanation": "Đối chiếu đoạn: “我和妈妈留在原来的地方看行李。” → Chọn “我和妈妈”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R06-3",
+    "lesson": 6,
+    "title": "Chỗ ngồi bên cửa sổ",
+    "text": "上车以后，我发现自己的座位不靠门，心里有点儿不高兴。旁边的姐姐看见我一直看外面，就问我是不是想坐门旁边。我不好意思地点了点头。她说自己要看书，坐哪儿都一样，就跟我换了座位。我连忙向她说谢谢。",
+    "pinyin": "Shàng chē yǐ hòu， wǒ fā xiàn zì jǐ de zuò wèi bù kào mén， xīn lǐ yǒu diǎn ér bù gāo xìng。 páng biān de jiě jie kàn jiàn wǒ yì zhí kàn wài miàn， jiù wèn wǒ shì bú shì xiǎng zuò mén páng biān。 wǒ bù hǎo yì sī dì diǎn le diǎn tóu。 tā shuō zì jǐ yào kàn shū， zuò nǎ ér dōu yī yàng， jiù gēn wǒ huàn le zuò wèi。 wǒ lián máng xiàng tā shuō xiè xie。",
+    "translation": "Lên tàu tôi hơi thất vọng vì ghế không gần cửa. Chị bên cạnh thấy tôi nhìn ra ngoài nên hỏi có muốn đổi không. Tôi ngại ngùng gật đầu. Chị đọc sách, ngồi đâu cũng được nên đổi cho tôi. Tôi cảm ơn chị.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R06-3-Q1",
+        "question": "我的座位靠门吗？",
+        "answer": "不靠门",
+        "options": [
+          "不靠门",
+          "每个人都看得很清楚",
+          "可以",
+          "少一些，但是更满意"
+        ],
+        "explanation": "Đối chiếu đoạn: “上车以后，我发现自己的座位不靠门，心里有点儿不高兴。” → Chọn “不靠门”."
+      },
+      {
+        "id": "H3-R06-3-Q2",
+        "question": "旁边的姐姐想做什么？",
+        "answer": "看书",
+        "options": [
+          "看书",
+          "吃早饭",
+          "散步",
+          "篮球比赛"
+        ],
+        "explanation": "Đối chiếu đoạn: “她说自己要看书，坐哪儿都一样，就跟我换了座位。” → Chọn “看书”."
+      },
+      {
+        "id": "H3-R06-3-Q3",
+        "question": "谁和我换了座位？",
+        "answer": "旁边的姐姐",
+        "options": [
+          "旁边的姐姐",
+          "妹妹",
+          "老师",
+          "附近的店员"
+        ],
+        "explanation": "Đối chiếu đoạn: “她说自己要看书，坐哪儿都一样，就跟我换了座位。” → Chọn “旁边的姐姐”."
+      },
+      {
+        "id": "H3-R06-3-Q4",
+        "question": "换座位以后我做了什么？",
+        "answer": "向她说谢谢",
+        "options": [
+          "向她说谢谢",
+          "篮球比赛",
+          "一起努力",
+          "传球"
+        ],
+        "explanation": "Đối chiếu đoạn: “我连忙向她说谢谢。” → Chọn “向她说谢谢”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R06-4",
+    "lesson": 6,
+    "title": "Đặt cơm trên tàu",
+    "text": "中午，高铁上的工作人员告诉我们，可以用手机点饭。我看了菜单，选了一份鸡肉饭，没有点饮料，因为包里带了水。过了一会儿，饭送到了座位上。弟弟想尝一口，我分了一点儿给他。他说下次也要试试。",
+    "pinyin": "Zhōng wǔ， gāo tiě shàng de gōng zuò rén yuán gào sù wǒ men， kě yǐ yòng shǒu jī diǎn fàn。 wǒ kàn le cài dān， xuǎn le yī fèn jī ròu fàn， méi yǒu diǎn yǐn liào， yīn wèi bāo lǐ dài le shuǐ。 guò le yī huì er， fàn sòng dào le zuò wèi shàng。 dì di xiǎng cháng yī kǒu， wǒ fēn le yì diǎn ér gěi tā。 tā shuō xià cì yě yào shì shì。",
+    "translation": "Buổi trưa nhân viên nói có thể đặt cơm bằng điện thoại. Tôi chọn cơm gà, không gọi đồ uống vì có nước. Một lúc sau cơm được giao đến ghế. Em muốn nếm, tôi chia một ít. Em nói lần sau cũng muốn thử.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R06-4-Q1",
+        "question": "我用什么点饭？",
+        "answer": "手机",
+        "options": [
+          "手机",
+          "衣服",
+          "蓝色",
+          "运动鞋"
+        ],
+        "explanation": "Đối chiếu đoạn: “中午，高铁上的工作人员告诉我们，可以用手机点饭。” → Chọn “手机”."
+      },
+      {
+        "id": "H3-R06-4-Q2",
+        "question": "我点了什么？",
+        "answer": "鸡肉饭",
+        "options": [
+          "鸡肉饭",
+          "衣服",
+          "蓝色",
+          "运动鞋"
+        ],
+        "explanation": "Đối chiếu đoạn: “我看了菜单，选了一份鸡肉饭，没有点饮料，因为包里带了水。” → Chọn “鸡肉饭”."
+      },
+      {
+        "id": "H3-R06-4-Q3",
+        "question": "为什么没点饮料？",
+        "answer": "包里带了水",
+        "options": [
+          "包里带了水",
+          "手有点儿冷",
+          "一本书的日期好像不对",
+          "水杯里的水流出来了"
+        ],
+        "explanation": "Đối chiếu đoạn: “我看了菜单，选了一份鸡肉饭，没有点饮料，因为包里带了水。” → Chọn “包里带了水”."
+      },
+      {
+        "id": "H3-R06-4-Q4",
+        "question": "谁想尝一口我的饭？",
+        "answer": "弟弟",
+        "options": [
+          "弟弟",
+          "姐姐",
+          "附近的店员",
+          "学校的"
+        ],
+        "explanation": "Đối chiếu đoạn: “弟弟想尝一口，我分了一点儿给他。” → Chọn “弟弟”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R06-5",
+    "lesson": 6,
+    "title": "Nhắc bạn xuống tàu",
+    "text": "我在高铁上认识了一位老人。他要去看女儿，但是不太会看手机上的消息。快到站的时候，他担心自己下错站，就问我还有多久。我查了一下，告诉他还有二十分钟。到站以后，我帮他拿行李，一直送到车门口。",
+    "pinyin": "Wǒ zài gāo tiě shàng rèn shi le yī wèi lǎo rén。 tā yào qù kàn nǚ ér， dàn shì bù tài huì kàn shǒu jī shàng de xiāo xī。 kuài dào zhàn de shí hou， tā dān xīn zì jǐ xià cuò zhàn， jiù wèn wǒ hái yǒu duō jiǔ。 wǒ chá le yī xià， gào sù tā hái yǒu èr shí fēn zhōng。 dào zhàn yǐ hòu， wǒ bāng tā ná xíng lǐ， yì zhí sòng dào chē mén kǒu。",
+    "translation": "Tôi quen một ông lão trên tàu, ông đi thăm con gái nhưng không quen xem tin nhắn. Gần đến ga ông sợ xuống nhầm nên hỏi còn bao lâu. Tôi kiểm tra, còn hai mươi phút. Đến ga tôi giúp mang hành lý ra cửa tàu.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R06-5-Q1",
+        "question": "老人坐高铁去看谁？",
+        "answer": "女儿",
+        "options": [
+          "女儿",
+          "妹妹",
+          "老师",
+          "姐姐"
+        ],
+        "explanation": "Đối chiếu đoạn: “他要去看女儿，但是不太会看手机上的消息。” → Chọn “女儿”."
+      },
+      {
+        "id": "H3-R06-5-Q2",
+        "question": "老人担心什么？",
+        "answer": "下错站",
+        "options": [
+          "下错站",
+          "手有点儿冷",
+          "一本书的日期好像不对",
+          "水杯里的水流出来了"
+        ],
+        "explanation": "Đối chiếu đoạn: “快到站的时候，他担心自己下错站，就问我还有多久。” → Chọn “下错站”."
+      },
+      {
+        "id": "H3-R06-5-Q3",
+        "question": "我告诉他还有多久到站？",
+        "answer": "二十分钟",
+        "options": [
+          "二十分钟",
+          "星期五",
+          "星期天",
+          "十分钟以后"
+        ],
+        "explanation": "Đối chiếu đoạn: “我查了一下，告诉他还有二十分钟。” → Chọn “二十分钟”."
+      },
+      {
+        "id": "H3-R06-5-Q4",
+        "question": "到站以后我帮他做了什么？",
+        "answer": "拿行李",
+        "options": [
+          "拿行李",
+          "一起努力",
+          "传球",
+          "跑步"
+        ],
+        "explanation": "Đối chiếu đoạn: “到站以后，我帮他拿行李，一直送到车门口。” → Chọn “拿行李”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R07",
+    "lesson": 7,
+    "title": "Chọn quần áo",
+    "text": "姐姐要参加朋友的生日会，请我帮她选衣服。她先穿了一条短裤，又试了一条裙子。我觉得裙子比短裤更好看，也更适合今天的活动。姐姐听了我的意见，穿着裙子出门了。",
+    "pinyin": "Jiě jie yào cān jiā péng you de shēng rì huì， qǐng wǒ bāng tā xuǎn yī fu。 tā xiān chuān le yī tiáo duǎn kù， yòu shì le yī tiáo qún zi。 wǒ jué de qún zi bǐ duǎn kù gèng hǎo kàn， yě gèng shì hé jīn tiān de huó dòng。 jiě jie tīng le wǒ de yì jiàn， chuān zhe qún zi chū mén le。",
+    "translation": "Chị nhờ tôi chọn đồ để dự sinh nhật bạn. Chị mặc thử quần soóc rồi thử váy. Tôi thấy váy đẹp hơn và hợp hoạt động hôm nay hơn. Chị nghe ý kiến tôi và mặc váy ra ngoài.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R07-Q1",
+        "question": "姐姐要参加什么活动？",
+        "answer": "生日会",
+        "options": [
+          "生日会",
+          "考试",
+          "比赛",
+          "面试"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 生日会"
+      },
+      {
+        "id": "H3-R07-Q2",
+        "question": "姐姐先穿了什么？",
+        "answer": "短裤",
+        "options": [
+          "短裤",
+          "裙子",
+          "大衣",
+          "衬衫"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 短裤"
+      },
+      {
+        "id": "H3-R07-Q3",
+        "question": "我觉得哪件更好看？",
+        "answer": "裙子",
+        "options": [
+          "裙子",
+          "短裤",
+          "两件都不好看",
+          "没有说"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 裙子"
+      },
+      {
+        "id": "H3-R07-Q4",
+        "question": "姐姐最后穿什么出门？",
+        "answer": "裙子",
+        "options": [
+          "裙子",
+          "短裤",
+          "衬衫",
+          "大衣"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 裙子"
+      }
+    ]
+  },
+  {
+    "id": "H3-R07-2",
+    "lesson": 7,
+    "title": "Mua quà cho chị",
+    "text": "姐姐下个月过生日，我想送她一件衣服。商店里的裙子有很多颜色，我不知道选哪条。服务员问姐姐多大了，建议我选蓝色的。我觉得这条虽然比红色的贵一点儿，但是更适合姐姐，就买了下来。",
+    "pinyin": "Jiě jie xià gè yuè guò shēng rì， wǒ xiǎng sòng tā yī jiàn yī fu。 shāng diàn lǐ de qún zi yǒu hěn duō yán sè， wǒ bù zhī dao xuǎn nǎ tiáo。 fú wù yuán wèn jiě jie duō dà le， jiàn yì wǒ xuǎn lán sè de。 wǒ jué de zhè tiáo suī rán bǐ hóng sè de guì yì diǎn ér， dàn shì gèng shì hé jiě jie， jiù mǎi le xià lái。",
+    "translation": "Tháng sau sinh nhật chị, tôi muốn tặng quần áo. Cửa hàng có váy nhiều màu, tôi chưa biết chọn. Nhân viên hỏi tuổi chị rồi gợi ý màu xanh. Váy đắt hơn màu đỏ một chút nhưng hợp chị hơn nên tôi mua.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R07-2-Q1",
+        "question": "姐姐什么时候过生日？",
+        "answer": "下个月",
+        "options": [
+          "下个月",
+          "下星期",
+          "早饭后和晚饭后",
+          "三天"
+        ],
+        "explanation": "Đối chiếu đoạn: “姐姐下个月过生日，我想送她一件衣服。” → Chọn “下个月”."
+      },
+      {
+        "id": "H3-R07-2-Q2",
+        "question": "我想送姐姐什么？",
+        "answer": "衣服",
+        "options": [
+          "衣服",
+          "山和河照片",
+          "面包",
+          "鸡肉饭"
+        ],
+        "explanation": "Đối chiếu đoạn: “姐姐下个月过生日，我想送她一件衣服。” → Chọn “衣服”."
+      },
+      {
+        "id": "H3-R07-2-Q3",
+        "question": "服务员建议选什么颜色？",
+        "answer": "蓝色",
+        "options": [
+          "蓝色",
+          "面包",
+          "鸡肉饭",
+          "运动鞋"
+        ],
+        "explanation": "Đối chiếu đoạn: “服务员问姐姐多大了，建议我选蓝色的。” → Chọn “蓝色”."
+      },
+      {
+        "id": "H3-R07-2-Q4",
+        "question": "蓝色的裙子比红色的怎么样？",
+        "answer": "贵一点儿",
+        "options": [
+          "贵一点儿",
+          "不靠门",
+          "大一点儿的",
+          "很舒服"
+        ],
+        "explanation": "Đối chiếu đoạn: “我觉得这条虽然比红色的贵一点儿，但是更适合姐姐，就买了下来。” → Chọn “贵一点儿”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R07-3",
+    "lesson": 7,
+    "title": "Quần áo cho chuyến đi",
+    "text": "明天学校带我们去爬山。妈妈让我穿运动鞋，不要穿新买的皮鞋。我觉得皮鞋更好看，但是也知道走山路不方便。准备书包的时候，我又放进去一件衣服。山上可能比城里冷，带着总比不带好。",
+    "pinyin": "Míng tiān xué xiào dài wǒ men qù pá shān。 mā ma ràng wǒ chuān yùn dòng xié， bú yào chuān xīn mǎi de pí xié。 wǒ jué de pí xié gèng hǎo kàn， dàn shì yě zhī dao zǒu shān lù bù fāng biàn。 zhǔn bèi shū bāo de shí hou， wǒ yòu fàng jìn qù yī jiàn yī fu。 shān shàng kě néng bǐ chéng lǐ lěng， dài zhe zǒng bǐ bù dài hǎo。",
+    "translation": "Ngày mai trường tổ chức leo núi. Mẹ dặn mang giày thể thao, không đi giày da mới. Tôi thấy giày da đẹp hơn nhưng đi đường núi không tiện. Tôi bỏ thêm áo vào cặp vì trên núi có thể lạnh hơn trong thành phố.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R07-3-Q1",
+        "question": "学校明天带我们做什么？",
+        "answer": "爬山",
+        "options": [
+          "爬山",
+          "按医生说的做",
+          "吃早饭",
+          "散步"
+        ],
+        "explanation": "Đối chiếu đoạn: “明天学校带我们去爬山。” → Chọn “爬山”."
+      },
+      {
+        "id": "H3-R07-3-Q2",
+        "question": "妈妈建议穿什么鞋？",
+        "answer": "运动鞋",
+        "options": [
+          "运动鞋",
+          "面包",
+          "鸡肉饭",
+          "蓝色"
+        ],
+        "explanation": "Đối chiếu đoạn: “妈妈让我穿运动鞋，不要穿新买的皮鞋。” → Chọn “运动鞋”."
+      },
+      {
+        "id": "H3-R07-3-Q3",
+        "question": "我又在书包里放了什么？",
+        "answer": "衣服",
+        "options": [
+          "衣服",
+          "鸡肉饭",
+          "蓝色",
+          "说明"
+        ],
+        "explanation": "Đối chiếu đoạn: “准备书包的时候，我又放进去一件衣服。” → Chọn “衣服”."
+      },
+      {
+        "id": "H3-R07-3-Q4",
+        "question": "为什么要带衣服？",
+        "answer": "山上可能更冷",
+        "options": [
+          "山上可能更冷",
+          "一本书的日期好像不对",
+          "水杯里的水流出来了",
+          "怕别人觉得我学得慢"
+        ],
+        "explanation": "Đối chiếu đoạn: “山上可能比城里冷，带着总比不带好。” → Chọn “山上可能更冷”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R07-4",
+    "lesson": 7,
+    "title": "Thử áo trước khi mua",
+    "text": "我在网上看到一件很漂亮的衬衫，价格也不贵。朋友告诉我，不同商店的大小可能不一样，最好先看看说明。我照着说明试了一下，发现自己应该买大一点儿的。衣服送来以后，我试了试，穿着很舒服。",
+    "pinyin": "Wǒ zài wǎng shàng kàn dào yī jiàn hěn piào liàng de chèn shān， jià gé yě bù guì。 péng you gào sù wǒ， bù tóng shāng diàn de dà xiǎo kě néng bù yí yàng， zuì hǎo xiān kàn kàn shuō míng。 wǒ zhào zhe shuō míng shì le yī xià， fā xiàn zì jǐ yīng gāi mǎi dà yī diǎn ér de。 yī fu sòng lái yǐ hòu， wǒ shì le shì， chuān zhe hěn shū fu。",
+    "translation": "Tôi thấy chiếc sơ mi đẹp, giá không đắt trên mạng. Bạn nhắc kích cỡ các cửa hàng có thể khác nhau, nên xem hướng dẫn. Đo xong tôi thấy cần mua lớn hơn. Áo giao đến mặc thử rất thoải mái.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R07-4-Q1",
+        "question": "我在哪儿看到衬衫？",
+        "answer": "网上",
+        "options": [
+          "网上",
+          "地铁站",
+          "花园",
+          "床边"
+        ],
+        "explanation": "Đối chiếu đoạn: “我在网上看到一件很漂亮的衬衫，价格也不贵。” → Chọn “网上”."
+      },
+      {
+        "id": "H3-R07-4-Q2",
+        "question": "朋友让我先看什么？",
+        "answer": "说明",
+        "options": [
+          "说明",
+          "鸡肉饭",
+          "蓝色",
+          "运动鞋"
+        ],
+        "explanation": "Đối chiếu đoạn: “朋友告诉我，不同商店的大小可能不一样，最好先看看说明。” → Chọn “说明”."
+      },
+      {
+        "id": "H3-R07-4-Q3",
+        "question": "我应该买多大的？",
+        "answer": "大一点儿的",
+        "options": [
+          "大一点儿的",
+          "贵一点儿",
+          "颜色和以前不一样了",
+          "很难过"
+        ],
+        "explanation": "Đối chiếu đoạn: “我照着说明试了一下，发现自己应该买大一点儿的。” → Chọn “大一点儿的”."
+      },
+      {
+        "id": "H3-R07-4-Q4",
+        "question": "衣服穿着怎么样？",
+        "answer": "很舒服",
+        "options": [
+          "很舒服",
+          "颜色和以前不一样了",
+          "很难过",
+          "还能穿"
+        ],
+        "explanation": "Đối chiếu đoạn: “衣服送来以后，我试了试，穿着很舒服。” → Chọn “很舒服”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R07-5",
+    "lesson": 7,
+    "title": "Giặt chiếc váy mới",
+    "text": "妹妹把新裙子和别的衣服一起洗，洗完才发现裙子的颜色和以前不一样了。她很难过，以为再也不能穿了。妈妈看了看，说颜色虽然不如原来深，但是还是很好看。妈妈还教她以后先看衣服上的说明，再决定怎么洗。",
+    "pinyin": "Mèi mei bǎ xīn qún zi hé bié de yī fu yì qǐ xǐ， xǐ wán cái fā xiàn qún zi de yán sè hé yǐ qián bù yí yàng le。 tā hěn nán guò， yǐ wéi zài yě bù néng chuān le。 mā ma kàn le kàn， shuō yán sè suī rán bù rú yuán lái shēn， dàn shì hái shì hěn hǎo kàn。 mā ma hái jiāo tā yǐ hòu xiān kàn yī fu shàng de shuō míng， zài jué dìng zěn me xǐ。",
+    "translation": "Em giặt váy mới chung đồ khác, xong mới thấy nhạt màu. Em buồn tưởng không mặc được nữa. Mẹ nói màu tuy nhạt nhưng vẫn đẹp, rồi dặn sau này xem hướng dẫn trên áo trước khi giặt.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R07-5-Q1",
+        "question": "妹妹的裙子洗完以后怎么了？",
+        "answer": "颜色和以前不一样了",
+        "options": [
+          "颜色和以前不一样了",
+          "不靠门",
+          "贵一点儿",
+          "大一点儿的"
+        ],
+        "explanation": "Đối chiếu đoạn: “妹妹把新裙子和别的衣服一起洗，洗完才发现裙子的颜色和以前不一样了。” → Chọn “颜色和以前不一样了”."
+      },
+      {
+        "id": "H3-R07-5-Q2",
+        "question": "妹妹开始觉得怎么样？",
+        "answer": "很难过",
+        "options": [
+          "很难过",
+          "贵一点儿",
+          "大一点儿的",
+          "很舒服"
+        ],
+        "explanation": "Đối chiếu đoạn: “她很难过，以为再也不能穿了。” → Chọn “很难过”."
+      },
+      {
+        "id": "H3-R07-5-Q3",
+        "question": "妈妈觉得裙子还能不能穿？",
+        "answer": "还能穿",
+        "options": [
+          "还能穿",
+          "大一点儿的",
+          "很舒服",
+          "身体好多了"
+        ],
+        "explanation": "Đối chiếu đoạn: “妈妈看了看，说颜色虽然不如原来深，但是还是很好看。” → Chọn “还能穿”."
+      },
+      {
+        "id": "H3-R07-5-Q4",
+        "question": "以后洗衣服前应该做什么？",
+        "answer": "先看说明",
+        "options": [
+          "先看说明",
+          "传球",
+          "跑步",
+          "关好门"
+        ],
+        "explanation": "Đối chiếu đoạn: “妈妈还教她以后先看衣服上的说明，再决定怎么洗。” → Chọn “先看说明”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R08",
+    "lesson": 8,
+    "title": "Ngày xuất viện",
+    "text": "上个星期，我生病住院了。医生让我多休息，每天在规定的时间吃药。朋友来看我，还给我带了水果。今天医生说我可以出院了，但是回家后还要休息几天。我决定先不去打球，等身体好了再去。",
+    "pinyin": "Shàng gè xīng qī， wǒ shēng bìng zhù yuàn le。 yī shēng ràng wǒ duō xiū xī， měi tiān zài guī dìng de shí jiān chī yào。 péng you lái kàn wǒ， huán gěi wǒ dài le shuǐ guǒ。 jīn tiān yī shēng shuō wǒ kě yǐ chū yuàn le， dàn shì huí jiā hòu hái yào xiū xī jǐ tiān。 wǒ jué dìng xiān bù qù dǎ qiú， děng shēn tǐ hǎo le zài qù。",
+    "translation": "Tuần trước tôi bị bệnh phải nhập viện. Bác sĩ dặn nghỉ nhiều và uống thuốc đúng giờ. Bạn đến thăm, mang trái cây. Hôm nay tôi được xuất viện nhưng về nhà vẫn cần nghỉ mấy ngày. Tôi quyết định đợi khỏe rồi mới chơi bóng.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R08-Q1",
+        "question": "我上个星期为什么住院？",
+        "answer": "生病了",
+        "options": [
+          "生病了",
+          "去看朋友",
+          "去工作",
+          "去学习"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 生病了"
+      },
+      {
+        "id": "H3-R08-Q2",
+        "question": "朋友带了什么？",
+        "answer": "水果",
+        "options": [
+          "水果",
+          "书包",
+          "衣服",
+          "米饭"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 水果"
+      },
+      {
+        "id": "H3-R08-Q3",
+        "question": "医生今天说我可以做什么？",
+        "answer": "出院",
+        "options": [
+          "出院",
+          "马上打球",
+          "停止休息",
+          "不吃饭"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 出院"
+      },
+      {
+        "id": "H3-R08-Q4",
+        "question": "我什么时候再去打球？",
+        "answer": "身体好了以后",
+        "options": [
+          "身体好了以后",
+          "今天下午",
+          "明天早上",
+          "没有决定"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 身体好了以后"
+      }
+    ]
+  },
+  {
+    "id": "H3-R08-2",
+    "lesson": 8,
+    "title": "Đến bệnh viện thăm bạn",
+    "text": "朋友住院以后，我一直想去看他。今天下班早，我买了一些水果去了医院。他比前几天精神好多了，还说下星期可能就能出院。我没有坐太久，因为医生说他还需要休息。离开的时候，我答应周末再来看他。",
+    "pinyin": "Péng you zhù yuàn yǐ hòu， wǒ yì zhí xiǎng qù kàn tā。 jīn tiān xià bān zǎo， wǒ mǎi le yī xiē shuǐ guǒ qù le yī yuàn。 tā bǐ qián jǐ tiān jīng shén hǎo duō le， hái shuō xià xīng qī kě néng jiù néng chū yuàn。 wǒ méi yǒu zuò tài jiǔ， yīn wèi yī shēng shuō tā hái xū yào xiū xī。 lí kāi de shí hou， wǒ dā yìng zhōu mò zài lái kàn tā。",
+    "translation": "Bạn nhập viện, tôi luôn muốn thăm. Hôm nay tan làm sớm nên mua trái cây đến viện. Bạn khỏe hơn mấy hôm trước, có thể tuần sau xuất viện. Tôi không ngồi lâu vì bạn cần nghỉ. Tôi hẹn cuối tuần thăm lại.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R08-2-Q1",
+        "question": "我什么时候去医院？",
+        "answer": "下班以后",
+        "options": [
+          "下班以后",
+          "三天",
+          "十点半",
+          "星期五"
+        ],
+        "explanation": "Đối chiếu đoạn: “今天下班早，我买了一些水果去了医院。” → Chọn “下班以后”."
+      },
+      {
+        "id": "H3-R08-2-Q2",
+        "question": "我带了什么？",
+        "answer": "水果",
+        "options": [
+          "水果",
+          "面包",
+          "鸡肉饭",
+          "衣服"
+        ],
+        "explanation": "Đối chiếu đoạn: “今天下班早，我买了一些水果去了医院。” → Chọn “水果”."
+      },
+      {
+        "id": "H3-R08-2-Q3",
+        "question": "朋友可能什么时候出院？",
+        "answer": "下星期",
+        "options": [
+          "下星期",
+          "十点半",
+          "星期五",
+          "星期天"
+        ],
+        "explanation": "Đối chiếu đoạn: “他比前几天精神好多了，还说下星期可能就能出院。” → Chọn “下星期”."
+      },
+      {
+        "id": "H3-R08-2-Q4",
+        "question": "我为什么没有坐太久？",
+        "answer": "他还需要休息",
+        "options": [
+          "他还需要休息",
+          "一本书的日期好像不对",
+          "水杯里的水流出来了",
+          "怕别人觉得我学得慢"
+        ],
+        "explanation": "Đối chiếu đoạn: “我没有坐太久，因为医生说他还需要休息。” → Chọn “他还需要休息”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R08-3",
+    "lesson": 8,
+    "title": "Uống thuốc đúng giờ",
+    "text": "爸爸感冒了，医生给他开了药，让他早饭后和晚饭后各吃一次。爸爸工作一忙就容易忘记。妈妈在手机上写好了时间，到了时候就告诉他。几天以后，爸爸的身体好多了。他说以后也要学会照顾自己。",
+    "pinyin": "Bà ba gǎn mào le， yī shēng gěi tā kāi le yào， ràng tā zǎo fàn hòu hé wǎn fàn hòu gè chī yī cì。 bà ba gōng zuò yī máng jiù róng yì wàng jì。 mā ma zài shǒu jī shàng xiě hǎo le shí jiān， dào le shí hou jiù gào sù tā。 jǐ tiān yǐ hòu， bà ba de shēn tǐ hǎo duō le。 tā shuō yǐ hòu yě yào xué huì zhào gù zì jǐ。",
+    "translation": "Bố cảm, bác sĩ kê thuốc uống sau bữa sáng và tối. Bận làm bố hay quên. Mẹ đặt giờ nhắc trên điện thoại. Vài hôm sau bố khỏe hơn và nói cần học tự chăm sóc.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R08-3-Q1",
+        "question": "爸爸得了什么病？",
+        "answer": "感冒",
+        "options": [
+          "感冒",
+          "衣服",
+          "蓝色",
+          "运动鞋"
+        ],
+        "explanation": "Đối chiếu đoạn: “爸爸感冒了，医生给他开了药，让他早饭后和晚饭后各吃一次。” → Chọn “感冒”."
+      },
+      {
+        "id": "H3-R08-3-Q2",
+        "question": "医生让爸爸什么时候吃药？",
+        "answer": "早饭后和晚饭后",
+        "options": [
+          "早饭后和晚饭后",
+          "十点半",
+          "星期五",
+          "星期天"
+        ],
+        "explanation": "Đối chiếu đoạn: “爸爸感冒了，医生给他开了药，让他早饭后和晚饭后各吃一次。” → Chọn “早饭后和晚饭后”."
+      },
+      {
+        "id": "H3-R08-3-Q3",
+        "question": "谁用手机告诉爸爸？",
+        "answer": "妈妈",
+        "options": [
+          "妈妈",
+          "学校的",
+          "一个同学",
+          "工作人员"
+        ],
+        "explanation": "Đối chiếu đoạn: “妈妈在手机上写好了时间，到了时候就告诉他。” → Chọn “妈妈”."
+      },
+      {
+        "id": "H3-R08-3-Q4",
+        "question": "几天后爸爸怎么样？",
+        "answer": "身体好多了",
+        "options": [
+          "身体好多了",
+          "大一点儿的",
+          "很舒服",
+          "颜色和以前不一样了"
+        ],
+        "explanation": "Đối chiếu đoạn: “几天以后，爸爸的身体好多了。” → Chọn “身体好多了”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R08-4",
+    "lesson": 8,
+    "title": "Về nhà nghỉ ngơi",
+    "text": "今天医生说我可以回家了。我以为回去以后就能马上上班，医生但是让我再休息三天。回到家，妹妹已经把房间打扫干净了，还准备了热水。我坐在自己的床上，觉得很舒服。我决定按医生说的做，不着急去工作。",
+    "pinyin": "Jīn tiān yī shēng shuō wǒ kě yǐ huí jiā le。 wǒ yǐ wéi huí qù yǐ hòu jiù néng mǎ shàng shàng bān， yī shēng dàn shì ràng wǒ zài xiū xī sān tiān。 huí dào jiā， mèi mei yǐ jīng bǎ fáng jiān dǎ sǎo gān jìng le， hái zhǔn bèi le rè shuǐ。 wǒ zuò zài zì jǐ de chuáng shàng， jué de hěn shū fu。 wǒ jué dìng àn yī shēng shuō de zuò， bù zháo jí qù gōng zuò。",
+    "translation": "Hôm nay bác sĩ cho về nhà. Tôi tưởng đi làm ngay được nhưng bác sĩ dặn nghỉ thêm ba ngày. Về đến nhà em đã dọn phòng, chuẩn bị nước nóng. Nằm trên giường mình rất dễ chịu. Tôi quyết định làm theo lời bác sĩ.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R08-4-Q1",
+        "question": "医生让我再休息多久？",
+        "answer": "三天",
+        "options": [
+          "三天",
+          "十点半",
+          "星期五",
+          "星期天"
+        ],
+        "explanation": "Đối chiếu đoạn: “我以为回去以后就能马上上班，医生但是让我再休息三天。” → Chọn “三天”."
+      },
+      {
+        "id": "H3-R08-4-Q2",
+        "question": "谁打扫了房间？",
+        "answer": "妹妹",
+        "options": [
+          "妹妹",
+          "姐姐",
+          "附近的店员",
+          "学校的"
+        ],
+        "explanation": "Đối chiếu đoạn: “回到家，妹妹已经把房间打扫干净了，还准备了热水。” → Chọn “妹妹”."
+      },
+      {
+        "id": "H3-R08-4-Q3",
+        "question": "妹妹还准备了什么？",
+        "answer": "热水",
+        "options": [
+          "热水",
+          "运动鞋",
+          "说明",
+          "水果"
+        ],
+        "explanation": "Đối chiếu đoạn: “回到家，妹妹已经把房间打扫干净了，还准备了热水。” → Chọn “热水”."
+      },
+      {
+        "id": "H3-R08-4-Q4",
+        "question": "我最后决定怎么做？",
+        "answer": "按医生说的做",
+        "options": [
+          "按医生说的做",
+          "传球",
+          "跑步",
+          "关好门"
+        ],
+        "explanation": "Đối chiếu đoạn: “我决定按医生说的做，不着急去工作。” → Chọn “按医生说的做”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R08-5",
+    "lesson": 8,
+    "title": "Thói quen mới sau khi khỏi bệnh",
+    "text": "以前我常常晚上很晚才睡，早上不吃早饭。这次生病以后，医生说我应该改变生活习惯。现在我每天十点半就上床，早上起来先吃饭，再去散步。虽然开始有点儿不习惯，但是一个月以后，我觉得比以前有精神多了。",
+    "pinyin": "Yǐ qián wǒ cháng cháng wǎn shàng hěn wǎn cái shuì， zǎo shàng bù chī zǎo fàn。 zhè cì shēng bìng yǐ hòu， yī shēng shuō wǒ yīng gāi gǎi biàn shēng huó xí guàn。 xiàn zài wǒ měi tiān shí diǎn bàn jiù shàng chuáng， zǎo shàng qǐ lái xiān chī fàn， zài qù sàn bù。 suī rán kāi shǐ yǒu diǎn ér bù xí guàn， dàn shì yí gè yuè yǐ hòu， wǒ jué de bǐ yǐ qián yǒu jīng shén duō le。",
+    "translation": "Trước tôi ngủ muộn và bỏ bữa sáng. Sau lần bệnh này bác sĩ khuyên đổi thói quen. Giờ mười giờ rưỡi tôi lên giường, sáng ăn rồi đi dạo. Ban đầu chưa quen nhưng sau một tháng thấy khỏe khoắn hơn.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R08-5-Q1",
+        "question": "我以前早上常常不做什么？",
+        "answer": "吃早饭",
+        "options": [
+          "吃早饭",
+          "一起努力",
+          "传球",
+          "跑步"
+        ],
+        "explanation": "Đối chiếu đoạn: “以前我常常晚上很晚才睡，早上不吃早饭。” → Chọn “吃早饭”."
+      },
+      {
+        "id": "H3-R08-5-Q2",
+        "question": "现在我几点上床？",
+        "answer": "十点半",
+        "options": [
+          "十点半",
+          "星期天",
+          "十分钟以后",
+          "十月"
+        ],
+        "explanation": "Đối chiếu đoạn: “现在我每天十点半就上床，早上起来先吃饭，再去散步。” → Chọn “十点半”."
+      },
+      {
+        "id": "H3-R08-5-Q3",
+        "question": "早上吃完饭我做什么？",
+        "answer": "散步",
+        "options": [
+          "散步",
+          "跑步",
+          "关好门",
+          "游泳"
+        ],
+        "explanation": "Đối chiếu đoạn: “现在我每天十点半就上床，早上起来先吃饭，再去散步。” → Chọn “散步”."
+      },
+      {
+        "id": "H3-R08-5-Q4",
+        "question": "一个月以后我觉得怎么样？",
+        "answer": "比以前有精神",
+        "options": [
+          "比以前有精神",
+          "颜色和以前不一样了",
+          "很难过",
+          "还能穿"
+        ],
+        "explanation": "Đối chiếu đoạn: “虽然开始有点儿不习惯，但是一个月以后，我觉得比以前有精神多了。” → Chọn “比以前有精神”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R09",
+    "lesson": 9,
+    "title": "Học chơi bóng",
+    "text": "我刚开始学打篮球，总是打不好。朋友告诉我，不要着急，每天练习一点儿就会进步。现在我们每天下课后一起练习半个小时。虽然我还没有他打得好，但是已经比上个月好多了。",
+    "pinyin": "Wǒ gāng kāi shǐ xué dǎ lán qiú， zǒng shì dǎ bù hǎo。 péng you gào sù wǒ， bú yào zháo jí， měi tiān liàn xí yì diǎn ér jiù huì jìn bù。 xiàn zài wǒ men měi tiān xià kè hòu yì qǐ liàn xí bàn gè xiǎo shí。 suī rán wǒ hái méi yǒu tā dǎ dé hǎo， dàn shì yǐ jīng bǐ shàng gè yuè hǎo duō le。",
+    "translation": "Tôi mới học bóng rổ nên thường chơi chưa tốt. Bạn nói đừng sốt ruột, luyện mỗi ngày sẽ tiến bộ. Giờ chúng tôi tập nửa tiếng sau giờ học mỗi ngày. Dù chưa bằng bạn, tôi đã chơi tốt hơn tháng trước nhiều.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R09-Q1",
+        "question": "我在学什么？",
+        "answer": "篮球",
+        "options": [
+          "篮球",
+          "足球",
+          "游泳",
+          "唱歌"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 篮球"
+      },
+      {
+        "id": "H3-R09-Q2",
+        "question": "朋友让我每天做什么？",
+        "answer": "练习一点儿",
+        "options": [
+          "练习一点儿",
+          "不要练习",
+          "只看比赛",
+          "睡一下午"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 练习一点儿"
+      },
+      {
+        "id": "H3-R09-Q3",
+        "question": "我们每次练习多久？",
+        "answer": "半个小时",
+        "options": [
+          "半个小时",
+          "两个小时",
+          "五分钟",
+          "一整天"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 半个小时"
+      },
+      {
+        "id": "H3-R09-Q4",
+        "question": "我现在打得怎么样？",
+        "answer": "比上个月好了",
+        "options": [
+          "比上个月好了",
+          "比朋友更好",
+          "越来越差",
+          "和以前一样"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 比上个月好了"
+      }
+    ]
+  },
+  {
+    "id": "H3-R09-2",
+    "lesson": 9,
+    "title": "Lần đầu tham gia trận đấu",
+    "text": "学校周末有篮球比赛，朋友希望我参加。我担心自己打不好，会让大家不高兴。朋友说比赛重要，但是一起努力更重要。听了他的话，我决定试一试。比赛的时候我没有得很多分，但是帮朋友传了几次球，大家都说我做得好。",
+    "pinyin": "Xué xiào zhōu mò yǒu lán qiú bǐ sài， péng you xī wàng wǒ cān jiā。 wǒ dān xīn zì jǐ dǎ bù hǎo， huì ràng dà jiā bù gāo xìng。 péng you shuō bǐ sài zhòng yào， dàn shì yì qǐ nǔ lì gèng zhòng yào。 tīng le tā de huà， wǒ jué dìng shì yī shì。 bǐ sài de shí hou wǒ méi yǒu de hěn duō fēn， dàn shì bāng péng you chuán le jǐ cì qiú， dà jiā dōu shuō wǒ zuò dé hǎo。",
+    "translation": "Trường có trận bóng rổ cuối tuần, bạn muốn tôi tham gia. Tôi sợ chơi chưa tốt làm cả nhóm thất vọng. Bạn nói kết quả quan trọng nhưng cùng cố gắng còn quan trọng hơn. Tôi thử, ghi ít điểm nhưng chuyền bóng mấy lần và được động viên.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R09-2-Q1",
+        "question": "学校周末有什么活动？",
+        "answer": "篮球比赛",
+        "options": [
+          "篮球比赛",
+          "按医生说的做",
+          "吃早饭",
+          "散步"
+        ],
+        "explanation": "Đối chiếu đoạn: “学校周末有篮球比赛，朋友希望我参加。” → Chọn “篮球比赛”."
+      },
+      {
+        "id": "H3-R09-2-Q2",
+        "question": "我开始为什么不敢参加？",
+        "answer": "担心自己打不好",
+        "options": [
+          "担心自己打不好",
+          "手有点儿冷",
+          "一本书的日期好像不对",
+          "水杯里的水流出来了"
+        ],
+        "explanation": "Đối chiếu đoạn: “我担心自己打不好，会让大家不高兴。” → Chọn “担心自己打不好”."
+      },
+      {
+        "id": "H3-R09-2-Q3",
+        "question": "朋友觉得什么更重要？",
+        "answer": "一起努力",
+        "options": [
+          "一起努力",
+          "散步",
+          "传球",
+          "跑步"
+        ],
+        "explanation": "Đối chiếu đoạn: “朋友说比赛重要，但是一起努力更重要。” → Chọn “一起努力”."
+      },
+      {
+        "id": "H3-R09-2-Q4",
+        "question": "比赛时我帮助朋友做了什么？",
+        "answer": "传球",
+        "options": [
+          "传球",
+          "跑步",
+          "关好门",
+          "游泳"
+        ],
+        "explanation": "Đối chiếu đoạn: “比赛的时候我没有得很多分，但是帮朋友传了几次球，大家都说我做得好。” → Chọn “传球”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R09-3",
+    "lesson": 9,
+    "title": "Luyện tập sau giờ học",
+    "text": "为了准备下个月的比赛，我和同学每天放学后练球。我们先跑步，再练习打球。开始我总是打不好，同学让我站近一点儿，慢慢找感觉。练了两个星期以后，我打得越来越好，也比以前更有信心了。",
+    "pinyin": "Wèi le zhǔn bèi xià gè yuè de bǐ sài， wǒ hé tóng xué měi tiān fàng xué hòu liàn qiú。 wǒ men xiān pǎo bù， zài liàn xí dǎ qiú。 kāi shǐ wǒ zǒng shì dǎ bù hǎo， tóng xué ràng wǒ zhàn jìn yì diǎn ér， màn màn zhǎo gǎn jué。 liàn le liǎng gè xīng qī yǐ hòu， wǒ dǎ dé yuè lái yuè hǎo， yě bǐ yǐ qián gèng yǒu xìn xīn le。",
+    "translation": "Để chuẩn bị trận đấu tháng sau, chúng tôi tập sau giờ học. Đầu tiên chạy rồi tập ném. Tôi hay ném trượt, bạn bảo đứng gần hơn, tập từ từ. Sau hai tuần, tôi ném trúng nhiều hơn và tự tin hơn.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R09-3-Q1",
+        "question": "我们为什么每天练球？",
+        "answer": "准备下个月的比赛",
+        "options": [
+          "准备下个月的比赛",
+          "手有点儿冷",
+          "一本书的日期好像不对",
+          "水杯里的水流出来了"
+        ],
+        "explanation": "Đối chiếu đoạn: “为了准备下个月的比赛，我和同学每天放学后练球。” → Chọn “准备下个月的比赛”."
+      },
+      {
+        "id": "H3-R09-3-Q2",
+        "question": "我们先做什么？",
+        "answer": "跑步",
+        "options": [
+          "跑步",
+          "散步",
+          "篮球比赛",
+          "一起努力"
+        ],
+        "explanation": "Đối chiếu đoạn: “我们先跑步，再练习打球。” → Chọn “跑步”."
+      },
+      {
+        "id": "H3-R09-3-Q3",
+        "question": "同学让我站得怎么样？",
+        "answer": "近一点儿",
+        "options": [
+          "近一点儿",
+          "大一点儿的",
+          "很舒服",
+          "颜色和以前不一样了"
+        ],
+        "explanation": "Đối chiếu đoạn: “开始我总是打不好，同学让我站近一点儿，慢慢找感觉。” → Chọn “近一点儿”."
+      },
+      {
+        "id": "H3-R09-3-Q4",
+        "question": "练了两个星期后有什么变化？",
+        "answer": "打得越来越好",
+        "options": [
+          "打得越来越好",
+          "很舒服",
+          "颜色和以前不一样了",
+          "很难过"
+        ],
+        "explanation": "Đối chiếu đoạn: “练了两个星期以后，我打得越来越好，也比以前更有信心了。” → Chọn “打得越来越好”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R09-4",
+    "lesson": 9,
+    "title": "Trời mưa vẫn có thể tập",
+    "text": "今天下午突然下雨了，原来约好一起打球的同学有点儿不高兴。我想到学校里面有一个可以运动的地方，就问老师能不能借用。老师同意了，告诉我们走的时候关好门。虽然地方小一点儿，我们还是练得很认真。",
+    "pinyin": "Jīn tiān xià wǔ tū rán xià yǔ le， yuán lái yuē hǎo yì qǐ dǎ qiú de tóng xué yǒu diǎn ér bù gāo xìng。 wǒ xiǎng dào xué xiào lǐ miàn yǒu yí gè kě yǐ yùn dòng de dì fang， jiù wèn lǎo shī néng bù néng jiè yòng。 lǎo shī tóng yì le， gào sù wǒ men zǒu de shí hou guān hǎo mén。 suī rán dì fang xiǎo yì diǎn ér， wǒ men hái shì liàn de hěn rèn zhēn。",
+    "translation": "Chiều mưa bất chợt, nhóm hẹn chơi bóng hơi thất vọng. Tôi nhớ trong trường có chỗ tập nên hỏi mượn. Thầy đồng ý và nhắc đóng cửa khi về. Chỗ nhỏ nhưng chúng tôi tập nghiêm túc.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R09-4-Q1",
+        "question": "今天下午天气怎么了？",
+        "answer": "下雨了",
+        "options": [
+          "下雨了",
+          "大一点儿的",
+          "很舒服",
+          "颜色和以前不一样了"
+        ],
+        "explanation": "Đối chiếu đoạn: “今天下午突然下雨了，原来约好一起打球的同学有点儿不高兴。” → Chọn “下雨了”."
+      },
+      {
+        "id": "H3-R09-4-Q2",
+        "question": "我向谁借用运动的地方？",
+        "answer": "老师",
+        "options": [
+          "老师",
+          "附近的店员",
+          "学校的",
+          "一个同学"
+        ],
+        "explanation": "Đối chiếu đoạn: “我想到学校里面有一个可以运动的地方，就问老师能不能借用。” → Chọn “老师”."
+      },
+      {
+        "id": "H3-R09-4-Q3",
+        "question": "老师告诉走的时候做什么？",
+        "answer": "关好门",
+        "options": [
+          "关好门",
+          "一起努力",
+          "传球",
+          "跑步"
+        ],
+        "explanation": "Đối chiếu đoạn: “老师同意了，告诉我们走的时候关好门。” → Chọn “关好门”."
+      },
+      {
+        "id": "H3-R09-4-Q4",
+        "question": "我们练习得怎么样？",
+        "answer": "很认真",
+        "options": [
+          "很认真",
+          "很难过",
+          "还能穿",
+          "身体好多了"
+        ],
+        "explanation": "Đối chiếu đoạn: “虽然地方小一点儿，我们还是练得很认真。” → Chọn “很认真”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R09-5",
+    "lesson": 9,
+    "title": "Đổi cách học một kỹ năng",
+    "text": "弟弟一直想学游泳，但是一下水就害怕。爸爸没有让他马上游很远，就和他在水不深的地方慢慢练。弟弟每天只练一点儿，学会以后再练新的动作。过了一段时间，他不再害怕了，还主动问爸爸什么时候再去游泳。",
+    "pinyin": "Dì di yì zhí xiǎng xué yóu yǒng， dàn shì yī xià shuǐ jiù hài pà。 bà ba méi yǒu ràng tā mǎ shàng yóu hěn yuǎn， jiù hé tā zài shuǐ bù shēn de dì fang màn màn liàn。 dì di měi tiān zhǐ liàn yì diǎn ér， xué huì yǐ hòu zài liàn xīn de dòng zuò。 guò le yī duàn shí jiān， tā bù zài hài pà le， hái zhǔ dòng wèn bà ba shén me shí hòu zài qù yóu yǒng。",
+    "translation": "Em muốn học bơi nhưng xuống nước là sợ. Bố không ép bơi xa mà cùng tập ở chỗ nước nông. Mỗi ngày tập một chút, biết rồi mới học động tác mới. Một thời gian sau em hết sợ, còn chủ động hỏi khi nào đi bơi tiếp.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R09-5-Q1",
+        "question": "弟弟想学什么？",
+        "answer": "游泳",
+        "options": [
+          "游泳",
+          "篮球比赛",
+          "一起努力",
+          "传球"
+        ],
+        "explanation": "Đối chiếu đoạn: “弟弟一直想学游泳，但是一下水就害怕。” → Chọn “游泳”."
+      },
+      {
+        "id": "H3-R09-5-Q2",
+        "question": "弟弟一开始下水觉得怎么样？",
+        "answer": "害怕",
+        "options": [
+          "害怕",
+          "很舒服",
+          "颜色和以前不一样了",
+          "很难过"
+        ],
+        "explanation": "Đối chiếu đoạn: “弟弟一直想学游泳，但是一下水就害怕。” → Chọn “害怕”."
+      },
+      {
+        "id": "H3-R09-5-Q3",
+        "question": "爸爸和他在哪儿练习？",
+        "answer": "水不深的地方",
+        "options": [
+          "水不深的地方",
+          "门旁边",
+          "河边",
+          "纸上"
+        ],
+        "explanation": "Đối chiếu đoạn: “爸爸没有让他马上游很远，就和他在水不深的地方慢慢练。” → Chọn “水不深的地方”."
+      },
+      {
+        "id": "H3-R09-5-Q4",
+        "question": "后来弟弟有什么变化？",
+        "answer": "不再害怕了",
+        "options": [
+          "不再害怕了",
+          "很难过",
+          "还能穿",
+          "身体好多了"
+        ],
+        "explanation": "Đối chiếu đoạn: “过了一段时间，他不再害怕了，还主动问爸爸什么时候再去游泳。” → Chọn “不再害怕了”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R10",
+    "lesson": 10,
+    "title": "Trả sách cho bạn",
+    "text": "昨天我向朋友借了一本书。他说今天要用，我就把书放进书包，准备带到学校。可是到了教室，我才发现拿错了。朋友笑着说，他今天先看别的书，让我明天再把书还给他。",
+    "pinyin": "Zuó tiān wǒ xiàng péng you jiè le yī běn shū。 tā shuō jīn tiān yào yòng， wǒ jiù bǎ shū fàng jìn shū bāo， zhǔn bèi dài dào xué xiào。 kě shì dào le jiào shì， wǒ cái fā xiàn ná cuò le。 péng you xiào zhe shuō， tā jīn tiān xiān kàn bié de shū， ràng wǒ míng tiān zài bǎ shū huán gěi tā。",
+    "translation": "Hôm qua tôi mượn người bạn một quyển sách. Bạn cần dùng hôm nay nên tôi chuẩn bị mang đến trường. Nhưng đến lớp tôi mới thấy lấy nhầm. người bạn cười nói hôm nay đọc sách khác trước và bảo tôi mai trả.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R10-Q1",
+        "question": "我向谁借了书？",
+        "answer": "朋友",
+        "options": [
+          "朋友",
+          "老师",
+          "妈妈",
+          "医生"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 朋友"
+      },
+      {
+        "id": "H3-R10-Q2",
+        "question": "到了教室我发现什么？",
+        "answer": "拿错书了",
+        "options": [
+          "拿错书了",
+          "书丢了",
+          "没有书包",
+          "朋友不在"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 拿错书了"
+      },
+      {
+        "id": "H3-R10-Q3",
+        "question": "朋友今天先看什么？",
+        "answer": "别的书",
+        "options": [
+          "别的书",
+          "报纸",
+          "菜单",
+          "照片"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 别的书"
+      },
+      {
+        "id": "H3-R10-Q4",
+        "question": "我什么时候还书？",
+        "answer": "明天",
+        "options": [
+          "明天",
+          "下个月",
+          "今天晚上",
+          "一年以后"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 明天"
+      }
+    ]
+  },
+  {
+    "id": "H3-R10-2",
+    "lesson": 10,
+    "title": "Trả sách đúng hẹn",
+    "text": "我向同学借了一本故事书，答应星期五还给他。星期四晚上，我还有十几页没看完，本来想晚一点儿还。可是同学周末要把书带回家给弟弟看。我就少看了一会儿电视，终于在睡觉以前看完了，第二天在规定的时间还了书。",
+    "pinyin": "Wǒ xiàng tóng xué jiè le yī běn gù shi shū， dā yìng xīng qī wǔ huán gěi tā。 xīng qī sì wǎn shàng， wǒ hái yǒu shí jǐ yè méi kàn wán， běn lái xiǎng wǎn yì diǎn ér hái。 kě shì tóng xué zhōu mò yào bǎ shū dài huí jiā gěi dì di kàn。 wǒ jiù shǎo kàn le yī huì er diàn shì， zhōng yú zài shuì jiào yǐ qián kàn wán le， dì èr tiān zài guī dìng de shí jiān huán le shū。",
+    "translation": "Tôi mượn sách truyện, hẹn trả thứ sáu. Tối thứ năm còn hơn chục trang, định trả muộn nhưng bạn cần mang về cho em đọc cuối tuần. Tôi bớt xem tivi, đọc xong trước khi ngủ và trả đúng giờ hôm sau.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R10-2-Q1",
+        "question": "我答应什么时候还书？",
+        "answer": "星期五",
+        "options": [
+          "星期五",
+          "三天",
+          "十点半",
+          "星期天"
+        ],
+        "explanation": "Đối chiếu đoạn: “我向同学借了一本故事书，答应星期五还给他。” → Chọn “星期五”."
+      },
+      {
+        "id": "H3-R10-2-Q2",
+        "question": "同学周末想把书给谁看？",
+        "answer": "弟弟",
+        "options": [
+          "弟弟",
+          "姐姐",
+          "附近的店员",
+          "学校的"
+        ],
+        "explanation": "Đối chiếu đoạn: “可是同学周末要把书带回家给弟弟看。” → Chọn “弟弟”."
+      },
+      {
+        "id": "H3-R10-2-Q3",
+        "question": "为了看完书，我少做了什么？",
+        "answer": "看电视",
+        "options": [
+          "看电视",
+          "篮球比赛",
+          "一起努力",
+          "传球"
+        ],
+        "explanation": "Đối chiếu đoạn: “我就少看了一会儿电视，终于在睡觉以前看完了，第二天在规定的时间还了书。” → Chọn “看电视”."
+      },
+      {
+        "id": "H3-R10-2-Q4",
+        "question": "我最后有没有在规定的时间还书？",
+        "answer": "在规定的时间还了",
+        "options": [
+          "在规定的时间还了",
+          "一起努力",
+          "传球",
+          "跑步"
+        ],
+        "explanation": "Đối chiếu đoạn: “我就少看了一会儿电视，终于在睡觉以前看完了，第二天在规定的时间还了书。” → Chọn “在规定的时间还了”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R10-3",
+    "lesson": 10,
+    "title": "Giúp em xếp đồ",
+    "text": "明天弟弟第一次去夏天的学校活动，妈妈让他自己准备东西。他把衣服放进箱子，但是忘了带洗脸的东西。我告诉他先在纸上写下要带的东西，再一样一样检查。最后，他把纸也放进了包里，说回家的时候还要照着检查一遍。",
+    "pinyin": "Míng tiān dì di dì yī cì qù xià tiān de xué xiào huó dòng， mā ma ràng tā zì jǐ zhǔn bèi dōng xi。 tā bǎ yī fu fàng jìn xiāng zi， dàn shì wàng le dài xǐ liǎn de dōng xi。 wǒ gào sù tā xiān zài zhǐ shàng xiě xià yào dài de dōng xi， zài yī yàng yī yàng jiǎn chá。 zuì hòu， tā bǎ zhǐ yě fàng jìn le bāo lǐ， shuō huí jiā de shí hou hái yào zhào zhe jiǎn chá yī biàn。",
+    "translation": "Ngày mai em lần đầu đi trại hè, mẹ để em tự xếp đồ. Em cho áo vào va li nhưng quên đồ rửa mặt. Tôi gợi ý viết danh sách rồi kiểm tra từng món. Em cất cả tờ giấy để lúc về còn kiểm lại.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R10-3-Q1",
+        "question": "妈妈让弟弟自己做什么？",
+        "answer": "准备东西",
+        "options": [
+          "准备东西",
+          "散步",
+          "篮球比赛",
+          "一起努力"
+        ],
+        "explanation": "Đối chiếu đoạn: “明天弟弟第一次去夏天的学校活动，妈妈让他自己准备东西。” → Chọn “准备东西”."
+      },
+      {
+        "id": "H3-R10-3-Q2",
+        "question": "弟弟开始忘了带什么？",
+        "answer": "洗脸的东西",
+        "options": [
+          "洗脸的东西",
+          "说明",
+          "水果",
+          "感冒"
+        ],
+        "explanation": "Đối chiếu đoạn: “他把衣服放进箱子，但是忘了带洗脸的东西。” → Chọn “洗脸的东西”."
+      },
+      {
+        "id": "H3-R10-3-Q3",
+        "question": "我建议先把要带的东西写在哪儿？",
+        "answer": "纸上",
+        "options": [
+          "纸上",
+          "后面",
+          "门旁边",
+          "河边"
+        ],
+        "explanation": "Đối chiếu đoạn: “我告诉他先在纸上写下要带的东西，再一样一样检查。” → Chọn “纸上”."
+      },
+      {
+        "id": "H3-R10-3-Q4",
+        "question": "弟弟为什么把纸放进包里？",
+        "answer": "回家时还要检查",
+        "options": [
+          "回家时还要检查",
+          "下班晚",
+          "火开得太大",
+          "放的菜太多"
+        ],
+        "explanation": "Đối chiếu đoạn: “最后，他把纸也放进了包里，说回家的时候还要照着检查一遍。” → Chọn “回家时还要检查”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R10-4",
+    "lesson": 10,
+    "title": "Để sách ở chỗ dễ tìm",
+    "text": "每次做作业，我都要花很长时间找书。姐姐看见以后，建议我把常用的书放在桌子左边，把看完的书放到书架上。我照着做了，还在书上写了名字。现在学习用的东西很快就能找到，桌子也比以前干净多了。",
+    "pinyin": "Měi cì zuò zuò yè， wǒ dōu yào huā hěn zhǎng shí jiān zhǎo shū。 jiě jie kàn jiàn yǐ hòu， jiàn yì wǒ bǎ cháng yòng de shū fàng zài zhuō zi zuǒ biān， bǎ kàn wán de shū fàng dào shū jià shàng。 wǒ zhào zhe zuò le， hái zài shū shàng xiě le míng zi。 xiàn zài xué xí yòng de dōng xi hěn kuài jiù néng zhǎo dào， zhuō zi yě bǐ yǐ qián gān jìng duō le。",
+    "translation": "Mỗi lần làm bài tôi tốn lâu tìm sách. Chị gợi ý để sách hay dùng bên trái bàn, sách đọc xong lên giá. Tôi làm theo và ghi tên vào sách. Giờ tìm đồ học nhanh hơn, bàn cũng gọn hơn.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R10-4-Q1",
+        "question": "我以前做作业前常常做什么？",
+        "answer": "找书",
+        "options": [
+          "找书",
+          "篮球比赛",
+          "一起努力",
+          "传球"
+        ],
+        "explanation": "Đối chiếu đoạn: “每次做作业，我都要花很长时间找书。” → Chọn “找书”."
+      },
+      {
+        "id": "H3-R10-4-Q2",
+        "question": "姐姐建议把常用的书放在哪儿？",
+        "answer": "桌子左边",
+        "options": [
+          "桌子左边",
+          "后面",
+          "门旁边",
+          "河边"
+        ],
+        "explanation": "Đối chiếu đoạn: “姐姐看见以后，建议我把常用的书放在桌子左边，把看完的书放到书架上。” → Chọn “桌子左边”."
+      },
+      {
+        "id": "H3-R10-4-Q3",
+        "question": "我在书上写了什么？",
+        "answer": "名字",
+        "options": [
+          "名字",
+          "说明",
+          "水果",
+          "感冒"
+        ],
+        "explanation": "Đối chiếu đoạn: “我照着做了，还在书上写了名字。” → Chọn “名字”."
+      },
+      {
+        "id": "H3-R10-4-Q4",
+        "question": "现在桌子怎么样？",
+        "answer": "比以前干净",
+        "options": [
+          "比以前干净",
+          "很难过",
+          "还能穿",
+          "身体好多了"
+        ],
+        "explanation": "Đối chiếu đoạn: “现在学习用的东西很快就能找到，桌子也比以前干净多了。” → Chọn “比以前干净”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R10-5",
+    "lesson": 10,
+    "title": "Gửi tài liệu cho bạn",
+    "text": "朋友明天要在课上介绍自己的家乡，可是忘了把照片带到学校。他给我打电话，请我到他家帮忙。我找到照片以后，用手机发给了他。他很快就把介绍准备好了，还说周末要请我吃饭表示感谢。",
+    "pinyin": "Péng you míng tiān yào zài kè shàng jiè shào zì jǐ de jiā xiāng， kě shì wàng le bǎ zhào piān dài dào xué xiào。 tā gěi wǒ dǎ diàn huà， qǐng wǒ dào tā jiā bāng máng。 wǒ zhǎo dào zhào piān yǐ hòu， yòng shǒu jī fā gěi le tā。 tā hěn kuài jiù bǎ jiè shào zhǔn bèi hǎo le， hái shuō zhōu mò yào qǐng wǒ chī fàn biǎo shì gǎn xiè。",
+    "translation": "Bạn cần giới thiệu quê hương trên lớp ngày mai nhưng quên mang ảnh. Bạn gọi nhờ tôi đến nhà giúp. Tôi tìm ảnh, dùng điện thoại gửi. Bạn nhanh chóng chuẩn bị xong và hẹn cuối tuần mời ăn để cảm ơn.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R10-5-Q1",
+        "question": "朋友明天要介绍什么？",
+        "answer": "自己的家乡",
+        "options": [
+          "自己的家乡",
+          "说明",
+          "水果",
+          "感冒"
+        ],
+        "explanation": "Đối chiếu đoạn: “朋友明天要在课上介绍自己的家乡，可是忘了把照片带到学校。” → Chọn “自己的家乡”."
+      },
+      {
+        "id": "H3-R10-5-Q2",
+        "question": "朋友忘了带什么？",
+        "answer": "照片",
+        "options": [
+          "照片",
+          "感冒",
+          "洗脸的东西",
+          "名字"
+        ],
+        "explanation": "Đối chiếu đoạn: “朋友明天要在课上介绍自己的家乡，可是忘了把照片带到学校。” → Chọn “照片”."
+      },
+      {
+        "id": "H3-R10-5-Q3",
+        "question": "我用什么发照片？",
+        "answer": "手机",
+        "options": [
+          "手机",
+          "洗脸的东西",
+          "名字",
+          "电脑"
+        ],
+        "explanation": "Đối chiếu đoạn: “我找到照片以后，用手机发给了他。” → Chọn “手机”."
+      },
+      {
+        "id": "H3-R10-5-Q4",
+        "question": "朋友周末打算怎么感谢我？",
+        "answer": "请我吃饭",
+        "options": [
+          "请我吃饭",
+          "关好门",
+          "游泳",
+          "看电视"
+        ],
+        "explanation": "Đối chiếu đoạn: “他很快就把介绍准备好了，还说周末要请我吃饭表示感谢。” → Chọn “请我吃饭”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R11",
+    "lesson": 11,
+    "title": "Cùng giải quyết vấn đề",
+    "text": "我想在网上买车票，可是一直买不了。我试了好几次，还是不知道怎么办，只好给哥哥打电话。哥哥让我先检查日期。我发现自己选了昨天的日期。改好以后，我很快就买到了票。",
+    "pinyin": "Wǒ xiǎng zài wǎng shàng mǎi chē piào， kě shì yì zhí mǎi bù liǎo。 wǒ shì le hǎo jǐ cì， hái shì bù zhī dao zěn me bàn， zhǐ hǎo gěi gē ge dǎ diàn huà。 gē ge ràng wǒ xiān jiǎn chá rì qī。 wǒ fā xiàn zì jǐ xuǎn le zuó tiān de rì qī。 gǎi hǎo yǐ hòu， wǒ hěn kuài jiù mǎi dào le piào。",
+    "translation": "Tôi muốn mua vé xe trên mạng nhưng không được. Thử nhiều lần vẫn không biết làm sao, tôi đành gọi anh trai. Anh bảo kiểm tra ngày. Tôi thấy mình đã chọn ngày hôm qua. Sửa xong tôi nhanh chóng mua được vé.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R11-Q1",
+        "question": "我想在网上买什么？",
+        "answer": "车票",
+        "options": [
+          "车票",
+          "手机",
+          "衣服",
+          "书"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 车票"
+      },
+      {
+        "id": "H3-R11-Q2",
+        "question": "我向谁请人帮助？",
+        "answer": "哥哥",
+        "options": [
+          "哥哥",
+          "同学",
+          "医生",
+          "司机"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 哥哥"
+      },
+      {
+        "id": "H3-R11-Q3",
+        "question": "我选错了什么？",
+        "answer": "日期",
+        "options": [
+          "日期",
+          "城市",
+          "名字",
+          "车站"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 日期"
+      },
+      {
+        "id": "H3-R11-Q4",
+        "question": "改好以后发生了什么？",
+        "answer": "买到了票",
+        "options": [
+          "买到了票",
+          "还是买不了",
+          "手机丢了",
+          "没有票了"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 买到了票"
+      }
+    ]
+  },
+  {
+    "id": "H3-R11-2",
+    "lesson": 11,
+    "title": "Không mở được tệp",
+    "text": "老师把作业发到了网上，我的电脑但是一直打不开。我以为电脑坏了，想找人修。姐姐先看了看，发现我用错了方法。换了一个以后，作业马上就打开了。原来问题没有我想的那么复杂，以后遇到困难要先认真检查。",
+    "pinyin": "Lǎo shī bǎ zuò yè fā dào le wǎng shàng， wǒ de diàn nǎo dàn shì yì zhí dǎ bù kāi。 wǒ yǐ wéi diàn nǎo huài le， xiǎng zhǎo rén xiū。 jiě jie xiān kàn le kàn， fā xiàn wǒ yòng cuò le fāng fǎ。 huàn le yí gè yǐ hòu， zuò yè mǎ shàng jiù dǎ kāi le。 yuán lái wèn tí méi yǒu wǒ xiǎng de nà me fù zá， yǐ hòu yù dào kùn nán yào xiān rèn zhēn jiǎn chá。",
+    "translation": "Thầy gửi bài lên mạng nhưng máy tôi không mở được. Tôi tưởng máy hỏng, định sửa. Chị xem và thấy dùng sai cách mở. Đổi cách mở thì mở ngay. Vấn đề đơn giản hơn tôi nghĩ, gặp khó cần kiểm tra trước.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R11-2-Q1",
+        "question": "老师把作业发到哪儿？",
+        "answer": "网上",
+        "options": [
+          "网上",
+          "床边",
+          "后面",
+          "门旁边"
+        ],
+        "explanation": "Đối chiếu đoạn: “老师把作业发到了网上，我的电脑但是一直打不开。” → Chọn “网上”."
+      },
+      {
+        "id": "H3-R11-2-Q2",
+        "question": "我开始以为什么坏了？",
+        "answer": "电脑",
+        "options": [
+          "电脑",
+          "蓝色",
+          "运动鞋",
+          "说明"
+        ],
+        "explanation": "Đối chiếu đoạn: “我以为电脑坏了，想找人修。” → Chọn “电脑”."
+      },
+      {
+        "id": "H3-R11-2-Q3",
+        "question": "谁发现了问题？",
+        "answer": "姐姐",
+        "options": [
+          "姐姐",
+          "新同事",
+          "同学",
+          "奶奶"
+        ],
+        "explanation": "Đối chiếu đoạn: “姐姐先看了看，发现我用错了方法。” → Chọn “姐姐”."
+      },
+      {
+        "id": "H3-R11-2-Q4",
+        "question": "真正的问题是什么？",
+        "answer": "用错了方法",
+        "options": [
+          "用错了方法",
+          "下班晚",
+          "火开得太大",
+          "放的菜太多"
+        ],
+        "explanation": "Đối chiếu đoạn: “姐姐先看了看，发现我用错了方法。” → Chọn “用错了方法”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R11-3",
+    "lesson": 11,
+    "title": "Chọn đường đi",
+    "text": "我和朋友打算骑车去公园。走大路比较远，走小路虽然近，但是我们都不了解。我想用手机查地图，才发现手机没电了。朋友建议先问问附近的店员。店员告诉我们，小路正在修，最好还是走大路。",
+    "pinyin": "Wǒ hé péng you dǎ suàn qí chē qù gōng yuán。 zǒu dà lù bǐ jiào yuǎn， zǒu xiǎo lù suī rán jìn， dàn shì wǒ men dōu bù liǎo jiě。 wǒ xiǎng yòng shǒu jī chá dì tú， cái fā xiàn shǒu jī méi diàn le。 péng you jiàn yì xiān wèn wèn fù jìn de diàn yuán。 diàn yuán gào sù wǒ men， xiǎo lù zhèng zài xiū， zuì hǎo hái shì zǒu dà lù。",
+    "translation": "Tôi và bạn định đạp xe đến công viên. Đường lớn xa, đường nhỏ gần nhưng không quen. Tôi định tra bản đồ thì điện thoại hết pin. Bạn gợi ý hỏi người bán hàng gần đó. Họ nói đường nhỏ đang sửa nên đi đường lớn.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R11-3-Q1",
+        "question": "我们打算怎么去公园？",
+        "answer": "骑车",
+        "options": [
+          "骑车",
+          "篮球比赛",
+          "一起努力",
+          "传球"
+        ],
+        "explanation": "Đối chiếu đoạn: “我和朋友打算骑车去公园。” → Chọn “骑车”."
+      },
+      {
+        "id": "H3-R11-3-Q2",
+        "question": "为什么不能用手机查地图？",
+        "answer": "手机没电了",
+        "options": [
+          "手机没电了",
+          "怕别人觉得我学得慢",
+          "下班晚",
+          "火开得太大"
+        ],
+        "explanation": "Đối chiếu đoạn: “我想用手机查地图，才发现手机没电了。” → Chọn “手机没电了”."
+      },
+      {
+        "id": "H3-R11-3-Q3",
+        "question": "朋友建议先问谁？",
+        "answer": "附近的店员",
+        "options": [
+          "附近的店员",
+          "工作人员",
+          "新同事",
+          "同学"
+        ],
+        "explanation": "Đối chiếu đoạn: “朋友建议先问问附近的店员。” → Chọn “附近的店员”."
+      },
+      {
+        "id": "H3-R11-3-Q4",
+        "question": "店员建议走哪条路？",
+        "answer": "大路",
+        "options": [
+          "大路",
+          "水不深的地方",
+          "纸上",
+          "桌子左边"
+        ],
+        "explanation": "Đối chiếu đoạn: “走大路比较远，走小路虽然近，但是我们都不了解。” → Chọn “大路”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R11-4",
+    "lesson": 11,
+    "title": "Bài tập khó",
+    "text": "有一道题我想了很久也做不出来。朋友想直接告诉我怎么做，我觉得这样不能真正学会。我请他只给一点儿帮助，自己再想一想。后来，我发现以前学过类似的题，终于找到了办法。朋友说，这次我不但会做，还明白了为什么这样做。",
+    "pinyin": "Yǒu yī dào tí wǒ xiǎng le hěn jiǔ yě zuò bù chū lái。 péng you xiǎng zhí jiē gào sù wǒ zěn me zuò， wǒ jué de zhè yàng bù néng zhēn zhèng xué huì。 wǒ qǐng tā zhǐ gěi yì diǎn ér bāng zhù， zì jǐ zài xiǎng yī xiǎng。 hòu lái， wǒ fā xiàn yǐ qián xué guò lèi sì de tí， zhōng yú zhǎo dào le bàn fǎ。 péng you shuō， zhè cì wǒ bù dàn huì zuò， hái míng bái le wèi shén me zhè yàng zuò。",
+    "translation": "Một bài khó tôi nghĩ mãi chưa ra. Bạn định nói đáp án nhưng tôi thấy vậy chưa học được. Tôi nhờ gợi ý chút rồi tự nghĩ. Nhớ dạng đã học, cuối cùng tôi tìm được cách. Bạn nói lần này tôi vừa làm được vừa hiểu lý do.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R11-4-Q1",
+        "question": "我遇到了什么困难？",
+        "answer": "一道题做不出来",
+        "options": [
+          "一道题做不出来",
+          "怕别人觉得我学得慢",
+          "下班晚",
+          "火开得太大"
+        ],
+        "explanation": "Đối chiếu đoạn: “有一道题我想了很久也做不出来。” → Chọn “一道题做不出来”."
+      },
+      {
+        "id": "H3-R11-4-Q2",
+        "question": "朋友开始想告诉我什么？",
+        "answer": "怎么做",
+        "options": [
+          "怎么做",
+          "说明",
+          "水果",
+          "感冒"
+        ],
+        "explanation": "Đối chiếu đoạn: “朋友想直接告诉我怎么做，我觉得这样不能真正学会。” → Chọn “怎么做”."
+      },
+      {
+        "id": "H3-R11-4-Q3",
+        "question": "我希望朋友给什么帮助？",
+        "answer": "一点儿帮助",
+        "options": [
+          "一点儿帮助",
+          "水果",
+          "感冒",
+          "洗脸的东西"
+        ],
+        "explanation": "Đối chiếu đoạn: “我请他只给一点儿帮助，自己再想一想。” → Chọn “一点儿帮助”."
+      },
+      {
+        "id": "H3-R11-4-Q4",
+        "question": "最后我找到办法了吗？",
+        "answer": "找到了",
+        "options": [
+          "找到了",
+          "关好门",
+          "游泳",
+          "看电视"
+        ],
+        "explanation": "Đối chiếu đoạn: “后来，我发现以前学过类似的题，终于找到了办法。” → Chọn “找到了”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R11-5",
+    "lesson": 11,
+    "title": "Cùng sửa kế hoạch",
+    "text": "我们本来想周六去爬山，但是天气预报说会下雨。有的同学想取消活动，有的想换一天。大家商量以后，决定星期六先在学校一起看电影，星期天如果天气好再去爬山。这样不用一直等，还不会在雨天走山路。",
+    "pinyin": "Wǒ men běn lái xiǎng zhōu liù qù pá shān， dàn shì tiān qì yù bào shuō huì xià yǔ。 yǒu de tóng xué xiǎng qǔ xiāo huó dòng， yǒu de xiǎng huàn yī tiān。 dà jiā shāng liáng yǐ hòu， jué dìng xīng qī liù xiān zài xué xiào yì qǐ kàn diàn yǐng， xīng qī tiān rú guǒ tiān qì hǎo zài qù pá shān。 zhè yàng bù yòng yì zhí děng， hái bú huì zài yǔ tiān zǒu shān lù。",
+    "translation": "Ban đầu chúng tôi định leo núi thứ bảy nhưng dự báo mưa. Có bạn muốn hủy, có bạn muốn đổi ngày. Bàn xong quyết định thứ bảy xem phim ở trường, chủ nhật đẹp trời mới leo. Vừa không chờ mãi vừa tránh đường núi lúc mưa.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R11-5-Q1",
+        "question": "周六的天气预报怎么样？",
+        "answer": "会下雨",
+        "options": [
+          "会下雨",
+          "颜色和以前不一样了",
+          "很难过",
+          "还能穿"
+        ],
+        "explanation": "Đối chiếu đoạn: “我们本来想周六去爬山，但是天气预报说会下雨。” → Chọn “会下雨”."
+      },
+      {
+        "id": "H3-R11-5-Q2",
+        "question": "我们周六改做什么？",
+        "answer": "在学校看电影",
+        "options": [
+          "在学校看电影",
+          "关好门",
+          "游泳",
+          "看电视"
+        ],
+        "explanation": "Đối chiếu đoạn: “大家商量以后，决定星期六先在学校一起看电影，星期天如果天气好再去爬山。” → Chọn “在学校看电影”."
+      },
+      {
+        "id": "H3-R11-5-Q3",
+        "question": "什么时候可能去爬山？",
+        "answer": "星期天",
+        "options": [
+          "星期天",
+          "两天一次",
+          "每个月一次",
+          "跟同学一起学习的生活"
+        ],
+        "explanation": "Đối chiếu đoạn: “大家商量以后，决定星期六先在学校一起看电影，星期天如果天气好再去爬山。” → Chọn “星期天”."
+      },
+      {
+        "id": "H3-R11-5-Q4",
+        "question": "去爬山需要什么条件？",
+        "answer": "天气好",
+        "options": [
+          "天气好",
+          "身体好多了",
+          "比以前有精神",
+          "近一点儿"
+        ],
+        "explanation": "Đối chiếu đoạn: “大家商量以后，决定星期六先在学校一起看电影，星期天如果天气好再去爬山。” → Chọn “天气好”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R12",
+    "lesson": 12,
+    "title": "Thời tiết thay đổi",
+    "text": "这个季节的天气变化很快。早上出门的时候，太阳很大，我没有带伞。下午上完课，外面突然下起雨来。我站在学校门口等了一会儿，雨才停。以后出门前，我一定先看看天气。",
+    "pinyin": "Zhè ge jì jié de tiān qì biàn huà hěn kuài。 zǎo shàng chū mén de shí hou， tài yáng hěn dà， wǒ méi yǒu dài sǎn。 xià wǔ shàng wán kè， wài miàn tū rán xià qǐ yǔ lái。 wǒ zhàn zài xué xiào mén kǒu děng le yī huì er， yǔ cái tíng。 yǐ hòu chū mén qián， wǒ yí dìng xiān kàn kàn tiān qì。",
+    "translation": "Thời tiết mùa này đổi nhanh. Sáng trời nắng to nên tôi không mang ô. Chiều học xong thì đột nhiên mưa. Tôi đứng chờ ở cổng trường một lúc mưa mới tạnh. Sau này trước khi ra ngoài tôi nhất định sẽ xem thời tiết.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R12-Q1",
+        "question": "早上天气怎么样？",
+        "answer": "太阳很大",
+        "options": [
+          "太阳很大",
+          "正在下雨",
+          "下雪了",
+          "很冷"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 太阳很大"
+      },
+      {
+        "id": "H3-R12-Q2",
+        "question": "我没带什么？",
+        "answer": "伞",
+        "options": [
+          "伞",
+          "书",
+          "手机",
+          "钱"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 伞"
+      },
+      {
+        "id": "H3-R12-Q3",
+        "question": "我在哪儿等雨停？",
+        "answer": "学校门口",
+        "options": [
+          "学校门口",
+          "家里",
+          "饭馆里",
+          "车上"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 学校门口"
+      },
+      {
+        "id": "H3-R12-Q4",
+        "question": "以后出门前我会做什么？",
+        "answer": "先看看天气",
+        "options": [
+          "先看看天气",
+          "先买衣服",
+          "先去医院",
+          "先打球"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 先看看天气"
+      }
+    ]
+  },
+  {
+    "id": "H3-R12-2",
+    "lesson": 12,
+    "title": "Chọn áo theo thời tiết",
+    "text": "早上看天气预报，今天最高气温有二十八度，我就只穿了一件衬衫。下午风越来越大，回家的时候我觉得有点儿冷。妈妈说，这个季节早晚的温度跟中午差得很多，出门最好多带一件衣服。我决定明天把衣服放进包里。",
+    "pinyin": "Zǎo shàng kàn tiān qì yù bào， jīn tiān zuì gāo qì wēn yǒu èr shí bā dù， wǒ jiù zhǐ chuān le yī jiàn chèn shān。 xià wǔ fēng yuè lái yuè dà， huí jiā de shí hou wǒ jué de yǒu diǎn ér lěng。 mā ma shuō， zhè ge jì jié zǎo wǎn de wēn dù gēn zhōng wǔ chà de hěn duō， chū mén zuì hǎo duō dài yī jiàn yī fu。 wǒ jué dìng míng tiān bǎ yī fu fàng jìn bāo lǐ。",
+    "translation": "Sáng dự báo cao nhất hai mươi tám độ nên tôi chỉ mặc sơ mi. Chiều gió mạnh, lúc về thấy lạnh. Mẹ nói mùa này sáng tối khác trưa nhiều, nên mang thêm áo. Tôi định mai cất áo vào túi.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R12-2-Q1",
+        "question": "今天最高气温是多少？",
+        "answer": "二十八度",
+        "options": [
+          "二十八度",
+          "两个晚上",
+          "五张",
+          "三个"
+        ],
+        "explanation": "Đối chiếu đoạn: “早上看天气预报，今天最高气温有二十八度，我就只穿了一件衬衫。” → Chọn “二十八度”."
+      },
+      {
+        "id": "H3-R12-2-Q2",
+        "question": "我早上只穿了什么？",
+        "answer": "一件衬衫",
+        "options": [
+          "一件衬衫",
+          "说明",
+          "水果",
+          "感冒"
+        ],
+        "explanation": "Đối chiếu đoạn: “早上看天气预报，今天最高气温有二十八度，我就只穿了一件衬衫。” → Chọn “一件衬衫”."
+      },
+      {
+        "id": "H3-R12-2-Q3",
+        "question": "下午风有什么变化？",
+        "answer": "越来越大",
+        "options": [
+          "越来越大",
+          "颜色和以前不一样了",
+          "很难过",
+          "还能穿"
+        ],
+        "explanation": "Đối chiếu đoạn: “下午风越来越大，回家的时候我觉得有点儿冷。” → Chọn “越来越大”."
+      },
+      {
+        "id": "H3-R12-2-Q4",
+        "question": "明天我决定带什么？",
+        "answer": "衣服",
+        "options": [
+          "衣服",
+          "感冒",
+          "洗脸的东西",
+          "名字"
+        ],
+        "explanation": "Đối chiếu đoạn: “我决定明天把衣服放进包里。” → Chọn “衣服”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R12-3",
+    "lesson": 12,
+    "title": "Cơn mưa ngắn",
+    "text": "我们正在公园散步，天突然变黑了。爷爷说可能快下雨了，让我跟他去旁边的商店等一会儿。刚走进去，外面就下起了大雨。十分钟以后，太阳又出来了。雨后的空气很好，我们决定继续在公园里走走。",
+    "pinyin": "Wǒ men zhèng zài gōng yuán sàn bù， tiān tū rán biàn hēi le。 yé ye shuō kě néng kuài xià yǔ le， ràng wǒ gēn tā qù páng biān de shāng diàn děng yī huì er。 gāng zǒu jìn qù， wài miàn jiù xià qǐ le dà yǔ。 shí fēn zhōng yǐ hòu， tài yáng yòu chū lái le。 yǔ hòu de kōng qì hěn hǎo， wǒ men jué dìng jì xù zài gōng yuán lǐ zǒu zǒu。",
+    "translation": "Đang đi dạo thì trời tối sầm. Ông đoán mưa, dẫn tôi vào cửa hàng chờ. Vừa vào thì mưa to. Mười phút sau nắng lại lên. Không khí sau mưa dễ chịu nên chúng tôi đi dạo tiếp.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R12-3-Q1",
+        "question": "我们开始在哪儿散步？",
+        "answer": "公园",
+        "options": [
+          "公园",
+          "门旁边",
+          "河边",
+          "水不深的地方"
+        ],
+        "explanation": "Đối chiếu đoạn: “我们正在公园散步，天突然变黑了。” → Chọn “公园”."
+      },
+      {
+        "id": "H3-R12-3-Q2",
+        "question": "爷爷带我去哪儿等雨？",
+        "answer": "商店",
+        "options": [
+          "商店",
+          "河边",
+          "水不深的地方",
+          "纸上"
+        ],
+        "explanation": "Đối chiếu đoạn: “爷爷说可能快下雨了，让我跟他去旁边的商店等一会儿。” → Chọn “商店”."
+      },
+      {
+        "id": "H3-R12-3-Q3",
+        "question": "多久以后太阳又出来了？",
+        "answer": "十分钟以后",
+        "options": [
+          "十分钟以后",
+          "一个星期",
+          "两天一次",
+          "每个月一次"
+        ],
+        "explanation": "Đối chiếu đoạn: “十分钟以后，太阳又出来了。” → Chọn “十分钟以后”."
+      },
+      {
+        "id": "H3-R12-3-Q4",
+        "question": "雨停以后我们决定做什么？",
+        "answer": "继续散步",
+        "options": [
+          "继续散步",
+          "游泳",
+          "看电视",
+          "在规定的时间还了"
+        ],
+        "explanation": "Đối chiếu đoạn: “雨后的空气很好，我们决定继续在公园里走走。” → Chọn “继续散步”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R12-4",
+    "lesson": 12,
+    "title": "Lên kế hoạch đi chơi",
+    "text": "朋友想来我住的城市旅游，问我哪个季节最好。我告诉他，春天花很多，秋天不冷不热，都很适合出来玩。夏天虽然也有意思，但是有时候太热。朋友怕热，听了以后决定十月再来。我答应到时候带他去看最有名的公园。",
+    "pinyin": "Péng you xiǎng lái wǒ zhù de chéng shì lǚ yóu， wèn wǒ nǎ ge jì jié zuì hǎo。 wǒ gào sù tā， chūn tiān huā hěn duō， qiū tiān bù lěng bù rè， dōu hěn shì hé chū lái wán。 xià tiān suī rán yě yǒu yì si， dàn shì yǒu shí hòu tài rè。 péng you pà rè， tīng le yǐ hòu jué dìng shí yuè zài lái。 wǒ dā yìng dào shí hou dài tā qù kàn zuì yǒu míng de gōng yuán。",
+    "translation": "Bạn hỏi mùa nào đến thành phố tôi du lịch tốt. Tôi nói xuân nhiều hoa, thu mát mẻ đều hợp. Hè đông vui nhưng đôi lúc nóng. Bạn sợ nóng nên quyết định tháng mười đến. Tôi hẹn dẫn đi công viên nổi tiếng.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R12-4-Q1",
+        "question": "朋友想来做什么？",
+        "answer": "旅游",
+        "options": [
+          "旅游",
+          "传球",
+          "跑步",
+          "关好门"
+        ],
+        "explanation": "Đối chiếu đoạn: “朋友想来我住的城市旅游，问我哪个季节最好。” → Chọn “旅游”."
+      },
+      {
+        "id": "H3-R12-4-Q2",
+        "question": "春天有什么？",
+        "answer": "很多花",
+        "options": [
+          "很多花",
+          "水果",
+          "感冒",
+          "洗脸的东西"
+        ],
+        "explanation": "Đối chiếu đoạn: “我告诉他，春天花很多，秋天不冷不热，都很适合出来玩。” → Chọn “很多花”."
+      },
+      {
+        "id": "H3-R12-4-Q3",
+        "question": "朋友为什么不选夏天？",
+        "answer": "怕热",
+        "options": [
+          "怕热",
+          "放的菜太多",
+          "有的朋友不吃肉",
+          "她第一次来北京"
+        ],
+        "explanation": "Đối chiếu đoạn: “朋友怕热，听了以后决定十月再来。” → Chọn “怕热”."
+      },
+      {
+        "id": "H3-R12-4-Q4",
+        "question": "朋友决定几月来？",
+        "answer": "十月",
+        "options": [
+          "十月",
+          "每个月一次",
+          "跟同学一起学习的生活",
+          "五年"
+        ],
+        "explanation": "Đối chiếu đoạn: “朋友怕热，听了以后决定十月再来。” → Chọn “十月”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R12-5",
+    "lesson": 12,
+    "title": "Buổi sáng mùa đông",
+    "text": "今天早上起来，我发现外面下雪了。弟弟特别高兴，想马上出去玩。妈妈让他先穿好暖和的衣服，还给他准备了热水。我们到楼下的时候，已经有几个孩子在玩雪了。弟弟玩得不想回家，直到手有点儿冷，才跟我一起上楼。",
+    "pinyin": "Jīn tiān zǎo shàng qǐ lái， wǒ fā xiàn wài miàn xià xuě le。 dì di tè bié gāo xìng， xiǎng mǎ shàng chū qù wán。 mā ma ràng tā xiān chuān hǎo nuǎn huo de yī fu， huán gěi tā zhǔn bèi le rè shuǐ。 wǒ men dào lóu xià de shí hou， yǐ jīng yǒu jǐ gè hái zi zài wán xuě le。 dì di wán dé bù xiǎng huí jiā， zhí dào shǒu yǒu diǎn ér lěng， cái gēn wǒ yì qǐ shàng lóu。",
+    "translation": "Sáng nay có tuyết, em muốn ra chơi ngay. Mẹ bảo mặc đồ dày, chuẩn bị nước nóng. Xuống nhà đã có mấy bạn chơi tuyết. Em chơi không muốn về, đến khi lạnh tay mới lên cùng tôi.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R12-5-Q1",
+        "question": "早上外面天气怎么样？",
+        "answer": "下雪了",
+        "options": [
+          "下雪了",
+          "很难过",
+          "还能穿",
+          "身体好多了"
+        ],
+        "explanation": "Đối chiếu đoạn: “今天早上起来，我发现外面下雪了。” → Chọn “下雪了”."
+      },
+      {
+        "id": "H3-R12-5-Q2",
+        "question": "妈妈让弟弟先做什么？",
+        "answer": "穿好暖和的衣服",
+        "options": [
+          "穿好暖和的衣服",
+          "关好门",
+          "游泳",
+          "看电视"
+        ],
+        "explanation": "Đối chiếu đoạn: “妈妈让他先穿好暖和的衣服，还给他准备了热水。” → Chọn “穿好暖和的衣服”."
+      },
+      {
+        "id": "H3-R12-5-Q3",
+        "question": "妈妈还准备了什么？",
+        "answer": "热水",
+        "options": [
+          "热水",
+          "自己的家乡",
+          "照片",
+          "电脑"
+        ],
+        "explanation": "Đối chiếu đoạn: “妈妈让他先穿好暖和的衣服，还给他准备了热水。” → Chọn “热水”."
+      },
+      {
+        "id": "H3-R12-5-Q4",
+        "question": "弟弟最后为什么回家？",
+        "answer": "手有点儿冷",
+        "options": [
+          "手有点儿冷",
+          "她第一次来北京",
+          "人太多，可能要等很久",
+          "房间里不太亮"
+        ],
+        "explanation": "Đối chiếu đoạn: “弟弟玩得不想回家，直到手有点儿冷，才跟我一起上楼。” → Chọn “手有点儿冷”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R13",
+    "lesson": 13,
+    "title": "Hàng xóm mới",
+    "text": "我的新邻居来自法国，现在在附近的学校教英文。他正在学中文，有时候会来问我汉字怎么读。周末，他请我到他家喝茶。我们一边喝茶一边聊天，他说很喜欢这里的生活。",
+    "pinyin": "Wǒ de xīn lín jū lái zì fǎ guó， xiàn zài zài fù jìn de xué xiào jiāo yīng wén。 tā zhèng zài xué zhōng wén， yǒu shí hòu huì lái wèn wǒ hàn zì zěn me dú。 zhōu mò， tā qǐng wǒ dào tā jiā hē chá。 wǒ men yī biān hē chá yī biān liáo tiān， tā shuō hěn xǐ huan zhè lǐ de shēng huó。",
+    "translation": "Hàng xóm mới của tôi đến từ Pháp, hiện dạy tiếng Anh ở trường gần đây. Anh đang học tiếng Trung, đôi khi hỏi tôi cách đọc chữ Hán. Cuối tuần anh mời tôi sang nhà uống trà. Chúng tôi vừa uống trà vừa trò chuyện. Anh nói rất thích cuộc sống ở đây.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R13-Q1",
+        "question": "新邻居来自哪儿？",
+        "answer": "法国",
+        "options": [
+          "法国",
+          "中国",
+          "日本",
+          "越南"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 法国"
+      },
+      {
+        "id": "H3-R13-Q2",
+        "question": "他现在做什么工作？",
+        "answer": "教英文",
+        "options": [
+          "教英文",
+          "开出租车",
+          "卖茶",
+          "当医生"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 教英文"
+      },
+      {
+        "id": "H3-R13-Q3",
+        "question": "他有时候问我什么？",
+        "answer": "汉字怎么读",
+        "options": [
+          "汉字怎么读",
+          "饭馆在哪儿",
+          "怎么买票",
+          "几点下课"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 汉字怎么读"
+      },
+      {
+        "id": "H3-R13-Q4",
+        "question": "周末我们一起做什么？",
+        "answer": "喝茶聊天",
+        "options": [
+          "喝茶聊天",
+          "打篮球",
+          "买衣服",
+          "坐高铁"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 喝茶聊天"
+      }
+    ]
+  },
+  {
+    "id": "H3-R13-2",
+    "lesson": 13,
+    "title": "Làm quen với hàng xóm",
+    "text": "昨天搬来一位新邻居，我在楼下遇见了他。他主动向我问好，还问附近有没有可以买菜的地方。我正好也要出门，就带他一起去了超市。路上我们聊起各自的工作，发现他就在我公司旁边上班。以后也许可以一起坐车。",
+    "pinyin": "Zuó tiān bān lái yī wèi xīn lín jū， wǒ zài lóu xià yù jiàn le tā。 tā zhǔ dòng xiàng wǒ wèn hǎo， hái wèn fù jìn yǒu méi yǒu kě yǐ mǎi cài de dì fang。 wǒ zhèng hǎo yě yào chū mén， jiù dài tā yì qǐ qù le chāo shì。 lù shàng wǒ men liáo qǐ gè zì de gōng zuò， fā xiàn tā jiù zài wǒ gōng sī páng biān shàng bān。 yǐ hòu yě xǔ kě yǐ yì qǐ zuò chē。",
+    "translation": "Hôm qua có hàng xóm mới, tôi gặp dưới nhà. Anh chủ động chào và hỏi chỗ mua rau. Tôi cũng định ra ngoài nên dẫn đến siêu thị. Trò chuyện mới biết anh làm cạnh công ty tôi, sau này có thể đi xe cùng.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R13-2-Q1",
+        "question": "我在哪儿遇见新邻居？",
+        "answer": "楼下",
+        "options": [
+          "楼下",
+          "后面",
+          "门旁边",
+          "河边"
+        ],
+        "explanation": "Đối chiếu đoạn: “昨天搬来一位新邻居，我在楼下遇见了他。” → Chọn “楼下”."
+      },
+      {
+        "id": "H3-R13-2-Q2",
+        "question": "邻居想找什么地方？",
+        "answer": "可以买菜的地方",
+        "options": [
+          "可以买菜的地方",
+          "门旁边",
+          "河边",
+          "水不深的地方"
+        ],
+        "explanation": "Đối chiếu đoạn: “他主动向我问好，还问附近有没有可以买菜的地方。” → Chọn “可以买菜的地方”."
+      },
+      {
+        "id": "H3-R13-2-Q3",
+        "question": "我带他去了哪儿？",
+        "answer": "超市",
+        "options": [
+          "超市",
+          "河边",
+          "水不深的地方",
+          "纸上"
+        ],
+        "explanation": "Đối chiếu đoạn: “我正好也要出门，就带他一起去了超市。” → Chọn “超市”."
+      },
+      {
+        "id": "H3-R13-2-Q4",
+        "question": "我们在哪里上班？",
+        "answer": "两家公司离得很近",
+        "options": [
+          "两家公司离得很近",
+          "身体好多了",
+          "比以前有精神",
+          "近一点儿"
+        ],
+        "explanation": "Đối chiếu đoạn: “路上我们聊起各自的工作，发现他就在我公司旁边上班。” → Chọn “两家公司离得很近”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R13-3",
+    "lesson": 13,
+    "title": "Bữa cơm giữa những người bạn mới",
+    "text": "周末，邻居请我们去他家吃饭。他正在学做中国菜，准备了三个自己最喜欢的菜。虽然味道跟饭馆的不太一样，但是我们觉得他做得很认真。吃饭的时候，他还请我教他几个中文词。我答应下次带一本简单的书给他。",
+    "pinyin": "Zhōu mò， lín jū qǐng wǒ men qù tā jiā chī fàn。 tā zhèng zài xué zuò zhōng guó cài， zhǔn bèi le sān gè zì jǐ zuì xǐ huan de cài。 suī rán wèi dào gēn fàn guǎn de bù tài yī yàng， dàn shì wǒ men jué de tā zuò de hěn rèn zhēn。 chī fàn de shí hou， tā hái qǐng wǒ jiāo tā jǐ gè zhōng wén cí。 wǒ dā yìng xià cì dài yī běn jiǎn dān de shū gěi tā。",
+    "translation": "Cuối tuần hàng xóm mời ăn. Anh đang học nấu món Trung, chuẩn bị ba món thích nhất. Vị khác nhà hàng nhưng anh làm rất chăm chút. Anh nhờ dạy vài từ tiếng Trung. Tôi hẹn lần sau mang sách dễ cho anh.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R13-3-Q1",
+        "question": "邻居周末请我们做什么？",
+        "answer": "吃饭",
+        "options": [
+          "吃饭",
+          "传球",
+          "跑步",
+          "关好门"
+        ],
+        "explanation": "Đối chiếu đoạn: “周末，邻居请我们去他家吃饭。” → Chọn “吃饭”."
+      },
+      {
+        "id": "H3-R13-3-Q2",
+        "question": "他准备了几个菜？",
+        "answer": "三个",
+        "options": [
+          "三个",
+          "一个",
+          "第一次",
+          "两个"
+        ],
+        "explanation": "Đối chiếu đoạn: “他正在学做中国菜，准备了三个自己最喜欢的菜。” → Chọn “三个”."
+      },
+      {
+        "id": "H3-R13-3-Q3",
+        "question": "他想让我教什么？",
+        "answer": "中文词",
+        "options": [
+          "中文词",
+          "感冒",
+          "洗脸的东西",
+          "名字"
+        ],
+        "explanation": "Đối chiếu đoạn: “吃饭的时候，他还请我教他几个中文词。” → Chọn “中文词”."
+      },
+      {
+        "id": "H3-R13-3-Q4",
+        "question": "我答应下次带什么？",
+        "answer": "一本简单的书",
+        "options": [
+          "一本简单的书",
+          "洗脸的东西",
+          "名字",
+          "自己的家乡"
+        ],
+        "explanation": "Đối chiếu đoạn: “我答应下次带一本简单的书给他。” → Chọn “一本简单的书”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R13-4",
+    "lesson": 13,
+    "title": "Giúp trông cây",
+    "text": "邻居要出门一个星期，担心家里的花没人照顾，就请我帮忙。他把家里的卡交给我，告诉我不用每天加水，两天一次就可以。我在手机上记好了时间。一个星期以后他回来了，看见花长得很好，高兴地向我说谢谢。",
+    "pinyin": "Lín jū yào chū mén yí gè xīng qī， dān xīn jiā lǐ de huā méi rén zhào gù， jiù qǐng wǒ bāng máng。 tā bǎ jiā lǐ de kǎ jiāo gěi wǒ， gào sù wǒ bù yòng měi tiān jiā shuǐ， liǎng tiān yī cì jiù kě yǐ。 wǒ zài shǒu jī shàng jì hǎo le shí jiān。 yí gè xīng qī yǐ hòu tā huí lái le， kàn jiàn huā zhǎng de hěn hǎo， gāo xìng de xiàng wǒ shuō xiè xie。",
+    "translation": "Hàng xóm đi một tuần, nhờ tôi chăm hoa. Anh giao thẻ vào nhà, dặn hai ngày thêm nước một lần. Tôi ghi lịch trong điện thoại. Một tuần sau anh về, thấy hoa tươi tốt nên vui vẻ cảm ơn.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R13-4-Q1",
+        "question": "邻居要出门多久？",
+        "answer": "一个星期",
+        "options": [
+          "一个星期",
+          "十月",
+          "每个月一次",
+          "跟同学一起学习的生活"
+        ],
+        "explanation": "Đối chiếu đoạn: “邻居要出门一个星期，担心家里的花没人照顾，就请我帮忙。” → Chọn “一个星期”."
+      },
+      {
+        "id": "H3-R13-4-Q2",
+        "question": "他请我帮忙照顾什么？",
+        "answer": "花",
+        "options": [
+          "花",
+          "洗脸的东西",
+          "名字",
+          "自己的家乡"
+        ],
+        "explanation": "Đối chiếu đoạn: “邻居要出门一个星期，担心家里的花没人照顾，就请我帮忙。” → Chọn “花”."
+      },
+      {
+        "id": "H3-R13-4-Q3",
+        "question": "多久加一次水？",
+        "answer": "两天一次",
+        "options": [
+          "两天一次",
+          "跟同学一起学习的生活",
+          "五年",
+          "三分钟"
+        ],
+        "explanation": "Đối chiếu đoạn: “他把家里的卡交给我，告诉我不用每天加水，两天一次就可以。” → Chọn “两天一次”."
+      },
+      {
+        "id": "H3-R13-4-Q4",
+        "question": "邻居回来时花怎么样？",
+        "answer": "长得很好",
+        "options": [
+          "长得很好",
+          "近一点儿",
+          "打得越来越好",
+          "下雨了"
+        ],
+        "explanation": "Đối chiếu đoạn: “一个星期以后他回来了，看见花长得很好，高兴地向我说谢谢。” → Chọn “长得很好”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R13-5",
+    "lesson": 13,
+    "title": "Đi học cùng nhau",
+    "text": "楼上的孩子跟妹妹在一个学校上课。以前她们不认识，每天都家人送到学校。认识以后，她们约好早上一起走路去。两个人一边走一边复习昨天学的词，觉得路上也很有意思。妈妈看到她们能照顾自己，放心多了。",
+    "pinyin": "Lóu shàng de hái zi gēn mèi mei zài yí gè xué xiào shàng kè。 yǐ qián tā men bù rèn shi， měi tiān dōu jiā rén sòng dào xué xiào。 rèn shi yǐ hòu， tā men yuē hǎo zǎo shàng yì qǐ zǒu lù qù。 liǎng gè rén yī biān zǒu yī biān fù xí zuó tiān xué de cí， jué de lù shàng yě hěn yǒu yì si。 mā ma kàn dào tā men néng zhào gù zì jǐ， fàng xīn duō le。",
+    "translation": "Bạn ở tầng trên học cùng trường em. Trước chưa quen nên gia đình đưa đi. Quen nhau rồi hai bạn hẹn đi bộ mỗi sáng, vừa đi vừa ôn từ hôm trước. Mẹ thấy hai bạn biết tự lo nên yên tâm.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R13-5-Q1",
+        "question": "楼上的孩子和妹妹在哪儿上课？",
+        "answer": "一个学校",
+        "options": [
+          "一个学校",
+          "水不深的地方",
+          "纸上",
+          "桌子左边"
+        ],
+        "explanation": "Đối chiếu đoạn: “楼上的孩子跟妹妹在一个学校上课。” → Chọn “一个学校”."
+      },
+      {
+        "id": "H3-R13-5-Q2",
+        "question": "认识以后她们怎么去学校？",
+        "answer": "一起走路",
+        "options": [
+          "一起走路",
+          "游泳",
+          "看电视",
+          "在规定的时间还了"
+        ],
+        "explanation": "Đối chiếu đoạn: “认识以后，她们约好早上一起走路去。” → Chọn “一起走路”."
+      },
+      {
+        "id": "H3-R13-5-Q3",
+        "question": "她们路上复习什么？",
+        "answer": "昨天学的词",
+        "options": [
+          "昨天学的词",
+          "名字",
+          "自己的家乡",
+          "照片"
+        ],
+        "explanation": "Đối chiếu đoạn: “两个人一边走一边复习昨天学的词，觉得路上也很有意思。” → Chọn “昨天学的词”."
+      },
+      {
+        "id": "H3-R13-5-Q4",
+        "question": "妈妈觉得怎么样？",
+        "answer": "放心多了",
+        "options": [
+          "放心多了",
+          "近一点儿",
+          "打得越来越好",
+          "下雨了"
+        ],
+        "explanation": "Đối chiếu đoạn: “妈妈看到她们能照顾自己，放心多了。” → Chọn “放心多了”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R14",
+    "lesson": 14,
+    "title": "Tìm sách ở thư viện",
+    "text": "我到图书馆找一本关于中国的书。工作人员告诉我，那本书已经被别人借走了，要下星期才还。我有点儿不高兴。她又帮我找了一本别的书，内容也很有意思。我借了这本书，准备回家认真看。",
+    "pinyin": "Wǒ dào tú shū guǎn zhǎo yī běn guān yú zhōng guó de shū。 gōng zuò rén yuán gào sù wǒ， nà běn shū yǐ jīng bèi bié rén jiè zǒu le， yào xià xīng qī cái huán。 wǒ yǒu diǎn ér bù gāo xìng。 tā yòu bāng wǒ zhǎo le yī běn bié de shū， nèi róng yě hěn yǒu yì si。 wǒ jiè le zhè běn shū， zhǔn bèi huí jiā rèn zhēn kàn。",
+    "translation": "Tôi đến thư viện tìm sách về Trung Quốc. Nhân viên nói sách đã bị người khác mượn, tuần sau mới trả. Tôi hơi thất vọng. Cô giúp tìm quyển khác có nội dung thú vị. Tôi mượn quyển đó, định về nhà đọc kỹ.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R14-Q1",
+        "question": "我去哪儿找书？",
+        "answer": "图书馆",
+        "options": [
+          "图书馆",
+          "医院",
+          "饭馆",
+          "机场"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 图书馆"
+      },
+      {
+        "id": "H3-R14-Q2",
+        "question": "第一本书怎么了？",
+        "answer": "被别人借走了",
+        "options": [
+          "被别人借走了",
+          "不见了",
+          "太贵了",
+          "被我买了"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 被别人借走了"
+      },
+      {
+        "id": "H3-R14-Q3",
+        "question": "第一本书什么时候还？",
+        "answer": "下星期",
+        "options": [
+          "下星期",
+          "明天",
+          "今天",
+          "明年"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 下星期"
+      },
+      {
+        "id": "H3-R14-Q4",
+        "question": "最后我做了什么？",
+        "answer": "借了一本别的书书",
+        "options": [
+          "借了一本别的书书",
+          "空着手回家",
+          "买了手机",
+          "不想看书了"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 借了一本别的书书"
+      }
+    ]
+  },
+  {
+    "id": "H3-R14-2",
+    "lesson": 14,
+    "title": "Cuốn sách trên bàn",
+    "text": "我把借来的书放在教室的桌子上，出去接了一个电话。回来以后，书不见了。我问旁边的同学，他说老师刚才拿走了一本书。我去办公室找老师，才知道老师以为那是学校的书。听我说清楚以后，老师把书还给了我。",
+    "pinyin": "Wǒ bǎ jiè lái de shū fàng zài jiào shì de zhuō zi shàng， chū qù jiē le yí gè diàn huà。 huí lái yǐ hòu， shū bú jiàn le。 wǒ wèn páng biān de tóng xué， tā shuō lǎo shī gāng cái ná zǒu le yī běn shū。 wǒ qù bàn gōng shì zhǎo lǎo shī， cái zhī dao lǎo shī yǐ wéi nà shì xué xiào de shū。 tīng wǒ shuō qīng chǔ yǐ hòu， lǎo shī bǎ shū huán gěi le wǒ。",
+    "translation": "Tôi để sách mượn trên bàn lớp rồi ra nghe điện thoại. Về không thấy, bạn nói thầy vừa cầm một quyển. Đến phòng thầy mới biết thầy tưởng sách trường. Giải thích xong thầy trả lại.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R14-2-Q1",
+        "question": "我把书放在哪儿？",
+        "answer": "教室的桌子上",
+        "options": [
+          "教室的桌子上",
+          "门旁边",
+          "河边",
+          "水不深的地方"
+        ],
+        "explanation": "Đối chiếu đoạn: “我把借来的书放在教室的桌子上，出去接了一个电话。” → Chọn “教室的桌子上”."
+      },
+      {
+        "id": "H3-R14-2-Q2",
+        "question": "我出去做什么？",
+        "answer": "接电话",
+        "options": [
+          "接电话",
+          "跑步",
+          "关好门",
+          "游泳"
+        ],
+        "explanation": "Đối chiếu đoạn: “我把借来的书放在教室的桌子上，出去接了一个电话。” → Chọn “接电话”."
+      },
+      {
+        "id": "H3-R14-2-Q3",
+        "question": "书被谁拿走了？",
+        "answer": "老师",
+        "options": [
+          "老师",
+          "奶奶",
+          "弟弟",
+          "朋友"
+        ],
+        "explanation": "Đối chiếu đoạn: “我问旁边的同学，他说老师刚才拿走了一本书。” → Chọn “老师”."
+      },
+      {
+        "id": "H3-R14-2-Q4",
+        "question": "老师以为那是谁的书？",
+        "answer": "学校的",
+        "options": [
+          "学校的",
+          "弟弟",
+          "朋友",
+          "家人"
+        ],
+        "explanation": "Đối chiếu đoạn: “我去办公室找老师，才知道老师以为那是学校的书。” → Chọn “学校的”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R14-3",
+    "lesson": 14,
+    "title": "Chiếc ô bị lấy nhầm",
+    "text": "下雨天，我把伞放在教室门口。下课以后，只有一把跟我的很像的伞。我没有拿走，就在群里发了一条消息。过了一会儿，一个同学说自己拿错了。他马上回来跟我换，还一直说不好意思。我说没关系，能找到就好。",
+    "pinyin": "Xià yǔ tiān， wǒ bǎ sǎn fàng zài jiào shì mén kǒu。 xià kè yǐ hòu， zhǐ yǒu yī bǎ gēn wǒ de hěn xiàng de sǎn。 wǒ méi yǒu ná zǒu， jiù zài qún lǐ fā le yī tiáo xiāo xī。 guò le yī huì er， yí gè tóng xué shuō zì jǐ ná cuò le。 tā mǎ shàng huí lái gēn wǒ huàn， hái yì zhí shuō bù hǎo yì sī。 wǒ shuō méi guān xì， néng zhǎo dào jiù hǎo。",
+    "translation": "Trời mưa tôi để ô ở cửa lớp. Tan học chỉ còn chiếc giống ô mình. Tôi không lấy, nhắn vào nhóm. Một bạn nói lấy nhầm và quay lại đổi, xin lỗi mãi. Tôi bảo tìm được là tốt rồi.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R14-3-Q1",
+        "question": "我把伞放在哪儿？",
+        "answer": "教室门口",
+        "options": [
+          "教室门口",
+          "河边",
+          "水不深的地方",
+          "纸上"
+        ],
+        "explanation": "Đối chiếu đoạn: “下雨天，我把伞放在教室门口。” → Chọn “教室门口”."
+      },
+      {
+        "id": "H3-R14-3-Q2",
+        "question": "发现伞不见后我做了什么？",
+        "answer": "在群里发消息",
+        "options": [
+          "在群里发消息",
+          "关好门",
+          "游泳",
+          "看电视"
+        ],
+        "explanation": "Đối chiếu đoạn: “我没有拿走，就在群里发了一条消息。” → Chọn “在群里发消息”."
+      },
+      {
+        "id": "H3-R14-3-Q3",
+        "question": "谁拿错了伞？",
+        "answer": "一个同学",
+        "options": [
+          "一个同学",
+          "弟弟",
+          "朋友",
+          "家人"
+        ],
+        "explanation": "Đối chiếu đoạn: “过了一会儿，一个同学说自己拿错了。” → Chọn “一个同学”."
+      },
+      {
+        "id": "H3-R14-3-Q4",
+        "question": "最后伞找到了吗？",
+        "answer": "找到了",
+        "options": [
+          "找到了",
+          "看电视",
+          "在规定的时间还了",
+          "准备东西"
+        ],
+        "explanation": "Đối chiếu đoạn: “他马上回来跟我换，还一直说不好意思。” → Chọn “找到了”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R14-4",
+    "lesson": 14,
+    "title": "Trả sách tại thư viện",
+    "text": "今天我去还书，图书馆里人很多。工作人员让我先把书放在旁边，等前面的人办完。我没有马上离开，因为有一本书的日期好像不对。到我的时候，工作人员检查了一下，说电脑里的记录已经改好了，我这才放心地回家。",
+    "pinyin": "Jīn tiān wǒ qù huán shū， tú shū guǎn lǐ rén hěn duō。 gōng zuò rén yuán ràng wǒ xiān bǎ shū fàng zài páng biān， děng qián miàn de rén bàn wán。 wǒ méi yǒu mǎ shàng lí kāi， yīn wèi yǒu yī běn shū de rì qī hǎo xiàng bú duì。 dào wǒ de shí hou， gōng zuò rén yuán jiǎn chá le yī xià， shuō diàn nǎo lǐ de jì lù yǐ jīng gǎi hǎo le， wǒ zhè cái fàng xīn de huí jiā。",
+    "translation": "Hôm nay thư viện đông. Nhân viên bảo đặt sách bên cạnh, chờ người trước làm xong. Tôi chưa đi vì ngày trả một quyển có vẻ sai. Đến lượt, nhân viên kiểm tra và sửa thông tin trong máy nên tôi yên tâm về.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R14-4-Q1",
+        "question": "我今天去图书馆做什么？",
+        "answer": "还书",
+        "options": [
+          "还书",
+          "关好门",
+          "游泳",
+          "看电视"
+        ],
+        "explanation": "Đối chiếu đoạn: “今天我去还书，图书馆里人很多。” → Chọn “还书”."
+      },
+      {
+        "id": "H3-R14-4-Q2",
+        "question": "图书馆人多不多？",
+        "answer": "很多",
+        "options": [
+          "很多",
+          "身体好多了",
+          "比以前有精神",
+          "近一点儿"
+        ],
+        "explanation": "Đối chiếu đoạn: “今天我去还书，图书馆里人很多。” → Chọn “很多”."
+      },
+      {
+        "id": "H3-R14-4-Q3",
+        "question": "我为什么没有马上离开？",
+        "answer": "一本书的日期好像不对",
+        "options": [
+          "一本书的日期好像不对",
+          "她第一次来北京",
+          "人太多，可能要等很久",
+          "房间里不太亮"
+        ],
+        "explanation": "Đối chiếu đoạn: “我没有马上离开，因为有一本书的日期好像不对。” → Chọn “一本书的日期好像不对”."
+      },
+      {
+        "id": "H3-R14-4-Q4",
+        "question": "谁检查了电脑里的记录？",
+        "answer": "工作人员",
+        "options": [
+          "工作人员",
+          "家人",
+          "邻居",
+          "妈妈"
+        ],
+        "explanation": "Đối chiếu đoạn: “到我的时候，工作人员检查了一下，说电脑里的记录已经改好了，我这才放心地回家。” → Chọn “工作人员”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R14-5",
+    "lesson": 14,
+    "title": "Bảo vệ sách mượn",
+    "text": "弟弟借了一本画很多的书，每天都带在包里。昨天他把水杯放在书旁边，水不小心流出来，书被弄得都是水。他很着急，妈妈帮他把书打开，放在桌子上慢慢干。弟弟说以后一定把水杯和书分开放，借来的东西更要小心。",
+    "pinyin": "Dì di jiè le yī běn huà hěn duō de shū， měi tiān dōu dài zài bāo lǐ。 zuó tiān tā bǎ shuǐ bēi fàng zài shū páng biān， shuǐ bù xiǎo xīn liú chū lái， shū bèi nòng dé dōu shì shuǐ。 tā hěn zháo jí， mā ma bāng tā bǎ shū dǎ kāi， fàng zài zhuō zi shàng màn màn gàn。 dì di shuō yǐ hòu yí dìng bǎ shuǐ bēi hé shū fēn kāi fàng， jiè lái de dōng xi gèng yào xiǎo xīn。",
+    "translation": "Em mượn sách nhiều tranh, mang hằng ngày. Hôm qua nước trong cốc đổ làm sách ướt. Mẹ giúp mở sách để trên bàn cho khô. Em hứa để cốc riêng, đồ mượn càng phải giữ.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R14-5-Q1",
+        "question": "弟弟借了一本什么样的书？",
+        "answer": "画很多的书",
+        "options": [
+          "画很多的书",
+          "洗脸的东西",
+          "名字",
+          "自己的家乡"
+        ],
+        "explanation": "Đối chiếu đoạn: “弟弟借了一本画很多的书，每天都带在包里。” → Chọn “画很多的书”."
+      },
+      {
+        "id": "H3-R14-5-Q2",
+        "question": "书为什么有水？",
+        "answer": "水杯里的水流出来了",
+        "options": [
+          "水杯里的水流出来了",
+          "她第一次来北京",
+          "人太多，可能要等很久",
+          "房间里不太亮"
+        ],
+        "explanation": "Đối chiếu đoạn: “昨天他把水杯放在书旁边，水不小心流出来，书被弄得都是水。” → Chọn “水杯里的水流出来了”."
+      },
+      {
+        "id": "H3-R14-5-Q3",
+        "question": "妈妈把书放在哪儿？",
+        "answer": "桌子上",
+        "options": [
+          "桌子上",
+          "大路",
+          "商店",
+          "楼下"
+        ],
+        "explanation": "Đối chiếu đoạn: “他很着急，妈妈帮他把书打开，放在桌子上慢慢干。” → Chọn “桌子上”."
+      },
+      {
+        "id": "H3-R14-5-Q4",
+        "question": "弟弟以后要怎么放水杯和书？",
+        "answer": "分开放",
+        "options": [
+          "分开放",
+          "准备东西",
+          "找书",
+          "请我吃饭"
+        ],
+        "explanation": "Đối chiếu đoạn: “弟弟说以后一定把水杯和书分开放，借来的东西更要小心。” → Chọn “分开放”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R15",
+    "lesson": 15,
+    "title": "Cuộc sống ở Bắc Kinh",
+    "text": "我不是在北京出生的，但是已经在这里住了十年。这里的街道和饭馆，我都很了解。朋友们常说，我已经是半个北京人了。每次有朋友来玩，我都会带他们去吃当地的菜，给他们介绍这座城市。",
+    "pinyin": "Wǒ bú shì zài běi jīng chū shēng de， dàn shì yǐ jīng zài zhè lǐ zhù le shí nián。 zhè lǐ de jiē dào hé fàn guǎn， wǒ dōu hěn liǎo jiě。 péng you men cháng shuō， wǒ yǐ jīng shì bàn gè běi jīng rén le。 měi cì yǒu péng you lái wán， wǒ dū huì dài tā men qù chī dāng de de cài， gěi tā men jiè shào zhè zuò chéng shì。",
+    "translation": "Tôi không sinh ra ở Bắc Kinh nhưng đã sống ở đây mười năm. Tôi quen đường phố và nhà hàng ở đây. Bạn bè thường nói tôi là người Bắc Kinh một nửa rồi. Mỗi khi có bạn đến chơi, tôi dẫn họ ăn món địa phương và giới thiệu thành phố.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R15-Q1",
+        "question": "我在北京住了多久？",
+        "answer": "十年",
+        "options": [
+          "十年",
+          "一年",
+          "半年",
+          "两个月"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 十年"
+      },
+      {
+        "id": "H3-R15-Q2",
+        "question": "我是在北京出生的吗？",
+        "answer": "不是",
+        "options": [
+          "不是",
+          "是",
+          "没有说",
+          "在北京医院出生"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 不是"
+      },
+      {
+        "id": "H3-R15-Q3",
+        "question": "朋友们为什么说我是半个北京人？",
+        "answer": "我很了解这里",
+        "options": [
+          "我很了解这里",
+          "我在这里出生",
+          "我只住半年",
+          "我不认识这里"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 我很了解这里"
+      },
+      {
+        "id": "H3-R15-Q4",
+        "question": "朋友来玩时我带他们做什么？",
+        "answer": "吃当地的菜",
+        "options": [
+          "吃当地的菜",
+          "去机场上班",
+          "去医院",
+          "参加考试"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 吃当地的菜"
+      }
+    ]
+  },
+  {
+    "id": "H3-R15-2",
+    "lesson": 15,
+    "title": "Đưa bạn đi thăm thành phố",
+    "text": "朋友第一次来我住的城市，让我带他去看看。我没有先带他去最有名的地方，就去了我小时候常去的市场。那里有很多我喜欢的菜，也有认识我多年的老板。朋友说，这样不但能看城市，还能了解我的生活。",
+    "pinyin": "Péng you dì yī cì lái wǒ zhù de chéng shì， ràng wǒ dài tā qù kàn kàn。 wǒ méi yǒu xiān dài tā qù zuì yǒu míng de dì fang， jiù qù le wǒ xiǎo shí hou cháng qù de shì chǎng。 nà lǐ yǒu hěn duō wǒ xǐ huan de cài， yě yǒu rèn shi wǒ duō nián de lǎo bǎn。 péng you shuō， zhè yàng bù dàn néng kàn chéng shì， hái néng liǎo jiě wǒ de shēng huó。",
+    "translation": "Bạn lần đầu đến thành phố, nhờ tôi dẫn tham quan. Tôi chưa dẫn đến nơi nổi tiếng mà tới chợ thời nhỏ hay đi. Có nhiều món tôi thích, người bán quen lâu năm. Bạn nói vừa xem thành phố vừa hiểu cuộc sống tôi.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R15-2-Q1",
+        "question": "朋友是第几次来这个城市？",
+        "answer": "第一次",
+        "options": [
+          "第一次",
+          "一个",
+          "两个",
+          "两个晚上"
+        ],
+        "explanation": "Đối chiếu đoạn: “朋友第一次来我住的城市，让我带他去看看。” → Chọn “第一次”."
+      },
+      {
+        "id": "H3-R15-2-Q2",
+        "question": "我先带朋友去哪儿？",
+        "answer": "小时候常去的市场",
+        "options": [
+          "小时候常去的市场",
+          "水不深的地方",
+          "纸上",
+          "桌子左边"
+        ],
+        "explanation": "Đối chiếu đoạn: “我没有先带他去最有名的地方，就去了我小时候常去的市场。” → Chọn “小时候常去的市场”."
+      },
+      {
+        "id": "H3-R15-2-Q3",
+        "question": "市场里有什么我喜欢的东西？",
+        "answer": "菜",
+        "options": [
+          "菜",
+          "名字",
+          "自己的家乡",
+          "照片"
+        ],
+        "explanation": "Đối chiếu đoạn: “那里有很多我喜欢的菜，也有认识我多年的老板。” → Chọn “菜”."
+      },
+      {
+        "id": "H3-R15-2-Q4",
+        "question": "朋友觉得还能了解什么？",
+        "answer": "我的生活",
+        "options": [
+          "我的生活",
+          "名字",
+          "自己的家乡",
+          "照片"
+        ],
+        "explanation": "Đối chiếu đoạn: “朋友说，这样不但能看城市，还能了解我的生活。” → Chọn “我的生活”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R15-3",
+    "lesson": 15,
+    "title": "Quán ăn quen thuộc",
+    "text": "我上大学的时候，常去学校旁边的一家小店吃面。毕业以后虽然换了工作，还是每个月去一次。老板看见我，不用问就知道我要吃什么。每次坐在以前常坐的座位上，我都会想起以前跟同学一起学习的生活。",
+    "pinyin": "Wǒ shàng dà xué de shí hou， cháng qù xué xiào páng biān de yī jiā xiǎo diàn chī miàn。 bì yè yǐ hòu suī rán huàn le gōng zuò， hái shì měi gè yuè qù yī cì。 lǎo bǎn kàn jiàn wǒ， bù yòng wèn jiù zhī dao wǒ yào chī shén me。 měi cì zuò zài yǐ qián cháng zuò de zuò wèi shàng， wǒ dū huì xiǎng qǐ yǐ qián gēn tóng xué yì qǐ xué xí de shēng huó。",
+    "translation": "Thời đại học tôi hay ăn mì ở quán cạnh trường. Tốt nghiệp đổi việc vẫn mỗi tháng ghé một lần. Chủ quán thấy tôi đã biết món cần gọi. Ngồi chỗ quen tôi nhớ những ngày học cùng bạn.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R15-3-Q1",
+        "question": "我上大学时常去哪儿吃面？",
+        "answer": "学校旁边的小店",
+        "options": [
+          "学校旁边的小店",
+          "水不深的地方",
+          "纸上",
+          "桌子左边"
+        ],
+        "explanation": "Đối chiếu đoạn: “我上大学的时候，常去学校旁边的一家小店吃面。” → Chọn “学校旁边的小店”."
+      },
+      {
+        "id": "H3-R15-3-Q2",
+        "question": "现在多久去一次？",
+        "answer": "每个月一次",
+        "options": [
+          "每个月一次",
+          "两天一次",
+          "五年",
+          "三分钟"
+        ],
+        "explanation": "Đối chiếu đoạn: “毕业以后虽然换了工作，还是每个月去一次。” → Chọn “每个月一次”."
+      },
+      {
+        "id": "H3-R15-3-Q3",
+        "question": "老板需要问我要吃什么吗？",
+        "answer": "不用问",
+        "options": [
+          "不用问",
+          "看电视",
+          "在规定的时间还了",
+          "准备东西"
+        ],
+        "explanation": "Đối chiếu đoạn: “老板看见我，不用问就知道我要吃什么。” → Chọn “不用问”."
+      },
+      {
+        "id": "H3-R15-3-Q4",
+        "question": "我会想起什么时候的生活？",
+        "answer": "跟同学一起学习的生活",
+        "options": [
+          "跟同学一起学习的生活",
+          "五年",
+          "三分钟",
+          "每天晚上"
+        ],
+        "explanation": "Đối chiếu đoạn: “每次坐在以前常坐的座位上，我都会想起以前跟同学一起学习的生活。” → Chọn “跟同学一起学习的生活”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R15-4",
+    "lesson": 15,
+    "title": "Kể chuyện về quê hương",
+    "text": "老师让每个人介绍一个自己了解的地方。我选了从小住到大的城市，还准备了一些旧照片。介绍的时候，我先讲城市在哪里，再讲家附近的河和公园。同学们问了很多问题。讲完以后，我发现自己比以前更喜欢这个地方了。",
+    "pinyin": "Lǎo shī ràng měi gè rén jiè shào yí gè zì jǐ liǎo jiě de dì fang。 wǒ xuǎn le cóng xiǎo zhù dào dà de chéng shì， hái zhǔn bèi le yī xiē jiù zhào piān。 jiè shào de shí hou， wǒ xiān jiǎng chéng shì zài nǎ lǐ， zài jiǎng jiā fù jìn de hé hé gōng yuán。 tóng xué men wèn le hěn duō wèn tí。 jiǎng wán yǐ hòu， wǒ fā xiàn zì jǐ bǐ yǐ qián gèng xǐ huan zhè ge dì fang le。",
+    "translation": "Thầy giao giới thiệu nơi quen thuộc. Tôi chọn thành phố lớn lên, chuẩn bị ảnh cũ. Tôi nói vị trí rồi con sông, công viên gần nhà. Các bạn hỏi nhiều. Nói xong tôi thấy yêu nơi này hơn.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R15-4-Q1",
+        "question": "老师让大家介绍什么？",
+        "answer": "了解的地方",
+        "options": [
+          "了解的地方",
+          "桌子左边",
+          "大路",
+          "商店"
+        ],
+        "explanation": "Đối chiếu đoạn: “老师让每个人介绍一个自己了解的地方。” → Chọn “了解的地方”."
+      },
+      {
+        "id": "H3-R15-4-Q2",
+        "question": "我准备了什么？",
+        "answer": "旧照片",
+        "options": [
+          "旧照片",
+          "名字",
+          "自己的家乡",
+          "电脑"
+        ],
+        "explanation": "Đối chiếu đoạn: “我选了从小住到大的城市，还准备了一些旧照片。” → Chọn “旧照片”."
+      },
+      {
+        "id": "H3-R15-4-Q3",
+        "question": "我先介绍城市的什么？",
+        "answer": "在哪里",
+        "options": [
+          "在哪里",
+          "商店",
+          "楼下",
+          "可以买菜的地方"
+        ],
+        "explanation": "Đối chiếu đoạn: “介绍的时候，我先讲城市在哪里，再讲家附近的河和公园。” → Chọn “在哪里”."
+      },
+      {
+        "id": "H3-R15-4-Q4",
+        "question": "介绍以后我有什么感觉？",
+        "answer": "更喜欢这个地方",
+        "options": [
+          "更喜欢这个地方",
+          "打得越来越好",
+          "下雨了",
+          "很认真"
+        ],
+        "explanation": "Đối chiếu đoạn: “讲完以后，我发现自己比以前更喜欢这个地方了。” → Chọn “更喜欢这个地方”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R15-5",
+    "lesson": 15,
+    "title": "Từ khách lạ thành người quen",
+    "text": "刚到这里的时候，我连去超市的路都不认识。现在住了五年，附近的大街小路我都很了解。有新同事问路，我总能说得很清楚。我觉得，了解一个城市不只是记住地图，还要慢慢认识在这里生活的人和发生过的事。",
+    "pinyin": "Gāng dào zhè lǐ de shí hou， wǒ lián qù chāo shì de lù dōu bù rèn shi。 xiàn zài zhù le wǔ nián， fù jìn de dà jiē xiǎo lù wǒ dōu hěn liǎo jiě。 yǒu xīn tóng shì wèn lù， wǒ zǒng néng shuō de hěn qīng chǔ。 wǒ jué de， liǎo jiě yí gè chéng shì bù zhǐ shì jì zhù dì tú， hái yào màn màn rèn shi zài zhè lǐ shēng huó de rén hé fā shēng guò de shì。",
+    "translation": "Mới đến tôi chưa biết đường siêu thị. Sau năm năm, đường lớn nhỏ quanh đây đều quen. Đồng nghiệp mới hỏi tôi chỉ rõ. Hiểu thành phố không chỉ nhớ bản đồ mà còn biết người và chuyện ở đây.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R15-5-Q1",
+        "question": "刚到这里时我认识去超市的路吗？",
+        "answer": "不认识",
+        "options": [
+          "不认识",
+          "比以前有精神",
+          "近一点儿",
+          "打得越来越好"
+        ],
+        "explanation": "Đối chiếu đoạn: “刚到这里的时候，我连去超市的路都不认识。” → Chọn “不认识”."
+      },
+      {
+        "id": "H3-R15-5-Q2",
+        "question": "我在这里住了多久？",
+        "answer": "五年",
+        "options": [
+          "五年",
+          "跟同学一起学习的生活",
+          "三分钟",
+          "每天晚上"
+        ],
+        "explanation": "Đối chiếu đoạn: “现在住了五年，附近的大街小路我都很了解。” → Chọn “五年”."
+      },
+      {
+        "id": "H3-R15-5-Q3",
+        "question": "谁会向我问路？",
+        "answer": "新同事",
+        "options": [
+          "新同事",
+          "朋友",
+          "家人",
+          "邻居"
+        ],
+        "explanation": "Đối chiếu đoạn: “有新同事问路，我总能说得很清楚。” → Chọn “新同事”."
+      },
+      {
+        "id": "H3-R15-5-Q4",
+        "question": "我觉得了解城市还需要认识什么？",
+        "answer": "这里生活的人和事",
+        "options": [
+          "这里生活的人和事",
+          "电脑",
+          "怎么做",
+          "一点儿帮助"
+        ],
+        "explanation": "Đối chiếu đoạn: “我觉得，了解一个城市不只是记住地图，还要慢慢认识在这里生活的人和发生过的事。” → Chọn “这里生活的人和事”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R16",
+    "lesson": 16,
+    "title": "Tìm hiểu về gấu trúc",
+    "text": "弟弟很喜欢大熊猫。昨天，他在电视上看到有的大熊猫出国了，就问我它们为什么去国外。我也不太清楚，就和他一起上网找书和文章。我们看了很多照片，还读了一篇文章。弟弟说以后想去动物园看真正的大熊猫。",
+    "pinyin": "Dì di hěn xǐ huan dà xióng māo。 zuó tiān， tā zài diàn shì shàng kàn dào yǒu de dà xióng māo chū guó le， jiù wèn wǒ tā men wèi shén me qù guó wài。 wǒ yě bù tài qīng chǔ， jiù hé tā yì qǐ shàng wǎng zhǎo shū hé wén zhāng。 wǒ men kàn le hěn duō zhào piān， hái dú le yì piān wén zhāng。 dì di shuō yǐ hòu xiǎng qù dòng wù yuán kàn zhēn zhèng de dà xióng māo。",
+    "translation": "Em trai rất thích gấu trúc. Hôm qua em xem tivi thấy có gấu trúc ra nước ngoài, liền hỏi tôi vì sao. Tôi cũng chưa rõ nên cùng em lên mạng tìm tài liệu. Chúng tôi xem nhiều ảnh và đọc một bài viết. Em nói sau này muốn đến vườn thú xem gấu trúc thật.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R16-Q1",
+        "question": "谁很喜欢大熊猫？",
+        "answer": "弟弟",
+        "options": [
+          "弟弟",
+          "哥哥",
+          "老师",
+          "邻居"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 弟弟"
+      },
+      {
+        "id": "H3-R16-Q2",
+        "question": "弟弟在哪儿看到大熊猫出国的消息？",
+        "answer": "电视上",
+        "options": [
+          "电视上",
+          "书里",
+          "车站里",
+          "动物园里"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 电视上"
+      },
+      {
+        "id": "H3-R16-Q3",
+        "question": "我们一起做了什么？",
+        "answer": "上网找书和文章",
+        "options": [
+          "上网找书和文章",
+          "买机票",
+          "去国外",
+          "去医院"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 上网找书和文章"
+      },
+      {
+        "id": "H3-R16-Q4",
+        "question": "弟弟以后想去哪儿？",
+        "answer": "动物园",
+        "options": [
+          "动物园",
+          "机场",
+          "宾馆",
+          "银行"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 动物园"
+      }
+    ]
+  },
+  {
+    "id": "H3-R16-2",
+    "lesson": 16,
+    "title": "Đi xem gấu trúc",
+    "text": "星期天爸爸带我们去动物园看大熊猫。我们到的时候，大熊猫正在吃东西，弟弟看得不想走。后来它爬到树上睡觉了，弟弟才愿意去看别的动物。回家的路上，他一直问我大熊猫一天要睡多久。我说回去一起找书和文章看看。",
+    "pinyin": "Xīng qī tiān bà ba dài wǒ men qù dòng wù yuán kàn dà xióng māo。 wǒ men dào de shí hou， dà xióng māo zhèng zài chī dōng xi， dì di kàn dé bù xiǎng zǒu。 hòu lái tā pá dào shù shàng shuì jiào le， dì di cái yuàn yì qù kàn bié de dòng wù。 huí jiā de lù shàng， tā yì zhí wèn wǒ dà xióng māo yī tiān yào shuì duō jiǔ。 wǒ shuō huí qù yì qǐ zhǎo shū hé wén zhāng kàn kàn。",
+    "translation": "Chủ nhật bố dẫn đi vườn thú. Gấu trúc đang ăn, em nhìn mãi. Sau nó leo cây ngủ, em mới chịu xem con khác. Về nhà em hỏi gấu trúc ngủ bao lâu, tôi hẹn tìm tài liệu cùng.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R16-2-Q1",
+        "question": "爸爸星期天带我们去哪儿？",
+        "answer": "动物园",
+        "options": [
+          "动物园",
+          "水不深的地方",
+          "纸上",
+          "桌子左边"
+        ],
+        "explanation": "Đối chiếu đoạn: “星期天爸爸带我们去动物园看大熊猫。” → Chọn “动物园”."
+      },
+      {
+        "id": "H3-R16-2-Q2",
+        "question": "我们到时大熊猫在做什么？",
+        "answer": "吃东西",
+        "options": [
+          "吃东西",
+          "游泳",
+          "看电视",
+          "在规定的时间还了"
+        ],
+        "explanation": "Đối chiếu đoạn: “我们到的时候，大熊猫正在吃东西，弟弟看得不想走。” → Chọn “吃东西”."
+      },
+      {
+        "id": "H3-R16-2-Q3",
+        "question": "后来大熊猫爬到哪儿睡觉？",
+        "answer": "树上",
+        "options": [
+          "树上",
+          "桌子左边",
+          "大路",
+          "商店"
+        ],
+        "explanation": "Đối chiếu đoạn: “后来它爬到树上睡觉了，弟弟才愿意去看别的动物。” → Chọn “树上”."
+      },
+      {
+        "id": "H3-R16-2-Q4",
+        "question": "弟弟想了解什么？",
+        "answer": "大熊猫一天睡多久",
+        "options": [
+          "大熊猫一天睡多久",
+          "自己的家乡",
+          "照片",
+          "电脑"
+        ],
+        "explanation": "Đối chiếu đoạn: “回家的路上，他一直问我大熊猫一天要睡多久。” → Chọn “大熊猫一天睡多久”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R16-3",
+    "lesson": 16,
+    "title": "Đọc tin tức cùng em",
+    "text": "弟弟在网上看到一条关于大熊猫的新闻，里面有几个词他不认识，就来问我。我没有直接告诉他整篇文章的意思，就先跟他一起看图片，再把不懂的词查清楚。读完以后，弟弟用自己的话讲了一遍，发现自己已经能看懂主要内容了。",
+    "pinyin": "Dì di zài wǎng shàng kàn dào yī tiáo guān yú dà xióng māo de xīn wén， lǐ miàn yǒu jǐ gè cí tā bù rèn shi， jiù lái wèn wǒ。 wǒ méi yǒu zhí jiē gào sù tā zhěng piān wén zhāng de yì si， jiù xiān gēn tā yì qǐ kàn tú piàn， zài bǎ bù dǒng de cí chá qīng chǔ。 dú wán yǐ hòu， dì di yòng zì jǐ de huà jiǎng le yī biàn， fā xiàn zì jǐ yǐ jīng néng kàn dǒng zhǔ yào nèi róng le。",
+    "translation": "Em đọc tin gấu trúc trên mạng, có từ lạ nên hỏi tôi. Tôi không dịch cả bài ngay mà cùng xem ảnh, tra từ. Đọc xong em kể lại và thấy đã hiểu nội dung chính.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R16-3-Q1",
+        "question": "弟弟在哪儿看到新闻？",
+        "answer": "网上",
+        "options": [
+          "网上",
+          "桌子左边",
+          "大路",
+          "商店"
+        ],
+        "explanation": "Đối chiếu đoạn: “弟弟在网上看到一条关于大熊猫的新闻，里面有几个词他不认识，就来问我。” → Chọn “网上”."
+      },
+      {
+        "id": "H3-R16-3-Q2",
+        "question": "新闻是关于什么的？",
+        "answer": "大熊猫",
+        "options": [
+          "大熊猫",
+          "名字",
+          "自己的家乡",
+          "照片"
+        ],
+        "explanation": "Đối chiếu đoạn: “弟弟在网上看到一条关于大熊猫的新闻，里面有几个词他不认识，就来问我。” → Chọn “大熊猫”."
+      },
+      {
+        "id": "H3-R16-3-Q3",
+        "question": "我们先一起看什么？",
+        "answer": "图片",
+        "options": [
+          "图片",
+          "自己的家乡",
+          "照片",
+          "电脑"
+        ],
+        "explanation": "Đối chiếu đoạn: “我没有直接告诉他整篇文章的意思，就先跟他一起看图片，再把不懂的词查清楚。” → Chọn “图片”."
+      },
+      {
+        "id": "H3-R16-3-Q4",
+        "question": "读完以后弟弟做了什么？",
+        "answer": "用自己的话讲了一遍",
+        "options": [
+          "用自己的话讲了一遍",
+          "准备东西",
+          "找书",
+          "请我吃饭"
+        ],
+        "explanation": "Đối chiếu đoạn: “读完以后，弟弟用自己的话讲了一遍，发现自己已经能看懂主要内容了。” → Chọn “用自己的话讲了一遍”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R16-4",
+    "lesson": 16,
+    "title": "Một cuốn sổ về động vật",
+    "text": "妹妹喜欢动物，专门准备了一个本子。每学到一种动物，她就把名字和特点写下来，有时候还画一张图。这个星期她写的是大熊猫。她发现只看照片还不够，还想了解它们住在哪里、吃什么。我答应周末和她去图书馆找书。",
+    "pinyin": "Mèi mei xǐ huan dòng wù， zhuān mén zhǔn bèi le yí gè běn zi。 měi xué dào yī zhǒng dòng wù， tā jiù bǎ míng zi hé tè diǎn xiě xià lái， yǒu shí hòu hái huà yī zhāng tú。 zhè ge xīng qī tā xiě de shì dà xióng māo。 tā fā xiàn zhǐ kàn zhào piān hái bù gòu， hái xiǎng liǎo jiě tā men zhù zài nǎ lǐ、 chī shén me。 wǒ dā yìng zhōu mò hé tā qù tú shū guǎn zhǎo shū。",
+    "translation": "Em thích động vật, chuẩn bị sổ riêng. Học con nào thì ghi tên, đặc điểm, đôi lúc vẽ hình. Tuần này ghi gấu trúc, em muốn biết thêm nơi sống và thức ăn. Tôi hẹn cuối tuần cùng em đến thư viện.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R16-4-Q1",
+        "question": "妹妹准备了什么？",
+        "answer": "一个本子",
+        "options": [
+          "一个本子",
+          "自己的家乡",
+          "电脑",
+          "怎么做"
+        ],
+        "explanation": "Đối chiếu đoạn: “妹妹喜欢动物，专门准备了一个本子。” → Chọn “一个本子”."
+      },
+      {
+        "id": "H3-R16-4-Q2",
+        "question": "她会写下动物的什么？",
+        "answer": "名字和特点",
+        "options": [
+          "名字和特点",
+          "电脑",
+          "怎么做",
+          "一点儿帮助"
+        ],
+        "explanation": "Đối chiếu đoạn: “每学到一种动物，她就把名字和特点写下来，有时候还画一张图。” → Chọn “名字和特点”."
+      },
+      {
+        "id": "H3-R16-4-Q3",
+        "question": "这个星期她写什么动物？",
+        "answer": "大熊猫",
+        "options": [
+          "大熊猫",
+          "怎么做",
+          "一点儿帮助",
+          "一件衬衫"
+        ],
+        "explanation": "Đối chiếu đoạn: “这个星期她写的是大熊猫。” → Chọn “大熊猫”."
+      },
+      {
+        "id": "H3-R16-4-Q4",
+        "question": "周末我们准备去哪儿？",
+        "answer": "图书馆",
+        "options": [
+          "图书馆",
+          "楼下",
+          "可以买菜的地方",
+          "超市"
+        ],
+        "explanation": "Đối chiếu đoạn: “我答应周末和她去图书馆找书。” → Chọn “图书馆”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R16-5",
+    "lesson": 16,
+    "title": "Chia sẻ điều vừa học",
+    "text": "老师让我们在课上讲一个最近学到的新知识。我准备介绍大熊猫，先看书，再整理书和文章。开始我想讲很多内容，后来发现时间只有三分钟，就只选了三个最有意思的特点。讲完以后，同学们都想看看我带来的照片，我很高兴。",
+    "pinyin": "Lǎo shī ràng wǒ men zài kè shàng jiǎng yí gè zuì jìn xué dào de xīn zhī shí。 wǒ zhǔn bèi jiè shào dà xióng māo， xiān kàn shū， zài zhěng lǐ shū hé wén zhāng。 kāi shǐ wǒ xiǎng jiǎng hěn duō nèi róng， hòu lái fā xiàn shí jiān zhǐ yǒu sān fēn zhōng， jiù zhǐ xuǎn le sān gè zuì yǒu yì si de tè diǎn。 jiǎng wán yǐ hòu， tóng xué men dōu xiǎng kàn kàn wǒ dài lái de zhào piān， wǒ hěn gāo xìng。",
+    "translation": "Thầy cho chia sẻ kiến thức mới. Tôi chọn gấu trúc, đọc sách và sắp xếp tài liệu. Ban đầu định nói nhiều nhưng chỉ có ba phút nên chọn ba đặc điểm thú vị nhất. Nói xong các bạn muốn xem ảnh, tôi rất vui.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R16-5-Q1",
+        "question": "我准备介绍什么？",
+        "answer": "大熊猫",
+        "options": [
+          "大熊猫",
+          "自己的家乡",
+          "电脑",
+          "怎么做"
+        ],
+        "explanation": "Đối chiếu đoạn: “我准备介绍大熊猫，先看书，再整理书和文章。” → Chọn “大熊猫”."
+      },
+      {
+        "id": "H3-R16-5-Q2",
+        "question": "准备时我先做什么？",
+        "answer": "看书",
+        "options": [
+          "看书",
+          "找书",
+          "请我吃饭",
+          "骑车"
+        ],
+        "explanation": "Đối chiếu đoạn: “我准备介绍大熊猫，先看书，再整理书和文章。” → Chọn “看书”."
+      },
+      {
+        "id": "H3-R16-5-Q3",
+        "question": "介绍时间有多久？",
+        "answer": "三分钟",
+        "options": [
+          "三分钟",
+          "每天晚上",
+          "下课后",
+          "下午三点"
+        ],
+        "explanation": "Đối chiếu đoạn: “开始我想讲很多内容，后来发现时间只有三分钟，就只选了三个最有意思的特点。” → Chọn “三分钟”."
+      },
+      {
+        "id": "H3-R16-5-Q4",
+        "question": "我最后选了几个特点？",
+        "answer": "三个",
+        "options": [
+          "三个",
+          "第一次",
+          "两个",
+          "两个晚上"
+        ],
+        "explanation": "Đối chiếu đoạn: “开始我想讲很多内容，后来发现时间只有三分钟，就只选了三个最有意思的特点。” → Chọn “三个”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R17",
+    "lesson": 17,
+    "title": "Học hỏi từ bạn cùng lớp",
+    "text": "同学是我们班学习最认真的人里面的一个。他每天在规定的时间完成作业，遇到不懂的问题就问老师。我以前常常一边做作业一边看手机，做得很慢。现在我向他学习，做作业时把手机放到别的房间。这样，我比以前快多了。",
+    "pinyin": "Tóng xué shì wǒ men bān xué xí zuì rèn zhēn de rén lǐ miàn de yí gè。 tā měi tiān zài guī dìng de shí jiān wán chéng zuò yè， yù dào bù dǒng de wèn tí jiù wèn lǎo shī。 wǒ yǐ qián cháng cháng yī biān zuò zuò yè yī biān kàn shǒu jī， zuò de hěn màn。 xiàn zài wǒ xiàng tā xué xí， zuò zuò yè shí bǎ shǒu jī fàng dào bié de fáng jiān。 zhè yàng， wǒ bǐ yǐ qián kuài duō le。",
+    "translation": "Bạn cùng lớp là một trong những người học nghiêm túc nhất lớp. Bạn làm bài đúng giờ và hỏi thầy khi chưa hiểu. Trước đây tôi vừa làm bài vừa xem điện thoại nên rất chậm. Giờ tôi học bạn, cất điện thoại sang phòng khác khi làm bài. Nhờ vậy tôi nhanh hơn trước nhiều.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R17-Q1",
+        "question": "同学遇到不懂的问题怎么办？",
+        "answer": "问老师",
+        "options": [
+          "问老师",
+          "不做作业",
+          "看手机",
+          "马上回家"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 问老师"
+      },
+      {
+        "id": "H3-R17-Q2",
+        "question": "我以前为什么做作业很慢？",
+        "answer": "一边做一边看手机",
+        "options": [
+          "一边做一边看手机",
+          "没有书",
+          "每天生病",
+          "总是问老师"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 一边做一边看手机"
+      },
+      {
+        "id": "H3-R17-Q3",
+        "question": "现在做作业时我把手机放在哪儿？",
+        "answer": "别的房间",
+        "options": [
+          "别的房间",
+          "书包上",
+          "桌子上",
+          "手里"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 别的房间"
+      },
+      {
+        "id": "H3-R17-Q4",
+        "question": "现在我做作业的速度怎么样？",
+        "answer": "比以前快多了",
+        "options": [
+          "比以前快多了",
+          "更慢了",
+          "没有变化",
+          "没有说"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 比以前快多了"
+      }
+    ]
+  },
+  {
+    "id": "H3-R17-2",
+    "lesson": 17,
+    "title": "Học cách ghi chép",
+    "text": "同学上课总是很认真，我想向她学习。以前我把老师说的每句话都写下来，结果没有时间听。她告诉我，应该先听懂，只记最重要的地方。我试了几天，发现笔记少了，但是下课以后更容易想起老师讲的内容。",
+    "pinyin": "Tóng xué shàng kè zǒng shì hěn rèn zhēn， wǒ xiǎng xiàng tā xué xí。 yǐ qián wǒ bǎ lǎo shī shuō de měi jù huà dōu xiě xià lái， jié guǒ méi yǒu shí jiān tīng。 tā gào sù wǒ， yīng gāi xiān tīng dǒng， zhǐ jì zuì zhòng yào de dì fang。 wǒ shì le jǐ tiān， fā xiàn bǐ jì shǎo le， dàn shì xià kè yǐ hòu gèng róng yì xiǎng qǐ lǎo shī jiǎng de nèi róng。",
+    "translation": "Bạn cùng bàn học chăm, tôi muốn học theo. Trước tôi chép từng câu nên không kịp nghe. Bạn bảo nên hiểu trước, chỉ ghi điểm quan trọng. Thử mấy ngày, ghi ít hơn nhưng nhớ nội dung tốt hơn.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R17-2-Q1",
+        "question": "我想向谁学习？",
+        "answer": "同学",
+        "options": [
+          "同学",
+          "弟弟",
+          "朋友",
+          "家人"
+        ],
+        "explanation": "Đối chiếu đoạn: “同学上课总是很认真，我想向她学习。” → Chọn “同学”."
+      },
+      {
+        "id": "H3-R17-2-Q2",
+        "question": "我以前怎么记笔记？",
+        "answer": "每句话都写下来",
+        "options": [
+          "每句话都写下来",
+          "看电视",
+          "在规定的时间还了",
+          "准备东西"
+        ],
+        "explanation": "Đối chiếu đoạn: “以前我把老师说的每句话都写下来，结果没有时间听。” → Chọn “每句话都写下来”."
+      },
+      {
+        "id": "H3-R17-2-Q3",
+        "question": "同学建议先做什么？",
+        "answer": "先听懂",
+        "options": [
+          "先听懂",
+          "在规定的时间还了",
+          "准备东西",
+          "找书"
+        ],
+        "explanation": "Đối chiếu đoạn: “她告诉我，应该先听懂，只记最重要的地方。” → Chọn “先听懂”."
+      },
+      {
+        "id": "H3-R17-2-Q4",
+        "question": "改变方法以后有什么结果？",
+        "answer": "更容易想起上课内容",
+        "options": [
+          "更容易想起上课内容",
+          "打得越来越好",
+          "下雨了",
+          "害怕"
+        ],
+        "explanation": "Đối chiếu đoạn: “我试了几天，发现笔记少了，但是下课以后更容易想起老师讲的内容。” → Chọn “更容易想起上课内容”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R17-3",
+    "lesson": 17,
+    "title": "Làm việc theo kế hoạch",
+    "text": "哥哥每天事情很多，但是很少忘记重要的事。我问他有什么办法，他给我看手机上的计划。原来他每天晚上都先写好第二天要做什么，再把最重要的事放在前面。我也开始这样做，发现先想清楚再行动，做事会快一些。",
+    "pinyin": "Gē ge měi tiān shì qíng hěn duō， dàn shì hěn shǎo wàng jì zhòng yào de shì。 wǒ wèn tā yǒu shén me bàn fǎ， tā gěi wǒ kàn shǒu jī shàng de jì huà。 yuán lái tā měi tiān wǎn shàng dōu xiān xiě hǎo dì èr tiān yào zuò shén me， zài bǎ zuì zhòng yào de shì fàng zài qián miàn。 wǒ yě kāi shǐ zhè yàng zuò， fā xiàn xiān xiǎng qīng chǔ zài xíng dòng， zuò shì huì kuài yī xiē。",
+    "translation": "Anh nhiều việc nhưng ít quên. Tôi hỏi cách, anh cho xem kế hoạch trong điện thoại. Mỗi tối anh ghi việc ngày mai, ưu tiên việc quan trọng. Tôi bắt đầu làm theo, thấy nghĩ rõ rồi làm sẽ nhanh hơn.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R17-3-Q1",
+        "question": "哥哥很少忘记什么？",
+        "answer": "重要的事",
+        "options": [
+          "重要的事",
+          "自己的家乡",
+          "照片",
+          "电脑"
+        ],
+        "explanation": "Đối chiếu đoạn: “哥哥每天事情很多，但是很少忘记重要的事。” → Chọn “重要的事”."
+      },
+      {
+        "id": "H3-R17-3-Q2",
+        "question": "哥哥把计划记在哪儿？",
+        "answer": "手机上",
+        "options": [
+          "手机上",
+          "大路",
+          "商店",
+          "楼下"
+        ],
+        "explanation": "Đối chiếu đoạn: “我问他有什么办法，他给我看手机上的计划。” → Chọn “手机上”."
+      },
+      {
+        "id": "H3-R17-3-Q3",
+        "question": "他什么时候写第二天的计划？",
+        "answer": "每天晚上",
+        "options": [
+          "每天晚上",
+          "五年",
+          "三分钟",
+          "下课后"
+        ],
+        "explanation": "Đối chiếu đoạn: “原来他每天晚上都先写好第二天要做什么，再把最重要的事放在前面。” → Chọn “每天晚上”."
+      },
+      {
+        "id": "H3-R17-3-Q4",
+        "question": "他把什么事放在前面？",
+        "answer": "最重要的事",
+        "options": [
+          "最重要的事",
+          "怎么做",
+          "一点儿帮助",
+          "一件衬衫"
+        ],
+        "explanation": "Đối chiếu đoạn: “原来他每天晚上都先写好第二天要做什么，再把最重要的事放在前面。” → Chọn “最重要的事”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R17-4",
+    "lesson": 17,
+    "title": "Hỏi lại khi chưa hiểu",
+    "text": "以前我上课听不懂的时候，不敢向老师提问，怕别人觉得我学得慢。同学告诉我，她也有很多不懂的地方，但是每次都会问清楚。我试着在下课后找老师，老师很高兴地帮我说清楚。从那以后，我不再把问题放到第二天。",
+    "pinyin": "Yǐ qián wǒ shàng kè tīng bù dǒng de shí hou， bù gǎn xiàng lǎo shī tí wèn， pà bié rén jué de wǒ xué dé màn。 tóng xué gào sù wǒ， tā yě yǒu hěn duō bù dǒng de dì fang， dàn shì měi cì dū huì wèn qīng chǔ。 wǒ shì zhe zài xià kè hòu zhǎo lǎo shī， lǎo shī hěn gāo xìng de bāng wǒ shuō qīng chǔ。 cóng nà yǐ hòu， wǒ bù zài bǎ wèn tí fàng dào dì èr tiān。",
+    "translation": "Trước tôi chưa hiểu nhưng ngại hỏi, sợ bị nghĩ học chậm. Bạn nói bạn cũng có chỗ chưa hiểu và luôn hỏi rõ. Tôi thử hỏi thầy sau giờ, thầy vui vẻ giải thích. Từ đó tôi không để vấn đề đến hôm sau.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R17-4-Q1",
+        "question": "我以前为什么不敢提问？",
+        "answer": "怕别人觉得我学得慢",
+        "options": [
+          "怕别人觉得我学得慢",
+          "人太多，可能要等很久",
+          "房间里不太亮",
+          "包里带了水"
+        ],
+        "explanation": "Đối chiếu đoạn: “以前我上课听不懂的时候，不敢向老师提问，怕别人觉得我学得慢。” → Chọn “怕别人觉得我学得慢”."
+      },
+      {
+        "id": "H3-R17-4-Q2",
+        "question": "谁建议我问清楚？",
+        "answer": "同学",
+        "options": [
+          "同学",
+          "邻居",
+          "服务台的工作人员",
+          "妈妈"
+        ],
+        "explanation": "Đối chiếu đoạn: “同学告诉我，她也有很多不懂的地方，但是每次都会问清楚。” → Chọn “同学”."
+      },
+      {
+        "id": "H3-R17-4-Q3",
+        "question": "我什么时候找老师？",
+        "answer": "下课后",
+        "options": [
+          "下课后",
+          "三分钟",
+          "每天晚上",
+          "下午三点"
+        ],
+        "explanation": "Đối chiếu đoạn: “我试着在下课后找老师，老师很高兴地帮我说清楚。” → Chọn “下课后”."
+      },
+      {
+        "id": "H3-R17-4-Q4",
+        "question": "老师的态度怎么样？",
+        "answer": "很高兴地说清楚",
+        "options": [
+          "很高兴地说清楚",
+          "很认真",
+          "害怕",
+          "不再害怕了"
+        ],
+        "explanation": "Đối chiếu đoạn: “我试着在下课后找老师，老师很高兴地帮我说清楚。” → Chọn “很高兴地说清楚”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R17-5",
+    "lesson": 17,
+    "title": "Cùng bạn ôn thi",
+    "text": "考试快到了，朋友约我一起复习。她没有从第一页一直看到最后，就先做几道题，看看自己哪里还不会。我觉得这个方法很好，就跟着试了试。我们把不会的地方记在纸上，每天复习一点儿。后来再做题，错误比以前少多了。",
+    "pinyin": "Kǎo shì kuài dào le， péng you yuē wǒ yì qǐ fù xí。 tā méi yǒu cóng dì yī yè yì zhí kàn dào zuì hòu， jiù xiān zuò jǐ dào tí， kàn kàn zì jǐ nǎ lǐ hái bú huì。 wǒ jué de zhè ge fāng fǎ hěn hǎo， jiù gēn zhe shì le shì。 wǒ men bǎ bú huì de dì fang jì zài zhǐ shàng， měi tiān fù xí yì diǎn ér。 hòu lái zài zuò tí， cuò wù bǐ yǐ qián shǎo duō le。",
+    "translation": "Sắp thi, bạn rủ ôn. Bạn không đọc từ đầu đến cuối mà làm vài câu xem chỗ nào chưa biết. Tôi thử theo, ghi phần chưa biết ra giấy và ôn từng ngày. Về sau lỗi ít hơn.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R17-5-Q1",
+        "question": "朋友约我一起做什么？",
+        "answer": "复习",
+        "options": [
+          "复习",
+          "准备东西",
+          "找书",
+          "请我吃饭"
+        ],
+        "explanation": "Đối chiếu đoạn: “考试快到了，朋友约我一起复习。” → Chọn “复习”."
+      },
+      {
+        "id": "H3-R17-5-Q2",
+        "question": "朋友先做什么？",
+        "answer": "做几道题",
+        "options": [
+          "做几道题",
+          "找书",
+          "请我吃饭",
+          "骑车"
+        ],
+        "explanation": "Đối chiếu đoạn: “她没有从第一页一直看到最后，就先做几道题，看看自己哪里还不会。” → Chọn “做几道题”."
+      },
+      {
+        "id": "H3-R17-5-Q3",
+        "question": "我们把不会的地方记在哪儿？",
+        "answer": "纸上",
+        "options": [
+          "纸上",
+          "超市",
+          "一个学校",
+          "教室的桌子上"
+        ],
+        "explanation": "Đối chiếu đoạn: “我们把不会的地方记在纸上，每天复习一点儿。” → Chọn “纸上”."
+      },
+      {
+        "id": "H3-R17-5-Q4",
+        "question": "后来做题有什么变化？",
+        "answer": "错误少多了",
+        "options": [
+          "错误少多了",
+          "害怕",
+          "不再害怕了",
+          "比以前干净"
+        ],
+        "explanation": "Đối chiếu đoạn: “后来再做题，错误比以前少多了。” → Chọn “错误少多了”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R18",
+    "lesson": 18,
+    "title": "Tập gói sủi cảo",
+    "text": "今天妈妈教我包饺子。开始的时候，我包的饺子不好看，放进水里还容易破。妈妈让我少放一点儿菜，把旁边按紧。我试了几次，终于学会了。晚上，全家一起吃我包的饺子，我觉得特别高兴。",
+    "pinyin": "Jīn tiān mā ma jiāo wǒ bāo jiǎo zi。 kāi shǐ de shí hou， wǒ bāo de jiǎo zi bù hǎo kàn， fàng jìn shuǐ lǐ hái róng yì pò。 mā ma ràng wǒ shǎo fàng yì diǎn ér cài， bǎ páng biān àn jǐn。 wǒ shì le jǐ cì， zhōng yú xué huì le。 wǎn shàng， quán jiā yì qǐ chī wǒ bāo de jiǎo zi， wǒ jué de tè bié gāo xìng。",
+    "translation": "Hôm nay mẹ dạy tôi gói sủi cảo. Ban đầu bánh không đẹp, cho vào nước dễ vỡ. Mẹ bảo tôi cho ít nhân và ép mép chặt. Thử vài lần cuối cùng tôi học được. Buổi tối cả nhà ăn bánh tôi gói, tôi rất vui.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R18-Q1",
+        "question": "谁教我包饺子？",
+        "answer": "妈妈",
+        "options": [
+          "妈妈",
+          "爸爸",
+          "老师",
+          "邻居"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 妈妈"
+      },
+      {
+        "id": "H3-R18-Q2",
+        "question": "开始时我包的饺子怎么样？",
+        "answer": "容易破",
+        "options": [
+          "容易破",
+          "特别好看",
+          "太小了",
+          "没有菜"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 容易破"
+      },
+      {
+        "id": "H3-R18-Q3",
+        "question": "妈妈让我怎么做？",
+        "answer": "少放菜，把旁边按紧",
+        "options": [
+          "少放菜，把旁边按紧",
+          "多放菜",
+          "不放进水里",
+          "不要再试"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 少放菜，把旁边按紧"
+      },
+      {
+        "id": "H3-R18-Q4",
+        "question": "晚上谁吃了我包的饺子？",
+        "answer": "全家",
+        "options": [
+          "全家",
+          "只有我",
+          "只有妈妈",
+          "同学"
+        ],
+        "explanation": "Đối chiếu nội dung bài đọc: 全家"
+      }
+    ]
+  },
+  {
+    "id": "H3-R18-2",
+    "lesson": 18,
+    "title": "Cùng mẹ chuẩn bị bữa tối",
+    "text": "今天妈妈下班晚，我想先帮她准备晚饭。我以前只会洗菜，这次试着自己做鸡蛋。开始火开得太大，鸡蛋很快就变黑了。我把火关小，再试一次，终于做好了。妈妈回来以后很高兴，说我真的长大了。",
+    "pinyin": "Jīn tiān mā ma xià bān wǎn， wǒ xiǎng xiān bāng tā zhǔn bèi wǎn fàn。 wǒ yǐ qián zhǐ huì xǐ cài， zhè cì shì zhe zì jǐ zuò jī dàn。 kāi shǐ huǒ kāi dé tài dà， jī dàn hěn kuài jiù biàn hēi le。 wǒ bǎ huǒ guān xiǎo， zài shì yī cì， zhōng yú zuò hǎo le。 mā ma huí lái yǐ hòu hěn gāo xìng， shuō wǒ zhēn de zhǎng dà le。",
+    "translation": "Mẹ tan làm muộn, tôi muốn chuẩn bị cơm. Trước chỉ biết rửa rau, lần này thử làm trứng. Lửa lớn làm trứng cháy, tôi giảm lửa thử lại và thành công. Mẹ về ngạc nhiên, nói tôi lớn rồi.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R18-2-Q1",
+        "question": "妈妈今天为什么回来晚？",
+        "answer": "下班晚",
+        "options": [
+          "下班晚",
+          "人太多，可能要等很久",
+          "房间里不太亮",
+          "包里带了水"
+        ],
+        "explanation": "Đối chiếu đoạn: “今天妈妈下班晚，我想先帮她准备晚饭。” → Chọn “下班晚”."
+      },
+      {
+        "id": "H3-R18-2-Q2",
+        "question": "我以前只会做什么？",
+        "answer": "洗菜",
+        "options": [
+          "洗菜",
+          "在规定的时间还了",
+          "准备东西",
+          "找书"
+        ],
+        "explanation": "Đối chiếu đoạn: “我以前只会洗菜，这次试着自己做鸡蛋。” → Chọn “洗菜”."
+      },
+      {
+        "id": "H3-R18-2-Q3",
+        "question": "第一次鸡蛋为什么变黑？",
+        "answer": "火开得太大",
+        "options": [
+          "火开得太大",
+          "包里带了水",
+          "下错站",
+          "山上可能更冷"
+        ],
+        "explanation": "Đối chiếu đoạn: “开始火开得太大，鸡蛋很快就变黑了。” → Chọn “火开得太大”."
+      },
+      {
+        "id": "H3-R18-2-Q4",
+        "question": "后来我怎么做？",
+        "answer": "把火关小，再试一次",
+        "options": [
+          "把火关小，再试一次",
+          "找书",
+          "请我吃饭",
+          "骑车"
+        ],
+        "explanation": "Đối chiếu đoạn: “我把火关小，再试一次，终于做好了。” → Chọn “把火关小，再试一次”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R18-3",
+    "lesson": 18,
+    "title": "Học từng bước nhỏ",
+    "text": "奶奶包饺子又快又好，我也想学。她没有让我一下做很多，就先看她做几个，再自己慢慢试。我第一次放的菜太多，饺子包不上。奶奶帮我少放了一点儿，我马上就成功了。原来认真看清楚方法，比着急做完更重要。",
+    "pinyin": "Nǎi nai bāo jiǎo zi yòu kuài yòu hǎo， wǒ yě xiǎng xué。 tā méi yǒu ràng wǒ yī xià zuò hěn duō， jiù xiān kàn tā zuò jǐ gè， zài zì jǐ màn màn shì。 wǒ dì yī cì fàng de cài tài duō， jiǎo zi bāo bù shàng。 nǎi nai bāng wǒ shǎo fàng le yì diǎn ér， wǒ mǎ shàng jiù chéng gōng le。 yuán lái rèn zhēn kàn qīng chǔ fāng fǎ， bǐ zháo jí zuò wán gèng zhòng yào。",
+    "translation": "Bà gói sủi cảo nhanh đẹp, tôi muốn học. Bà bảo xem vài chiếc rồi thử. Lần đầu nhiều nhân nên không gói kín. Bà bớt nhân giúp, tôi làm được. Hiểu từng bước quan trọng hơn vội làm xong.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R18-3-Q1",
+        "question": "谁教我包饺子？",
+        "answer": "奶奶",
+        "options": [
+          "奶奶",
+          "弟弟",
+          "朋友",
+          "家人"
+        ],
+        "explanation": "Đối chiếu đoạn: “奶奶包饺子又快又好，我也想学。” → Chọn “奶奶”."
+      },
+      {
+        "id": "H3-R18-3-Q2",
+        "question": "我先做什么？",
+        "answer": "看奶奶做几个",
+        "options": [
+          "看奶奶做几个",
+          "准备东西",
+          "找书",
+          "请我吃饭"
+        ],
+        "explanation": "Đối chiếu đoạn: “她没有让我一下做很多，就先看她做几个，再自己慢慢试。” → Chọn “看奶奶做几个”."
+      },
+      {
+        "id": "H3-R18-3-Q3",
+        "question": "第一次为什么包不上？",
+        "answer": "放的菜太多",
+        "options": [
+          "放的菜太多",
+          "包里带了水",
+          "下错站",
+          "山上可能更冷"
+        ],
+        "explanation": "Đối chiếu đoạn: “我第一次放的菜太多，饺子包不上。” → Chọn “放的菜太多”."
+      },
+      {
+        "id": "H3-R18-3-Q4",
+        "question": "奶奶帮我做了什么？",
+        "answer": "少放了一点儿菜",
+        "options": [
+          "少放了一点儿菜",
+          "请我吃饭",
+          "骑车",
+          "找到了"
+        ],
+        "explanation": "Đối chiếu đoạn: “奶奶帮我少放了一点儿，我马上就成功了。” → Chọn “少放了一点儿菜”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R18-4",
+    "lesson": 18,
+    "title": "Mời bạn nếm thử",
+    "text": "我学会包饺子以后，周末请朋友来家里吃。为了让大家都能吃，我先问了每个人喜欢什么。有的朋友不吃肉，我就另外准备了一种只有菜的。虽然准备的时间长了一点儿，但是看见朋友们吃得开心，我觉得很值得。",
+    "pinyin": "Wǒ xué huì bāo jiǎo zi yǐ hòu， zhōu mò qǐng péng you lái jiā lǐ chī。 wèi le ràng dà jiā dōu néng chī， wǒ xiān wèn le měi gè rén xǐ huan shén me。 yǒu de péng you bù chī ròu， wǒ jiù lìng wài zhǔn bèi le yī zhǒng zhǐ yǒu cài de。 suī rán zhǔn bèi de shí jiān zhǎng le yì diǎn ér， dàn shì kàn jiàn péng you men chī de kāi xīn， wǒ jué de hěn zhí de。",
+    "translation": "Học gói xong tôi mời bạn đến cuối tuần. Tôi hỏi sở thích trước, có bạn không ăn thịt nên chuẩn bị thêm bánh chỉ rau. Chuẩn bị lâu hơn chút nhưng mọi người vui nên tôi thấy đáng.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R18-4-Q1",
+        "question": "我周末请朋友来做什么？",
+        "answer": "吃饺子",
+        "options": [
+          "吃饺子",
+          "准备东西",
+          "找书",
+          "请我吃饭"
+        ],
+        "explanation": "Đối chiếu đoạn: “我学会包饺子以后，周末请朋友来家里吃。” → Chọn “吃饺子”."
+      },
+      {
+        "id": "H3-R18-4-Q2",
+        "question": "准备以前我先问了什么？",
+        "answer": "每个人喜欢什么",
+        "options": [
+          "每个人喜欢什么",
+          "电脑",
+          "怎么做",
+          "一点儿帮助"
+        ],
+        "explanation": "Đối chiếu đoạn: “为了让大家都能吃，我先问了每个人喜欢什么。” → Chọn “每个人喜欢什么”."
+      },
+      {
+        "id": "H3-R18-4-Q3",
+        "question": "为什么另外准备只有菜的饺子？",
+        "answer": "有的朋友不吃肉",
+        "options": [
+          "有的朋友不吃肉",
+          "下错站",
+          "山上可能更冷",
+          "他还需要休息"
+        ],
+        "explanation": "Đối chiếu đoạn: “有的朋友不吃肉，我就另外准备了一种只有菜的。” → Chọn “有的朋友不吃肉”."
+      },
+      {
+        "id": "H3-R18-4-Q4",
+        "question": "我觉得多花时间值得吗？",
+        "answer": "很值得",
+        "options": [
+          "很值得",
+          "害怕",
+          "不再害怕了",
+          "比以前干净"
+        ],
+        "explanation": "Đối chiếu đoạn: “虽然准备的时间长了一点儿，但是看见朋友们吃得开心，我觉得很值得。” → Chọn “很值得”."
+      }
+    ]
+  },
+  {
+    "id": "H3-R18-5",
+    "lesson": 18,
+    "title": "Học được rồi tiếp tục luyện",
+    "text": "刚学会做饭的时候，我觉得照着书做就不会错。后来才发现，同样的菜，水放多一点儿或火开大一点儿，味道都可能不一样。我开始把每次做的方法记下来，慢慢比较。现在虽然还做得不算快，但是已经能做出家人喜欢的味道了。",
+    "pinyin": "Gāng xué huì zuò fàn de shí hou， wǒ jué de zhào zhe shū zuò jiù bú huì cuò。 hòu lái cái fā xiàn， tóng yàng de cài， shuǐ fàng duō yì diǎn ér huò huǒ kāi dà yī diǎn ér， wèi dào dōu kě néng bù yí yàng。 wǒ kāi shǐ bǎ měi cì zuò de fāng fǎ jì xià lái， màn màn bǐ jiào。 xiàn zài suī rán hái zuò dé bù suàn kuài， dàn shì yǐ jīng néng zuò chū jiā rén xǐ huan de wèi dào le。",
+    "translation": "Mới học nấu tôi nghĩ làm theo sách sẽ đúng. Sau mới thấy thêm nước hoặc lửa khác cũng đổi vị. Tôi ghi cách làm từng lần rồi so sánh. Giờ nấu chưa nhanh nhưng hợp khẩu vị gia đình.",
+    "grammar": [],
+    "source": "Bài đọc bổ sung; từ vựng đối chiếu dữ liệu HSK 1–3.",
+    "questions": [
+      {
+        "id": "H3-R18-5-Q1",
+        "question": "我刚开始觉得照着什么做就不会错？",
+        "answer": "书",
+        "options": [
+          "书",
+          "电脑",
+          "怎么做",
+          "一点儿帮助"
+        ],
+        "explanation": "Đối chiếu đoạn: “刚学会做饭的时候，我觉得照着书做就不会错。” → Chọn “书”."
+      },
+      {
+        "id": "H3-R18-5-Q2",
+        "question": "什么可能影响菜的味道？",
+        "answer": "水和火",
+        "options": [
+          "水和火",
+          "怎么做",
+          "一点儿帮助",
+          "一件衬衫"
+        ],
+        "explanation": "Đối chiếu đoạn: “后来才发现，同样的菜，水放多一点儿或火开大一点儿，味道都可能不一样。” → Chọn “水和火”."
+      },
+      {
+        "id": "H3-R18-5-Q3",
+        "question": "后来我把什么记下来？",
+        "answer": "每次做的方法",
+        "options": [
+          "每次做的方法",
+          "一点儿帮助",
+          "一件衬衫",
+          "很多花"
+        ],
+        "explanation": "Đối chiếu đoạn: “我开始把每次做的方法记下来，慢慢比较。” → Chọn “每次做的方法”."
+      },
+      {
+        "id": "H3-R18-5-Q4",
+        "question": "现在我能做出什么样的味道？",
+        "answer": "家人喜欢的味道",
+        "options": [
+          "家人喜欢的味道",
+          "一件衬衫",
+          "很多花",
+          "中文词"
+        ],
+        "explanation": "Đối chiếu đoạn: “现在虽然还做得不算快，但是已经能做出家人喜欢的味道了。” → Chọn “家人喜欢的味道”."
+      }
+    ]
+  }
+]
