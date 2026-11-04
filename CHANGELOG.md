@@ -6,6 +6,11 @@
 - Bỏ phần giới thiệu đầu trang chọn bài đọc ở cả bốn khóa; bỏ xem trước nội dung, nhãn ngữ pháp và nút làm cả 5 bài khỏi danh sách HSK 2–3.
 - Ghi nhận kết quả từng câu của bài đọc HSK 2–3 để trạng thái thẻ đúng sau khi tải lại; giữ lịch sử tổng hợp, ngân hàng câu hỏi và cách chấm hiện có.
 
+## 2026-11-04 — Bản dịch tiếng Việt cho 75 bài đọc HSK 1
+
+- Bổ sung bản dịch đầy đủ cho 5 bài đọc của mỗi Unit 1–15, giữ nguyên đoạn tiếng Trung và ngân hàng câu hỏi.
+- Thêm nút hiện/ẩn bản dịch cạnh nút nghe; mặc định ẩn, độc lập với pinyin và không thay đổi tiến độ hoặc chấm điểm.
+
 ## 2026-11-04 — Đồng bộ giao diện đọc HSK 1–3 theo HSK 4
 
 - Gộp bài đọc và câu hỏi HSK 2–3 vào một khung; đồng bộ cỡ chữ, khoảng cách và bố cục đáp án theo độ dài với HSK 4.
