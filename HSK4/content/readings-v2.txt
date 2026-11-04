@@ -1,0 +1,400 @@
+@1/Lịch gặp gỡ tân sinh viên/Thông báo
+新同学们：周六上午的交流活动九点开始，地点在学校东门旁边的三号楼，不在平时上课的二号楼。请带学生证和一个本子，不用带申请奖学金的材料。九点到九点半，老师介绍本学期的课程；接着，读本科和读研究生的同学分别交流，想了解博士课程的可以留下来问老师。十一点，大家一起去食堂吃饭，午饭后可以自己参观学校。要是周六上午有课，可以参加下午三点的活动，但下午不安排一起吃饭。有任何问题，都可以在周五以前给老师发邮件。家人也能来，不过需要提前告诉老师有几个人。没有学生证的新同学可以带护照，不会影响参加活动。请看清楚时间和地点，选择适合自己的一场，不需要上午、下午都来。
+VI: Hoạt động giao lưu sáng thứ bảy bắt đầu lúc chín giờ tại tòa số ba cạnh cổng đông, không phải tòa số hai thường học. Mang thẻ sinh viên và vở, không cần hồ sơ học bổng. Chín giờ đến chín rưỡi giới thiệu môn học, sau đó sinh viên đại học và sau đại học trao đổi riêng; ai quan tâm tiến sĩ có thể ở hỏi thầy. Mười một giờ ăn ở nhà ăn rồi tự tham quan. Người có tiết sáng được dự buổi ba giờ chiều nhưng không có bữa ăn chung. Có câu hỏi gửi thư trước thứ sáu. Người nhà được đi cùng nếu báo số lượng; chưa có thẻ thì mang hộ chiếu. Chỉ cần chọn một buổi phù hợp.
+Đối chiếu|活动在哪座楼？|三号楼/二号楼/食堂里的楼/老师家里的楼|地点在学校东门旁边
+Thời gian|介绍课程用了多长时间？|半个小时/一个小时/两个小时/十分钟|九点到九点半|Từ 9 giờ đến 9 giờ 30 là nửa giờ.
+Điều kiện|周六上午有课的人可以怎样参加？|下午三点来/十一点才来/下周六来/不用告诉老师直接换一天|可以参加下午三点
+Phủ định|参加活动不需要带什么？|奖学金材料/本子/学生证或护照/自己的问题|不用带申请奖学金的材料
+Suy luận|一家三个人想来，应该先做什么？|告诉老师人数/准备三份课程表/申请博士课程/交三次学生证|需要提前告诉老师有几个人
+@1/Một bức thư về lựa chọn chuyên ngành/Thư
+爸爸：你问我为什么想研究教育，不是像你一样去贸易公司工作。我还没有决定将来一定当教师，不过很想知道，人们怎样把已经学过的知识讲给别人听。我现在每周参加一次活动，帮助刚来中国的同学练习中文。上周，一个同学不认识食堂的字，我没有直接翻译，是带他去看中午有哪些菜。他第二天就能自己买饭了。这件事使我想多了解语言和生活的关系。明年我准备申请中文专业的本科课程，学校要看以前的学习材料，还要跟老师交流。我已经开始准备，也问过读硕士的姐姐。她说，专业名称相同，不同学校的课程也可能不同，所以我还会再看两所学校的介绍。要是最后不选教育，我也不会觉得这段时间白过，因为现在的活动就很有意思。
+VI: Bố hỏi vì sao con muốn nghiên cứu giáo dục thay vì làm công ty thương mại như bố. Con chưa chắc sẽ làm giáo viên nhưng muốn biết cách truyền đạt điều đã học. Mỗi tuần con giúp người mới luyện tiếng Trung. Tuần trước con dẫn một bạn không đọc được chữ ở nhà ăn xem món; hôm sau bạn tự mua được cơm. Con muốn tìm hiểu quan hệ ngôn ngữ với đời sống, định xin học cử nhân tiếng Trung năm tới, đang chuẩn bị hồ sơ và hỏi chị học thạc sĩ. Vì cùng tên chuyên ngành mà môn học có thể khác, con sẽ xem thêm hai trường. Dù cuối cùng không chọn giáo dục, hoạt động hiện tại vẫn có ý nghĩa.
+Nguyên nhân|作者对教育感兴趣，主要想了解什么？|怎样把知识讲给别人听/怎样进入爸爸的公司/怎样不参加学校活动/怎样马上读博士|很想知道
+Trình tự|那位同学什么时候能自己买饭？|第二天/一个月以后/来中国以前/申请学校以后|他第二天就能自己买饭了
+Chi tiết|作者明年准备申请什么？|中文本科课程/贸易公司的工作/博士奖学金/食堂的工作|明年我准备申请
+Đối chiếu|姐姐告诉作者比较什么？|不同学校的课程/食堂的价格/父亲的工资/同学的年龄|不同学校的课程也可能不同
+Thái độ|作者怎样看现在的活动？|活动就很有意思/只为了获得奖学金/没有决定专业就没有价值/应该等毕业后再做|因为现在的活动就很有意思
+@1/Hai nửa của buổi giao lưu/Nhật ký
+今天的国际交流活动分成两部分。上午，中国同学教我们写自己的中文名字，我写得很慢，一个字改了三次。旁边的同学没有帮我写，只让我看他怎样拿笔。下午该我们介绍自己的语言了，我突然成了帮助别人的人。一位中国同学把一个词读错，大家没有笑，因为上午我们也遇到过同样的困难。我用家里的照片介绍这个词，她很快记住了。活动结束时，每个人都拿到一张写着两种语言的小纸，不是表现最好的人才有。我把它放进本子，打算发照片给妈妈。老师问下次还想做什么，我建议一起做饭，一方面可以学食堂里没有的菜，另一方面也能多说一些平时上课用不到的话。现在只等大家选好时间，我们就能准备下一次见面。
+VI: Buổi giao lưu quốc tế chia hai phần. Sáng các bạn Trung Quốc chỉ cách viết tên, tôi sửa một chữ ba lần; bạn cạnh không viết hộ mà hướng dẫn cầm bút. Chiều chúng tôi giới thiệu ngôn ngữ của mình, đổi vai hỗ trợ. Khi một bạn phát âm sai, mọi người không cười vì sáng cũng gặp khó. Tôi dùng ảnh gia đình giúp bạn nhớ từ. Cuối buổi ai cũng nhận giấy ghi hai ngôn ngữ, không chỉ người giỏi nhất. Tôi cất vào vở, định gửi ảnh cho mẹ. Khi thầy hỏi lần sau làm gì, tôi đề nghị nấu ăn để học món ngoài nhà ăn và dùng từ ít gặp trên lớp. Mọi người đang chọn ngày gặp tiếp.
+Trình tự|下午谁来介绍语言？|外国同学/只有老师/学校的老师/没有参加上午活动的人|下午该我们介绍自己的语言了
+Chi tiết|中国同学上午怎样帮助作者？|让他看怎样拿笔/直接帮他写好/让他不要再写/只告诉他分数|只让我看他怎样拿笔
+Suy luận|有人下午读错时，大家为什么没有笑？|自己也有过相似的困难/没有人听见/老师不让大家说话/那个人本来就是老师|因为上午我们也遇到过同样的困难
+Phạm vi|谁拿到了写着两种语言的小纸？|每个人/只有表现最好的人/只有中国同学/只有写得快的人|每个人都拿到一张
+Dự định|作者建议下次一起做什么？|做饭/申请签证/参观公司/参加考试|我建议一起做饭
+@1/Hồ sơ học bổng của hai người/Đối chiếu
+学校这次有两种奖学金。一种看课程成绩，申请人要交本学期的学习材料；另一种看帮助新同学的表现，需要写清楚参加过哪些活动。两种都可以申请，不过最后只能获得其中一种。我和同学各自准备材料。我每天上课认真，成绩不错，准备申请第一种；同学的成绩不算最高，但每周都到食堂帮助不太了解中文的同学，也参加过很多交流活动，他想试第二种。周三我们一起去问老师，才知道不能只写将来的计划，需要写已经做过的事。所以同学把“下个月打算帮助谁”换成了上学期真实的活动介绍。我也重新查看课程名称，保证跟学校通知上的一样。周五下午我们交了材料，结果要下个月才出来。这个周末，我们不准备再改已经交出的材料，是一起去参加新同学的见面活动。
+VI: Có hai học bổng: một xét kết quả môn học, cần hồ sơ kỳ này; một xét đóng góp giúp tân sinh viên, cần mô tả hoạt động đã tham gia. Được xin cả hai nhưng chỉ nhận một. Tôi có điểm tốt chọn loại đầu; bạn học thường hỗ trợ ở nhà ăn và giao lưu nên chọn loại hai. Thứ tư hỏi thầy mới rõ không thể dùng dự định thay việc đã làm. Bạn sửa kế hoạch tháng tới thành hoạt động thực kỳ trước, tôi đối chiếu tên môn với thông báo. Nộp chiều thứ sáu, tháng sau có kết quả; cuối tuần chúng tôi vẫn tham gia buổi gặp sinh viên mới.
+So sánh|第二种奖学金看重什么？|帮助新同学的表现/申请人的住的地方/将来想选的专业/只看考试成绩|另一种看帮助新同学的表现
+Giới hạn|一个人最后最多获得几种奖学金？|一种/两种/三种/可以随便选多少种|最后只能获得其中一种
+Sửa thông tin|同学去掉了哪一部分？|下个月的计划/上学期的真实活动/已经做过的帮助/本学期的课程名称|把“下个月打算帮助谁”换成了
+Thời gian|申请结果什么时候出来？|下个月/周三/周五上午/这个周末|结果要下个月才出来
+Lựa chọn|下面哪项适合用在第二种申请中？|已经参加的交流活动/还没有开始的旅行/将来想买的书/别人参加活动的照片|需要写清楚参加过哪些活动
+@1/Ngày làm việc của một người phiên dịch/Phỏng vấn
+交流活动请来一位在贸易公司工作的老师，介绍毕业以后的生活。有同学问他：“你每天都能跟外国人见面吗？”他说，不一定，有时一天都在看材料。上午他通常先读别的公司的邮件，把不清楚的问题写下来；下午跟同事交流，知道大家要说的意思以后再翻译。他大学学的是中文，不是经济，所以刚工作时一方面要提高语言水平，另一方面也要学习公司的知识。有人问，读到博士是不是就不用再学了。他笑着说，公司里每个人都要了解新的事情，过去的成绩再好，今天也需要准备。活动最后，他没有让大家马上决定将来做什么，是请我们用自己的语言介绍一门喜欢的课程。下周他会再来听，每个人只有三分钟。我已经选好了课，准备先说给同学听。
+VI: Một thầy làm công ty thương mại tới giao lưu về đời sống sau tốt nghiệp. Không phải ngày nào thầy cũng gặp người nước ngoài, có ngày chỉ đọc hồ sơ. Sáng đọc email khách, ghi điều chưa rõ; chiều hỏi đồng nghiệp để hiểu sản phẩm rồi dịch. Học cử nhân tiếng Trung chứ không phải kinh tế nên thầy vừa rèn ngôn ngữ vừa học kiến thức công ty. Bằng tiến sĩ cũng không thay được việc cập nhật hôm nay. Cuối buổi thầy không ép chọn nghề mà giao mỗi người giới thiệu môn yêu thích bằng ngôn ngữ của mình trong ba phút, tuần sau thầy nghe. Tôi đã chọn môn và sẽ nói thử cho bạn học.
+Phủ định|老师是不是每天都见外国人？|不一定/每天都见/只在晚上见/从来不见|他说，不一定
+Trình tự|翻译以前，他先做什么？|了解大家要说的意思/先发给别人再检查/只看以前的成绩/让学生决定翻译的内容|知道大家要说的意思以后再翻译
+Chi tiết|他大学学的是什么？|中文/经济/学校管理/教育方法|他大学学的是中文
+Ý nghĩa|“过去的成绩再好，今天也要准备”强调什么？|工作后仍需要学习/博士不能去公司工作/以前的课程全没用/每天必须见外国人|公司里每个人都要了解新的事情
+Thời lượng|下周每个人可以介绍多久？|三分钟/三十分钟/一个上午/半个小时|每个人只有三分钟
+@2/Thông tin cho thuê và người cần thuê/Tin đăng
+出租：学校北门外有一套房子，可以租的房间有两间，客厅和厨房一起用，每间每月一千二百元，水电费另付。房东住在这座楼里，有问题可以直接找他。房子离市场走路五分钟，附近有公交车，不过晚上十点以后没有车。希望租给回家和休息时间差不多的人，平常不在客厅开很大的音乐。可以从下个月一号入住，周六下午两点到五点看房子，请先打电话。小林毕业后在市场旁边工作，六点下班，想和同事各租一间。小周一个人住，工资不高，希望每月连水电费只花一千元。两个人都看中了这条信息，房东先问了他们准备的钱和回家时间，还告诉他们查看房子里的东西，再决定是不是交钱。目前房间都还没有租出去，看过房子以后也可以再想一天。
+VI: Tin cho thuê hai phòng ngủ ngoài cổng bắc trường, dùng chung phòng khách và bếp. Mỗi phòng 1.200 tệ, điện nước riêng; chủ ở cùng tòa. Đi bộ năm phút tới chợ, có xe buýt nhưng hết sau mười giờ tối. Người thuê nên sinh hoạt gần giờ nhau, không mở nhạc lớn ở phòng khách. Vào ở từ mùng một tháng tới, xem chiều thứ bảy hai đến năm giờ sau khi gọi hẹn. Tiểu Lâm làm gần chợ, tan sáu giờ, muốn thuê cùng đồng nghiệp. Tiểu Chu ở một mình, muốn tổng cả điện nước chỉ một nghìn. Chủ hỏi ngân sách, giờ về và nhắc kiểm tra đồ trước khi trả tiền; xem xong có thể nghĩ thêm một ngày.
+Tính toán|两个房间一个月的房租一共多少？|两千四百元/一千二百元/一千元/三千六百元|每间每月一千二百元|Hai phòng × 1.200 = 2.400 tệ mỗi tháng, chưa tính điện nước.
+Điều kiện|房租里没有哪一项？|水电费/客厅的使用/厨房的使用/睡觉的房间的使用|水电费另付
+Đối chiếu|谁准备的钱明显不够？|小周/小林和同事/房东/附近所有上班的人|希望每月连水电费只花一千元
+Thời gian|什么时候可以看房子？|周六下午三点/周六晚上十点/周五上午九点/下个月每天早上|周六下午两点到五点看房子
+Suy luận|经常晚上十一点坐公交回家的人要注意什么？|那时已经没有公交车/房东每天接他/市场不能买东西/房子只能租一天|晚上十点以后没有车
+@2/Bàn giao phòng bằng một tờ giấy/Ghi chép
+今天入住，房东没有马上离开，先和我们一起查看房子。我们把发现的情况写在纸上：客厅有两个灯，左边那个不亮；厨房的冰箱能用，不过里面还没有收拾干净；睡觉的房间的窗能关好，桌子也没有问题。房东说，下午先换灯，晚上再来收拾冰箱，不会让我们多付钱。我们各留一张写好日期的纸，手机里也有照片。朋友去市场买毛巾，我留在家里等。三点房东来了，换好灯后又接到电话，说晚上家里有事，问能不能明天早上再收拾厨房。我明天要上班，就和他约好八点以前来，八点半我才出门。今天的日记写到这里，客厅已经亮了，厨房还需要等到明天。我们准备先在外面吃晚饭，不急着把所有东西都拿出来。
+VI: Nhận phòng, chúng tôi cùng chủ kiểm tra và ghi: hai đèn phòng khách có một chiếc hỏng, tủ lạnh dùng được nhưng bẩn, cửa sổ và bàn ngủ ổn. Chủ hẹn chiều thay đèn, tối dọn tủ lạnh, không thu thêm; mỗi bên giữ giấy ghi ngày và ảnh. Bạn đi mua khăn, tôi đợi. Ba giờ chủ thay đèn rồi xin dời dọn bếp sang sáng mai vì việc nhà. Tôi đi làm nên hẹn trước tám giờ, tám rưỡi mới ra khỏi nhà. Nhật ký hôm nay ghi phòng khách sáng rồi, bếp chờ mai; tối ăn ngoài, chưa vội mở hết đồ.
+Chi tiết|检查时什么不能正常使用？|客厅左边的灯/睡觉的房间的桌子/睡觉的房间的窗/冰箱里的灯|左边那个不亮
+Trình tự|房东今天先完成了什么？|换灯/收拾冰箱/搬走桌子/买毛巾|换好灯后又接到电话
+Thay đổi|收拾厨房最后约在什么时候？|明天早上八点以前/今天晚上/明天下午三点/明天八点半以后|就和他约好八点以前来
+Suy luận|为什么不能约在明天上午九点？|作者那时已去上班/房东上午不在这座楼/冰箱只能晚上收拾/作者今天没有入住|八点半我才出门
+Mục đích|两个人各留一张纸有什么作用？|都能查看已经记下的情况/不用再付任何房租/让厨房马上干净/证明桌子需要买新的|我们各留一张写好日期的纸
+@2/Cửa sổ nhìn ra khu chợ/Miêu tả
+我租的房子不大，窗正好对着市场。刚入住时，朋友为我担心，觉得周围热闹，晚上恐怕睡不好。住了一个星期，我发现市场早上六点就有人，下午五点半基本上都走了。由于我白天上班，回家时外面已经很安静。周日我不用早起，不过喜欢听见楼下有人说话，知道今天可以买到新鲜的菜。我把写日记的桌子放在客厅靠窗的位置，厨房里只留做饭需要的东西。晚上写东西时，不开最大的灯，只开桌子上那台小灯。房东问我住得是不是顺利，我说这里不适合每天早上睡到很晚的人，还是挺适合现在的我。今天我在日记里画了一张小图，记下市场什么时候开、哪家有好吃的早餐，准备给下个月来住几天的妈妈看。
+VI: Phòng nhỏ nhìn ra chợ khiến bạn lo ồn ban đêm. Sau một tuần tôi thấy chợ bắt đầu sáu giờ sáng, năm rưỡi chiều gần hết khách. Đi làm cả ngày, về nhà đã yên. Chủ nhật không cần dậy sớm nhưng tôi thích tiếng trò chuyện và rau tươi. Bàn viết nhật ký đặt cạnh cửa sổ phòng khách, bếp chỉ giữ đồ cần nấu; tối dùng đèn bàn. Tôi nói với chủ nơi này không hợp người ngủ nướng mỗi sáng nhưng hợp mình. Hôm nay vẽ sơ đồ, ghi giờ chợ và quán sáng để mẹ tới ở mấy ngày tháng sau xem.
+So sánh|市场一天中什么时候更热闹？|早上/晚上十点/半夜/下午六点以后|市场早上六点就有人
+Nguyên nhân|市场为什么不太影响作者晚上休息？|作者回来时市场已经安静/窗看不到市场/作者从来不回家/市场只在周日开|回家时外面已经很安静
+Phủ định|哪种人可能不适合住这里？|每天早上想睡很晚的人/白天上班的人/喜欢买新鲜菜的人/想自己做饭的人|不适合每天早上睡到很晚的人
+Vị trí|作者把写日记的桌子放在哪里？|客厅靠窗的位置/市场门口/厨房中间/房东的房间|放在客厅靠窗的位置
+Người nhận|作者画的小图准备给谁看？|妈妈/房东的朋友/公司经理/市场所有的人|准备给下个月来住几天的妈妈看
+@2/Lịch dùng bếp của ba người/Hội thoại
+我们三个同事合租，房租各付一样多，平常回家的时间还是不同。星期一晚上，小陈说：“我七点才回来，想马上做饭，可厨房里的东西总是没收拾好。”小林回答：“我五点就用厨房，原来以为你们晚上都在外面吃。”我建议大家先把时间写下来。小林说自己可以用完就收拾，不必一直占着桌子；小陈希望留一小块地方给他准备第二天的午餐。我早上六点半用厨房，只需要十分钟，晚上不做饭。我们商量后，在冰箱旁边放了一张纸，各写自己的时间，还约好周日一起查看需要买什么。大家没有要求每个人吃相同的菜，也没有重新算房租。第二天我回家，看见桌子上只有小陈准备好的材料，小林已经把碗洗好，两个人正一起看手机，查一道新菜的做法。
+VI: Ba đồng nghiệp trả tiền thuê bằng nhau nhưng về giờ khác. Tiểu Trần bảy giờ về muốn nấu ngay mà bếp bừa; Tiểu Lâm dùng từ năm giờ, tưởng hai người còn lại ăn ngoài. Chúng tôi ghi lịch: Lâm dọn ngay sau dùng, Trần giữ góc chuẩn bị cơm trưa mai, tôi chỉ cần bếp sáu rưỡi sáng mười phút. Dán lịch bên tủ lạnh, hẹn chủ nhật cùng kiểm đồ cần mua, không ép ăn cùng món hay tính lại tiền phòng. Hôm sau thấy Lâm rửa bát, bàn chỉ còn nguyên liệu của Trần, cả hai cùng xem cách nấu món mới.
+Đối chiếu|谁晚上不做饭？|作者/小陈/小林/三个人都不做|晚上不做饭
+Nguyên nhân|小林原来为什么没有注意晚上的安排？|以为别人都在外面吃/他没有交房租/厨房没有桌子/他七点以后才回家|原来以为你们晚上都在外面吃
+Thời lượng|作者早上需要厨房多久？|十分钟/半个小时/两个小时/一整天|只需要十分钟
+Phủ định|商量后哪件事没有改变？|每个人的房租/厨房的使用安排/桌子上东西的收拾方式/大家知道的做饭时间|也没有重新算房租
+Diễn biến|第二天小林和小陈在一起做什么？|查新菜的做法/重新计算房租/等房东收拾/准备搬家|查一道新菜的做法
+@2/Hai khoản chi của tháng đầu/Tính toán
+毕业后第一个月，我在日记里记下了租房子的花费。房租一千五百元，坐车上班每月两百元。入住时又买了毛巾、灯和做饭的东西，一共三百元。我原来把这三百元也算成每月都要付的钱，觉得工资基本上不够用。同事让我把只买一次的东西另写一行，再看平常每月的花费。这样算，房租和交通每月一共一千七百元，买东西的钱只在第一个月多出来。由于现在住得近，周末还能走去学校看朋友，不需要每次都打车。我没有因为这样就马上去买更多东西，准备先住满两个月，再查看实际花了多少。今天发工资，我把下个月的房租留下，又留出买菜的钱。桌子上那个灯还可以用，现在没有换新的打算。
+VI: Tháng đầu đi làm, tôi ghi thuê nhà 1.500, xe đi làm mỗi tháng 200, thêm khăn, đèn và đồ bếp 300. Tôi tưởng 300 ấy tháng nào cũng phải trả nên lo thiếu lương. Đồng nghiệp bảo tách đồ mua một lần: thuê và đi lại hằng tháng 1.700, chỉ tháng đầu thêm tiền đồ. Ở gần nên cuối tuần đi bộ thăm bạn tại trường, đỡ taxi. Tôi chưa mua thêm, định ở đủ hai tháng xem chi thực tế. Nhận lương hôm nay tôi để riêng tiền thuê tháng tới, tiền rau; đèn còn dùng được nên chưa đổi.
+Tính toán|第一个月这三项一共花多少？|两千元/一千七百元/一千五百元/两千三百元|房租一千五百元~~一共三百元|1.500 tiền thuê + 200 đi lại + 300 mua đồ một lần = 2.000 tệ cho ba khoản của tháng đầu.
+Phân loại|哪项不是每月要付的？|买灯的钱/房租/坐车的钱/房租和交通|只买一次的东西另写一行
+Đối chiếu|房租和交通每月一共多少？|一千七百元/两千元/三百元/两百元|每月一共一千七百元|1.500 + 200 = 1.700 tệ; 300 tệ mua đồ không phải khoản cố định hằng tháng.
+Kế hoạch|作者准备住多久再查看实际花费？|两个月/一天/一年/三个星期|先住满两个月
+Suy luận|作者现在不买新灯的原因是什么？|原来的还能用/房东不让开灯/工资全部花完了/不再写日记了|桌子上那个灯还可以用
+@3/Một đơn hàng và hai ngày nhận/Trao đổi
+小陈：你寄给我的书到了，不过软件里显示只有一本。我订的是两本，是不是少寄了？小周：没有少。一本在学校这边，另一本需要从别的城市寄，所以快递分两次来。你先打开购物记录，点“查看”，下面还有第二次的日期。小陈：找到了，原来后天才到。可是我明天要离开学校，能不能直接改地址？小周：第一本已经送到，不能再改。第二本还没有寄出，你可以通过软件联系，问问能否换成家里的地址。不要只给我发新地址，我不能帮那家店改记录。小陈：好，我先问清楚。要是改不了，就让同学帮忙拿。昨天我下载了新软件，有些地方还不熟悉，今天又学会看不同的记录了。小周：两本都收到以后再查看数量，身份证号和密码都不需要发给我。
+VI: Tiểu Trần thắc mắc đơn hai sách mà ứng dụng chỉ báo một. Tiểu Chu giải thích hai sách từ hai thành phố nên nhận hai đợt; trong mục xem đơn có ngày thứ hai là ngày kia. Trần mai rời trường muốn đổi địa chỉ: cuốn đã giao không đổi được, cuốn chưa gửi cần hỏi cửa hàng qua ứng dụng, không chỉ nhắn địa chỉ cho Chu vì Chu không sửa hộ. Nếu không đổi được, Trần nhờ bạn học nhận. Mới tải ứng dụng hôm qua, hôm nay Trần học thêm cách đọc từng lượt giao. Chu dặn nhận đủ rồi kiểm số lượng, không cần gửi số căn cước hay mật khẩu cho mình.
+Nguyên nhân|两本书为什么不同时到？|从不同城市寄出/小陈只付了一本的钱/第二本已经丢了/小周把一本拿走了|另一本需要从别的城市寄
+Thời gian|第二本书什么时候到？|后天/昨天/今天早上/下个月|原来后天才到
+Điều kiện|哪本书还有可能改地址？|还没寄出的第二本/已经送到的第一本/两本都已经不能改/同学以前买的书|第二本还没有寄出
+Mục đích|小周让小陈通过软件联系谁？|卖书的店/学校老师/小周的家人/任何知道密码的人|我不能帮那家店改记录
+Phương án|如果不能改地址，小陈打算怎么办？|让同学帮忙拿/再订两本相同的/把密码发给小周/自己明天不离开学校|就让同学帮忙拿
+@3/Ở quán ăn khi mất mạng/Trình tự
+午饭后，我用手机扫码结账，软件转了一会儿，还是没有显示支付成功。服务员建议我再扫码一次，我没有马上这样做，是先查看购物记录，发现钱已经付了，只是饭馆那边还没看到。我们一起等了两分钟，店里的网络好了，服务员的手机也显示收到了。旁边一位同学正准备帮我付钱，我赶快告诉他不用了。回学校以后，我把这次的钱记在自己的本子上，付的钱跟菜单上写的一样，没有多付。晚上同学问，为什么当时不直接再扫码一次。我给他看记录里的时间，第一次付款其实已经完成，再付就会有两次。他说，下次遇到相同的情况，也先看自己的记录。第二天我们又去那家店，服务员还记得我们，结账时先问有没有成功，不再只看手机上是不是转得快。
+VI: Sau ăn, quét mã mà ứng dụng quay không hiện thành công. Nhân viên bảo thử lại, tôi xem lịch sử trước, thấy đã trả nhưng quán chưa nhận báo. Đợi hai phút mạng tốt, máy quán hiện nhận. Bạn định trả hộ, tôi bảo không cần. Về trường ghi chi tiêu đúng thực đơn, không trả dư. Tối bạn hỏi sao không quét lại ngay; tôi chỉ giờ giao dịch lần đầu đã hoàn tất, trả nữa sẽ thành hai lần. Hôm sau quay lại, nhân viên nhớ và hỏi đã thành công chưa thay vì chỉ nhìn tốc độ màn hình.
+Trình tự|第一次没有显示成功，作者先做什么？|查看支付记录/再扫码一次/让同学直接付款/马上离开饭馆|先查看购物记录
+Thời lượng|他们等了多长时间？|两分钟/二十分钟/一个小时/一整天|一起等了两分钟
+Chi tiết|同学当时准备怎样帮忙？|帮作者付钱/下载新的菜单/借走服务员的手机/修改饭馆的价格|正准备帮我付钱
+Suy luận|再扫码一次可能出现什么情况？|这顿饭付两次钱/菜单自动变便宜/第一次付款被取消/网络马上变好|再付就会有两次
+Đối chiếu|作者最后付的钱跟菜单上写的相比怎么样？|一样/多付了相同的钱/少了一半/完全没有付|付的钱跟菜单上写的一样
+@3/Hướng dẫn gửi kèm cho ông/Hướng dẫn
+爷爷：这是我给你写的订票方法。先打开已经下载好的软件，选择要去的城市，再选日期。不要只看价格，要看清楚出发的车站和目的地。选好以后，软件会让你写姓名和证件信息，要跟证件上的相同。支付前再查看一次，有不对的地方可以回去改，不要急着按最后一步。成功以后，票的信息会保存在软件里，不需要每天重新订。你可以把日期写在纸上，放在出门常拿的包里。要是想换一天去，先看原来的票能否改变时间，再决定要不要买新的。我周六下午来，你先试着找到那天的车次，但不用真的付款。我们可以一起看你选的是不是对的。这样以后我不在家，你也能自己订。密码请自己保管，练习时也不用告诉我。
+VI: Ông mở ứng dụng đã tải, chọn thành phố và ngày; đọc ga đi, nơi đến chứ không chỉ giá. Điền tên, giấy tờ khớp bản thật, trước trả xem lại, sai thì quay sửa. Mua thành công vé được lưu, không cần đặt lại mỗi ngày. Ghi ngày ra giấy cất túi thường mang. Nếu đổi ngày, kiểm tra vé cũ đổi được không rồi mới quyết mua mới. Cháu tới chiều thứ bảy; ông thử tìm chuyến hôm ấy nhưng chưa thanh toán, cả hai sẽ kiểm tra cùng. Sau này cháu vắng ông tự đặt được. Mật khẩu ông tự giữ, lúc tập cũng không cần nói cho cháu.
+Trình tự|选择日期以前先选什么？|要去的城市/支付密码/纸的颜色/已经完成的购物记录|选择要去的城市，再选日期
+Đối chiếu|姓名应该跟什么相同？|证件上的姓名/别人的购物记录/软件的名字/家人的地址|要跟证件上的相同
+Phủ định|周六见面以前，爷爷不用做什么？|真的付款/找到软件/查看日期/试着找车次|但不用真的付款
+Điều kiện|想改出发日期，先看什么？|原来的票能否改时间/手机是不是新买的/别人有没有去过/包里有没有纸|先看原来的票能否改变时间
+Mục đích|作者为什么没有直接帮爷爷全部订好？|希望爷爷以后能自己订票/自己不认识目的地/爷爷没有证件/软件只能爷爷打开|以后我不在家，你也能自己订
+@3/Ba quyền truy cập trên điện thoại/So sánh
+我们参加了一次介绍软件的小活动。老师拿同学的手机介绍：查找路线的软件需要知道现在的位置，才能告诉你怎么走；买东西的软件需要地址，才能把货送到家；听音乐的软件还是不一定需要知道住在哪儿。小林说，以前下载以后，任何要求自己都会直接同意，从来没想过这些信息有什么用。活动中，大家先看每个软件提供的服务，再讨论哪些信息跟服务有关。老师没有要求我们把所有功能都关掉，是让我们自己试着改变不需要的部分。我把一个不用的购物地址去掉了，还发现有个软件保存的是去年住的地方。活动结束，我们没有比谁去掉得最多，是各说一个保留下来的功能和理由。我保留了地图的位置功能，因为周末要去一个不熟悉的地方，需要知道从哪里开始走。
+VI: Ở hoạt động giới thiệu ứng dụng, thầy giải thích bản đồ cần vị trí hiện tại để chỉ đường, mua sắm cần địa chỉ giao hàng, nghe nhạc chưa chắc cần địa chỉ nhà. Tiểu Lâm trước đây chấp nhận mọi yêu cầu mà không nghĩ mục đích. Chúng tôi đối chiếu dịch vụ với thông tin liên quan, không phải tắt hết chức năng. Tôi xóa địa chỉ mua sắm không dùng và phát hiện một ứng dụng còn chỗ ở năm ngoái. Cuối buổi mỗi người giải thích chức năng giữ lại, không thi xóa nhiều nhất. Tôi giữ vị trí bản đồ vì cuối tuần đi nơi chưa quen, cần biết điểm bắt đầu.
+So sánh|哪种软件通常不需要住的地方？|听音乐的软件/送货的软件/网购的软件/需要把东西寄到家的软件|听音乐的软件还是不一定需要知道住在哪儿
+Nguyên nhân|地图需要现在的位置，是为了什么？|告诉从这里出发怎么走/知道用软件的人喜欢哪个歌/帮用软件的人买东西/告诉所有人密码|才能告诉你怎么走
+Quan điểm|老师让大家怎样处理功能？|想清楚需要后再改变/全都不用/全部同意/去掉得最多就最好|改变不需要的部分
+Chi tiết|作者发现一个软件里保存了什么旧信息？|去年住的地方/小学的成绩/以前的专业/周末的车票|保存的是去年住的地方
+Suy luận|作者保留地图位置功能的理由是？|要去不熟悉的地方/不想查看路线/准备在家听音乐/希望所有软件都用住的地方|周末要去一个不熟悉的地方
+@3/Đơn hàng không thuộc về mình/Mẩu chuyện
+晚上，一件快递放在我们房间门口。同学以为是自己网购的水果，拿进来正准备打开，我发现上面的姓名不是他的。地址是这座楼，不过房间号最后一个数字不同。同学查看自己的软件，水果还没有寄出，这件货当然不是他的。我们没有按照快递上写的电话直接提供自己的个人信息，是拿到楼下，交给负责这里快递的人。他查过记录，联系了真正订货的同学。过了一会儿，一位女生下来，带着手机里的购物记录，给工作人员看，说明是自己的。她说里面是明天交流活动要用的材料，原来以为还没到。我帮她把箱子放到桌子上，她打开给我们看，里面是很多小本子，不是水果。第二天活动时，我们又见面，她把一个本子交给我，说每个参加的人都有一本，我就坐下来写了自己的名字。
+VI: Tối có kiện trước phòng, bạn tưởng trái cây của mình định mở, tôi thấy tên khác, số phòng cùng tòa chỉ lệch một chữ số. Kiểm ứng dụng thấy trái cây chưa gửi. Chúng tôi đưa xuống người phụ trách giao nhận, không cung cấp thông tin cá nhân theo số trên kiện. Người ấy kiểm hồ sơ, liên hệ đúng người; một bạn nữ mang đơn điện thoại xuống xác nhận. Bên trong là vở dùng giao lưu ngày mai, không phải hoa quả. Tôi giúp đặt hộp lên bàn. Hôm sau gặp tại hoạt động, bạn trao tôi một cuốn như mọi người tham gia, tôi ngồi viết tên mình.
+Dấu hiệu|作者先从哪里发现可能拿错了？|快递上的姓名/箱子里水果的颜色/软件里的音乐/同学的证件号码|发现上面的姓名不是他的
+Đối chiếu|两个地方地址有什么不同？|房间号最后一个数字/城市名称/整座楼的名字/国家|房间号最后一个数字不同
+Bằng chứng|女生拿什么问清楚购物记录？|手机里的购物记录/作者的学生证/同学的密码/水果店的照片|带着手机里的购物记录
+Chi tiết|箱子里实际是什么？|小本子/水果/电脑/冬天的衣服|里面是很多小本子
+Suy luận|作者第二天得到本子是因为？|参加了交流活动/帮女生支付了购物记录/原来的快递就是他的/同学订了两件一样的货|每个参加的人都有一本
+@4/Bản tin đồ thất lạc ở trạm xe/Thông báo
+乘客们：今天上午十点，一位乘客在第三辆车上发现一个蓝色袋子，里面有一本书、两份早餐和一张写着电话号码的纸。袋子现在放在车站服务台，食物不适合放太久，请主人快一点联系。为问清楚是不是您的东西，工作人员会请您介绍书的名称，不会在电话里让您交费。服务台今天开到晚上七点，七点以后请先打电话，明天再来。小周看到通知，想起自己上午下车时只拿了电脑，早餐正好不见了。他打电话说出书名，又告诉工作人员袋子里面还有一张纸做的小花。对方查看以后约他六点来。小周下班要六点半，恐怕来不及，就问同事能否顺便代拿。服务台说可以，不过要先留下代拿人的姓名，到了以后还要再次问清楚。
+VI: Mười giờ sáng có người nhặt túi xanh trên xe thứ ba: sách, hai hộp đồ sáng và giấy số điện thoại. Túi ở quầy trạm, đồ ăn không nên để lâu. Nhận đồ phải nói tên sách, không phải trả phí qua điện thoại. Quầy mở đến bảy giờ; sau đó gọi trước và đến hôm sau. Tiểu Chu nhớ xuống xe chỉ lấy máy tính, mất bữa sáng, gọi nói tên sách và hoa giấy bên trong. Hẹn sáu giờ nhưng anh tan sáu rưỡi khó kịp nên nhờ đồng nghiệp tiện lấy. Quầy đồng ý nếu báo trước tên người lấy hộ, đến nơi xác nhận lại.
+Chi tiết|乘客在哪里发现袋子？|第三辆车上/公司门口/学校食堂/服务台下面|在第三辆车上发现
+Bằng chứng|小周还说出了什么没有写在通知上的东西？|纸做的小花/一本书/两份早餐/电话号码|还有一张纸做的小花
+Thời gian|今天七点以后想拿袋子应该怎么办？|先联系明天再来/直接去服务台/先在电话里交费/等车上的乘客回来|七点以后请先打电话，明天再来
+Nguyên nhân|小周为什么想请同事代拿？|自己六点半才下班/不记得书名/不知道袋子颜色/不愿问清楚姓名|小周下班要六点半
+Điều kiện|同事代拿以前需要先做什么？|留下姓名/买一辆电动车/再购买早餐/把电脑寄过去|要先留下代拿人的姓名
+@4/Chuyến xe có ba lần dừng/Ghi chép hành trình
+今天学校安排一辆车，送几位老人去参加活动。司机先问清楚每个人住在哪儿，没有让大家都走到最远的车站。八点从第一座楼出发，八点十分到第二座楼，最后八点二十分在学校门口接两个人。车里剩下两个座位，小陈本来想顺便上车去公司，听说还要留给回来时一起帮助他们的人，就改坐地铁了。去的路上，大家把买好的早餐分给没有来得及吃的人。司机不急着开快，遇到信号不好时，先停在安全的地方联系活动那边。九点到了，门口的人帮忙提袋子，没有收任何车费。下午三点大家坐这辆车回来，各自在原来上车的地方下车。小陈下班时看见车回来，问活动怎么样，老人们拿出拍的照片，还送给他一张纸做的花。
+VI: Xe nhà trường đưa người lớn tuổi dự hoạt động, đón lần lượt tám giờ tòa một, tám giờ mười tòa hai, tám giờ hai mươi cổng trường. Hai ghế trống giữ cho người cần đi kèm chiều về nên Tiểu Trần không tiện đi nhờ tới công ty, chuyển tàu điện. Dọc đường chia bữa sáng, lái xe không chạy vội, tín hiệu kém thì dừng chỗ an toàn liên hệ nơi tổ chức. Chín giờ đến, được xách đồ và không thu phí. Ba giờ chiều về cùng xe, trả đúng điểm đón. Tan làm Trần gặp, các cụ khoe ảnh và tặng hoa đã làm tại hoạt động.
+Trình tự|最后一个接人的地点是哪里？|学校门口/第一座楼/活动的门口/公司门口|最后八点二十分在学校门口
+Suy luận|车上有空座，小陈为什么没有上车？|座位还要给别人用/司机不认识他/小陈没有买早餐/车已经坏了|还要留给回来时一起帮助他们的人
+Tính toán|从第一座楼出发到活动地点用了多久？|一个小时/二十分钟/两个小时/半个小时|八点从第一座楼出发~~九点到了|Xe khởi hành lúc 8 giờ, đến lúc 9 giờ: một giờ, gồm cả các lần dừng đón.
+Chi tiết|信号不好时，司机怎样做？|先安全停车再联系/一直开得更快/让大家马上下车走路/取消下午回来的车|先停在安全的地方联系
+Đối chiếu|回来时大家在哪里下车？|原来上车的地方/全部在学校门口/全部在公司门口/司机家门口|各自在原来上车的地方下车
+@4/Bó hoa được chuyển qua hai người/Thư nhắn
+小林：谢谢你昨天帮我提花。原来我准备下班后把花送给医院里的姐姐，谁知道公司突然有事，六点还走不了。你正好去附近，我就请你顺便带过去。姐姐刚才打电话告诉我，你到医院以后没有直接走，还帮她把袋子提进房间。她说花放在窗边，看起来比原来更加好看。我也要告诉你一件你不知道的事：这束花是楼下那位阿姨自己种的。早上我去购买时，她知道是送给病人的，只算了一半的钱，还让我带一句“早一点好起来”。所以，姐姐现在看到的不是我一个人的关心。周末我会去看她，她想请你也来坐一会儿。不过，要是你忙，不用专门跑一次。我已经把阿姨的那句话告诉她了，她说等身体好些，要自己下楼去看看那些花。
+VI: Tiểu Lâm, cảm ơn bạn mang hoa hôm qua. Tôi định tan làm đưa chị trong viện nhưng sáu giờ còn bận nên nhờ bạn tiện đường. Chị kể bạn còn xách túi vào phòng, hoa cạnh cửa sổ rất đẹp. Có điều bạn chưa biết: hoa do bác dưới nhà trồng; biết tặng bệnh nhân, bác chỉ tính nửa tiền và nhắn mau khỏe. Vì vậy bó hoa mang tấm lòng nhiều người. Cuối tuần tôi thăm chị, chị mời bạn ghé nếu rảnh, không cần đi riêng khi bận. Tôi đã chuyển lời bác; khỏe hơn chị muốn tự xuống xem hoa.
+Người gửi|这封信主要在向谁表示感谢？|帮忙送花的小林/医院所有病人/公司的人/种花阿姨的家人|谢谢你昨天帮我提花
+Nguyên nhân|作者为什么没有自己送花？|下班时还有工作/不认识姐姐的地址/花还没有长好/姐姐不想见他|公司突然有事
+Đối chiếu|阿姨最后收了多少钱？|原来的价格的一半/比原来的价格多付相同的钱/全部原来的价格/完全没有收|只算了一半的钱
+Ẩn ý|“不是我一个人的关心”指什么？|几个人都给了帮助/花是大家一起种的/作者没有付任何钱/姐姐不知道花是谁送的|姐姐现在看到的不是我一个人的关心
+Dự định|姐姐好些后想做什么？|亲自去看阿姨种的花/马上离开这座城市/重新购买一束相同的花/不再接受鲜花|要自己下楼去看看那些花
+@4/Chi phí đi lại trong một tuần/So sánh
+为了看看不同出行方式实际要花多少，我记录了上周五天的情况。星期一坐公交，来回四元；星期二骑电动车，充电的钱不多，不过路上突然下雨，我又花两元坐车回来，车留在公司。星期三早上坐公交去，把电动车骑回家。星期四同事开车顺便带我，虽然没有让我交费，但他为了来接我，多开了一段路。星期五我走路上班，用了三十五分钟，心情很愉快，下午还是因为要购买食物，提着重袋子不想再走，改坐公交。看记录时，我没有选出一个每天都必须用的方法。天气好、东西少时可以走，时间不够或需要提东西时就坐车。下周我还想记下每天花在路上的时间，看看省的钱和多用的力气之间到底有什么关系。
+VI: Tôi ghi năm ngày đi làm: thứ hai xe buýt khứ hồi bốn tệ; thứ ba xe điện, mưa nên bỏ xe công ty, trả hai tệ xe về; thứ tư sáng buýt, chiều đạp xe về. Thứ năm đồng nghiệp tiện chở không thu tiền nhưng phải vòng đón. Thứ sáu đi bộ ba mươi lăm phút vui vẻ, chiều mua đồ nặng nên về buýt. Tôi không chọn một cách bắt buộc mỗi ngày: trời đẹp ít đồ đi bộ, thiếu giờ hoặc mang nặng thì xe. Tuần tới sẽ ghi cả thời gian để so tiền tiết kiệm với công sức bỏ ra.
+Tính toán|星期一来回车费多少？|四元/两元/八元/没有花钱|来回四元
+Trình tự|电动车什么时候回到家？|星期三/星期二/星期一/星期五|星期三早上坐公交去，把电动车骑回家
+Suy luận|同事没有收费，为什么也不是完全没有花费？|为了接作者多开了一段路/作者付了停车费/同事没有去上班/车里没有座位|他为了来接我，多开了一段路
+Nguyên nhân|星期五下午为什么改坐公交？|买了东西袋子重/早上没有走到公司/电动车还在公司/同事要求交钱|提着重袋子不想再走
+Kế hoạch|下周作者还准备记录什么？|路上花的时间/每个人的工资/食物的价格/同事购买的汽车|记下每天花在路上的时间
+@4/Bữa sáng trước ca làm đầu/Quan sát
+我在学校门口的早餐店帮忙，今天第一次负责把食物交给来取的人。六点半，店里已经有三种早餐，老板让我先看清楚每个袋子上的纸，再找到要来拿的人。一位乘客赶车，没有来得及吃饭，问能否直接拿已经装好的那份。我查看后告诉他，那是别人提前购买的，旁边还有一样的食物，可以马上给他装。他付好钱，提着自己的袋子去了车站。后来一位老人来领取学校为他准备的免费早餐，老板没有在大家面前说他不用付钱，只轻声问清楚姓名，再把热的那份交给他。七点半，我把桌子上剩下的袋子重新排好，发现每一份外面虽然差不多，拿给谁、是不是已经交费也不一样。下班时老板让我明天再来，他说我今天没有把任何一份交错。
+VI: Lần đầu phụ giao đồ ở quán sáng cổng trường, tôi được dặn đọc giấy trên túi và tìm đúng người. Sáu rưỡi có ba loại đồ sáng. Khách vội xe muốn lấy túi sẵn nhưng đó là phần người khác đặt, tôi đóng phần giống cho ông trả tiền rồi đi. Một cụ nhận bữa miễn phí nhà trường, chủ chỉ nhẹ giọng hỏi tên, không công bố trước mọi người. Bảy rưỡi tôi xếp túi còn lại, thấy ngoài giống nhưng người nhận và trạng thái trả tiền khác nhau. Kết ca thầy hẹn mai vì hôm nay không giao nhầm phần nào.
+Trình tự|交早餐前作者先看什么？|袋子上的纸/客人的手机的名字/车站的车费/天气预报|先看清楚每个袋子上的纸
+Nguyên nhân|乘客为什么不能直接拿走那一份？|别人已经提前购买/食物已经坏了/那份只能留到明天/店里已经没有一样的食物|那是别人提前购买的
+So sánh|老人拿的早餐有什么不同？|学校准备不用交费/必须比别人多付钱/只能自己做/只能晚上领取|学校为他准备的免费早餐
+Thái độ|老板为什么只轻声问清楚老人的姓名？|不在大家面前强调免费领取/怕乘客知道车站位置/不想让老人拿到食物/所有早餐都不能说话领取|没有在大家面前说他不用付钱
+Kết quả|老板为什么让作者明天再来？|没有交错任何一份/卖出了全店最贵的早餐/让所有人免费吃饭/没有给客人装进袋子|今天没有把任何一份交错
+@5/Thực đơn cho bốn khẩu vị/Thực đơn
+周六的聚餐有四个人。菜单上写着：鱼汤三十元，不辣；辣椒鸡四十元，可以少放辣椒；白菜十五元，普通做法；面条二十元，里面有鸡蛋。小林喜欢酸的，不吃辣；小陈什么都能尝一点儿；小周不能吃鸡蛋；我下午要去上课，至少一点以前得吃完。主人说，鱼汤需要等半个小时，其他菜大约十五分钟就够了。我们十二点坐下，决定先点白菜和少放辣椒的鸡，让小林吃白菜和面条，另外请主人煮一碗没有鸡蛋的面。小周问清楚厨房能专门做，才放心坐下来。鱼汤没有点，不是因为贵，是怕大家一直等。吃完一共七十五元，四个人都觉得吃的够了。下次不用赶时间，我们还想来试试那道鱼汤，看看跟家里的做法有什么不同。
+VI: Bốn người ăn trưa thứ bảy: canh cá 30 không cay nhưng chờ nửa giờ; gà ớt 40 có thể giảm ớt; rau 15; mì 20 có trứng, các món này khoảng mười lăm phút. Lâm không ăn cay, Trần món nào cũng nếm, Chu không ăn trứng, tôi cần xong trước một giờ. Ngồi mười hai giờ, chúng tôi gọi rau, gà ít ớt, mì riêng không trứng sau khi hỏi bếp; Lâm ăn cải trắng và mì không cay. Không gọi canh vì thời gian chứ không vì đắt. Tổng 75, đủ bốn người; lần sau thong thả muốn thử canh so với nhà.
+So sánh|哪道菜需要等得最久？|鱼汤/白菜/面条/辣椒鸡|鱼汤需要等半个小时
+Điều kiện|小周吃面条前需要问清楚什么？|能不能不放鸡蛋/鱼汤是不是酸的/菜是不是四十元/其他人能不能吃辣|专门做
+Tính toán|他们这次点的菜一共多少钱？|七十五元/一百零五元/九十元/四十五元|吃完一共七十五元|Gà 40 + cải trắng 15 + mì 20 = 75 tệ; không cộng canh cá vì nhóm không gọi.
+Nguyên nhân|这次没点鱼汤主要是因为？|需要等得久/所有人都不吃鱼/菜单没有这道菜/主人不愿卖|不是因为贵
+Dự định|下次时间够，他们想尝什么？|鱼汤/只有菜/带鸡蛋的辣椒/学校的早餐|还想来试试那道鱼汤
+@5/Công thức có chỗ để thay đổi/Hướng dẫn
+这是妈妈写给我的一张做面条的纸。她没有规定每种材料都放多少，只写了顺序：先洗好菜，把要用的碗放在旁边；水开后下面条，快熟时加菜，最后尝汤，再决定放不放盐。油只要一点儿，辣椒另放一个小碗，想吃辣的人自己加。今天午餐只有我和妹妹，我按照这张纸做。妹妹不喜欢酸的，我就没有把酸的东西加到面里，是留在桌子上。面熟了以后，她说想再煮一个鸡蛋，我告诉她要另外煮，不必把已经分好的面重新煮一次。饭后我们把纸上的“最后尝汤”画了一个记号，因为上次我没尝就又放盐，结果太咸。妈妈晚上回来，看到纸边多了妹妹写的一句话：“下次面少一点，菜多一点。”她说，纸可以继续用，不需要每次都跟第一次完全相同。
+VI: Mẹ viết thứ tự làm mì chứ không quy định mọi lượng: rửa rau, chuẩn bị bát, nước sôi thả mì, gần chín thêm rau, cuối nếm mới quyết muối; ít dầu, ớt riêng ai thích tự thêm. Trưa có tôi và em, em không thích chua nên để đồ chua trên bàn. Mì đã múc, em muốn trứng thì luộc nồi khác, không đổ mì lại. Chúng tôi khoanh bước nếm vì lần trước tôi thêm muối không nếm nên mặn. Tối mẹ thấy em ghi lần sau ít mì nhiều rau, bảo công thức có thể dùng tiếp và thay đổi, không cần y hệt lần đầu.
+Trình tự|什么时候加菜？|面快熟的时候/水还没开时/吃完饭以后/盐放了两次以后|快熟时加菜
+Đối chiếu|辣椒应该放在哪里？|另一个小碗里/每个人的面里/冰箱里/妈妈的纸上|辣椒另放一个小碗
+Nguyên nhân|作者为什么没有把酸的东西加到面里？|妹妹不喜欢酸的味道/妈妈不让煮面/面已经太咸/家里没有碗|妹妹不喜欢酸的
+Hồi tưởng|上次面条太咸的原因是什么？|没尝汤又放盐/妹妹加了菜/水没有开/另煮了鸡蛋|上次我没尝就又放盐
+Ẩn ý|妈妈说“纸可以继续用”是什么意思？|做法可以根据需要调整/纸上的字都不能改/以后不要妹妹做面/每次必须放同样多的材料|不需要每次都跟第一次完全相同
+@5/Chỗ ngồi có một tấm thiệp nhỏ/Mẩu chuyện
+正式聚餐开始以前，小李在每个座位前放了一张写着名字的卡。我第一次参加，以为这是规定每个人只能坐自己的地方。主人说，先这样安排是为了让不认识的人也有机会交流，吃完第一道菜可以换位置。我旁边是一位年纪较大的客人，他问我最喜欢哪道中餐。我说喜欢汤，又不太敢吃辣，他就把不辣的汤转到我面前。过了一会儿，我换到另一边，跟一位学中文的同学坐。他正好想问“熟”在做饭和认识人时为什么不同，我们拿桌子上的菜和新认识的朋友各举了一个例子。离开时，主人让我们把自己的卡带走，背面可以写今天认识的人的名字。我写了三个人，还把那位客人介绍的汤记下来，准备下次请家人吃饭时点。
+VI: Trước tiệc chính thức mỗi ghế có thiệp tên, tôi tưởng buộc ngồi đúng cả buổi. Chủ giải thích để người chưa quen có dịp nói chuyện, sau món đầu được đổi. Khách lớn tuổi cạnh tôi hỏi món thích; biết tôi thích canh không cay, ông chuyển canh tới. Đổi bên, tôi gặp bạn học tiếng Trung hỏi chữ “熟” khi đồ chín và người quen; chúng tôi lấy món và bạn mới làm ví dụ. Cuối buổi mang thiệp về, ghi tên người quen mặt sau. Tôi ghi ba người và tên canh để lần sau mời gia đình gọi thử.
+Hiểu lầm|作者开始怎样理解座位卡？|以为不能换位置/以为是菜单/以为要写年龄/以为只能带回家|以为这是规定每个人只能坐自己的地方
+Điều kiện|什么时候可以换位置？|吃完第一道菜以后/正式开始以前必须换/只在最后离开时/主人从来不让换|吃完第一道菜可以换位置
+Chi tiết|年纪较大的客人怎样帮助作者？|把不辣的汤转过来/帮他吃完所有菜/要求他多吃辣椒/帮他改姓名|把不辣的汤转到我面前
+Ngôn ngữ|他们用哪两种例子介绍“熟”？|做好的菜和认识的人/价格和时间/年龄和座位/名字和地址|桌子上的菜和新认识的朋友各举了一个例子
+Mục đích|作者在卡上记下汤，是为了什么？|以后请家人吃饭时点/交给老师当作业/重新安排座位/证明自己不吃饭|准备下次请家人吃饭时点
+@5/Đếm món còn lại sau bữa ăn/Ghi chép quan sát
+学校食堂想了解午餐给的菜是不是太多，请我们帮忙记录三天。我们不问谁吃得多，只记每道菜最后剩下多少。第一天，白菜剩得最多，有人说放得太凉，也有人说自己只是拿多了。第二天，食堂把白菜分成小份，吃完还可以再加，结果剩下的明显少了，来加的人还是不少。第三天换成一道酸辣白菜，给的菜跟前一天一样多，剩下的又多起来。我们于是把“给得多少”和“味道”分开写，不能因为剩得多就直接说菜太多。交记录时，我还写下三个人说过的话，其中一位平常很少吃辣，希望至少每天有一道普通味道的白菜。负责人没有马上取消酸辣白菜，先决定明天两种都提供，让大家各选自己需要的。我们的记录还要再多做一天。
+VI: Nhóm ghi ba ngày xem khẩu phần ở nhà ăn, không chấm ai ăn nhiều mà ghi phần món thừa. Ngày một rau dư nhất, có người chê nguội, người lấy quá nhiều. Ngày hai chia nhỏ, ăn hết được thêm, thừa ít hơn dù nhiều người xin thêm. Ngày ba đổi rau chua cay, lượng như hôm trước nhưng lại thừa nhiều. Chúng tôi tách lượng và vị, không kết luận thừa luôn do cho nhiều, ghi nguyên lời ba người, có bạn muốn mỗi ngày có rau vị thường. Người phụ trách chưa bỏ rau cay, hôm sau cung cấp hai loại cho chọn, nhóm ghi thêm một ngày.
+Mục đích|记录时不做哪件事？|评价谁吃得多/看剩下多少/比较不同做法/记同学的说过的话|我们不问谁吃得多
+Đối chiếu|第二天的白菜怎样提供？|先给小份吃完再加/一次给更多/只给喜欢辣的人/完全不提供|分成小份，吃完还可以再加
+Nguyên nhân|第三天说明了什么？|味道也会影响剩菜的多少/给得一样多就一定剩得一样多/所有人都喜欢酸辣/记录不需要分开写|把“给得多少”和“味道”分开写
+Chi tiết|有位同学希望每天至少有什么？|一道普通味道的白菜/三道酸辣菜/免费的全部午餐/同样多的剩菜|至少每天有一道普通味道的白菜
+Diễn biến|负责人决定下一天怎样做？|两种味道都提供/马上取消所有白菜/不让大家再加/只提供酸辣的|明天两种都提供
+@5/“怕不辣” trong một cuộc điện thoại/Hội thoại
+朋友来家里以前，我给他打电话问想吃什么。他说：“我不怕辣，可我妹妹怕辣，你别把每道菜都做辣了。”我记好以后，旁边的弟弟问：“他不是说怕不辣吗？”我把电话再打开，让朋友自己解释。朋友说，不怕辣是吃辣也没关系，怕不辣是希望一定有辣的味道，两个句子里的“不”放在不同地方，意思不一样。他又补充：“今天至少要有一道不辣的，其他你们自己选。”我最后做了两道不辣的菜，辣椒另外放。吃饭时，妹妹先尝了汤，又吃了很多菜，朋友自己加辣椒。弟弟把三个句子写在纸上：不怕辣、怕不辣、怕辣，下面分别写谁能吃什么。他没有把纸交给老师，放在了厨房门上，说下次接电话就不会再听成一样的话了。
+VI: Gọi hỏi bạn trước bữa ăn, bạn nói mình không sợ cay nhưng em gái sợ, đừng nấu tất cả cay. Em trai tôi nghe thành “sợ không cay”, nên tôi gọi để bạn giải thích: vị trí “不” khác, một bên chấp nhận cay, một bên muốn phải cay. Hôm nay cần ít nhất một món không cay, còn lại tùy. Tôi làm hai món không cay, ớt riêng; em gái ăn canh rau, bạn tự thêm ớt. Em trai ghi ba cách nói và ai ăn được gì, dán cửa bếp để lần sau nghe điện thoại không nhầm.
+Người nói|谁今天不能吃辣？|朋友的妹妹/朋友本人/作者本人/所有客人|可我妹妹怕辣
+Ngôn ngữ|“怕不辣”表示什么？|希望食物有辣的味道/完全不能吃辣/什么味道都能吃/只怕汤太咸|希望一定有辣的味道
+Giới hạn|朋友提出的最低要求是什么？|至少一道不辣的/所有菜都辣/只能煮一碗汤/每个人吃相同的菜|至少要有一道不辣的
+Đối chiếu|实际准备了几道不辣的菜？|两道/一道/三道/没有|做了两道不辣的菜
+Mục đích|弟弟把纸放在厨房门上是为了什么？|下次听清楚不同的句子/告诉大家交作业/让妹妹必须加辣椒/写正式菜单的价格|下次接电话就不会再听成一样的话了
+@6/Một buổi khám được ghi theo giờ/Nhật ký
+今天陪同学去医院，我把过程记在手机里，准备告诉还没去过的同学。八点半到大厅，先拿表，写姓名、性别、国籍和联系地址。同学不明白地址要写哪里，护士解释，要写现在能联系到的地方，不是几年前住过的房子。九点看医生，他把昨天什么时候开始咳嗽、体温怎样变化都说清楚了，没有只说一句“很难受”。医生检查以后，让他先去另一个地方等结果。十点十分拿到结果，我们再回去听医生说明。由于我十一点有课，原来担心来不及，同学说后面的事情自己可以完成，让我先回学校。我把护士告诉过的事情发给他，没有帮他决定治疗。下午他告诉我已经回家休息，手机上还留着自己问过的问题，下次再去时可以拿给医生看。
+VI: Tôi ghi giờ khi đi viện cùng bạn để kể người chưa đi: tám rưỡi lấy phiếu điền tên, giới tính, quốc tịch, địa chỉ hiện liên lạc được. Chín giờ bạn kể rõ lúc bắt đầu ho và thay đổi nhiệt độ, không chỉ “khó chịu”. Khám rồi đợi, mười giờ mười lấy kết quả về nghe bác sĩ. Tôi có tiết mười một, bạn tự làm tiếp nên tôi gửi các bước y tá dặn rồi về, không quyết định điều trị hộ. Chiều bạn báo đã về nghỉ, lưu câu hỏi để lần tới cho bác sĩ xem.
+Thời gian|他们几点到医院大厅？|八点半/九点半/十点十分/十一点|八点半到大厅
+Đối chiếu|表上的地址要写哪一个？|现在能联系到的地方/几年前的房子/任何宾馆/一起去的人的公司|现在能联系到的地方
+Chi tiết|同学怎样介绍不舒服的情况？|说明开始时间和体温变化/只说很难受/只让作者帮他说/完全不回答|昨天什么时候开始咳嗽、体温怎样变化都说清楚了
+Trình tự|拿到结果以后先做什么？|回去听医生说明/直接交给学校老师/重新写刚才那张表/把结果去掉|我们再回去听医生说明
+Nguyên nhân|作者为什么先回学校？|十一点有课/不愿再帮助同学/已经帮同学决定治疗/护士不让一起进去|由于我十一点有课
+@6/Địa chỉ cần sửa trên phiếu/Giải thích thủ tục
+护士把表还给小王，说有两个地方需要问清楚。第一部分是性别，他没有写；第二部分是住的地方，他只写了“中国”，没有写城市和现在住的地方。小王问，自己家人在国外，住的地方又是租的，是不是要写国外的地址。护士说，这张表是为了以后能联系到他，需要按照表上的说明写现在住的地址，具体不明白的地方可以问，不要自己随便想。他又看了看，发现电话也少写一位，就一起改好。排队时，前面一位老人看不清楚字，小王没有帮他随便写，是请工作人员过来，听老人说以后再写。到自己时，他把改好的表和证件一起交上去，过程很顺利。回去后，他没有拍下别人的表，只在自己的本子里记了“看清楚每一项，交前再检查”，没有保存任何不认识的人的个人信息。
+VI: Y tá trả phiếu Tiểu Vương cần xác nhận giới tính còn trống và địa chỉ chỉ ghi Trung Quốc. Anh hỏi gia đình ở nước ngoài, hiện thuê nhà thì ghi đâu; y tá nói phiếu cần địa chỉ hiện tại để liên lạc, đọc hướng dẫn và hỏi chỗ chưa rõ. Anh còn tự thấy số điện thoại thiếu một chữ số, sửa cùng. Chờ hàng, thấy cụ không đọc rõ, anh gọi nhân viên hỏi cụ rồi điền chứ không đoán. Nộp phiếu đã sửa với giấy tờ thuận lợi. Về chỉ ghi lời nhắc kiểm từng mục, không chụp phiếu hay lưu thông tin người lạ.
+Phủ định|护士指出的问题没有哪一项？|电话少一位/性别没写/地址不具体/现在住的地点不清楚|第一部分是性别~~没有写城市和现在住的地方
+Nguyên nhân|护士为什么要现在住的地址？|方便以后联系/判断房租高低/帮他购买房子/让家人马上出国|为了以后能联系到他
+Tự phát hiện|小王自己还改了什么？|电话号码/医生的姓名/别人的国籍/表上的价格|发现电话也少写一位
+Thái độ|面对看不清楚字的老人，小王怎么做？|请工作人员听清楚再写/自己想也不想就写完/直接给他自己的表/拍照发给所有同学|请工作人员过来，听老人说以后再写
+Chi tiết|小王带回家的记录是什么？|交表前检查的记录/不认识的人的表照片/其他人的证件号/所有病人的地址|在自己的本子里记了
+@6/Lời nhắn không đánh thức người bệnh/Thư nhắn
+小陈：刚才来时你正在睡，我没有叫醒你。带来的水果放在厨房，热水在桌子上，不过你什么时候能吃什么，还是要看医生给你的说明。我把你要看的书放在床边，昨天学校发的通知也放在里面，不是今天必须交的作业，可以身体好些再看。明天上午我有课，下午四点以后能再来。要是那时你想休息，就给我发一个“晚点”，不用专门起来等。你妈妈已经知道你今天检查的结果，她说晚上会打电话，我没有把医院里其他人的情况告诉她。门我已经关好，手机也已经有电了，醒来以后直接用就行。我先回去了，不必马上回答。等你想说话的时候再找我，我们还可以把上次没讲完的那个故事接着讲完。
+VI: Tiểu Trần, lúc tới bạn đang ngủ nên mình không gọi dậy. Trái cây ở bếp, nước ấm trên bàn, ăn gì lúc nào theo hướng dẫn bác sĩ. Sách cạnh giường kẹp thông báo trường hôm qua, không phải bài phải nộp hôm nay, khỏe hơn hãy xem. Mai mình có tiết sáng, sau bốn giờ chiều ghé được; muốn nghỉ thì nhắn “muộn hơn”, đừng thức đợi. Mẹ bạn đã biết kết quả hôm nay, tối gọi; mình không kể thông tin bệnh nhân khác. Đã đóng cửa và sạc máy, tỉnh dùng được. Không cần trả lời ngay, muốn trò chuyện thì tìm mình, kể tiếp câu chuyện dở.
+Mục đích|作者为什么留这张纸？|不想叫醒朋友/朋友不认识他/必须马上交作业/不愿让朋友知道来过|你正在睡，我没有叫醒你
+Vị trí|学校的通知放在哪里？|书里面/水果的袋子里/医院大厅/手机下面|昨天学校发的通知也放在里面
+Thời gian|作者明天什么时候能来？|下午四点以后/早上上课时/中午十二点以前/整天都在|下午四点以后能再来
+Điều kiện|小陈想继续休息，可以怎样做？|发一个晚点的消息/一定起来等/马上完成作业/必须回答所有问题|就给我发一个“晚点”
+Phủ định|作者没有向小陈妈妈说什么？|其他病人的情况/今天检查的结果/小陈正在休息/今天来过这里|没有把医院里其他人的情况告诉她
+@6/Điều cần kể trong lần khám lại/Hội thoại
+医生问爸爸：“上次检查以后，晚上还咳得厉害吗？”爸爸说好多了，妈妈拿出记在手机里的时间，说前两天半夜还是醒过几次。爸爸不好意思，解释自己只记得昨天睡得好，就以为一直都好了。医生让他把这几天的情况分开说，不必为了让家人放心就只报好的结果。妈妈没有帮他说完，先让他讲白天的感觉，再补充自己看到的事。医生听完，按实际情况说明接下来的安排，告诉不清楚就再问，不要自己改。回家以后，爸爸决定每天只记几项跟这次看病有关的内容，不把所有不舒服都写成一样的话“没什么”。今天晚上，他先写了几点休息，再写有没有咳嗽。妈妈没有一直追问，只跟他约好下次去医院以前一起看看这些记录。
+VI: Tái khám, bác sĩ hỏi bố còn ho nặng ban đêm không. Bố nói đỡ nhiều nhưng mẹ đưa ghi chép hai đêm trước vẫn thức. Bố chỉ nhớ tối qua ngủ tốt nên tưởng đã ổn liên tục. Bác sĩ bảo kể tách từng ngày, đừng chỉ báo tốt để trấn an nhà. Mẹ để bố tả cảm giác ban ngày rồi bổ sung điều quan sát, không nói thay hết. Bác sĩ giải thích kế tiếp theo thực tế, chưa rõ hỏi lại, không tự đổi. Về bố ghi vài mục liên quan bệnh, không gộp mọi thứ thành “không sao”; tối ghi giờ nghỉ, có ho không. Mẹ hẹn cùng xem trước lần tới, không hỏi liên tục.
+Nguyên nhân|爸爸为什么说已经好多了？|主要记得昨天睡得好/从来没有咳嗽/想取消所有检查/没有去过医院|自己只记得昨天睡得好
+Bằng chứng|妈妈用什么补充情况？|手机里的时间记录/别人的检查表/学校的课程表/网上不认识的人的建议|拿出记在手机里的时间
+Trình tự|妈妈怎样介绍情况？|先听爸爸讲再补充/完全帮爸爸回答/让爸爸不再说话/只报昨天的好结果|先让他讲白天的感觉，再补充
+Ý nghĩa|这里“只报好的结果”可能有什么影响？|医生不容易了解完整情况/一定让治疗马上有效/不用再实际检查/使所有记录都没必要|不必为了让家人放心就只报好的结果
+Dự định|下次去医院以前他们准备做什么？|一起看看记录/把所有记录去掉/只问邻居/自己改医生的安排|下次去医院以前一起看看这些记录
+@6/Chiều trực ở quầy hướng dẫn/Quan sát
+周五下午，我在医院大厅帮助指路，没有参加治疗。两点，一位外国学生问收费的地方在哪里，我先带他到大厅左边，发现那里只是挂号的地方，再看清楚介绍的字，陪他走到二楼。他需要翻译时，我们请了负责的人，不把自己不懂的医学词随便说成另一种意思。三点，一位护士请我告诉排队的人，取结果的地方已经换到右边，不要继续在原来的地方等。我把同样的话说给后来的人听，还给看不清楚字的老人指了方向。四点以后人少了，工作人员让我休息一会儿。我坐下喝水，才发现自己一直站着。离开前，一位学生回来感谢我，说他已经拿到结果，正要去找医生。我把这一天记成一张大厅的小图，只画位置，不记任何人的姓名和检查结果。
+VI: Chiều thứ sáu tôi hỗ trợ chỉ đường ở sảnh viện, không điều trị. Hai giờ dẫn sinh viên nước ngoài nhầm sang chỗ đăng ký bên trái, xem biển rồi tới quầy thu tầng hai. Cần dịch thì mời người phụ trách, không đoán thuật ngữ. Ba giờ y tá nhờ báo nơi lấy kết quả chuyển sang phải, tôi nhắc cả người đến sau và chỉ cụ khó đọc. Sau bốn giờ vắng hơn mới ngồi uống nước, nhận ra đứng suốt. Trước về bạn sinh viên cảm ơn đã lấy kết quả và tìm bác sĩ. Tôi vẽ sơ đồ sảnh, không ghi tên hay kết quả khám của ai.
+Phân biệt|作者在医院做什么？|帮助指路/决定治疗方法/修改检查结果/给所有人打针|帮助指路，没有参加治疗
+Sửa thông tin|大厅左边实际上是什么地方？|挂号的地方/收费的地方/治疗室/拿药的地方|那里只是挂号的地方
+Thay đổi|三点以后在哪里取结果？|大厅右边/原来的地方/学校门口/作者家里|换到右边
+Nguyên tắc|遇到不懂的医学词，作者怎样做？|请负责的人翻译/随便说一个意思/让学生自己想/只用手指不说明|我们请了负责的人
+Phủ định|作者的小图不记录什么？|病人的姓名和检查结果/收费的地方的位置/大厅的方向/需要去的楼层|不记任何人的姓名和检查结果
+@7/Bốn câu hỏi của hai bản khảo sát/Đối chiếu
+我们要调查新产品用起来是不是方便。第一份计划只有四个问题：“喜欢吗”“好看吗”“会买吗”“贵不贵”。经理看过以后，没有让我们马上去采访，是请两位同事试着回答。他们都说“还可以”，我们还是不知道具体哪里需要改。第二份保留了价格问题，另外问第一次使用花了多久、哪一步不明白、平常在什么情况下会用。客户这次说得多了，有人喜欢产品，但因为看不懂说明很少用；也有人觉得样子普通，但每天都需要它。整理内容时，我们没有把“喜欢”和“会用”放成一类。星期五我交了两份记录，经理让我拿一个实际例子给新同事讲。我选了那个喜欢产品但很少用的客户，因为他的看法使我们发现，外面的样子和使用的困难可能同时存在。
+VI: Khảo sát sản phẩm mới, bản đầu chỉ hỏi thích, đẹp, mua, đắt không. Hai đồng nghiệp thử đều nói “cũng được”, không ra chỗ cần sửa. Bản hai giữ giá, thêm lần đầu dùng bao lâu, bước khó hiểu, tình huống sử dụng. Khách nói cụ thể: có người thích nhưng ít dùng vì hướng dẫn khó, người thấy bình thường lại cần hằng ngày. Chúng tôi không gộp thích với biết dùng. Thứ sáu nộp cả hai, quản lý nhờ kể ví dụ cho người mới; tôi chọn khách thích mà ít dùng vì cho thấy vẻ ngoài và khó khăn sử dụng có thể cùng tồn tại.
+So sánh|第一份调查主要缺少什么？|具体使用情况/关于价格的问题/问题的数量/产品的名称|不知道具体哪里需要改
+Chi tiết|第二份保留了哪方面的问题？|价格/是不是好看/只问喜欢不喜欢/同事的工资|第二份保留了价格问题
+Phân loại|为什么不把“喜欢”和“会用”放成一类？|有人喜欢还是不常用/所有人都不喜欢/客户只谈颜色/经理不让整理内容|有人喜欢产品，但因为看不懂说明很少用
+Người nhận|作者星期五要把例子讲给谁？|新同事/所有客人的家人/学校的护士/房东|拿一个实际例子给新同事讲
+Suy luận|哪个看法最需要改进使用说明？|喜欢产品但看不懂说明/觉得样子普通但每天用/只问产品有几种颜色/准备下星期再谈价格|因为看不懂说明很少用
+@7/Bàn giao công việc trước khi đi xa/Thư công việc
+各位同事：我明天出差三天，周四下午回公司。客户的材料已经整理好，放在大家平常查看的地方，不只在我的电脑里。小周负责周二的采访，问题先按上次讨论的顺序问，要是客户提出新看法，也请另外记下，不必为了完成计划就打断对方。小林负责把周三收到的信息分类，不能问清楚的部分先保留说过的话，等我回来一起看。关于价格，我们还没有最后决定，请不要直接向客户保证。出差期间，我上午都在开会，中午十二点半能看邮件；真正需要及时处理的事，请先联系经理。周四上午不用等我开始讨论，你们可以先比较已经完成的内容。我回来以后会补充另一位客户的经验，再决定下周要做什么。今天下班前如果有任何不清楚的地方，请到我这里来。
+VI: Tôi đi công tác ba ngày, chiều thứ năm về. Hồ sơ đã ở nơi chung, không chỉ máy cá nhân. Chu phỏng vấn thứ ba theo thứ tự đã bàn nhưng ghi thêm ý mới, đừng ngắt khách chỉ để xong kế hoạch. Lâm phân loại thông tin thứ tư, phần chưa xác nhận giữ nguyên lời đợi xem cùng. Giá chưa chốt, không bảo đảm với khách. Sáng tôi họp, mười hai rưỡi xem thư; việc cần gấp liên hệ quản lý. Sáng thứ năm nhóm cứ thảo luận, không chờ tôi; về tôi bổ sung kinh nghiệm khách khác rồi chọn việc tuần sau. Chưa rõ hỏi trước tan làm hôm nay.
+Phân công|谁负责周二的采访？|小周/小林/所有客户/经理的家人|小周负责周二的采访
+Điều kiện|客户提出新看法时应该怎样做？|另外记录/马上打断/只能回答原来的四个问题/保证产品没有缺点|也请另外记下
+Phủ định|目前不能向客户保证哪件事？|最后价格/采访在周二/材料已经整理/作者会出差|关于价格，我们还没有最后决定
+Thời gian|作者通常什么时候能看邮件？|十二点半/每天上午九点/周二以前任何时候/只在回公司以后|中午十二点半能看邮件
+Suy luận|周四上午讨论是不是必须等作者？|不用等可以先讨论/必须等到下午/只能取消/先让客户决定全部任务|周四上午不用等我开始讨论
+@7/Người khách từ chối mua vẫn có ý kiến/Phỏng vấn
+做市场调查时，我遇到一位看完产品还是没有购买的客户。我问能否采访五分钟，他说可以，但自己不是使用者，恐怕没有经验。我告诉他，我们也想了解为什么最后没有买。他说，产品的优点很明显，价格也不算高，不过家里已经有一件差不多的，现在不需要再加。我原来准备把“没买”都整理成“觉得不好”，听他解释后，另写了一类“已有差不多的产品”。接着他提到，如果给第一次用的人看，外面的介绍不够清楚。我没有马上跟他讨论谁对谁错，是请他指出哪句话看不懂。他选了一个我们以为很简单的词。回公司后，我把说过的话交给同事，又把自己的分类方法一起说明。经理说这份内容可以用，不过记录里要写明白，这是没买的人给的意见，不能写成“使用后发现的问题”。
+VI: Khách xem nhưng không mua nói mình chưa dùng, sợ không có kinh nghiệm trả lời năm phút. Tôi hỏi lý do không mua: ưu điểm rõ, không quá đắt nhưng nhà đã có đồ tương tự. Thay vì gộp “không mua” thành “không tốt”, tôi thêm nhóm “đã có sản phẩm gần giống”. Khách còn chỉ câu giới thiệu khó với người mới, tôi xin chỉ đúng câu thay vì tranh cãi. Về chuyển nguyên lời và cách phân loại. Quản lý chấp nhận nhưng yêu cầu ghi rõ ý kiến người chưa mua, không trình bày như vấn đề sau sử dụng.
+Nguyên nhân|这位客户没买的主要原因是？|家里已经有差不多的/觉得一定太贵/没有看到任何优点/产品已经用坏了|家里已经有一件差不多的
+Sửa phân loại|作者原来想怎样记录“没买”？|都写成觉得不好/都写成家里已有/全部不记录/都认为价格太高|把“没买”都整理成“觉得不好”
+Bằng chứng|作者怎样了解介绍不清楚的问题？|请客户指出具体句子/自己马上改成另一种语言/不再听下去/先让客户购买|请他指出哪句话看不懂
+Phân biệt|经理要求怎样写清楚这条意见？|来自没有购买的人/来自长期使用的人/产品一定没有效果/所有客户都这样想|这是没买的人给的意见
+Ý chính|这段采访最重要的区别是什么？|没买不一定代表不喜欢/没用过就不能说任何意见/便宜的产品都容易卖/所有采访都应该取消|产品的优点很明显
+@7/Cuốn sổ ghi những lần hoàn thành/Nhật ký
+实习第一周结束，老师让我们写工作记录。我没有从星期一到星期五把每件小事都写一遍，是选了三份真正完成的材料。第一份花了两小时，后来发现内容重复，需要重新整理；第二份提前问清楚要求，只用一个小时；第三份是和同事一起做的，我只写自己负责的部分，不把整个任务都算成自己的成绩。写完以后，我看到时间少了，不一定是因为做得快，也可能是要求更清楚、有人合作。周一经理问我下周想学什么，我说想试着自己写一份采访计划，请同事在开始以前看一遍。他答应让我负责一次小范围的调查，客户只有两位。现在计划还没完成，记录里我把它写在“下周准备”，没有写进“已经做到”。周末回家时，我把这个本子带给妈妈看，她最先问的不是分数，是哪份材料让我花了最多时间。
+VI: Nhật ký tuần thực tập chọn ba hồ sơ hoàn tất thay vì kể mọi việc. Hồ sơ một hai giờ nhưng trùng nội dung phải sửa; hồ sơ hai hỏi rõ trước nên một giờ; hồ sơ ba hợp tác chỉ ghi phần mình, không nhận cả công. Tôi thấy ít giờ không chỉ do nhanh mà còn rõ yêu cầu và hỗ trợ. Tôi muốn tự viết kế hoạch phỏng vấn, nhờ xem trước; quản lý giao khảo sát nhỏ hai khách. Vì chưa hoàn thành, ghi ở “chuẩn bị tuần tới”, không ở “đã làm”. Cuối tuần đưa mẹ xem, mẹ hỏi phần tốn tâm sức nhất thay vì điểm.
+Tính toán|前两份材料各用了多久？|两小时和一小时/一小时和两小时/都两小时/都一小时|第一份花了两小时|Hồ sơ đầu mất hai giờ, hồ sơ thứ hai một giờ; đây là hai khoảng thời gian được ghi riêng.
+Phạm vi|第三份记录写了什么？|自己负责的部分/所有同事的全部成果/还没开始的任务/所有客户的个人信息|我只写自己负责的部分
+Suy luận|做工作的时间少了还可能因为什么？|要求清楚并有人合作/任务一定没有困难/作者没有再做检查/所有材料都取消了|要求更清楚、有人合作
+Phân loại|采访计划目前放在哪一部分？|下周准备/已经做到/必须去掉/客户的评价|写在“下周准备”
+Chi tiết|经理安排的调查有几位客户？|两位/三位/五位/十位|客户只有两位
+@7/Một sản phẩm, hai cách hướng dẫn/Thử nghiệm
+我们团队想知道，产品难用是因为东西本身，还是介绍方式。大家准备了两份材料，内容相同，一份把所有说明写成一大段，另一份按照使用顺序分成五步，每一步旁边有图。两位第一次见到产品的同事分别拿一份，实际做的时候不能互相告诉下一步怎么做。第一位用了十二分钟，中间问了三次；第二位用了七分钟，只问了一次。人数太少，经理没有让我们直接说第二种一定最好，是请另外六位再试，交换材料，看看结果是不是差不多。我负责记下每次问题出在哪一步，不把“问了多少次”当成全部内容。最后我们发现，两份里都有一句相同的话不够清楚，改好这句话后，两边都更快了。产品没有换，只是说明改了，新的客户下周会再来试一次。
+VI: Nhóm thử khó dùng do sản phẩm hay hướng dẫn. Hai tài liệu cùng nội dung: bản liền một đoạn và bản năm bước có hình. Hai người mới làm không gợi ý nhau: một người mười hai phút hỏi ba lần, người kia bảy phút hỏi một lần. Mẫu ít nên quản lý không kết luận ngay, mời thêm sáu người đổi tài liệu thử. Tôi ghi bước gây thắc mắc, không chỉ số lần hỏi. Phát hiện một câu khó trong cả hai, sửa xong đều nhanh hơn; sản phẩm giữ nguyên, khách mới sẽ thử tuần sau.
+So sánh|两份材料主要区别在哪里？|内容的安排方式/产品的价格/客户的国籍/公司地址|另一份按照使用顺序分成五步
+Tính toán|第二位比第一位少用了几分钟？|五分钟/七分钟/十二分钟/十九分钟|第一位用了十二分钟|12 − 7 = 5 phút; người thứ hai dùng ít hơn năm phút.
+Suy luận|为什么还要请另外六位试？|两个人还不能说明所有人的情况/第一位完全没有完成/产品已经换了/只有六位知道答案|人数太少
+Chi tiết|两份材料共同的问题是什么？|有一句话不够清楚/都没有价格/都分成五步/都只有图没有字|都有一句相同的话不够清楚
+Phủ định|这次最后没有改变什么？|产品本身/一句说明/材料的表达/对问题的认识|产品没有换
+@8/Công viên hay viện bảo tàng?/Đối chiếu
+周末有两种外出安排，我和朋友把信息放在一起看。郊区的公园免费，坐公交一个半小时，里面有山有水，午饭要自己带，下午四点最后一班车回市区。市区的博物馆每人三十元，坐车二十分钟，下午五点结束，里面可以听介绍，也有休息的地方。朋友刚结束项目，想放松，不想一整天都看时间；我想看看大自然，不过晚上六点要去接妈妈。我们没有只比门票，连交通、吃饭和回来的时间都算了。最后决定这次去博物馆，下午三点就出来，在附近的树下坐一会儿。郊区留到下一个没有约会的周末再去，也请妈妈一起参加。出发前朋友告诉我带水，我告诉他别再把工作的材料放进包里。今天不是为了把两个地方都走完。
+VI: Hai lựa chọn: công viên ngoại ô miễn phí, buýt một giờ rưỡi, có núi nước, tự mang trưa, chuyến về cuối bốn giờ; bảo tàng nội thành ba mươi, xe hai mươi phút, đóng năm giờ, có thuyết minh và chỗ nghỉ. Bạn vừa xong dự án muốn thong thả, tôi thích thiên nhiên nhưng sáu giờ đón mẹ. So cả vé, đi lại, ăn và giờ về, chúng tôi chọn bảo tàng, ba giờ ra nghỉ dưới cây. Công viên để cuối tuần không hẹn, mời mẹ cùng. Bạn nhắc mang nước, tôi nhắc bỏ tài liệu công việc; hôm nay không cố đi cả hai.
+So sánh|哪个地方不收门票？|郊区公园/市区博物馆/两个地方都收费/两个地方都免费|郊区的公园免费
+Thời gian|公园最后一班回市区的车几点？|下午四点/下午五点/下午六点/下午三点|下午四点最后一班车
+Nguyên nhân|这次为什么没有只按门票选择？|还要看看时间交通等/两个地方门票完全相同/公园没有任何风景/博物馆免费提供午餐|连交通、吃饭和回来的时间都算了
+Kế hoạch|他们准备几点离开博物馆？|下午三点/下午五点/晚上六点/中午十二点|下午三点就出来
+Chi tiết|作者告诉朋友不要带什么？|工作材料/水/去博物馆的钱/自己的手机|别再把工作的材料放进包里
+@8/Một giờ không cần liên lạc/Thông báo nhóm
+项目组同事们：从下周开始，我们想试一个新的安排，每天下午一点到两点不举行会议，也不要求马上回答普通工作信息。需要休息的人可以离开座位，需要安静做事的人也可以继续。不管选择哪一种，都请先把真正紧急的事交代清楚，否则别人可能以为找不到你。客户当天必须处理的问题仍通过原来的方式联系，不把所有事情都称为紧急。我们先试两周，再比较上午和下午的效率，不只看谁在座位上坐得最久。小林担心离开手机会错过消息，经理说可以先从十分钟开始，提前告诉同事，并不是规定每个人一小时都不能用手机。星期五下午请大家各写一个实际感受，好的、不方便的都能写。这是可以调整的安排，不是用来给休息时间打分的比赛。
+VI: Nhóm thử từ tuần tới mỗi ngày một đến hai giờ không họp, không yêu cầu trả lời ngay tin thường. Ai nghỉ được rời ghế, ai cần yên làm vẫn làm; bàn giao việc thật khẩn trước, tránh hiểu mất liên lạc. Việc khách cần xử lý trong ngày vẫn kênh cũ, không gọi mọi thứ là gấp. Thử hai tuần rồi so hiệu suất, không đếm ngồi lâu. Lâm sợ lỡ tin có thể bắt đầu mười phút báo trước, không phải cấm mọi người chạm máy cả giờ. Thứ sáu ghi một trải nghiệm tốt hoặc bất tiện, điều chỉnh được chứ không thi chấm giờ nghỉ.
+Phạm vi|哪类信息不要求马上回答？|普通工作信息/所有客户的紧急问题/当天必须处理的事/任何电话|不要求马上回答普通工作信息
+Điều kiện|离开以前需要先做什么？|交代真正紧急的事/把手机交给经理/完成两周所有任务/让所有人一起休息|先把真正紧急的事交代清楚
+Thời lượng|这个安排先试多久？|两周/一个下午/一年/三天|我们先试两周
+Đính chính|经理对小林说的意思是什么？|可以慢慢尝试不用马上全都关机/必须马上关机一小时/不能参加这项安排/不用告诉任何人|可以先从十分钟开始
+Đánh giá|试行后主要比较什么？|工作效率和实际感受/谁坐得最久/谁回答信息最多/谁手机最新|再比较上午和下午的效率
+@8/Năm phút trước một bức tranh/Nhật ký
+今天去博物馆，我没有像以前一样先找最有名的景点，是在门口拿了一张纸，写下自己最想了解的问题：画里的人当时在做什么？第一间里有一张画，几个人坐在树下，有说有笑，桌子上有吃的。我看了五分钟，发现有个人并没有看桌子，是一直看着远一点的路。朋友已经走到下一间，我请他再等一下，想听完旁边的介绍。介绍说，那个人正在等还没回家的家人。我再看，整张画的感觉跟刚才不同了。下午我们没有把所有房间都参观完，只选了三间，出来以后各说最记得的一个地方。朋友记得一张地图，我记得那条路。回家的车上，我给妈妈发了那张画的照片，没有只写“真美”，是问她第一眼先注意到谁。
+VI: Vào bảo tàng, tôi ghi câu hỏi muốn biết nhân vật đang làm gì thay vì tìm chỗ nổi nhất. Một tranh có người dưới cây trò chuyện, bàn đồ ăn; ngắm năm phút thấy một người nhìn đường xa chứ không nhìn bàn. Tôi nhờ bạn đợi để nghe thuyết minh, biết người ấy chờ thân nhân chưa về, cảm giác bức tranh thay đổi. Chiều chỉ xem ba phòng rồi kể điều nhớ: bạn nhớ bản đồ, tôi nhớ con đường. Trên xe gửi mẹ ảnh, hỏi mẹ chú ý ai trước thay vì chỉ khen đẹp.
+Quan sát|作者最初注意到画中一个人看哪里？|远一点的路/桌子上的饭/自己的手机/博物馆门票|一直看着远一点的路
+Nguyên nhân|为什么请朋友再等一下？|想听完介绍/想重新买票/没有找到出口/要马上离开博物馆|想听完旁边的介绍
+Đính chính|听介绍以后，作者知道那个人在做什么？|等家人/准备卖画/找自己的车票/跟所有人讨论谁对谁错|正在等还没回家的家人
+Chi tiết|下午他们一共选了几间？|三间/五间/一间/所有房间|只选了三间
+Mục đích|给妈妈发照片时，作者想听什么？|她第一眼注意到谁/她觉得门票多少钱/她有没有完成工作/她能否再买手机|问她第一眼先注意到谁
+@8/Cuộc hẹn nghỉ ngơi của hai chị em/Hội thoại
+姐姐最近总加班，我约她周日出去。她说：“我想去有山有水的地方，不过一想到要查路线、买票，就更累了。”我说这次不去郊区，只走到家旁边的公园，来回不用坐车。她又问是不是要早起，我说没有必须几点出门的规定，睡够再联系。周日十一点，她给我发消息，说今天精神不错，想先吃饭再走。我们一点才进公园，没有安排每个景点，只在树下看人玩游戏。姐姐看了一会儿，还坐下来跟一位老人试了一次，输了也笑。回去的路上，她没有说以后每天都要来，只问下周如果天气好，能不能还这样走走。我说可以，不过我下周有课，可以改到星期六。我们先把这个时间留在纸上，没有马上买任何东西，也不把一次散步变成必须完成的新项目。
+VI: Chị hay tăng ca muốn nơi núi nước nhưng nghĩ tra đường, mua vé càng mệt. Tôi rủ công viên cạnh nhà đi bộ, ngủ đủ rồi liên lạc, không hẹn dậy sớm. Chủ nhật mười một chị báo khỏe, ăn trước, một giờ mới vào ngồi dưới cây xem trò chơi. Chị còn chơi một lượt với một cụ, thua vẫn cười. Về chị chỉ hỏi tuần tới trời đẹp đi lại được không, không hứa ngày nào cũng tới. Tôi chủ nhật có tiết nên đổi thứ bảy, ghi ngày trước, chưa mua gì hay biến dạo bộ thành dự án bắt buộc.
+Nguyên nhân|姐姐开始为什么觉得出门更累？|还要查路线和买票/完全不喜欢风景/公园离家太远/必须参加比赛|一想到要查路线、买票，就更累了
+Phương tiện|最后怎样去公园？|走路/坐高铁/换两次公交/坐飞机|来回不用坐车
+Thời gian|他们周日几点进入公园？|一点/十一点/六点/下午四点|我们一点才进公园
+Chi tiết|姐姐在树下尝试了什么？|跟老人玩游戏/继续开会/购买门票/写全部路线|坐下来跟一位老人试了一次
+Thay đổi|下周可能改到星期六是因为？|作者星期日有课/姐姐必须买票/公园星期日不开/他们要去郊区|我下周有课，可以改到星期六
+@8/Thành phố thay đổi qua ba khung giờ/Quan sát
+我住在首都，平常总觉得市区只有车和高楼。学校让我们用三个时间观察一样的地方，我选了家附近的路口。早上七点，买早餐和赶车的人最多，大家走得快，很少停下来。下午两点，店门口没有那么忙，我才听见树上的鸟叫，还看到有人坐着看书。晚上八点，吃完饭的人出来散步，孩子在旁边玩，原来白天关着的小店也开了。我把三次看到的景色分别画下来，没有把市区画成永远一样的一个颜色。周末朋友说想看大自然，我给他看下午画的那些树，请他先来这里坐十分钟。这里当然没有郊区那么多山水，但跟我原来的印象相比，多了以前没有注意到的东西。下次我想换一个季节再画，看看光和树叶会不会也不一样。
+VI: Sống thủ đô, tôi tưởng nội thành chỉ xe và nhà cao. Bài quan sát cùng một nơi ba giờ khác nhau khiến tôi chọn ngã tư gần nhà: bảy giờ đông người ăn sáng, đón xe đi nhanh; hai giờ chiều vắng, nghe chim, thấy người đọc; tám giờ tối người dạo, trẻ chơi, quán ban ngày đóng mở cửa. Tôi vẽ riêng ba cảnh, không tô thành phố một màu xám mãi. Bạn muốn thiên nhiên, tôi mời ngồi cạnh cây đã vẽ mười phút. Không thay núi nước ngoại ô nhưng khác ấn tượng cũ vì nhận ra chi tiết mới. Tôi định đổi mùa vẽ lại, xem ánh sáng và lá khác không.
+Đối chiếu|什么时候路口赶时间的人最多？|早上七点/下午两点/晚上八点/半夜十二点|早上七点，买早餐和赶车的人最多
+Quan sát|作者下午听到了什么？|鸟叫/开会的声音/只有汽车的声音/家人的电话|我才听见树上的鸟叫
+Phủ định|作者是不是认为市区跟郊区完全一样？|不认为/认为完全一样/认为郊区没有树/没有提到两者|这里当然没有郊区那么多山水
+So sánh|三张画主要按什么区分？|观察时间/门票价格/一起去的人数/交通工具|三个时间观察一样的地方
+Dự định|下次作者想怎样继续观察？|换一个季节再画/只画最忙的时候/不再经过这个路口/只看网上照片|换一个季节再画
+@9/Tấm thiệp không cần lời chúc thật dài/Thư
+小周：昨天比赛结束，你把那张卡放进我的包，我回家才看到。上面只有一句“我记得你第一次练习时的样子”，没有写“你一定会成为第一名”。我读了很久，因为只有你知道，那时候我连站到别人面前都紧张。这次虽然没有获得最好的成绩，我已经能完整说完自己准备的内容了。你平常话不多，也从来不在大家面前说我好，还是每周都来听我练，耐心记下哪里听不清楚。跟一张保证成功的卡相比，这句话让我觉得过去的努力真的有人看到。我准备把第一次写的材料和昨天用的放在一起，继续留着旧的。下次你参加活动，我也想坐在下面听。不过你放心，我不会要求你一定表现得精彩，只希望你知道，不用先赢得什么，才值得别人认真地支持。
+VI: Tiểu Chu, về nhà tôi mới thấy thiệp bạn bỏ trong túi sau cuộc thi, chỉ ghi nhớ hình ảnh lần đầu tập, không hứa tôi nhất. Chỉ bạn biết lúc ấy đứng trước người khác tôi cũng run; lần này chưa điểm cao nhất nhưng nói trọn nội dung. Bạn ít nói, không khen công khai, mỗi tuần vẫn nghe và ghi chỗ khó hiểu. Thiệp làm tôi thấy nỗ lực được nhìn nhận. Tôi giữ bản đầu cạnh bản hôm qua, không bỏ. Lần bạn tham gia tôi cũng ngồi nghe, không buộc thật xuất sắc; không cần thắng trước mới xứng đáng được hỗ trợ nghiêm túc.
+Thời gian|作者什么时候看到卡？|回家以后/比赛开始前/第一次练习时/上台以前|我回家才看到
+Đối chiếu|卡上的话强调了什么？|看到了作者的变化/保证作者以后总得第一/认为旧材料没有价值/要求作者马上换活动|我记得你第一次练习时的样子
+Bằng chứng|小周平常怎样支持作者？|每周听练习并记下不清楚的地方/只在比赛时送贵礼物/总在大家面前说好话/帮作者完成全部内容|每周都来听我练
+Kế hoạch|作者准备怎样处理旧材料？|和新材料一起保留/全部拿走/改成别人的名字/马上寄给所有同学|第一次写的材料和昨天用的放在一起
+Thái độ|作者对小周下次参加活动有什么希望？|认真支持但不要求一定成功/必须拿到第一名/只有精彩才值得听/希望他完全不紧张才参加|不会要求你一定表现得精彩
+@9/Hai người bạn ở hai thành phố/Trao đổi qua thư
+我和小林毕业后去了不同城市。刚开始，我们每天发很多消息，后来工作忙，有时两天以后才回。我以为友情没有以前深了，他说，不回的时候往往是没有时间认真看，不是不想听。我问，怎样联系才不会让两个人都有压力。我们决定每个星期日各发一段自己说话的录音，说这一周最想告诉对方的一件事，不要求当天马上回答。第一次他讲自己饭没做好，声音里一直在笑；我说上班路上看见以前喜欢的花，想起学校的日子。两个月以后，我们虽然没有见面，但比以前那些只有“在吗”“忙吗”的消息更了解对方。有一次他没有按时发，我也没有马上生气，周一才问是不是需要帮忙。他说周末陪家人去了医院，周二再说给我听。我们没有取消约好的时间，只把那一周往后放了两天。
+VI: Tốt nghiệp ở hai thành phố, đầu tiên nhắn nhiều rồi bận trả cách hai ngày khiến tôi nghĩ nhạt. Lâm nói thiếu thời gian đọc kỹ chứ không muốn nghe. Hai đứa hẹn chủ nhật mỗi người gửi một đoạn thoại chuyện muốn kể trong tuần, không buộc trả ngay. Lần đầu bạn kể nấu hỏng mà cười, tôi kể hoa gợi trường cũ. Hai tháng chưa gặp nhưng hiểu nhau hơn tin “có đó, bận không”. Một lần bạn trễ, thứ hai tôi hỏi có cần giúp, biết cuối tuần đi viện cùng nhà, thứ ba sẽ kể. Hẹn vẫn giữ, chỉ lùi hai ngày.
+Nguyên nhân|小林说有时不回消息是因为？|没有时间认真看/友情一定已经结束/不喜欢任何自己说话的录音/换了手机不知道名字|没有时间认真看
+Cách thức|他们后来怎样联系？|每周各发一段自己说话的录音/每天必须见面/只发在吗忙吗/每天写很长的信|每个星期日各发一段自己说话的录音
+So sánh|新的联系有什么效果？|更了解对方的生活/从此再也没晚过/两个月每天见面/只能说工作上的事|更了解对方
+Chi tiết|小林那次周末做了什么？|陪家人去医院/去作者城市旅行/取消所有约好的时间/准备学校比赛|周末陪家人去了医院
+Điều kiện|约好的时间没按时完成后怎样处理？|那一周推后两天/永远停止联系/必须马上解释所有事情/下次发两个月的内容|往后放了两天
+@9/Trách nhiệm được viết sau tên/Phân công
+周末班级聚会，我们让每个人在纸上写愿意负责的事。小陈性格阳光，选了联系大家；小林比较安静，选了记录需要买的东西。我负责准备游戏，以为有幽默感就够了，没有先试。当天第一个游戏说明太长，大家听了一半还不知道怎么玩。小林拿出纸，用三句话把顺序写清楚，小陈又找两个人做给大家看，活动才顺利开始。我原来只注意谁说得精彩，这次才看到，那些不站在前面的人也在支持整个聚会。结束后，我们没有把“表现最好”给某一个人，是把三个人各做的部分写下来，下次再安排。我的名字后面多了一句“提前试做的方法”，是我自己加的。大家还剩下一些没有用过的小礼物，留给下次，不是因为今天没发完就全都随便送出去。
+VI: Chuẩn bị họp lớp, Trần hoạt bát phụ trách liên lạc, Lâm trầm lặng ghi đồ cần mua, tôi làm trò chơi tưởng chỉ cần hài hước. Trò đầu giải thích dài, mọi người không hiểu; Lâm viết ba câu trình tự, Trần gọi hai người làm mẫu mới bắt đầu. Tôi nhận ra người không đứng trước vẫn nâng đỡ buổi gặp. Cuối không chọn một người giỏi nhất mà ghi phần đóng góp từng người cho lần tới. Tôi tự thêm “thử luật trước” sau tên; quà chưa dùng giữ lần sau chứ không phát bừa.
+Phân công|谁负责联系大家？|小陈/小林/作者/老师一个人|小陈性格阳光，选了联系大家
+Nguyên nhân|第一个游戏为什么没马上开始？|说明太长大家没听懂/没有任何人参加/全部礼物已经发完/小陈没有到场|游戏说明太长
+Trình tự|小林做了什么？|用三句话写清楚顺序/要求取消聚会/帮所有人购买礼物/只说自己不玩|用三句话把顺序写清楚
+Tự đánh giá|谁加上了“提前试做的方法”？|作者自己/所有客人/没有参加的同学/老师要求每个人|是我自己加的
+Suy luận|文章通过这次聚会说明哪一点？|不同性格的人能有不同帮助/只有幽默的人能负责/安静的人不适合参加/必须给一个人全部成绩|那些不站在前面的人也在支持整个聚会
+@9/Món quà có thể đổi ngày sử dụng/Hội thoại
+生日以前，丈夫问我想要什么。我说想一起去听音乐，不想再收很多巧克力，因为家里还有没吃完的。他认真查了时间，买了周六晚上的票，还在卡上写“祝你有一个精彩的夜晚”。可是周六我突然要陪妈妈去检查，回来时恐怕已经错过开始。他有点儿不高兴，说准备了这么久。我很重视他的关心，但不愿为了礼物让妈妈自己去。我们把各自的想法说完，一起查看票上的说明，发现可以在开始前换一次日期。最后改到下个月，那个晚上没有听音乐，我们在家做了简单的饭。他把卡上的“周六”改成“下次”，我在旁边加了一句“不听音乐也很开心”。妈妈后来问礼物怎么样，我说还没用上，但我们已经一起做了一次选择。
+VI: Trước sinh nhật, chồng hỏi quà, tôi muốn cùng nghe nhạc thay hộp sô-cô-la vì nhà còn. Anh mua vé tối thứ bảy, viết thiệp chúc đêm tuyệt vời. Nhưng tôi phải đưa mẹ kiểm tra, về sợ lỡ mở màn. Anh hơi buồn chuẩn bị lâu; tôi trân trọng mà không muốn mẹ đi một mình. Nói rõ rồi xem vé, được đổi ngày một lần trước bắt đầu nên dời tháng sau. Tối đó cơm đơn giản, anh sửa “thứ bảy” thành “lần sau”, tôi ghi không nghe nhạc vẫn vui. Mẹ hỏi quà, tôi nói chưa dùng nhưng đã cùng quyết định một lần.
+Sở thích|作者这次更想收到什么？|一起听音乐的机会/更多巧克力/一部新手机/一个人旅行的票|想一起去听音乐
+Xung đột|原来的时间为什么不合适？|作者要陪妈妈检查/丈夫没有买票/音乐会完全取消/家里没有晚饭|突然要陪妈妈去检查
+Điều kiện|票上可以怎样改变？|开始前换一次日期/任何时候可以一直换/只能换姓名/完全不能改变|开始前换一次日期
+Ngôn ngữ|“不听音乐也很开心”里的“也”说明什么？|没有原来的活动仍然感到开心/作者从来不喜欢音乐/丈夫没准备任何礼物/巧克力比家人重要|不听音乐也很开心
+Kết quả|礼物最后怎样处理？|留到下个月使用/直接拿走/送给所有邻居/又买一份完全相同的|最后改到下个月
+@9/Hai chiếc ghế bên cửa sổ/Quan sát
+爷爷奶奶的房间有两把椅子，都放在窗边。小时候我觉得他们每天坐在那里很没意思，现在放假住了几天，才发现两个人做的事并不相同。奶奶看书，遇到有意思的一句话就读出来；爷爷听新闻，有时先关小声音，再问她刚才说什么。他们也会意见不同，奶奶喜欢早上去市场，爷爷觉得下午人少，但从来不因为一次没一起出门就说对方不关心自己。周三奶奶腿疼，爷爷自己去，带回来的菜不是最便宜的，但都是她平常喜欢的。晚上我问他们，几十年是不是每天都有很多话说。奶奶笑着说，有时不说也知道对方在，真有事再认真听。第二天我把自己的椅子搬过去，没有一直问问题，只坐着读完一篇故事。窗边从两把椅子变成三把，谁也没急着让我走。
+VI: Hai ghế ông bà bên cửa sổ từng khiến tôi tưởng ngồi mỗi ngày buồn. Ở vài hôm thấy bà đọc gặp câu hay đọc lên, ông nghe tin giảm tiếng hỏi lại. Họ khác ý đi chợ sáng hay chiều, không vì một lần đi riêng mà kết không quan tâm. Thứ tư bà đau chân, ông mua món bà thích không phải rẻ nhất. Hỏi có nói nhiều mỗi ngày không, bà nói đôi khi im vẫn biết người kia ở đó, có việc thì nghe kỹ. Hôm sau tôi kê ghế đọc truyện cùng, từ hai thành ba ghế, không ai vội bảo về.
+Đối chiếu|两位老人坐着时通常分别做什么？|奶奶看书爷爷听新闻/都一直看手机/都只看窗外/奶奶听新闻爷爷做饭|奶奶看书
+Khác biệt|他们对去市场的时间有什么不同？|奶奶喜欢早上爷爷喜欢下午/都只想晚上去/奶奶从来不去/爷爷只想半夜去|奶奶喜欢早上去市场
+Nguyên nhân|星期三爷爷为什么自己去买菜？|奶奶腿疼/奶奶不再喜欢这些菜/作者不让他们一起去/他们一直改变了住的地方|周三奶奶腿疼
+Ẩn ý|“不说也知道对方在”体现什么？|安静相处中也有理解/任何时候都不必交流/他们不愿再听别人说话/只有一起去市场才有感情|有时不说也知道对方在，真有事再认真听
+Diễn biến|最后窗边发生什么变化？|多了作者的一把椅子/原来的两把全搬走/爷爷离开了房间/奶奶不再看书|窗边从两把椅子变成三把
+@10/Thư gửi chị trước chuyến đi miền Bắc/Thư
+亲爱的姐姐：你问寒假来我这里要带什么，我先把这周的气温发给你：白天大约零下五摄氏度，晚上有时到零下十二度，低于白天的气温。房间里开着空调，温度比外面高很多，所以不用把所有冬天的衣服一直穿在身上。你准备的外套可以，最好再带帽子和出门穿的鞋，室内的衣服不必全换成最厚的。周六我去车站接你，从出口到公交站还要走一小段，不会让你一直站在风里等。你说南方现在十几度，寄照片时植物还是绿的，我也很想看看。我们可以各选一天记录早上和晚上的温度，比较差别，不只说一句“北方冷，南方暖和”。星期日我想带你参加学校冬天的活动，室外的部分只有半小时，之后进房间。要是你受不了就先进去，不用为了陪我一直站着。
+VI: Chị hỏi nghỉ đông mang gì, em gửi nhiệt độ tuần này: ngày khoảng âm năm, đêm có lúc xuống âm mười hai, thấp hơn ban ngày. Trong nhà có điều hòa, ấm hơn nên không mặc hết áo dày liên tục. Áo khoác chị được, thêm mũ, giày ra ngoài, đồ trong nhà không cần toàn dày nhất. Thứ bảy em đón ga, đi bộ ngắn tới buýt, không để chị chờ gió. Miền nam còn hơn mười độ, cây trong ảnh xanh, hai chị em có thể chọn một ngày ghi sáng tối so cụ thể. Chủ nhật dự hoạt động đông trường, ngoài trời nửa giờ rồi vào, chịu không được chị vào trước, đừng cố đứng vì em.
+Tính toán|白天零下五度，晚上零下十二度，差多少度？|七度/十七度/五度/十二度|白天大约零下五摄氏度|Ở hai mốc đã nêu, chênh lệch là −5 − (−12) = 7 độ.
+So sánh|房间里和外面的温度怎样？|房间里高得多/一直完全相同/房间里一定低于零下十二度/外面每天更暖和|温度比外面高很多
+Phủ định|作者没有要求姐姐做什么？|在房间里一直穿所有冬天的衣服/准备出门的鞋/带帽子/看一看天气|不用把所有冬天的衣服一直穿在身上
+Thời lượng|学校活动室外部分多长？|半小时/一整天/三小时/十二分钟|室外的部分只有半小时
+Điều kiện|姐姐觉得受不了时可以怎样？|先进去/必须站到活动全结束/立刻回到南方/只能等待晚上|受不了就先进去
+@10/Bản ghi nhiệt độ của hai căn phòng/Thử nghiệm
+学校开展一个观察气温的小活动，我们组在一天里记录两个地方。早上八点，院子里零下三度，教室里十八度；中午十二点，院子里到了两度，而教室里还是十八度。小陈说，中午比早上高了五度，我问他指哪里，他这才补充“院子里”。下午我们把记录给老师看，没有把两个地方的温度连成一条线。老师让我们再记下看温度时门和窗是不是开着、有没有人在房间里，这些日常情况也可能引起差别。第二天，教室门开了很久，记录比前一天低，我们没有马上说“空调坏了”，是先把开门这件事写清楚。活动结束，每组都需要说明自己的方法，不只交一张最好看的图。下周我们想在同样的地方再次看温度，看看天气不同的时候，房间里和外面的差别会不会改变。
+VI: Nhóm ghi cùng ngày: tám giờ sân âm ba, lớp mười tám; trưa sân hai, lớp vẫn mười tám. Trần nói ấm thêm năm độ phải bổ sung “ngoài sân”. Không nối số hai nơi thành cùng đường. Thầy nhắc ghi cửa mở không, có người không vì cũng ảnh hưởng. Hôm sau cửa lớp mở lâu, nhiệt thấp hơn, nhóm ghi việc ấy trước thay vì kết sưởi hỏng. Cuối hoạt động trình bày cách đo, không chỉ nộp biểu đồ đẹp; tuần tới đo lại cùng nơi xem thời tiết đổi thì chênh lệch thay đổi không.
+Tính toán|院子中午比早上高多少度？|五度/十五度/十八度/两度|院子里到了两度|Từ −3 lên 2 độ là tăng 5 độ, không phải giảm nhiệt độ.
+Đối chiếu|教室第一天两次记录有什么变化？|没有变化/高了五度/降到零下三度/变成两度|教室里还是十八度
+Ngôn ngữ|“高了五度”为什么还要补充地点？|两个地方变化不同/教室没有门/所有地方同时变得暖和/老师不让记录中午|我问他指哪里
+Suy luận|第二天温度低了，为什么不直接判断空调坏了？|开门也可能影响温度/没有看过温度/教室比院子冷很多/记录不能写日常情况|先把开门这件事写清楚
+Dự định|下周想怎样继续？|相同地点再次看温度/只选择最好看的图/不再说明方法/把两个地方写成一条线|在同样的地方再次看温度
+@10/Từ quê nhà trong buổi thu âm/Hội thoại
+学校要为新年活动准备一段介绍家乡的录音，老师请每个人先用普通话说，再加一句自己的方言。小林选了一句小时候常听到的话，意思是请客人进房间坐。他用方言说完，北方同学以为他在问大家吃没吃饭，大家就一起笑起来。小林没有说对方听错就是不认真，是把每个词的普通话意思写出来，说明这句话在家里通常什么时候用。另一位同学说，自己家乡也有意思接近、声音不同的句子，就再次读给大家听。最后的录音没有去掉方言，只在后面加一句普通话说明。我们还写清楚，这是一位同学家里这样说话的情况，不能代表那个地方所有人都只这样说。周末家长来听时，既能听懂主要内容，也能听见不同地方的声音，有人还教我们一句新的。
+VI: Ghi âm giới thiệu quê cho năm mới, mỗi người nói Phổ thông rồi thêm câu phương ngữ. Lâm chọn lời mời khách vào ngồi nhưng bạn miền bắc tưởng hỏi ăn chưa, cả nhóm cười. Lâm giải từng từ, nói lúc nhà mình dùng thay vì chê người kia không chú ý. Bạn khác có lời tương tự âm khác đọc lại. Bản cuối giữ phương ngữ, thêm giải thích Phổ thông và ghi đây là cách dùng trong một gia đình, không đại diện mọi người vùng ấy. Cuối tuần phụ huynh nghe vừa hiểu vừa nghe âm vùng miền, có người dạy thêm câu mới.
+Ý nghĩa|小林选的方言本来的意思是什么？|请客人进房间坐/问大家吃饭没有/让所有人离开/介绍明天的天气|意思是请客人进房间坐
+Hiểu nhầm|北方同学最初理解成什么？|问吃没吃饭/请进房间坐/学校今天放假/录音已经结束|以为他在问大家吃没吃饭
+Cách giải thích|小林怎样介绍家里这样说的情况？|写普通话意思并说明使用场合/只把声音说得更大/要求全部去掉/不让同学再问|把每个词的普通话意思写出来
+Kết quả|最后的录音怎样处理方言？|保留并加普通话说明/全部换成外语/只留下方言没有介绍/取消活动|没有去掉方言
+Giới hạn|为什么写清楚是一家人这样说的情况？|不把一家人这样说当成所有人都这样/认为方言没有意义/不让家长听/证明普通话不能交流|不能代表那个地方所有人都只这样说
+@10/Thông báo mượn cốc cho ngày hội/Thông báo
+为了让活动中的浪费更少，学校周日举办绿色生活日，大家可以自带杯子，也可以借用学校的杯子。借用时在名单上写姓名，活动结束前把杯子放回准备好的桌子上，不收费用。这里的杯子只用来喝水，不能带走当礼物。上午有植物介绍，下午开展交换旧书的活动，不购买新书也能参加。带来的书要写清楚是不是有缺页，普通笔记也可以交换，但不要把别人的个人信息留在里面。小周准备了三本，其中一本少了两页，他没有把它放在其他完整的书中间，是另外说明。朋友问是不是绿色生活日只能穿绿色衣服，他笑着指着通知说，“绿色”指活动重视节约资源，并不是衣服的颜色。最后他带了自己的杯子，把三本书放进旧袋子，又给袋子写上名字，准备活动后继续用。
+VI: Ngày sống xanh chủ nhật khuyến khích mang cốc hoặc mượn ghi tên, trả bàn quy định trước kết thúc, miễn phí, chỉ uống nước không mang làm quà. Sáng giới thiệu cây, chiều trao sách cũ, không mua sách mới vẫn tham gia. Sách cần ghi thiếu trang không, vở ghi cũng đổi được nhưng bỏ thông tin cá nhân người khác. Chu mang ba cuốn, một thiếu hai trang ghi riêng. Bạn tưởng phải mặc xanh, Chu chỉ thông báo “xanh” là tiết kiệm tài nguyên, không phải màu áo. Anh mang cốc, dùng túi cũ ghi tên để tiếp tục sử dụng sau hoạt động.
+Điều kiện|借杯子时需要做什么？|在名单写姓名/购买一本新书/穿绿色衣服/交杯子原来的价格|在名单上写姓名
+Trình tự|旧书交换安排在什么时候？|下午/上午植物介绍以前/周六晚上/活动结束以后|下午开展交换旧书的活动
+Chi tiết|小周的一本书有什么情况？|少了两页/完全没有字/不是他的书/只有两页|一本少了两页
+Ngôn ngữ|这里“绿色”主要指什么？|节约资源的生活方式/衣服颜色的规定/杯子必须是绿色/书的封面不能换颜色|重视节约资源
+Phủ định|哪种做法跟通知说的不一样？|借来的杯子带回家当礼物/用自己带的杯子/说明书有缺页/继续使用旧袋子|不能带走当礼物
+@10/Điều chiếc thùng rác chưa nói rõ/Khảo sát thực tế
+学校开展垃圾分类以后，食堂门口安排了几个放垃圾的新地方。我以为只要有字，大家就知道放在哪里。午饭时观察了二十分钟，发现很多人拿着相同的杯子，站在前面看很久。有些杯子里还有水，旁边的说明只写了材料，没有说水应该先倒在哪里。我们没有直接说是大家不愿分类，是把这个问题告诉食堂。第二天，工作人员在旁边加了一个倒水的地方，又在杯子的图下面写了先后顺序。相同时间再观察，停下来问的人少了，但仍有人把杯子放错。我们请那几个人说原因，发现新生不熟悉图里的词。后来又换成更简单的普通话，旁边加上东西的照片。记录里，我们分别写清楚每次改了什么，没有把所有变化都算成一次活动的效果。
+VI: Có thùng phân loại mới tôi tưởng có chữ là đủ. Quan sát hai mươi phút trưa thấy nhiều người cầm cùng cốc chờ lâu: trong cốc còn nước nhưng bảng chỉ chất liệu, không nói đổ nước đâu. Nhóm báo nhà ăn thay vì trách không muốn phân loại. Hôm sau thêm chỗ đổ nước và thứ tự dưới hình cốc, cùng giờ thấy ít hỏi hơn nhưng còn sai. Hỏi người bỏ sai mới biết sinh viên mới không quen từ, nên đổi Phổ thông đơn giản kèm ảnh vật thật. Ghi rõ từng lần đổi, không gộp mọi thay đổi thành hiệu quả của một hoạt động.
+Quan sát|最先让大家一直想的问题是什么？|杯里的水先倒在哪里/放垃圾的地方是不是绿色/杯子价格太高/午餐什么时候开始|没有说水应该先倒在哪里
+Trình tự|食堂先增加了什么？|倒水的地方和做的顺序/一门新的课程/更多相同的杯子/必须交费的地方|加了一个倒水的地方
+Bằng chứng|为什么后来还要换说明里的词？|有新生不熟悉那些词/所有人都拒绝分类/放垃圾的地方已经被拿走/杯子不能拍照|新生不熟悉图里的词
+Phương pháp|两次观察怎样比较更合理？|选择相同时间/一次早上一次半夜/只比较人数最多的照片/不记录改变了什么|相同时间再观察
+Suy luận|文章更支持哪种处理办法？|先了解困难再一步一步改说明/把所有错误都说成不愿认真做/只增加介绍活动的句子/要求大家不再使用杯子|我们请那几个人说原因

@@ -1,6 +1,6 @@
 # HSK 4 — Quyển Thượng
 
-Bài 1–10 đã mở theo tài liệu **HSK 4 - Thượng - Từ vựng và ngữ pháp theo bài học.docx**. Bài 2–10 dùng chung engine, giao diện và quy tắc luyện tập đã được duyệt ở Bài 1. Bài 1 giữ nguyên hai file nội dung hiện có. Quyển Hạ (Bài 11–20) vẫn **Sắp ra mắt**, không có dữ liệu học hay tham gia tính tiến độ.
+Bài 1–10 đã mở theo tài liệu **HSK 4 - Thượng - Từ vựng và ngữ pháp theo bài học.docx**. Bài 2–10 dùng chung engine, giao diện và quy tắc luyện tập đã được duyệt ở Bài 1. Phần từ vựng, lý thuyết, bài tập ngữ pháp và đề viết giữ nguyên dữ liệu nguồn; bộ bài đọc Bài 1–10 đã được biên tập lại ở phiên bản 2. Quyển Hạ (Bài 11–20) vẫn **Sắp ra mắt**, không có dữ liệu học hay tham gia tính tiến độ.
 
 ## Nội dung theo bài
 
@@ -28,8 +28,8 @@ Mỗi bài có đủ 18 chế độ như Bài 1: Hán tự → nghĩa; nghĩa �
 
 - Điền từ và sắp xếp câu có một mục cho mỗi từ vựng; phương án nhiễu của câu điền được lưu sẵn trong dữ liệu. Ngữ pháp có câu luyện tương ứng từng cấu trúc nguồn. Nếu ngân hàng ít hơn số câu chọn thì chỉ dùng số câu thực có, không lặp để đủ số.
 - Nghe hiểu câu dùng bốn phương án tiếng Trung, không dùng bản dịch Việt làm đáp án.
-- Mỗi bài có **5 đoạn đọc độc lập × 5 câu hỏi**. Chọn bất kỳ đoạn nào, có đường dẫn riêng, kết quả và nút luyện lại riêng; không ép làm tuần tự hoặc tự chuyển sang đoạn kế. Các đoạn mới dài 170–200 ký tự, gồm dấu câu, tương đương Bài 1.
-- Câu hỏi và phương án đọc hiểu bằng tiếng Trung; có câu nội dung, ý chính, suy luận, bản dịch toàn đoạn và phần đối chiếu đáp án. Bài đọc được ghi là nội dung bổ sung, không phải đoạn trích từ giáo trình.
+- Mỗi bài có **5 đoạn đọc độc lập × 5 câu hỏi**. Chọn bất kỳ đoạn nào, có đường dẫn riêng, kết quả và nút luyện lại riêng; không ép làm tuần tự hoặc tự chuyển sang đoạn kế. Bản đọc phiên bản 2 dài 238–279 chữ Hán, có nhiều hình thức văn bản và mục đích đọc; xem [bản thảo và kiểm tra](content/README.md).
+- Câu hỏi và phương án đọc hiểu bằng tiếng Trung; có câu tìm thông tin, trình tự, điều kiện, so sánh, tính toán và suy luận theo từng văn bản, kèm bản dịch toàn đoạn và dẫn chứng đáp án. Bài đọc được ghi là nội dung bổ sung, không phải đoạn trích từ giáo trình.
 - Mỗi bài có đề viết theo chủ đề, từ/cấu trúc gợi ý, dàn ý, đoạn mẫu, pinyin và bản dịch. Các đoạn mẫu mới dài 100–150 ký tự.
 - Dịch câu, luyện nói, đọc hiểu câu tự viết và các bài viết dùng **tự đối chiếu**, không tuyên bố chấm ngữ nghĩa tự động. Điểm đúng/sai chỉ tính câu có đáp án cố định.
 - Kết quả micro điền vào ô trả lời để người học sửa trước khi nộp. Các kết quả nhận diện đến muộn không được điền sang câu hay bài khác.
@@ -128,3 +128,5 @@ Bốn điểm: 说什么/怎么（着）也得……; 有的是; 而; 再次. L�
 Bảng màu dùng chung trong app.js quyết định cả thẻ trang tổng và các màn hình học. Bài 1–10 lần lượt đỏ đất, cam nâu, vàng, xanh ô liu, xanh lá, xanh ngọc, xanh lam ngọc, xanh dương, chàm và tím. Banner, header, tab, bộ lọc đang chọn, nút chính, thanh tiến độ, badge, hover/tra từ và viền flashcard lấy màu của đúng bài; mặt giấy/flashcard giữ trắng và màu chấm đúng/sai giữ ý nghĩa riêng.
 
 Màu được áp dụng lại khi mở link trực tiếp, tải lại, Back hoặc đổi bài. Trang chủ/thống kê/ôn tập chung dùng màu trung tính riêng để không mang màu bài vừa mở; lượt ôn một bài dùng màu bài đó, ôn nhiều bài dùng màu ôn tập chung. `tests/hsk4-lesson-themes.cjs` đối chiếu màu thật của các thành phần với thẻ trang tổng trên máy tính và điện thoại, đồng thời kiểm tra tiến độ/bản nháp cũ vẫn được giữ.
+
+Bộ đọc phiên bản 2 giữ 50 đường dẫn nhưng lưu `readingRevision: 2` cho lượt mới; kết quả cũ vẫn có trong lịch sử, không tự đánh dấu hoàn thành nội dung đã đổi. Tra từ dùng cách chia từ và nghĩa/pinyin theo ngữ cảnh đã biên tập.
