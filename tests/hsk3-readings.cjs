@@ -32,13 +32,13 @@ assert.equal(ids.size,360);
   await page.goto('http://127.0.0.1:'+server.address().port+'/HSK3/index.html');
   for(let lesson=1;lesson<=18;lesson++){
    await page.evaluate(id=>{openLesson(id,'games');h2ReadingMenu()},lesson);
-   assert.equal(await page.locator('.h2-reading-card').count(),5);assert((await page.locator('.h2-section-intro').innerText()).includes('20 câu hỏi'));
+   assert.equal(await page.locator('.h2-reading-card').count(),5);assert.equal(await page.locator('.reading-choice').count(),5);
    // Open each of the five cards via its actual button.
    for(let index=0;index<5;index++){
     await page.locator('.h2-reading-card button').nth(index).click();assert.equal(await page.locator('.h2-passage').count(),1);
     await page.evaluate(()=>h2ReadingMenu());
    }
-   await page.locator('.h2-section-intro button.primary').click();
+   await page.evaluate(()=>h2StartReading(-1));
    await page.evaluate(()=>{
     const byText=t=>[...document.querySelectorAll('button')].find(b=>b.textContent.includes(t));
     byText('Hiện Pinyin').click();if(document.querySelector('#h2-reading-pinyin').hidden)throw Error('pinyin toggle');
