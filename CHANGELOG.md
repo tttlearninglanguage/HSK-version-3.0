@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-04 — Đồng bộ trang chọn bài đọc HSK 1–4
+
+- HSK 2–3 dùng mẫu thẻ HSK 4: tên bài, số câu hỏi, trạng thái, số câu đã trả lời/số đúng và nút bắt đầu; 3 cột trên máy tính, 1 cột trên điện thoại.
+- Bỏ phần giới thiệu đầu trang chọn bài đọc ở cả bốn khóa; bỏ xem trước nội dung, nhãn ngữ pháp và nút làm cả 5 bài khỏi danh sách HSK 2–3.
+- Ghi nhận kết quả từng câu của bài đọc HSK 2–3 để trạng thái thẻ đúng sau khi tải lại; giữ lịch sử tổng hợp, ngân hàng câu hỏi và cách chấm hiện có.
+
 ## 2026-11-04 — Đồng bộ giao diện đọc HSK 1–3 theo HSK 4
 
 - Gộp bài đọc và câu hỏi HSK 2–3 vào một khung; đồng bộ cỡ chữ, khoảng cách và bố cục đáp án theo độ dài với HSK 4.
