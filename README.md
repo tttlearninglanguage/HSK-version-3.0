@@ -51,6 +51,7 @@ node tests/reading-picker-parity.cjs
 node tests/hsk1-reading-translations.cjs
 node tests/hsk1-reading-dictionary.cjs
 node tests/hsk1-diverse-readings.cjs
+node tests/hsk2-diverse-readings.cjs
 node tests/hsk4-content.cjs
 node tests/hsk4-upper-content.cjs
 node tests/hsk4-upper-browser.cjs
@@ -66,3 +67,5 @@ HSK 1–3 dùng chung `shared/css/hsk-game-compact.css` cho các game: đề 32p
 Bài đọc HSK 1–3 dùng `shared/js/hsk-reading-ui.js` và `shared/css/hsk-reading-ui.css` để trình bày một khung theo HSK 4, pinyin dạng ruby và hộp tra từ cạnh từ được chọn. Các bộ dữ liệu, chấm điểm và tiến độ vẫn do từng khóa quản lý.
 
 HSK 1 có 75 bài đọc phiên bản 2 theo phạm vi kiến thức tích lũy: [bản thảo, kiểm tra phạm vi và bảo toàn kết quả cũ](HSK1/content/README.md). Tạo lại dữ liệu bằng `python scripts/build-hsk1-readings.py`.
+
+HSK 2 có 75 bài đọc phiên bản 2 dài 167–217 chữ Hán, 450 câu hỏi, theo toàn bộ HSK 1 và phần HSK 2 đã học: [bản thảo, phạm vi và kiểm thử](HSK2/content/README.md). Tạo lại bằng `python scripts/build-hsk2-readings.py`.

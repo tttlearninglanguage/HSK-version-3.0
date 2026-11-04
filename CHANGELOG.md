@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-04 — Viết lại toàn bộ 75 bài đọc HSK 2
+
+- Mỗi Unit 1–15 có 5 tình huống riêng, dài 167–217 chữ Hán, dài hơn bộ HSK 1; viết lại 450 câu hỏi, bản dịch và dẫn chứng giải thích.
+- Kiểm tra phạm vi toàn bộ HSK 1 và HSK 2 đến Unit hiện tại cho đoạn, câu hỏi và lựa chọn; giữ dữ liệu ngữ pháp và từ điển cũ, bổ sung 4 mục tra từ cần thiết.
+- Giữ giao diện, pinyin, tra từ, dịch, nghe/dừng và chấm điểm; lưu kết quả cũ riêng để không tính nhầm sang nội dung mới. Có bản thảo, báo cáo phạm vi và công cụ tạo lại.
+
 ## 2026-11-04 — Viết lại toàn bộ 75 bài đọc HSK 1
 
 - Thay mô típ lặp bằng 5 tình huống khác nhau cho mỗi Unit 1–15, có hội thoại, giới thiệu, lịch, lời nhắn, gia đình, học tập, mua sắm, sức khỏe và đi lại.
