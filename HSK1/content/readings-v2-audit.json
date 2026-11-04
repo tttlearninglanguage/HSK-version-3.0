@@ -1593,16 +1593,16 @@
           "firstLesson": 4
         },
         {
+          "hanzi": "九",
+          "firstLesson": 4
+        },
+        {
           "hanzi": "二",
           "firstLesson": 4
         },
         {
           "hanzi": "五",
           "firstLesson": 4
-        },
-        {
-          "hanzi": "人",
-          "firstLesson": 3
         },
         {
           "hanzi": "今年",
@@ -1626,10 +1626,6 @@
         },
         {
           "hanzi": "十",
-          "firstLesson": 4
-        },
-        {
-          "hanzi": "口",
           "firstLesson": 4
         },
         {
@@ -1719,10 +1715,6 @@
           "firstLesson": 2
         },
         {
-          "hanzi": "两",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "个",
           "firstLesson": 4
         },
@@ -1736,10 +1728,6 @@
         },
         {
           "hanzi": "二",
-          "firstLesson": 4
-        },
-        {
-          "hanzi": "五",
           "firstLesson": 4
         },
         {
@@ -1757,6 +1745,10 @@
         {
           "hanzi": "你",
           "firstLesson": 2
+        },
+        {
+          "hanzi": "八",
+          "firstLesson": 4
         },
         {
           "hanzi": "六",
@@ -1793,10 +1785,6 @@
         {
           "hanzi": "哪",
           "firstLesson": 3
-        },
-        {
-          "hanzi": "四",
-          "firstLesson": 4
         },
         {
           "hanzi": "国",
@@ -1881,19 +1869,7 @@
       "sha256": "d19b9c3b2b3f96fbf04fe6a4b3193127958128cdde2a300057a65e2edaafab5f",
       "vocabulary": [
         {
-          "hanzi": "一",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "三",
-          "firstLesson": 4
-        },
-        {
-          "hanzi": "两",
-          "firstLesson": 4
-        },
-        {
-          "hanzi": "个",
           "firstLesson": 4
         },
         {
@@ -1934,6 +1910,10 @@
         },
         {
           "hanzi": "八",
+          "firstLesson": 4
+        },
+        {
+          "hanzi": "六",
           "firstLesson": 4
         },
         {
@@ -2027,6 +2007,14 @@
       "sha256": "4069a77ebacacea2add86a9118d17d12ad72aec77dc2f95186a7d3ede767c425",
       "vocabulary": [
         {
+          "hanzi": "一",
+          "firstLesson": 4
+        },
+        {
+          "hanzi": "七",
+          "firstLesson": 4
+        },
+        {
           "hanzi": "三",
           "firstLesson": 4
         },
@@ -2040,6 +2028,10 @@
         },
         {
           "hanzi": "个",
+          "firstLesson": 4
+        },
+        {
+          "hanzi": "九",
           "firstLesson": 4
         },
         {
@@ -2072,10 +2064,6 @@
         },
         {
           "hanzi": "几",
-          "firstLesson": 4
-        },
-        {
-          "hanzi": "十",
           "firstLesson": 4
         },
         {
@@ -2131,10 +2119,6 @@
           "firstLesson": 4
         },
         {
-          "hanzi": "岁",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "很",
           "firstLesson": 2
         },
@@ -2181,6 +2165,10 @@
       "sha256": "bc24557c4291d143b8c76a46df877e9049b9f8fdb7ea6b51638524a4828c5de4",
       "vocabulary": [
         {
+          "hanzi": "一",
+          "firstLesson": 4
+        },
+        {
           "hanzi": "一些",
           "firstLesson": 5
         },
@@ -2201,7 +2189,7 @@
           "firstLesson": 2
         },
         {
-          "hanzi": "五",
+          "hanzi": "二",
           "firstLesson": 4
         },
         {
@@ -2251,10 +2239,6 @@
         {
           "hanzi": "喜欢",
           "firstLesson": 5
-        },
-        {
-          "hanzi": "四",
-          "firstLesson": 4
         },
         {
           "hanzi": "她",
@@ -2331,13 +2315,9 @@
       "id": "R05-2",
       "lesson": 5,
       "title": "Chiếc máy tính mới",
-      "hanziCount": 59,
-      "sha256": "872066319c3f84d1af94768802c81ea3da79920f166e10fbf8f5227cd4fe693a",
+      "hanziCount": 57,
+      "sha256": "ac23f63fb2d393b305195e5eae2b869d67b775df90300d6548bfab0866651a6c",
       "vocabulary": [
-        {
-          "hanzi": "一",
-          "firstLesson": 4
-        },
         {
           "hanzi": "一些",
           "firstLesson": 5
@@ -2379,16 +2359,12 @@
           "firstLesson": 5
         },
         {
-          "hanzi": "八",
+          "hanzi": "六",
           "firstLesson": 4
         },
         {
           "hanzi": "几",
           "firstLesson": 4
-        },
-        {
-          "hanzi": "号",
-          "firstLesson": 5
         },
         {
           "hanzi": "同学",
@@ -2467,10 +2443,6 @@
           "firstLesson": 2
         },
         {
-          "hanzi": "月",
-          "firstLesson": 5
-        },
-        {
           "hanzi": "有",
           "firstLesson": 4
         },
@@ -2545,16 +2517,16 @@
           "firstLesson": 5
         },
         {
-          "hanzi": "个",
+          "hanzi": "九",
+          "firstLesson": 4
+        },
+        {
+          "hanzi": "二",
           "firstLesson": 4
         },
         {
           "hanzi": "五",
           "firstLesson": 4
-        },
-        {
-          "hanzi": "人",
-          "firstLesson": 3
         },
         {
           "hanzi": "什么",
@@ -2590,10 +2562,6 @@
         },
         {
           "hanzi": "十",
-          "firstLesson": 4
-        },
-        {
-          "hanzi": "口",
           "firstLesson": 4
         },
         {
@@ -2642,6 +2610,10 @@
         },
         {
           "hanzi": "星期",
+          "firstLesson": 5
+        },
+        {
+          "hanzi": "星期日",
           "firstLesson": 5
         },
         {
@@ -2857,10 +2829,6 @@
           "firstLesson": 5
         },
         {
-          "hanzi": "今年",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "休息",
           "firstLesson": 5
         },
@@ -2950,6 +2918,10 @@
         },
         {
           "hanzi": "星期",
+          "firstLesson": 5
+        },
+        {
+          "hanzi": "星期日",
           "firstLesson": 5
         },
         {
@@ -3133,6 +3105,10 @@
           "firstLesson": 4
         },
         {
+          "hanzi": "七",
+          "firstLesson": 4
+        },
+        {
           "hanzi": "三",
           "firstLesson": 4
         },
@@ -3143,10 +3119,6 @@
         {
           "hanzi": "东西",
           "firstLesson": 6
-        },
-        {
-          "hanzi": "个",
-          "firstLesson": 4
         },
         {
           "hanzi": "中国",
@@ -3223,10 +3195,6 @@
         {
           "hanzi": "哪儿",
           "firstLesson": 6
-        },
-        {
-          "hanzi": "四",
-          "firstLesson": 4
         },
         {
           "hanzi": "坐",
@@ -3606,7 +3574,7 @@
     {
       "id": "R06-5",
       "lesson": 6,
-      "title": "Bữa sáng và bữa tối",
+      "title": "Khẩu vị của từng người",
       "hanziCount": 63,
       "sha256": "62f3511ab83c697d3d033062b669e080346ae92b55bf901dea4f1680d695f48c",
       "vocabulary": [
@@ -3765,8 +3733,8 @@
       "id": "R07-1",
       "lesson": 7,
       "title": "Tấm lịch trong ngày",
-      "hanziCount": 62,
-      "sha256": "0e1a3169c3342cfaaa242611c632ad905038e963a327ca009c7d1d5e4a3b8a14",
+      "hanziCount": 64,
+      "sha256": "6c8491ea3cc5686743ca1ef9a17fa28004de2d690f9aa06455f4c21b0e7746c4",
       "vocabulary": [
         {
           "hanzi": "一",
@@ -3809,6 +3777,10 @@
           "firstLesson": 2
         },
         {
+          "hanzi": "两",
+          "firstLesson": 4
+        },
+        {
           "hanzi": "九",
           "firstLesson": 4
         },
@@ -3845,6 +3817,10 @@
           "firstLesson": 7
         },
         {
+          "hanzi": "十",
+          "firstLesson": 4
+        },
+        {
           "hanzi": "半",
           "firstLesson": 7
         },
@@ -3853,24 +3829,20 @@
           "firstLesson": 6
         },
         {
-          "hanzi": "号",
-          "firstLesson": 5
-        },
-        {
-          "hanzi": "后",
-          "firstLesson": 7
+          "hanzi": "呢",
+          "firstLesson": 4
         },
         {
           "hanzi": "哪儿",
           "firstLesson": 6
         },
         {
-          "hanzi": "四",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "在",
           "firstLesson": 7
+        },
+        {
+          "hanzi": "她",
+          "firstLesson": 3
         },
         {
           "hanzi": "妈妈",
@@ -3905,20 +3877,8 @@
           "firstLesson": 7
         },
         {
-          "hanzi": "明天",
-          "firstLesson": 6
-        },
-        {
-          "hanzi": "星期日",
-          "firstLesson": 5
-        },
-        {
           "hanzi": "晚上",
           "firstLesson": 7
-        },
-        {
-          "hanzi": "月",
-          "firstLesson": 5
         },
         {
           "hanzi": "点",
@@ -3959,9 +3919,13 @@
       "id": "R07-2",
       "lesson": 7,
       "title": "Rạp chiếu phim đổi giờ hẹn",
-      "hanziCount": 64,
-      "sha256": "d9df5a344af322bedfa8b6d33ea41d2d325670c4dcadf936619aa75a5d473216",
+      "hanziCount": 61,
+      "sha256": "af6bd5f9020be942cddbea4470d4bcd7027d9da380cfaca06802a947de534e8b",
       "vocabulary": [
+        {
+          "hanzi": "一",
+          "firstLesson": 4
+        },
         {
           "hanzi": "七",
           "firstLesson": 4
@@ -3975,12 +3939,20 @@
           "firstLesson": 7
         },
         {
+          "hanzi": "下午",
+          "firstLesson": 7
+        },
+        {
           "hanzi": "下课",
           "firstLesson": 7
         },
         {
           "hanzi": "东西",
           "firstLesson": 6
+        },
+        {
+          "hanzi": "两",
+          "firstLesson": 4
         },
         {
           "hanzi": "买",
@@ -4007,10 +3979,6 @@
           "firstLesson": 5
         },
         {
-          "hanzi": "八",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "六",
           "firstLesson": 4
         },
@@ -4019,8 +3987,16 @@
           "firstLesson": 4
         },
         {
+          "hanzi": "分",
+          "firstLesson": 7
+        },
+        {
           "hanzi": "医院",
           "firstLesson": 7
+        },
+        {
+          "hanzi": "十",
+          "firstLesson": 4
         },
         {
           "hanzi": "半",
@@ -4029,10 +4005,6 @@
         {
           "hanzi": "去",
           "firstLesson": 6
-        },
-        {
-          "hanzi": "号",
-          "firstLesson": 5
         },
         {
           "hanzi": "吃",
@@ -4091,14 +4063,6 @@
           "firstLesson": 3
         },
         {
-          "hanzi": "星期",
-          "firstLesson": 5
-        },
-        {
-          "hanzi": "星期日",
-          "firstLesson": 5
-        },
-        {
           "hanzi": "晚上",
           "firstLesson": 7
         },
@@ -4107,8 +4071,8 @@
           "firstLesson": 6
         },
         {
-          "hanzi": "月",
-          "firstLesson": 5
+          "hanzi": "有",
+          "firstLesson": 4
         },
         {
           "hanzi": "泰国",
@@ -4139,12 +4103,12 @@
           "firstLesson": 2
         },
         {
-          "hanzi": "超市",
-          "firstLesson": 6
+          "hanzi": "课",
+          "firstLesson": 7
         },
         {
-          "hanzi": "还",
-          "firstLesson": 3
+          "hanzi": "超市",
+          "firstLesson": 6
         },
         {
           "hanzi": "那边",
@@ -4157,13 +4121,9 @@
       "id": "R07-3",
       "lesson": 7,
       "title": "Ở nhà đợi chị",
-      "hanziCount": 55,
-      "sha256": "2e04d9bc00daf7bf4ae56c421e2ce7bf289498a68b881818766d8cf55bf3610a",
+      "hanziCount": 58,
+      "sha256": "fe5685a971144688f68c30c01f2962f34196914ad81cc7eda745613f31a88f4e",
       "vocabulary": [
-        {
-          "hanzi": "一",
-          "firstLesson": 4
-        },
         {
           "hanzi": "七",
           "firstLesson": 4
@@ -4181,10 +4141,6 @@
           "firstLesson": 7
         },
         {
-          "hanzi": "下班",
-          "firstLesson": 5
-        },
-        {
           "hanzi": "下课",
           "firstLesson": 7
         },
@@ -4197,12 +4153,12 @@
           "firstLesson": 3
         },
         {
-          "hanzi": "买",
-          "firstLesson": 6
+          "hanzi": "九",
+          "firstLesson": 4
         },
         {
-          "hanzi": "二",
-          "firstLesson": 4
+          "hanzi": "买",
+          "firstLesson": 6
         },
         {
           "hanzi": "五",
@@ -4217,16 +4173,16 @@
           "firstLesson": 5
         },
         {
-          "hanzi": "今年",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "做",
           "firstLesson": 5
         },
         {
           "hanzi": "做饭",
           "firstLesson": 5
+        },
+        {
+          "hanzi": "八",
+          "firstLesson": 4
         },
         {
           "hanzi": "六",
@@ -4241,16 +4197,24 @@
           "firstLesson": 6
         },
         {
+          "hanzi": "分",
+          "firstLesson": 7
+        },
+        {
           "hanzi": "医院",
+          "firstLesson": 7
+        },
+        {
+          "hanzi": "十",
+          "firstLesson": 4
+        },
+        {
+          "hanzi": "半",
           "firstLesson": 7
         },
         {
           "hanzi": "吃",
           "firstLesson": 6
-        },
-        {
-          "hanzi": "后",
-          "firstLesson": 7
         },
         {
           "hanzi": "呢",
@@ -4301,18 +4265,6 @@
           "firstLesson": 3
         },
         {
-          "hanzi": "早上",
-          "firstLesson": 7
-        },
-        {
-          "hanzi": "明天",
-          "firstLesson": 6
-        },
-        {
-          "hanzi": "星期",
-          "firstLesson": 5
-        },
-        {
           "hanzi": "晚饭",
           "firstLesson": 6
         },
@@ -4355,10 +4307,6 @@
         {
           "hanzi": "谁",
           "firstLesson": 3
-        },
-        {
-          "hanzi": "还",
-          "firstLesson": 3
         }
       ],
       "outsideScope": []
@@ -4367,15 +4315,11 @@
       "id": "R07-4",
       "lesson": 7,
       "title": "Lớp học buổi tối",
-      "hanziCount": 65,
-      "sha256": "b175d817a913b657e5ef434c9b98bab410b7e57dfd547e0ee6c7024993d8fe78",
+      "hanziCount": 67,
+      "sha256": "f1379aa09226e2e401f0955e4649d750049d1373e9595bb8f8cc3fb92bae880c",
       "vocabulary": [
         {
-          "hanzi": "一",
-          "firstLesson": 4
-        },
-        {
-          "hanzi": "三",
+          "hanzi": "七",
           "firstLesson": 4
         },
         {
@@ -4403,10 +4347,6 @@
           "firstLesson": 2
         },
         {
-          "hanzi": "两",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "中国",
           "firstLesson": 3
         },
@@ -4415,7 +4355,7 @@
           "firstLesson": 3
         },
         {
-          "hanzi": "五",
+          "hanzi": "九",
           "firstLesson": 4
         },
         {
@@ -4451,24 +4391,12 @@
           "firstLesson": 4
         },
         {
-          "hanzi": "分",
-          "firstLesson": 7
-        },
-        {
-          "hanzi": "十",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "半",
           "firstLesson": 7
         },
         {
           "hanzi": "叫",
           "firstLesson": 2
-        },
-        {
-          "hanzi": "号",
-          "firstLesson": 5
         },
         {
           "hanzi": "吃",
@@ -4485,10 +4413,6 @@
         {
           "hanzi": "哪儿",
           "firstLesson": 6
-        },
-        {
-          "hanzi": "四",
-          "firstLesson": 4
         },
         {
           "hanzi": "在",
@@ -4537,10 +4461,6 @@
         {
           "hanzi": "晚饭",
           "firstLesson": 6
-        },
-        {
-          "hanzi": "月",
-          "firstLesson": 5
         },
         {
           "hanzi": "法国",
@@ -4605,16 +4525,16 @@
           "firstLesson": 4
         },
         {
-          "hanzi": "上午",
-          "firstLesson": 7
-        },
-        {
           "hanzi": "下午",
           "firstLesson": 7
         },
         {
           "hanzi": "下班",
           "firstLesson": 5
+        },
+        {
+          "hanzi": "两",
+          "firstLesson": 4
         },
         {
           "hanzi": "中国",
@@ -4709,18 +4629,6 @@
           "firstLesson": 2
         },
         {
-          "hanzi": "早上",
-          "firstLesson": 7
-        },
-        {
-          "hanzi": "星期",
-          "firstLesson": 5
-        },
-        {
-          "hanzi": "晚上",
-          "firstLesson": 7
-        },
-        {
           "hanzi": "晚饭",
           "firstLesson": 6
         },
@@ -4811,12 +4719,12 @@
           "firstLesson": 2
         },
         {
-          "hanzi": "中国",
-          "firstLesson": 3
+          "hanzi": "两",
+          "firstLesson": 4
         },
         {
-          "hanzi": "九",
-          "firstLesson": 4
+          "hanzi": "中国",
+          "firstLesson": 3
         },
         {
           "hanzi": "书店",
@@ -4848,14 +4756,6 @@
         },
         {
           "hanzi": "医院",
-          "firstLesson": 7
-        },
-        {
-          "hanzi": "十",
-          "firstLesson": 4
-        },
-        {
-          "hanzi": "半",
           "firstLesson": 7
         },
         {
@@ -4909,10 +4809,6 @@
         {
           "hanzi": "小",
           "firstLesson": 8
-        },
-        {
-          "hanzi": "岁",
-          "firstLesson": 4
         },
         {
           "hanzi": "店",
@@ -4993,11 +4889,7 @@
       "sha256": "38085b64f6e8703f803fe85d0c3eaf23c5e20553ae1065bf9a0bc2f1a984d2e2",
       "vocabulary": [
         {
-          "hanzi": "一",
-          "firstLesson": 4
-        },
-        {
-          "hanzi": "三",
+          "hanzi": "七",
           "firstLesson": 4
         },
         {
@@ -5033,7 +4925,7 @@
           "firstLesson": 8
         },
         {
-          "hanzi": "二",
+          "hanzi": "五",
           "firstLesson": 4
         },
         {
@@ -5069,6 +4961,10 @@
           "firstLesson": 4
         },
         {
+          "hanzi": "分",
+          "firstLesson": 7
+        },
+        {
           "hanzi": "前",
           "firstLesson": 8
         },
@@ -5083,6 +4979,10 @@
         {
           "hanzi": "十",
           "firstLesson": 4
+        },
+        {
+          "hanzi": "半",
+          "firstLesson": 7
         },
         {
           "hanzi": "去",
@@ -5139,10 +5039,6 @@
         {
           "hanzi": "早上",
           "firstLesson": 7
-        },
-        {
-          "hanzi": "星期",
-          "firstLesson": 5
         },
         {
           "hanzi": "是",
@@ -5349,6 +5245,10 @@
       "sha256": "2fecb22581fbb79f7ec4946727ec45831e92e00f457c5ae28ae9c781e0e92e2d",
       "vocabulary": [
         {
+          "hanzi": "七",
+          "firstLesson": 4
+        },
+        {
           "hanzi": "上课",
           "firstLesson": 7
         },
@@ -5373,7 +5273,7 @@
           "firstLesson": 3
         },
         {
-          "hanzi": "五",
+          "hanzi": "九",
           "firstLesson": 4
         },
         {
@@ -5385,7 +5285,7 @@
           "firstLesson": 5
         },
         {
-          "hanzi": "六",
+          "hanzi": "八",
           "firstLesson": 4
         },
         {
@@ -5435,10 +5335,6 @@
         {
           "hanzi": "哪儿",
           "firstLesson": 6
-        },
-        {
-          "hanzi": "四",
-          "firstLesson": 4
         },
         {
           "hanzi": "在",
@@ -5551,10 +5447,6 @@
           "firstLesson": 8
         },
         {
-          "hanzi": "下班",
-          "firstLesson": 5
-        },
-        {
           "hanzi": "不",
           "firstLesson": 2
         },
@@ -5576,6 +5468,10 @@
         },
         {
           "hanzi": "八",
+          "firstLesson": 4
+        },
+        {
+          "hanzi": "六",
           "firstLesson": 4
         },
         {
@@ -5613,14 +5509,6 @@
         {
           "hanzi": "只",
           "firstLesson": 8
-        },
-        {
-          "hanzi": "号",
-          "firstLesson": 5
-        },
-        {
-          "hanzi": "后",
-          "firstLesson": 7
         },
         {
           "hanzi": "吗",
@@ -5683,16 +5571,8 @@
           "firstLesson": 8
         },
         {
-          "hanzi": "明天",
-          "firstLesson": 6
-        },
-        {
           "hanzi": "是",
           "firstLesson": 2
-        },
-        {
-          "hanzi": "月",
-          "firstLesson": 5
         },
         {
           "hanzi": "有",
@@ -5773,12 +5653,20 @@
           "firstLesson": 7
         },
         {
+          "hanzi": "两",
+          "firstLesson": 4
+        },
+        {
           "hanzi": "书",
           "firstLesson": 9
         },
         {
           "hanzi": "书店",
           "firstLesson": 8
+        },
+        {
+          "hanzi": "五",
+          "firstLesson": 4
         },
         {
           "hanzi": "什么",
@@ -5803,10 +5691,6 @@
         {
           "hanzi": "十",
           "firstLesson": 4
-        },
-        {
-          "hanzi": "半",
-          "firstLesson": 7
         },
         {
           "hanzi": "去",
@@ -5913,20 +5797,12 @@
           "firstLesson": 7
         },
         {
-          "hanzi": "第",
-          "firstLesson": 9
-        },
-        {
           "hanzi": "认识",
           "firstLesson": 2
         },
         {
           "hanzi": "读书",
           "firstLesson": 9
-        },
-        {
-          "hanzi": "课",
-          "firstLesson": 7
         },
         {
           "hanzi": "这",
@@ -5971,10 +5847,6 @@
           "firstLesson": 7
         },
         {
-          "hanzi": "两",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "中文",
           "firstLesson": 3
         },
@@ -5993,6 +5865,10 @@
         {
           "hanzi": "买",
           "firstLesson": 6
+        },
+        {
+          "hanzi": "二",
+          "firstLesson": 4
         },
         {
           "hanzi": "五",
@@ -6015,20 +5891,12 @@
           "firstLesson": 4
         },
         {
-          "hanzi": "八",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "六",
           "firstLesson": 4
         },
         {
           "hanzi": "几",
           "firstLesson": 4
-        },
-        {
-          "hanzi": "分",
-          "firstLesson": 7
         },
         {
           "hanzi": "前边",
@@ -6103,10 +5971,6 @@
           "firstLesson": 4
         },
         {
-          "hanzi": "岁",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "店",
           "firstLesson": 7
         },
@@ -6152,10 +6016,6 @@
         },
         {
           "hanzi": "朋友",
-          "firstLesson": 9
-        },
-        {
-          "hanzi": "本",
           "firstLesson": 9
         },
         {
@@ -6208,7 +6068,7 @@
     {
       "id": "R09-3",
       "lesson": 9,
-      "title": "Chó mèo trong sân trường",
+      "title": "Chó mèo ở trước trường",
       "hanziCount": 62,
       "sha256": "8cfe094a76d1afebcbad436ef044f83d86f8120e2f4293a3d0d1f843c9ed87fb",
       "vocabulary": [
@@ -6431,10 +6291,6 @@
           "firstLesson": 4
         },
         {
-          "hanzi": "七",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "三",
           "firstLesson": 4
         },
@@ -6459,10 +6315,6 @@
           "firstLesson": 4
         },
         {
-          "hanzi": "个",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "中国",
           "firstLesson": 3
         },
@@ -6483,28 +6335,20 @@
           "firstLesson": 7
         },
         {
-          "hanzi": "人",
-          "firstLesson": 3
+          "hanzi": "二",
+          "firstLesson": 4
+        },
+        {
+          "hanzi": "五",
+          "firstLesson": 4
         },
         {
           "hanzi": "今天",
           "firstLesson": 5
         },
         {
-          "hanzi": "今年",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "你",
           "firstLesson": 2
-        },
-        {
-          "hanzi": "八",
-          "firstLesson": 4
-        },
-        {
-          "hanzi": "六",
-          "firstLesson": 4
         },
         {
           "hanzi": "几",
@@ -6523,12 +6367,12 @@
           "firstLesson": 4
         },
         {
-          "hanzi": "去",
-          "firstLesson": 6
+          "hanzi": "半",
+          "firstLesson": 7
         },
         {
-          "hanzi": "口",
-          "firstLesson": 4
+          "hanzi": "去",
+          "firstLesson": 6
         },
         {
           "hanzi": "吗",
@@ -6883,10 +6727,6 @@
           "firstLesson": 4
         },
         {
-          "hanzi": "个",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "也",
           "firstLesson": 2
         },
@@ -6935,10 +6775,6 @@
           "firstLesson": 10
         },
         {
-          "hanzi": "四",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "块",
           "firstLesson": 10
         },
@@ -6981,10 +6817,6 @@
         {
           "hanzi": "斤",
           "firstLesson": 10
-        },
-        {
-          "hanzi": "本",
-          "firstLesson": 9
         },
         {
           "hanzi": "的",
@@ -7045,14 +6877,6 @@
           "firstLesson": 4
         },
         {
-          "hanzi": "个",
-          "firstLesson": 4
-        },
-        {
-          "hanzi": "九",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "买",
           "firstLesson": 6
         },
@@ -7063,10 +6887,6 @@
         {
           "hanzi": "五",
           "firstLesson": 4
-        },
-        {
-          "hanzi": "人",
-          "firstLesson": 3
         },
         {
           "hanzi": "今天",
@@ -7085,6 +6905,10 @@
           "firstLesson": 4
         },
         {
+          "hanzi": "六",
+          "firstLesson": 4
+        },
+        {
           "hanzi": "几",
           "firstLesson": 4
         },
@@ -7099,10 +6923,6 @@
         {
           "hanzi": "去",
           "firstLesson": 6
-        },
-        {
-          "hanzi": "口",
-          "firstLesson": 4
         },
         {
           "hanzi": "和",
@@ -7141,10 +6961,6 @@
           "firstLesson": 3
         },
         {
-          "hanzi": "岁",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "店",
           "firstLesson": 7
         },
@@ -7163,10 +6979,6 @@
         {
           "hanzi": "房间",
           "firstLesson": 8
-        },
-        {
-          "hanzi": "本",
-          "firstLesson": 9
         },
         {
           "hanzi": "没有",
@@ -7211,6 +7023,10 @@
       "sha256": "3de391cc0a22ddd3b552ecd6564e7707162ab950f24900180eed9933b28fb8a8",
       "vocabulary": [
         {
+          "hanzi": "一",
+          "firstLesson": 4
+        },
+        {
           "hanzi": "三",
           "firstLesson": 4
         },
@@ -7224,10 +7040,6 @@
         },
         {
           "hanzi": "个",
-          "firstLesson": 4
-        },
-        {
-          "hanzi": "九",
           "firstLesson": 4
         },
         {
@@ -7253,10 +7065,6 @@
         {
           "hanzi": "几",
           "firstLesson": 4
-        },
-        {
-          "hanzi": "分钟",
-          "firstLesson": 7
         },
         {
           "hanzi": "前",
@@ -7315,10 +7123,6 @@
           "firstLesson": 8
         },
         {
-          "hanzi": "岁",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "很",
           "firstLesson": 2
         },
@@ -7363,16 +7167,8 @@
           "firstLesson": 3
         },
         {
-          "hanzi": "第",
-          "firstLesson": 9
-        },
-        {
           "hanzi": "老师",
           "firstLesson": 1
-        },
-        {
-          "hanzi": "课",
-          "firstLesson": 7
         },
         {
           "hanzi": "谁",
@@ -7429,10 +7225,6 @@
           "firstLesson": 4
         },
         {
-          "hanzi": "九",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "也",
           "firstLesson": 2
         },
@@ -7459,10 +7251,6 @@
         {
           "hanzi": "他",
           "firstLesson": 4
-        },
-        {
-          "hanzi": "件",
-          "firstLesson": 10
         },
         {
           "hanzi": "便宜",
@@ -7522,10 +7310,6 @@
         },
         {
           "hanzi": "妹妹",
-          "firstLesson": 4
-        },
-        {
-          "hanzi": "岁",
           "firstLesson": 4
         },
         {
@@ -7611,6 +7395,10 @@
           "firstLesson": 4
         },
         {
+          "hanzi": "三",
+          "firstLesson": 4
+        },
+        {
           "hanzi": "上",
           "firstLesson": 9
         },
@@ -7655,10 +7443,6 @@
           "firstLesson": 6
         },
         {
-          "hanzi": "二",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "人",
           "firstLesson": 3
         },
@@ -7671,10 +7455,6 @@
           "firstLesson": 10
         },
         {
-          "hanzi": "八",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "几",
           "firstLesson": 4
         },
@@ -7685,10 +7465,6 @@
         {
           "hanzi": "前边",
           "firstLesson": 9
-        },
-        {
-          "hanzi": "十",
-          "firstLesson": 4
         },
         {
           "hanzi": "去",
@@ -7719,6 +7495,10 @@
           "firstLesson": 10
         },
         {
+          "hanzi": "四",
+          "firstLesson": 4
+        },
+        {
           "hanzi": "在",
           "firstLesson": 7
         },
@@ -7741,10 +7521,6 @@
         {
           "hanzi": "学校",
           "firstLesson": 8
-        },
-        {
-          "hanzi": "岁",
-          "firstLesson": 4
         },
         {
           "hanzi": "很",
@@ -7849,6 +7625,10 @@
           "firstLesson": 5
         },
         {
+          "hanzi": "七",
+          "firstLesson": 4
+        },
+        {
           "hanzi": "下午",
           "firstLesson": 7
         },
@@ -7858,6 +7638,10 @@
         },
         {
           "hanzi": "两",
+          "firstLesson": 4
+        },
+        {
+          "hanzi": "九",
           "firstLesson": 4
         },
         {
@@ -7949,10 +7733,6 @@
           "firstLesson": 6
         },
         {
-          "hanzi": "四",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "在",
           "firstLesson": 7
         },
@@ -8007,10 +7787,6 @@
         {
           "hanzi": "明天",
           "firstLesson": 6
-        },
-        {
-          "hanzi": "星期",
-          "firstLesson": 5
         },
         {
           "hanzi": "昨天",
@@ -8091,7 +7867,7 @@
       "sha256": "87149204ff321bfc7b2d0f13a05a955e64af4d5e04162f1d7dd9c1e1c4e96542",
       "vocabulary": [
         {
-          "hanzi": "一",
+          "hanzi": "七",
           "firstLesson": 4
         },
         {
@@ -8127,10 +7903,6 @@
           "firstLesson": 8
         },
         {
-          "hanzi": "二",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "五",
           "firstLesson": 4
         },
@@ -8155,6 +7927,10 @@
           "firstLesson": 5
         },
         {
+          "hanzi": "八",
+          "firstLesson": 4
+        },
+        {
           "hanzi": "六",
           "firstLesson": 4
         },
@@ -8169,6 +7945,10 @@
         {
           "hanzi": "医院",
           "firstLesson": 7
+        },
+        {
+          "hanzi": "十",
+          "firstLesson": 4
         },
         {
           "hanzi": "去",
@@ -8225,14 +8005,6 @@
         {
           "hanzi": "时候",
           "firstLesson": 11
-        },
-        {
-          "hanzi": "明天",
-          "firstLesson": 6
-        },
-        {
-          "hanzi": "星期",
-          "firstLesson": 5
         },
         {
           "hanzi": "昨天",
@@ -8305,12 +8077,12 @@
       "sha256": "ff11c8078a442e2926bfa199eb9699b282bc76acafa1be30ed667b67f6cf3ac5",
       "vocabulary": [
         {
-          "hanzi": "一",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "一些",
           "firstLesson": 5
+        },
+        {
+          "hanzi": "七",
+          "firstLesson": 4
         },
         {
           "hanzi": "三",
@@ -8361,6 +8133,14 @@
           "firstLesson": 5
         },
         {
+          "hanzi": "八",
+          "firstLesson": 4
+        },
+        {
+          "hanzi": "六",
+          "firstLesson": 4
+        },
+        {
           "hanzi": "几",
           "firstLesson": 4
         },
@@ -8371,6 +8151,10 @@
         {
           "hanzi": "包子",
           "firstLesson": 6
+        },
+        {
+          "hanzi": "半",
+          "firstLesson": 7
         },
         {
           "hanzi": "去",
@@ -8433,20 +8217,8 @@
           "firstLesson": 11
         },
         {
-          "hanzi": "早上",
-          "firstLesson": 7
-        },
-        {
           "hanzi": "时候",
           "firstLesson": 11
-        },
-        {
-          "hanzi": "星期",
-          "firstLesson": 5
-        },
-        {
-          "hanzi": "晚上",
-          "firstLesson": 7
         },
         {
           "hanzi": "朋友",
@@ -8539,14 +8311,6 @@
       "sha256": "60522dbc7a461211185da70d3fdd1c70a343919bf679cba3b0c4d3fce047e8c1",
       "vocabulary": [
         {
-          "hanzi": "一",
-          "firstLesson": 4
-        },
-        {
-          "hanzi": "三",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "上班",
           "firstLesson": 7
         },
@@ -8559,6 +8323,14 @@
           "firstLesson": 8
         },
         {
+          "hanzi": "下午",
+          "firstLesson": 7
+        },
+        {
+          "hanzi": "两",
+          "firstLesson": 4
+        },
+        {
           "hanzi": "九",
           "firstLesson": 4
         },
@@ -8569,6 +8341,10 @@
         {
           "hanzi": "书店",
           "firstLesson": 8
+        },
+        {
+          "hanzi": "五",
+          "firstLesson": 4
         },
         {
           "hanzi": "什么",
@@ -8599,12 +8375,20 @@
           "firstLesson": 4
         },
         {
+          "hanzi": "六",
+          "firstLesson": 4
+        },
+        {
           "hanzi": "几",
           "firstLesson": 4
         },
         {
           "hanzi": "出租车",
           "firstLesson": 6
+        },
+        {
+          "hanzi": "分",
+          "firstLesson": 7
         },
         {
           "hanzi": "前",
@@ -8615,12 +8399,12 @@
           "firstLesson": 7
         },
         {
-          "hanzi": "去",
-          "firstLesson": 6
+          "hanzi": "十",
+          "firstLesson": 4
         },
         {
-          "hanzi": "号",
-          "firstLesson": 5
+          "hanzi": "去",
+          "firstLesson": 6
         },
         {
           "hanzi": "吃",
@@ -8633,10 +8417,6 @@
         {
           "hanzi": "哪儿",
           "firstLesson": 6
-        },
-        {
-          "hanzi": "四",
-          "firstLesson": 4
         },
         {
           "hanzi": "在",
@@ -8689,14 +8469,6 @@
         {
           "hanzi": "早上",
           "firstLesson": 7
-        },
-        {
-          "hanzi": "星期日",
-          "firstLesson": 5
-        },
-        {
-          "hanzi": "月",
-          "firstLesson": 5
         },
         {
           "hanzi": "桌子",
@@ -8793,10 +8565,6 @@
           "firstLesson": 3
         },
         {
-          "hanzi": "九",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "也",
           "firstLesson": 2
         },
@@ -8887,10 +8655,6 @@
         {
           "hanzi": "小",
           "firstLesson": 8
-        },
-        {
-          "hanzi": "岁",
-          "firstLesson": 4
         },
         {
           "hanzi": "想",
@@ -9010,7 +8774,7 @@
     {
       "id": "R12-1",
       "lesson": 12,
-      "title": "Ngày đầu có tuyết",
+      "title": "Buổi sáng sau ngày tuyết rơi",
       "hanziCount": 60,
       "sha256": "910902f219c1cee214d8c1c60ed29a95673fd02d316d7c368502105156725993",
       "vocabulary": [
@@ -9935,8 +9699,8 @@
       "id": "R12-5",
       "lesson": 12,
       "title": "Lời nhắn từ công ty",
-      "hanziCount": 62,
-      "sha256": "0f8be04b6da89e75dcb33a75372e1964f16ea9d8a087b0c18f4f5820cec7855b",
+      "hanziCount": 67,
+      "sha256": "551342a1e1142a919bfa662dc8e13689fe6eff26be1b7eaa15fe68e6c071cd80",
       "vocabulary": [
         {
           "hanzi": "下雨",
@@ -10149,15 +9913,15 @@
           "firstLesson": 13
         },
         {
+          "hanzi": "七",
+          "firstLesson": 4
+        },
+        {
           "hanzi": "不",
           "firstLesson": 2
         },
         {
           "hanzi": "个",
-          "firstLesson": 4
-        },
-        {
-          "hanzi": "二",
           "firstLesson": 4
         },
         {
@@ -10173,10 +9937,6 @@
           "firstLesson": 13
         },
         {
-          "hanzi": "八",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "六",
           "firstLesson": 4
         },
@@ -10185,16 +9945,8 @@
           "firstLesson": 4
         },
         {
-          "hanzi": "分钟",
-          "firstLesson": 7
-        },
-        {
           "hanzi": "包子",
           "firstLesson": 6
-        },
-        {
-          "hanzi": "十",
-          "firstLesson": 4
         },
         {
           "hanzi": "去",
@@ -10229,6 +9981,10 @@
           "firstLesson": 12
         },
         {
+          "hanzi": "四",
+          "firstLesson": 4
+        },
+        {
           "hanzi": "多少",
           "firstLesson": 4
         },
@@ -10246,10 +10002,6 @@
         },
         {
           "hanzi": "妈妈",
-          "firstLesson": 4
-        },
-        {
-          "hanzi": "岁",
           "firstLesson": 4
         },
         {
@@ -10281,10 +10033,6 @@
           "firstLesson": 6
         },
         {
-          "hanzi": "第",
-          "firstLesson": 9
-        },
-        {
           "hanzi": "米饭",
           "firstLesson": 6
         },
@@ -10311,10 +10059,6 @@
         {
           "hanzi": "请",
           "firstLesson": 13
-        },
-        {
-          "hanzi": "课",
-          "firstLesson": 7
         },
         {
           "hanzi": "谁",
@@ -10605,10 +10349,6 @@
           "firstLesson": 7
         },
         {
-          "hanzi": "两",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "个",
           "firstLesson": 4
         },
@@ -10619,6 +10359,10 @@
         {
           "hanzi": "买",
           "firstLesson": 6
+        },
+        {
+          "hanzi": "二",
+          "firstLesson": 4
         },
         {
           "hanzi": "五",
@@ -10827,10 +10571,6 @@
           "firstLesson": 13
         },
         {
-          "hanzi": "两",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "个",
           "firstLesson": 4
         },
@@ -10841,6 +10581,10 @@
         {
           "hanzi": "书",
           "firstLesson": 9
+        },
+        {
+          "hanzi": "二",
+          "firstLesson": 4
         },
         {
           "hanzi": "五",
@@ -10995,6 +10739,10 @@
           "firstLesson": 11
         },
         {
+          "hanzi": "第",
+          "firstLesson": 9
+        },
+        {
           "hanzi": "给",
           "firstLesson": 13
         },
@@ -11103,10 +10851,6 @@
         {
           "hanzi": "做",
           "firstLesson": 5
-        },
-        {
-          "hanzi": "元",
-          "firstLesson": 10
         },
         {
           "hanzi": "八",
@@ -11517,6 +11261,10 @@
           "firstLesson": 4
         },
         {
+          "hanzi": "七",
+          "firstLesson": 4
+        },
+        {
           "hanzi": "三",
           "firstLesson": 4
         },
@@ -11531,10 +11279,6 @@
         {
           "hanzi": "不要",
           "firstLesson": 14
-        },
-        {
-          "hanzi": "两",
-          "firstLesson": 4
         },
         {
           "hanzi": "个",
@@ -11553,10 +11297,6 @@
           "firstLesson": 12
         },
         {
-          "hanzi": "五",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "什么",
           "firstLesson": 2
         },
@@ -11573,6 +11313,14 @@
           "firstLesson": 5
         },
         {
+          "hanzi": "八",
+          "firstLesson": 4
+        },
+        {
+          "hanzi": "六",
+          "firstLesson": 4
+        },
+        {
           "hanzi": "写",
           "firstLesson": 14
         },
@@ -11581,20 +11329,12 @@
           "firstLesson": 4
         },
         {
-          "hanzi": "分钟",
-          "firstLesson": 7
-        },
-        {
           "hanzi": "医",
           "firstLesson": 11
         },
         {
           "hanzi": "医生",
           "firstLesson": 8
-        },
-        {
-          "hanzi": "十",
-          "firstLesson": 4
         },
         {
           "hanzi": "只",
@@ -11762,7 +11502,7 @@
     {
       "id": "R14-3",
       "lesson": 14,
-      "title": "Lời nhắn trong thư viện nhỏ",
+      "title": "Giữ yên lặng khi đọc sách",
       "hanziCount": 72,
       "sha256": "fff8c3571c70237a1c3f56be7e96f9451d358448e43f9570d15fa348bfcf498a",
       "vocabulary": [
@@ -11812,6 +11552,10 @@
         },
         {
           "hanzi": "二",
+          "firstLesson": 4
+        },
+        {
+          "hanzi": "五",
           "firstLesson": 4
         },
         {
@@ -12057,6 +11801,10 @@
           "firstLesson": 14
         },
         {
+          "hanzi": "九",
+          "firstLesson": 4
+        },
+        {
           "hanzi": "书",
           "firstLesson": 9
         },
@@ -12089,14 +11837,6 @@
           "firstLesson": 4
         },
         {
-          "hanzi": "八",
-          "firstLesson": 4
-        },
-        {
-          "hanzi": "六",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "写",
           "firstLesson": 14
         },
@@ -12106,10 +11846,6 @@
         },
         {
           "hanzi": "十",
-          "firstLesson": 4
-        },
-        {
-          "hanzi": "口",
           "firstLesson": 4
         },
         {
@@ -12123,10 +11859,6 @@
         {
           "hanzi": "喜欢",
           "firstLesson": 5
-        },
-        {
-          "hanzi": "四",
-          "firstLesson": 4
         },
         {
           "hanzi": "在",
@@ -12161,10 +11893,6 @@
           "firstLesson": 14
         },
         {
-          "hanzi": "岁",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "开车",
           "firstLesson": 11
         },
@@ -12179,10 +11907,6 @@
         {
           "hanzi": "我们",
           "firstLesson": 3
-        },
-        {
-          "hanzi": "斤",
-          "firstLesson": 10
         },
         {
           "hanzi": "昨天",
@@ -12473,10 +12197,6 @@
           "firstLesson": 5
         },
         {
-          "hanzi": "三",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "下午",
           "firstLesson": 7
         },
@@ -12489,7 +12209,11 @@
           "firstLesson": 4
         },
         {
-          "hanzi": "二",
+          "hanzi": "九",
+          "firstLesson": 4
+        },
+        {
+          "hanzi": "五",
           "firstLesson": 4
         },
         {
@@ -12499,10 +12223,6 @@
         {
           "hanzi": "住",
           "firstLesson": 15
-        },
-        {
-          "hanzi": "八",
-          "firstLesson": 4
         },
         {
           "hanzi": "六",
@@ -12517,6 +12237,10 @@
           "firstLesson": 6
         },
         {
+          "hanzi": "分",
+          "firstLesson": 7
+        },
+        {
           "hanzi": "到",
           "firstLesson": 8
         },
@@ -12529,6 +12253,10 @@
           "firstLesson": 15
         },
         {
+          "hanzi": "十",
+          "firstLesson": 4
+        },
+        {
           "hanzi": "半",
           "firstLesson": 7
         },
@@ -12539,10 +12267,6 @@
         {
           "hanzi": "去年",
           "firstLesson": 15
-        },
-        {
-          "hanzi": "号",
-          "firstLesson": 5
         },
         {
           "hanzi": "同学",
@@ -12559,10 +12283,6 @@
         {
           "hanzi": "唱",
           "firstLesson": 9
-        },
-        {
-          "hanzi": "四",
-          "firstLesson": 4
         },
         {
           "hanzi": "在",
@@ -12631,18 +12351,6 @@
         {
           "hanzi": "明天",
           "firstLesson": 6
-        },
-        {
-          "hanzi": "星期",
-          "firstLesson": 5
-        },
-        {
-          "hanzi": "星期日",
-          "firstLesson": 5
-        },
-        {
-          "hanzi": "月",
-          "firstLesson": 5
         },
         {
           "hanzi": "机场",
@@ -12715,6 +12423,10 @@
           "firstLesson": 4
         },
         {
+          "hanzi": "一半",
+          "firstLesson": 13
+        },
+        {
           "hanzi": "七",
           "firstLesson": 4
         },
@@ -12729,6 +12441,10 @@
         {
           "hanzi": "下",
           "firstLesson": 8
+        },
+        {
+          "hanzi": "下午",
+          "firstLesson": 7
         },
         {
           "hanzi": "两",
@@ -12761,10 +12477,6 @@
         {
           "hanzi": "五",
           "firstLesson": 4
-        },
-        {
-          "hanzi": "今天",
-          "firstLesson": 5
         },
         {
           "hanzi": "住",
@@ -12847,6 +12559,10 @@
           "firstLesson": 4
         },
         {
+          "hanzi": "天",
+          "firstLesson": 12
+        },
+        {
           "hanzi": "太",
           "firstLesson": 3
         },
@@ -12856,10 +12572,6 @@
         },
         {
           "hanzi": "小时",
-          "firstLesson": 15
-        },
-        {
-          "hanzi": "年",
           "firstLesson": 15
         },
         {
@@ -13211,12 +12923,12 @@
           "firstLesson": 5
         },
         {
-          "hanzi": "三",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "下午",
           "firstLesson": 7
+        },
+        {
+          "hanzi": "两",
+          "firstLesson": 4
         },
         {
           "hanzi": "中国",
@@ -13259,19 +12971,11 @@
           "firstLesson": 5
         },
         {
-          "hanzi": "八",
-          "firstLesson": 4
-        },
-        {
           "hanzi": "六",
           "firstLesson": 4
         },
         {
           "hanzi": "几",
-          "firstLesson": 4
-        },
-        {
-          "hanzi": "十",
           "firstLesson": 4
         },
         {
@@ -13285,10 +12989,6 @@
         {
           "hanzi": "叫",
           "firstLesson": 2
-        },
-        {
-          "hanzi": "号",
-          "firstLesson": 5
         },
         {
           "hanzi": "吃",
@@ -13313,10 +13013,6 @@
         {
           "hanzi": "喜欢",
           "firstLesson": 5
-        },
-        {
-          "hanzi": "四",
-          "firstLesson": 4
         },
         {
           "hanzi": "在",
@@ -13369,10 +13065,6 @@
         {
           "hanzi": "晚上",
           "firstLesson": 7
-        },
-        {
-          "hanzi": "月",
-          "firstLesson": 5
         },
         {
           "hanzi": "机场",
@@ -13481,6 +13173,10 @@
           "firstLesson": 7
         },
         {
+          "hanzi": "两",
+          "firstLesson": 4
+        },
+        {
           "hanzi": "书店",
           "firstLesson": 8
         },
@@ -13521,16 +13217,8 @@
           "firstLesson": 4
         },
         {
-          "hanzi": "分钟",
-          "firstLesson": 7
-        },
-        {
           "hanzi": "北京",
           "firstLesson": 15
-        },
-        {
-          "hanzi": "十",
-          "firstLesson": 4
         },
         {
           "hanzi": "去",
@@ -13547,6 +13235,10 @@
         {
           "hanzi": "喜欢",
           "firstLesson": 5
+        },
+        {
+          "hanzi": "四",
+          "firstLesson": 4
         },
         {
           "hanzi": "回",

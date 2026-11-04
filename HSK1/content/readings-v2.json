@@ -3,6 +3,7 @@
     "id": "R01-1",
     "lesson": 1,
     "revision": 2,
+    "format": "dialogue",
     "title": "Chào thầy cô",
     "text": "学生：老师，您好！\n老师：你好！\n学生：老师好！\n老师：同学好！\n学生：谢谢老师！\n老师：不客气！\n学生：老师，再见！\n老师：再见！",
     "translation": "Học sinh: Em chào thầy/cô ạ! Giáo viên: Chào em! Học sinh: Em chào thầy/cô! Giáo viên: Chào em học sinh! Học sinh: Em cảm ơn thầy/cô! Giáo viên: Không có gì! Học sinh: Em chào thầy/cô, em về ạ! Giáo viên: Tạm biệt em!",
@@ -92,6 +93,7 @@
     "id": "R01-2",
     "lesson": 1,
     "revision": 2,
+    "format": "dialogue",
     "title": "Cả lớp chào nhau",
     "text": "老师：同学们好！\n学生们：老师好！\n老师：大家好！\n学生们：您好！\n老师：你们好！\n学生们：谢谢老师！\n老师：不客气。同学们，再见！\n学生们：再见！",
     "translation": "Giáo viên: Chào các em học sinh! Các học sinh: Chúng em chào thầy/cô! Giáo viên: Chào mọi người! Các học sinh: Chúng em chào thầy/cô ạ! Giáo viên: Chào các em! Các học sinh: Chúng em cảm ơn thầy/cô! Giáo viên: Không có gì. Tạm biệt các em! Các học sinh: Tạm biệt ạ!",
@@ -181,6 +183,7 @@
     "id": "R01-3",
     "lesson": 1,
     "revision": 2,
+    "format": "dialogue",
     "title": "Lời cảm ơn",
     "text": "同学：谢谢您，老师！\n老师：不客气！\n同学：老师，再见！\n老师：同学，再见！\n学生们：谢谢老师！\n老师：不客气。大家，再见！",
     "translation": "Một bạn học: Em cảm ơn thầy/cô ạ! Giáo viên: Không có gì! Bạn học: Em chào thầy/cô, em về ạ! Giáo viên: Tạm biệt em! Các học sinh: Chúng em cảm ơn thầy/cô! Giáo viên: Không có gì. Tạm biệt mọi người!",
@@ -270,6 +273,7 @@
     "id": "R01-4",
     "lesson": 1,
     "revision": 2,
+    "format": "dialogue",
     "title": "Lời chào trang trọng",
     "text": "同学：您好！\n老师：你好！\n同学：老师好！\n老师：同学好！\n老师们：大家好！\n同学们：老师们好！\n老师们：同学们好！",
     "translation": "Bạn học: Em chào thầy/cô ạ! Giáo viên: Chào em! Bạn học: Em chào thầy/cô! Giáo viên: Chào em học sinh! Các giáo viên: Chào mọi người! Các bạn học: Chúng em chào các thầy cô! Các giáo viên: Chào các em học sinh!",
@@ -359,6 +363,7 @@
     "id": "R01-5",
     "lesson": 1,
     "revision": 2,
+    "format": "dialogue",
     "title": "Tạm biệt các bạn",
     "text": "同学们：老师，再见！\n老师：同学们，再见！\n学生：大家，再见！\n同学们：再见！\n学生：谢谢大家！\n同学们：不客气！",
     "translation": "Các bạn học: Chúng em chào thầy/cô, chúng em về ạ! Giáo viên: Tạm biệt các em! Một học sinh: Tạm biệt mọi người! Các bạn học: Tạm biệt! Học sinh: Cảm ơn mọi người! Các bạn học: Không có gì!",
@@ -448,6 +453,7 @@
     "id": "R02-1",
     "lesson": 2,
     "revision": 2,
+    "format": "dialogue",
     "title": "Tự giới thiệu tên",
     "text": "老师：你好！你叫什么名字？\n学生：我叫李文。\n老师：李文，你好！\n学生：老师，您好！认识您，我很高兴。\n老师：我也很高兴。",
     "translation": "Giáo viên: Chào em! Em tên là gì? Học sinh: Em tên là Lý Văn. Giáo viên: Lý Văn, chào em! Học sinh: Em chào thầy/cô ạ! Em rất vui được làm quen với thầy/cô. Giáo viên: Thầy/cô cũng rất vui.",
@@ -537,6 +543,7 @@
     "id": "R02-2",
     "lesson": 2,
     "revision": 2,
+    "format": "dialogue",
     "title": "Đính chính cách gọi",
     "text": "同学：老师，您好！\n李文：我不是老师。我是学生。我叫李文。\n同学：对不起，李文！\n李文：没关系。你好！\n同学：认识你，我很高兴。\n李文：我也很高兴。",
     "translation": "Bạn học: Em chào thầy/cô ạ! Lý Văn: Mình không phải giáo viên. Mình là học sinh, tên là Lý Văn. Bạn học: Xin lỗi bạn, Lý Văn! Lý Văn: Không sao. Chào bạn! Bạn học: Rất vui được làm quen với bạn. Lý Văn: Mình cũng rất vui.",
@@ -626,6 +633,7 @@
     "id": "R02-3",
     "lesson": 2,
     "revision": 2,
+    "format": "dialogue",
     "title": "Hỏi tên một cách lịch sự",
     "text": "学生：您好！请问，您叫什么名字？\n老师：我叫李文。\n学生：李文老师，您好！\n老师：你好！你是学生？\n学生：我是学生。认识您，我很高兴。",
     "translation": "Học sinh: Em chào thầy/cô ạ! Xin phép cho em hỏi, thầy/cô tên là gì? Giáo viên: Thầy/cô tên là Lý Văn. Học sinh: Em chào thầy/cô Lý Văn ạ! Giáo viên: Chào em! Em là học sinh à? Học sinh: Em là học sinh. Em rất vui được làm quen với thầy/cô.",
@@ -715,6 +723,7 @@
     "id": "R02-4",
     "lesson": 2,
     "revision": 2,
+    "format": "dialogue",
     "title": "Lời xin lỗi và lời đáp",
     "text": "同学：对不起！\n李文：没事！\n同学：谢谢你！请问，你叫什么名字？\n李文：我叫李文。你也是学生？\n同学：我是学生。\n李文：认识你，我很高兴。",
     "translation": "Bạn học: Xin lỗi bạn! Lý Văn: Không sao! Bạn học: Cảm ơn bạn! Cho mình hỏi bạn tên là gì? Lý Văn: Mình tên là Lý Văn. Bạn cũng là học sinh à? Bạn học: Mình là học sinh. Lý Văn: Rất vui được làm quen với bạn.",
@@ -804,6 +813,7 @@
     "id": "R02-5",
     "lesson": 2,
     "revision": 2,
+    "format": "dialogue",
     "title": "Làm quen qua lời giới thiệu",
     "text": "李文：大家好！我叫李文。我是学生。\n同学们：李文，你好！\n李文：认识你们，我很高兴。\n李文：你们是同学，我也是同学。谢谢大家！\n老师：李文，很好！",
     "translation": "Lý Văn: Chào mọi người! Mình tên là Lý Văn. Mình là học sinh. Các bạn học: Lý Văn, chào bạn! Lý Văn: Mình rất vui được làm quen với các bạn. Lý Văn: Các bạn là bạn học, mình cũng là bạn học. Cảm ơn mọi người! Giáo viên: Lý Văn, tốt lắm!",
@@ -893,6 +903,7 @@
     "id": "R03-1",
     "lesson": 3,
     "revision": 2,
+    "format": "dialogue",
     "title": "Đoán quốc tịch",
     "text": "同学：李文，你是泰国人吗？\n李文：不，我是中国人。\n同学：她是中国人吗？\n李文：她不是中国人，她是法国人。她是我的姐姐。\n同学：认识你们，我很高兴。",
     "translation": "Bạn học: Lý Văn, bạn là người Thái Lan à? Lý Văn: Không, mình là người Trung Quốc. Bạn học: Chị ấy là người Trung Quốc à? Lý Văn: Chị ấy không phải người Trung Quốc, chị ấy là người Pháp. Chị ấy là chị gái của mình. Bạn học: Rất vui được làm quen với hai người.",
@@ -982,6 +993,7 @@
     "id": "R03-2",
     "lesson": 3,
     "revision": 2,
+    "format": "dialogue",
     "title": "Nhận nhầm người qua điện thoại",
     "text": "同学：喂，您好！您是李文老师吗？\n姐姐：不，我不是老师。我是李文的姐姐。\n同学：对不起！李文忙吗？\n姐姐：她工作很忙。\n同学：谢谢您，再见！\n姐姐：不客气，再见！",
     "translation": "Bạn học: A lô, xin chào! Cô là giáo viên Lý Văn phải không ạ? Chị gái: Không, tôi không phải giáo viên. Tôi là chị gái của Lý Văn. Bạn học: Em xin lỗi! Lý Văn có bận không ạ? Chị gái: Em ấy rất bận, em ấy làm việc rất bận. Bạn học: Em cảm ơn, em chào chị! Chị gái: Không có gì, tạm biệt em!",
@@ -1071,6 +1083,7 @@
     "id": "R03-3",
     "lesson": 3,
     "revision": 2,
+    "format": "paragraph",
     "title": "Chị gái dạy tiếng Trung",
     "text": "我是李文。我是学生。我的姐姐是老师，她是中文老师。她的学生是法国人，也是我的同学。姐姐工作很忙。我认识她的学生。",
     "translation": "Tôi là Lý Văn, là học sinh. Chị gái tôi là giáo viên dạy tiếng Trung. Học sinh của chị là người Pháp và cũng là bạn học của tôi. Chị làm việc rất bận. Tôi quen học sinh của chị.",
@@ -1160,6 +1173,7 @@
     "id": "R03-4",
     "lesson": 3,
     "revision": 2,
+    "format": "paragraph",
     "title": "Một cuộc làm quen mới",
     "text": "她是我的同学，是泰国人。她的姐姐是老师。我的姐姐不是老师，是学生。我们认识她的姐姐。她的姐姐工作不太忙。认识我们，她也很高兴。",
     "translation": "Cô ấy là bạn học của tôi, là người Thái Lan. Chị gái của cô ấy là giáo viên. Chị gái tôi không phải giáo viên mà là học sinh. Chúng tôi quen chị gái của cô ấy. Chị ấy làm việc không quá bận. Chị ấy cũng rất vui được làm quen với chúng tôi.",
@@ -1249,6 +1263,7 @@
     "id": "R03-5",
     "lesson": 3,
     "revision": 2,
+    "format": "paragraph",
     "title": "Người đứng trước lớp",
     "text": "大家好！我是你们的中文老师。我是中国人。她是我的姐姐，也是老师。她不是中文老师。我们工作很忙。你们是我的学生，我很高兴认识大家！",
     "translation": "Chào mọi người! Tôi là giáo viên tiếng Trung của các bạn. Tôi là người Trung Quốc. Cô ấy là chị gái của tôi, cũng là giáo viên nhưng không dạy tiếng Trung. Chúng tôi làm việc rất bận. Các bạn là học sinh của tôi, tôi rất vui được làm quen với mọi người!",
@@ -1338,6 +1353,7 @@
     "id": "R04-1",
     "lesson": 4,
     "revision": 2,
+    "format": "paragraph",
     "title": "Đếm thành viên gia đình",
     "text": "我家有五口人：爸爸、妈妈、姐姐、妹妹和我。爸爸妈妈是老师。姐姐十九岁，是学生。妹妹六岁。我没有哥哥，也没有儿子。",
     "translation": "Gia đình tôi có năm người: bố, mẹ, chị gái, em gái và tôi. Bố mẹ là giáo viên. Chị gái mười chín tuổi, là học sinh. Em gái sáu tuổi. Tôi không có anh trai, cũng không có con trai.",
@@ -1347,10 +1363,10 @@
         "question": "我家有几口人？",
         "answer": "五口人",
         "options": [
-          "二十岁",
+          "六口人",
           "五口人",
-          "三十九岁",
-          "四十岁"
+          "一口人",
+          "三口人"
         ],
         "explanation": "Đáp án: 五口人. Thông tin đối chiếu trong bài: “我家有五口人：爸爸、妈妈、姐姐、妹妹和我。”",
         "evidence": "我家有五口人：爸爸、妈妈、姐姐、妹妹和我。"
@@ -1373,9 +1389,9 @@
         "question": "姐姐今年多大？",
         "answer": "十九岁",
         "options": [
-          "一口人",
-          "三口人",
-          "四口人",
+          "二十岁",
+          "四十岁",
+          "六岁",
           "十九岁"
         ],
         "explanation": "Đáp án: 十九岁. Thông tin đối chiếu trong bài: “姐姐十九岁，是学生。”",
@@ -1387,9 +1403,9 @@
         "answer": "六岁",
         "options": [
           "六岁",
-          "十岁",
-          "十二岁",
-          "十九岁"
+          "十九岁",
+          "二十岁",
+          "三十九岁"
         ],
         "explanation": "Đáp án: 六岁. Thông tin đối chiếu trong bài: “妹妹六岁。”",
         "evidence": "妹妹六岁。"
@@ -1427,6 +1443,7 @@
     "id": "R04-2",
     "lesson": 4,
     "revision": 2,
+    "format": "dialogue",
     "title": "So sánh tuổi của hai người con",
     "text": "老师：您有几个孩子？\n妈妈：我有两个孩子。儿子今年八岁，女儿今年四岁。\n老师：儿子是学生吗？\n妈妈：是。女儿不是学生。您呢？\n老师：我有一个女儿，今年六岁。",
     "translation": "Giáo viên: Chị có mấy người con? Mẹ: Tôi có hai con. Con trai năm nay tám tuổi, con gái bốn tuổi. Giáo viên: Con trai chị là học sinh à? Mẹ: Đúng vậy. Con gái tôi chưa phải học sinh. Còn thầy/cô thì sao? Giáo viên: Tôi có một con gái, năm nay sáu tuổi.",
@@ -1436,10 +1453,10 @@
         "question": "妈妈有几个孩子？",
         "answer": "两个",
         "options": [
-          "六个",
+          "五个",
           "两个",
-          "七个",
-          "八个"
+          "六个",
+          "七个"
         ],
         "explanation": "Đáp án: 两个. Thông tin đối chiếu trong bài: “妈妈：我有两个孩子。”",
         "evidence": "妈妈：我有两个孩子。"
@@ -1449,10 +1466,10 @@
         "question": "儿子今年几岁？",
         "answer": "八岁",
         "options": [
-          "三口人",
-          "四口人",
+          "十二岁",
+          "十九岁",
           "八岁",
-          "五口人"
+          "二十岁"
         ],
         "explanation": "Đáp án: 八岁. Thông tin đối chiếu trong bài: “儿子今年八岁，女儿今年四岁。”",
         "evidence": "儿子今年八岁，女儿今年四岁。"
@@ -1462,9 +1479,9 @@
         "question": "女儿今年几岁？",
         "answer": "四岁",
         "options": [
-          "八岁",
           "十岁",
           "十二岁",
+          "十九岁",
           "四岁"
         ],
         "explanation": "Đáp án: 四岁. Thông tin đối chiếu trong bài: “儿子今年八岁，女儿今年四岁。”",
@@ -1488,10 +1505,10 @@
         "question": "老师有几个女儿？",
         "answer": "一个",
         "options": [
-          "四十岁",
+          "八个",
           "一个",
-          "两个",
-          "三个"
+          "九个",
+          "十个"
         ],
         "explanation": "Đáp án: 一个. Thông tin đối chiếu trong bài: “老师：我有一个女儿，今年六岁。”",
         "evidence": "老师：我有一个女儿，今年六岁。"
@@ -1501,10 +1518,10 @@
         "question": "老师的女儿几岁？",
         "answer": "六岁",
         "options": [
-          "十个",
-          "一口人",
+          "三十九岁",
+          "四十岁",
           "六岁",
-          "三口人"
+          "八岁"
         ],
         "explanation": "Đáp án: 六岁. Thông tin đối chiếu trong bài: “老师：我有一个女儿，今年六岁。”",
         "evidence": "老师：我有一个女儿，今年六岁。"
@@ -1516,6 +1533,7 @@
     "id": "R04-3",
     "lesson": 4,
     "revision": 2,
+    "format": "paragraph",
     "title": "Phỏng vấn một người anh",
     "text": "我叫李文，今年十岁。我有一个哥哥，他二十岁。哥哥是学生，不是老师。妈妈是法国人，爸爸是中国人。我的家不大。你家有几口人呢？",
     "translation": "Tôi tên là Lý Văn, năm nay mười tuổi. Tôi có một anh trai, anh ấy hai mươi tuổi. Anh trai là học sinh, không phải giáo viên. Mẹ là người Pháp, bố là người Trung Quốc. Nhà tôi không lớn. Gia đình bạn có mấy người?",
@@ -1527,8 +1545,8 @@
         "options": [
           "三十九岁",
           "十岁",
-          "一个",
-          "两个"
+          "六岁",
+          "八岁"
         ],
         "explanation": "Đáp án: 十岁. Thông tin đối chiếu trong bài: “我叫李文，今年十岁。”",
         "evidence": "我叫李文，今年十岁。"
@@ -1538,10 +1556,10 @@
         "question": "李文有几个哥哥？",
         "answer": "一个",
         "options": [
-          "五口人",
-          "六口人",
+          "八个",
+          "九个",
           "一个",
-          "六岁"
+          "十个"
         ],
         "explanation": "Đáp án: 一个. Thông tin đối chiếu trong bài: “我有一个哥哥，他二十岁。”",
         "evidence": "我有一个哥哥，他二十岁。"
@@ -1551,9 +1569,9 @@
         "question": "哥哥多大？",
         "answer": "二十岁",
         "options": [
-          "两个",
-          "三个",
-          "四个",
+          "八岁",
+          "十二岁",
+          "十九岁",
           "二十岁"
         ],
         "explanation": "Đáp án: 二十岁. Thông tin đối chiếu trong bài: “我有一个哥哥，他二十岁。”",
@@ -1605,6 +1623,7 @@
     "id": "R04-4",
     "lesson": 4,
     "revision": 2,
+    "format": "paragraph",
     "title": "Hai thế hệ làm nghề dạy học",
     "text": "我爸爸今年四十岁，妈妈三十九岁。爸爸是中文老师，妈妈也是老师。姐姐十九岁，也是老师。我今年八岁，是学生。我有老师，也有同学。",
     "translation": "Bố tôi năm nay bốn mươi tuổi, mẹ ba mươi chín tuổi. Bố là giáo viên tiếng Trung, mẹ cũng là giáo viên. Chị gái mười chín tuổi, cũng là giáo viên. Tôi năm nay tám tuổi, là học sinh. Tôi có thầy cô và bạn học.",
@@ -1614,10 +1633,10 @@
         "question": "爸爸今年多大？",
         "answer": "四十岁",
         "options": [
-          "二十岁",
+          "八岁",
           "四十岁",
-          "三十九岁",
-          "一个"
+          "十二岁",
+          "十九岁"
         ],
         "explanation": "Đáp án: 四十岁. Thông tin đối chiếu trong bài: “我爸爸今年四十岁，妈妈三十九岁。”",
         "evidence": "我爸爸今年四十岁，妈妈三十九岁。"
@@ -1627,10 +1646,10 @@
         "question": "妈妈今年多大？",
         "answer": "三十九岁",
         "options": [
-          "两个",
-          "三个",
+          "二十岁",
+          "四十岁",
           "三十九岁",
-          "四个"
+          "六岁"
         ],
         "explanation": "Đáp án: 三十九岁. Thông tin đối chiếu trong bài: “我爸爸今年四十岁，妈妈三十九岁。”",
         "evidence": "我爸爸今年四十岁，妈妈三十九岁。"
@@ -1666,10 +1685,10 @@
         "question": "姐姐今年多大？",
         "answer": "十九岁",
         "options": [
-          "八个",
+          "二十岁",
           "十九岁",
-          "九个",
-          "十个"
+          "四十岁",
+          "六岁"
         ],
         "explanation": "Đáp án: 十九岁. Thông tin đối chiếu trong bài: “我爸爸今年四十岁，妈妈三十九岁。”",
         "evidence": "我爸爸今年四十岁，妈妈三十九岁。"
@@ -1694,6 +1713,7 @@
     "id": "R04-5",
     "lesson": 4,
     "revision": 2,
+    "format": "dialogue",
     "title": "Một gia đình ít người",
     "text": "同学：你家有几口人？\n李文：三口人，爸爸、妈妈和我。\n同学：你有姐姐吗？\n李文：没有。你呢？\n同学：我有两个姐姐。我家有五口人。\n李文：你家人多！",
     "translation": "Bạn học: Nhà bạn có mấy người? Lý Văn: Ba người: bố, mẹ và mình. Bạn học: Bạn có chị gái không? Lý Văn: Không. Còn bạn? Bạn học: Mình có hai chị gái. Nhà mình có năm người. Lý Văn: Nhà bạn đông người thật!",
@@ -1705,8 +1725,8 @@
         "options": [
           "六口人",
           "三口人",
-          "六岁",
-          "八岁"
+          "一口人",
+          "四口人"
         ],
         "explanation": "Đáp án: 三口人. Thông tin đối chiếu trong bài: “李文：三口人，爸爸、妈妈和我。”",
         "evidence": "李文：三口人，爸爸、妈妈和我。"
@@ -1729,9 +1749,9 @@
         "question": "同学有几个姐姐？",
         "answer": "两个",
         "options": [
-          "四个",
-          "五个",
-          "六个",
+          "七个",
+          "八个",
+          "九个",
           "两个"
         ],
         "explanation": "Đáp án: 两个. Thông tin đối chiếu trong bài: “同学：我有两个姐姐。”",
@@ -1743,9 +1763,9 @@
         "answer": "五口人",
         "options": [
           "五口人",
-          "六岁",
-          "八岁",
-          "十岁"
+          "四口人",
+          "六口人",
+          "一口人"
         ],
         "explanation": "Đáp án: 五口人. Thông tin đối chiếu trong bài: “我家有五口人。”",
         "evidence": "我家有五口人。"
@@ -1783,6 +1803,7 @@
     "id": "R05-1",
     "lesson": 5,
     "revision": 2,
+    "format": "paragraph",
     "title": "Ngày nghỉ và món ăn",
     "text": "今天星期日，我休息。妈妈也休息，爸爸不休息。我会做面条儿，妈妈会做饺子。今天我想做面条儿。妈妈喜欢饺子，姐姐也喜欢饺子。爸爸下班，妈妈做饭。",
     "translation": "Hôm nay là Chủ nhật, tôi nghỉ. Mẹ cũng nghỉ nhưng bố không nghỉ. Tôi biết làm mì, mẹ biết làm bánh sủi cảo. Hôm nay tôi muốn làm mì. Mẹ thích sủi cảo, chị gái cũng thích. Khi bố tan làm, mẹ nấu cơm.",
@@ -1792,10 +1813,10 @@
         "question": "今天星期几？",
         "answer": "星期日",
         "options": [
-          "星期四",
-          "星期五",
+          "星期六",
+          "星期一",
           "星期日",
-          "星期六"
+          "星期二"
         ],
         "explanation": "Đáp án: 星期日. Thông tin đối chiếu trong bài: “今天星期日，我休息。”",
         "evidence": "今天星期日，我休息。"
@@ -1872,8 +1893,9 @@
     "id": "R05-2",
     "lesson": 5,
     "revision": 2,
+    "format": "paragraph",
     "title": "Chiếc máy tính mới",
-    "text": "这是我的新电脑，它很好看。姐姐也有电脑，她的电脑不是新的。我很喜欢新电脑。今天星期三，姐姐下班休息。我做一些菜，姐姐做面条儿。妈妈真高兴！",
+    "text": "这是我的新电脑，它很好看。姐姐也有电脑，她的电脑不新。我很喜欢新电脑。今天星期三，姐姐下班休息。我做一些菜，姐姐做面条儿。妈妈真高兴！",
     "translation": "Đây là máy tính mới của tôi, nó rất đẹp. Chị gái cũng có máy tính nhưng máy của chị không mới. Tôi rất thích máy tính mới. Hôm nay là thứ Tư, chị gái tan làm rồi nghỉ. Tôi làm một ít món ăn, chị làm mì. Mẹ rất vui!",
     "questions": [
       {
@@ -1899,31 +1921,31 @@
           "不大",
           "有"
         ],
-        "explanation": "Đáp án: 有. Thông tin đối chiếu trong bài: “姐姐也有电脑，她的电脑不是新的。”",
-        "evidence": "姐姐也有电脑，她的电脑不是新的。"
+        "explanation": "Đáp án: 有. Thông tin đối chiếu trong bài: “姐姐也有电脑，她的电脑不新。”",
+        "evidence": "姐姐也有电脑，她的电脑不新。"
       },
       {
         "id": "R05-2-v2-3",
-        "question": "姐姐的电脑是新的吗？",
-        "answer": "不是",
+        "question": "姐姐的电脑新吗？",
+        "answer": "不新",
         "options": [
-          "不是",
-          "有",
+          "不新",
           "没有",
-          "很忙"
+          "很忙",
+          "不忙"
         ],
-        "explanation": "Đáp án: 不是. Thông tin đối chiếu trong bài: “姐姐也有电脑，她的电脑不是新的。”",
-        "evidence": "姐姐也有电脑，她的电脑不是新的。"
+        "explanation": "Đáp án: 不新. Thông tin đối chiếu trong bài: “姐姐也有电脑，她的电脑不新。”",
+        "evidence": "姐姐也有电脑，她的电脑不新。"
       },
       {
         "id": "R05-2-v2-4",
         "question": "今天星期几？",
         "answer": "星期三",
         "options": [
-          "三月八号",
+          "星期四",
           "星期三",
-          "四月一号",
-          "五月三号"
+          "星期五",
+          "星期六"
         ],
         "explanation": "Đáp án: 星期三. Thông tin đối chiếu trong bài: “今天星期三，姐姐下班休息。”",
         "evidence": "今天星期三，姐姐下班休息。"
@@ -1961,6 +1983,7 @@
     "id": "R05-3",
     "lesson": 5,
     "revision": 2,
+    "format": "paragraph",
     "title": "Bữa cơm ngày 8 tháng 3",
     "text": "今天三月八号，爸爸今年四十岁。今天星期一，爸爸下班，妈妈做饭。我会做菜，姐姐会做饺子。我和姐姐做饭，妈妈很高兴。爸爸喜欢饺子。",
     "translation": "Hôm nay là ngày 8 tháng 3. Bố năm nay bốn mươi tuổi. Hôm nay là thứ Hai. Khi bố tan làm, mẹ nấu cơm. Tôi biết làm món ăn, chị gái biết làm sủi cảo. Tôi và chị cùng nấu, mẹ rất vui. Bố thích sủi cảo.",
@@ -1983,9 +2006,9 @@
         "question": "爸爸今年多大？",
         "answer": "四十岁",
         "options": [
-          "十个",
-          "一口人",
-          "三口人",
+          "十九岁",
+          "二十岁",
+          "三十九岁",
           "四十岁"
         ],
         "explanation": "Đáp án: 四十岁. Thông tin đối chiếu trong bài: “今天三月八号，爸爸今年四十岁。”",
@@ -1997,9 +2020,9 @@
         "answer": "星期一",
         "options": [
           "星期一",
-          "八月十号",
-          "今天",
-          "今年"
+          "星期日",
+          "星期二",
+          "星期三"
         ],
         "explanation": "Đáp án: 星期一. Thông tin đối chiếu trong bài: “今天星期一，爸爸下班，妈妈做饭。”",
         "evidence": "今天星期一，爸爸下班，妈妈做饭。"
@@ -2050,6 +2073,7 @@
     "id": "R05-4",
     "lesson": 5,
     "revision": 2,
+    "format": "dialogue",
     "title": "Ai biết nấu món gì?",
     "text": "老师：你会做饭吗？\n学生：会。我会做面条儿，不会做饺子。\n老师：你爸爸妈妈呢？\n学生：妈妈会做饺子。爸爸会做菜，爸爸的菜真好看！\n老师：今天你做饭吗？\n学生：不，今天妈妈做饭。",
     "translation": "Giáo viên: Em biết nấu ăn không? Học sinh: Có ạ. Em biết làm mì, không biết làm sủi cảo. Giáo viên: Còn bố mẹ em? Học sinh: Mẹ biết làm sủi cảo. Bố biết làm món ăn, món bố làm trông đẹp lắm! Giáo viên: Hôm nay em nấu cơm à? Học sinh: Không, hôm nay mẹ nấu ạ.",
@@ -2139,6 +2163,7 @@
     "id": "R05-5",
     "lesson": 5,
     "revision": 2,
+    "format": "paragraph",
     "title": "Cuối tuần của chị gái",
     "text": "姐姐是老师。星期一、星期二、星期三、星期四、星期五，她工作很忙。星期六她休息。今天星期六，她不想做饭。我做面条儿，妈妈做一些菜。姐姐很喜欢。",
     "translation": "Chị gái là giáo viên. Từ thứ Hai đến thứ Sáu, chị làm việc rất bận. Thứ Bảy chị nghỉ. Hôm nay là thứ Bảy, chị không muốn nấu cơm. Tôi làm mì, mẹ làm một ít món ăn. Chị rất thích.",
@@ -2161,9 +2186,9 @@
         "question": "姐姐星期几休息？",
         "answer": "星期六",
         "options": [
-          "星期三",
-          "星期四",
           "星期五",
+          "星期日",
+          "星期一",
           "星期六"
         ],
         "explanation": "Đáp án: 星期六. Thông tin đối chiếu trong bài: “星期六她休息。”",
@@ -2175,9 +2200,9 @@
         "answer": "星期六",
         "options": [
           "星期六",
-          "今年",
-          "星期一",
-          "星期二"
+          "星期二",
+          "星期三",
+          "星期四"
         ],
         "explanation": "Đáp án: 星期六. Thông tin đối chiếu trong bài: “今天星期六，她不想做饭。”",
         "evidence": "今天星期六，她不想做饭。"
@@ -2228,6 +2253,7 @@
     "id": "R06-1",
     "lesson": 6,
     "revision": 2,
+    "format": "dialogue",
     "title": "Lời nhắn mua hàng",
     "text": "妈妈：你今天去超市吗？\n我：去。您想买什么？\n妈妈：一些牛奶和包子。\n我：我也想买牛奶。爸爸想吃什么？\n妈妈：他想吃米饭。我今天做饭。",
     "translation": "Mẹ: Hôm nay con có đi siêu thị không? Tôi: Có ạ. Mẹ muốn mua gì? Mẹ: Một ít sữa và bánh bao. Tôi: Con cũng muốn mua sữa. Bố muốn ăn gì ạ? Mẹ: Bố muốn ăn cơm. Hôm nay mẹ nấu.",
@@ -2317,6 +2343,7 @@
     "id": "R06-2",
     "lesson": 6,
     "revision": 2,
+    "format": "dialogue",
     "title": "Hẹn nhau qua điện thoại",
     "text": "同学：李文，你的手机号是多少？\n李文：一三八，六六六六，二二二二。\n同学：谢谢！明天你休息吗？\n李文：休息。我想坐出租车去超市买东西。\n同学：我也去。\n李文：明天去。",
     "translation": "Bạn học: Lý Văn, số điện thoại di động của bạn là bao nhiêu? Lý Văn: 138 6666 2222. Bạn học: Cảm ơn! Ngày mai bạn có nghỉ không? Lý Văn: Có. Mình muốn đi taxi đến siêu thị mua đồ. Bạn học: Mình cũng đi. Lý Văn: Ngày mai đi nhé.",
@@ -2326,13 +2353,13 @@
         "question": "手机号是____。",
         "answer": "一三八六六六六二二二二",
         "options": [
-          "三个",
-          "四个",
-          "五个",
+          "一三八六六六六二二二七",
+          "一三八六六六六二二二三",
+          "一三八六六六六二二二五",
           "一三八六六六六二二二二"
         ],
-        "explanation": "Đáp án: 一三八六六六六二二二二. Thông tin đối chiếu trong bài: “同学：李文，你的手机号是多少？”",
-        "evidence": "同学：李文，你的手机号是多少？"
+        "explanation": "Đáp án: 一三八六六六六二二二二. Thông tin đối chiếu trong bài: “李文：一三八，六六六六，二二二二。”",
+        "evidence": "李文：一三八，六六六六，二二二二。"
       },
       {
         "id": "R06-2-v2-2",
@@ -2406,6 +2433,7 @@
     "id": "R06-3",
     "lesson": 6,
     "revision": 2,
+    "format": "paragraph",
     "title": "Hai anh em chuẩn bị bữa tối",
     "text": "今天爸爸妈妈工作很忙。我和哥哥想做晚饭。哥哥会做面条儿，我会做菜。我想买一些菜，哥哥想买包子。妈妈喜欢包子，爸爸喜欢米饭。哥哥的面条儿也非常好吃。",
     "translation": "Hôm nay bố mẹ làm việc rất bận. Tôi và anh trai muốn nấu bữa tối. Anh biết làm mì, tôi biết làm món ăn. Tôi muốn mua một ít rau, anh muốn mua bánh bao. Mẹ thích bánh bao, bố thích cơm. Mì anh làm cũng rất ngon.",
@@ -2495,6 +2523,7 @@
     "id": "R06-4",
     "lesson": 6,
     "revision": 2,
+    "format": "dialogue",
     "title": "Chọn cách đi siêu thị",
     "text": "姐姐：你想去哪儿？\n我：我想去那边的超市。\n姐姐：你怎么去？\n我：坐出租车。你也去吗？\n姐姐：不，我今天下班想休息。你想买一些牛奶吗？\n我：我想买牛奶，也想买包子。",
     "translation": "Chị gái: Em muốn đi đâu? Tôi: Em muốn đến siêu thị bên kia. Chị gái: Em đi bằng gì? Tôi: Em đi taxi. Chị có đi không? Chị gái: Không, hôm nay tan làm chị muốn nghỉ. Em có muốn mua ít sữa không? Tôi: Em muốn mua sữa và cũng muốn mua bánh bao.",
@@ -2584,7 +2613,8 @@
     "id": "R06-5",
     "lesson": 6,
     "revision": 2,
-    "title": "Bữa sáng và bữa tối",
+    "format": "paragraph",
+    "title": "Khẩu vị của từng người",
     "text": "我喜欢吃包子，妹妹喜欢吃饺子。今天妈妈做饺子，爸爸买牛奶。妈妈的饺子非常好吃。明天我想吃面条儿。妹妹不想吃面条儿，她还想吃饺子。爸爸明天做晚饭。",
     "translation": "Tôi thích ăn bánh bao, em gái thích ăn sủi cảo. Hôm nay mẹ làm sủi cảo, bố mua sữa. Sủi cảo của mẹ rất ngon. Ngày mai tôi muốn ăn mì. Em gái không muốn ăn mì, em vẫn muốn ăn sủi cảo. Ngày mai bố nấu bữa tối.",
     "questions": [
@@ -2673,8 +2703,9 @@
     "id": "R07-1",
     "lesson": 7,
     "revision": 2,
+    "format": "paragraph",
     "title": "Tấm lịch trong ngày",
-    "text": "我早上八点上班，下午六点半下班。姐姐上午九点上课，下午三点下课。今天晚上七点，我们想去电影院看电影。爸爸不去，他晚上在医院上班。妈妈在家做饭。",
+    "text": "我早上八点上班，下午六点半下班。姐姐上午九点上课，下午三点下课。今天晚上七点，我们想去电影院看电影。爸爸不去，他晚上上班，在医院。妈妈做饭呢，她在家。",
     "translation": "Buổi sáng tôi đi làm lúc tám giờ, buổi chiều tan làm lúc sáu giờ rưỡi. Chị gái lên lớp lúc chín giờ sáng, tan học lúc ba giờ chiều. Tối nay lúc bảy giờ, chúng tôi muốn đến rạp xem phim. Bố không đi vì tối bố làm ở bệnh viện. Mẹ nấu cơm ở nhà.",
     "questions": [
       {
@@ -2683,9 +2714,9 @@
         "answer": "八点",
         "options": [
           "八点",
-          "下班后",
-          "今天",
-          "明天"
+          "一点半",
+          "三点",
+          "五点"
         ],
         "explanation": "Đáp án: 八点. Thông tin đối chiếu trong bài: “我早上八点上班，下午六点半下班。”",
         "evidence": "我早上八点上班，下午六点半下班。"
@@ -2695,10 +2726,10 @@
         "question": "我几点下班？",
         "answer": "六点半",
         "options": [
-          "星期日",
+          "十点",
           "六点半",
-          "三月八号",
-          "四月一号"
+          "七点半",
+          "八点半"
         ],
         "explanation": "Đáp án: 六点半. Thông tin đối chiếu trong bài: “我早上八点上班，下午六点半下班。”",
         "evidence": "我早上八点上班，下午六点半下班。"
@@ -2708,10 +2739,10 @@
         "question": "姐姐几点上课？",
         "answer": "九点",
         "options": [
-          "下班后",
-          "今天",
+          "七点",
+          "八点",
           "九点",
-          "明天"
+          "十点"
         ],
         "explanation": "Đáp án: 九点. Thông tin đối chiếu trong bài: “姐姐上午九点上课，下午三点下课。”",
         "evidence": "姐姐上午九点上课，下午三点下课。"
@@ -2721,9 +2752,9 @@
         "question": "姐姐几点下课？",
         "answer": "三点",
         "options": [
-          "五点",
-          "六点",
-          "七点",
+          "下午五点",
+          "下午两点",
+          "一点半",
           "三点"
         ],
         "explanation": "Đáp án: 三点. Thông tin đối chiếu trong bài: “姐姐上午九点上课，下午三点下课。”",
@@ -2744,7 +2775,7 @@
       },
       {
         "id": "R07-1-v2-6",
-        "question": "爸爸晚上在哪儿上班？",
+        "question": "爸爸晚上在哪儿？",
         "answer": "医院",
         "options": [
           "那边",
@@ -2752,8 +2783,8 @@
           "电影院",
           "店里"
         ],
-        "explanation": "Đáp án: 医院. Thông tin đối chiếu trong bài: “爸爸不去，他晚上在医院上班。”",
-        "evidence": "爸爸不去，他晚上在医院上班。"
+        "explanation": "Đáp án: 医院. Thông tin đối chiếu trong bài: “爸爸不去，他晚上上班，在医院。”",
+        "evidence": "爸爸不去，他晚上上班，在医院。"
       }
     ],
     "note": "Bài đọc biên soạn theo từ vựng và mẫu câu đã học đến Unit này."
@@ -2762,13 +2793,14 @@
     "id": "R07-2",
     "lesson": 7,
     "revision": 2,
+    "format": "dialogue",
     "title": "Rạp chiếu phim đổi giờ hẹn",
-    "text": "同学：我们晚上六点去电影院吧！\n我：六点我还在上课。六点半下课。\n同学：七点见吧。\n我：好！你现在在哪儿？\n同学：我在超市买东西呢。下课后你吃晚饭吗？\n我：吃。我在家吃。",
-    "translation": "Bạn học: Tối sáu giờ chúng ta đi rạp chiếu phim nhé! Tôi: Sáu giờ mình vẫn đang học. Sáu giờ rưỡi mới tan học. Bạn học: Vậy bảy giờ gặp nhé. Tôi: Được! Giờ bạn ở đâu? Bạn học: Mình đang mua đồ ở siêu thị. Tan học bạn có ăn tối không? Tôi: Có. Mình ăn ở nhà.",
+    "text": "同学：我们晚上六点去电影院吧！\n我：六点我有课。六点半下课。\n同学：七点见吧。\n我：好！你现在在哪儿？\n同学：我在超市，买东西呢。下课后你吃晚饭吗？\n我：吃。我在家。",
+    "translation": "Bạn học: Tối sáu giờ chúng ta đi rạp chiếu phim nhé! Tôi: Sáu giờ mình có lớp. Sáu giờ rưỡi tan học. Bạn học: Vậy bảy giờ gặp nhé. Tôi: Được! Giờ bạn ở đâu? Bạn học: Mình đang mua đồ ở siêu thị. Tan học bạn có ăn tối không? Tôi: Có. Mình ăn ở nhà.",
     "questions": [
       {
         "id": "R07-2-v2-1",
-        "question": "六点我在做什么？",
+        "question": "六点我做什么？",
         "answer": "上课",
         "options": [
           "上课",
@@ -2776,18 +2808,18 @@
           "休息",
           "买东西"
         ],
-        "explanation": "Đáp án: 上课. Thông tin đối chiếu trong bài: “我：六点我还在上课。”",
-        "evidence": "我：六点我还在上课。"
+        "explanation": "Đáp án: 上课. Thông tin đối chiếu trong bài: “同学：我们晚上六点去电影院吧！”",
+        "evidence": "同学：我们晚上六点去电影院吧！"
       },
       {
         "id": "R07-2-v2-2",
         "question": "我几点下课？",
         "answer": "六点半",
         "options": [
-          "三点",
+          "下午两点",
           "六点半",
-          "五点",
-          "七点"
+          "一点半",
+          "三点"
         ],
         "explanation": "Đáp án: 六点半. Thông tin đối chiếu trong bài: “六点半下课。”",
         "evidence": "六点半下课。"
@@ -2797,10 +2829,10 @@
         "question": "我们几点见？",
         "answer": "七点",
         "options": [
-          "星期六",
-          "星期日",
+          "六点十分",
+          "下午五点",
           "七点",
-          "三月八号"
+          "下午两点"
         ],
         "explanation": "Đáp án: 七点. Thông tin đối chiếu trong bài: “同学：七点见吧。”",
         "evidence": "同学：七点见吧。"
@@ -2815,12 +2847,12 @@
           "那边",
           "超市"
         ],
-        "explanation": "Đáp án: 超市. Thông tin đối chiếu trong bài: “同学：我在超市买东西呢。”",
-        "evidence": "同学：我在超市买东西呢。"
+        "explanation": "Đáp án: 超市. Thông tin đối chiếu trong bài: “同学：我在超市，买东西呢。”",
+        "evidence": "同学：我在超市，买东西呢。"
       },
       {
         "id": "R07-2-v2-5",
-        "question": "同学在超市做什么？",
+        "question": "同学现在做什么？",
         "answer": "买东西",
         "options": [
           "买东西",
@@ -2828,8 +2860,8 @@
           "工作",
           "认识"
         ],
-        "explanation": "Đáp án: 买东西. Thông tin đối chiếu trong bài: “同学：我在超市买东西呢。”",
-        "evidence": "同学：我在超市买东西呢。"
+        "explanation": "Đáp án: 买东西. Thông tin đối chiếu trong bài: “同学：我在超市，买东西呢。”",
+        "evidence": "同学：我在超市，买东西呢。"
       },
       {
         "id": "R07-2-v2-6",
@@ -2841,8 +2873,8 @@
           "电影院",
           "医院"
         ],
-        "explanation": "Đáp án: 家. Thông tin đối chiếu trong bài: “我在家吃。”",
-        "evidence": "我在家吃。"
+        "explanation": "Đáp án: 家. Thông tin đối chiếu trong bài: “我在家。”",
+        "evidence": "我在家。"
       }
     ],
     "note": "Bài đọc biên soạn theo từ vựng và mẫu câu đã học đến Unit này."
@@ -2851,8 +2883,9 @@
     "id": "R07-3",
     "lesson": 7,
     "revision": 2,
+    "format": "paragraph",
     "title": "Ở nhà đợi chị",
-    "text": "现在下午五点。我在家看电影呢。妈妈做饭呢，爸爸还在医院上班。姐姐六点下课。我们七点吃晚饭。今天妈妈做米饭和菜。姐姐喜欢吃米饭。",
+    "text": "现在下午五点。我看电影呢，现在在家。妈妈做饭呢，爸爸在医院，今天上班。姐姐六点下课。我们七点吃晚饭。今天妈妈做米饭和菜。姐姐喜欢吃米饭。",
     "translation": "Bây giờ là năm giờ chiều. Tôi đang xem phim ở nhà. Mẹ đang nấu cơm, bố vẫn làm ở bệnh viện. Chị gái tan học lúc sáu giờ. Chúng tôi ăn tối lúc bảy giờ. Hôm nay mẹ nấu cơm và món ăn. Chị thích ăn cơm.",
     "questions": [
       {
@@ -2861,16 +2894,16 @@
         "answer": "下午五点",
         "options": [
           "下午五点",
-          "今天",
-          "明天",
-          "今年"
+          "七点",
+          "八点",
+          "九点"
         ],
         "explanation": "Đáp án: 下午五点. Thông tin đối chiếu trong bài: “现在下午五点。”",
         "evidence": "现在下午五点。"
       },
       {
         "id": "R07-3-v2-2",
-        "question": "我在做什么？",
+        "question": "我做什么？",
         "answer": "看电影",
         "options": [
           "买东西",
@@ -2878,8 +2911,8 @@
           "坐出租车",
           "上课"
         ],
-        "explanation": "Đáp án: 看电影. Thông tin đối chiếu trong bài: “我在家看电影呢。”",
-        "evidence": "我在家看电影呢。"
+        "explanation": "Đáp án: 看电影. Thông tin đối chiếu trong bài: “我看电影呢，现在在家。”",
+        "evidence": "我看电影呢，现在在家。"
       },
       {
         "id": "R07-3-v2-3",
@@ -2891,12 +2924,12 @@
           "妈妈",
           "我们"
         ],
-        "explanation": "Đáp án: 妈妈. Thông tin đối chiếu trong bài: “妈妈做饭呢，爸爸还在医院上班。”",
-        "evidence": "妈妈做饭呢，爸爸还在医院上班。"
+        "explanation": "Đáp án: 妈妈. Thông tin đối chiếu trong bài: “妈妈做饭呢，爸爸在医院，今天上班。”",
+        "evidence": "妈妈做饭呢，爸爸在医院，今天上班。"
       },
       {
         "id": "R07-3-v2-4",
-        "question": "爸爸在哪儿上班？",
+        "question": "爸爸在哪儿？",
         "answer": "医院",
         "options": [
           "中国",
@@ -2904,8 +2937,8 @@
           "泰国",
           "医院"
         ],
-        "explanation": "Đáp án: 医院. Thông tin đối chiếu trong bài: “妈妈做饭呢，爸爸还在医院上班。”",
-        "evidence": "妈妈做饭呢，爸爸还在医院上班。"
+        "explanation": "Đáp án: 医院. Thông tin đối chiếu trong bài: “妈妈做饭呢，爸爸在医院，今天上班。”",
+        "evidence": "妈妈做饭呢，爸爸在医院，今天上班。"
       },
       {
         "id": "R07-3-v2-5",
@@ -2913,9 +2946,9 @@
         "answer": "六点",
         "options": [
           "六点",
-          "下班后",
-          "今天",
-          "明天"
+          "五点",
+          "七点",
+          "八点"
         ],
         "explanation": "Đáp án: 六点. Thông tin đối chiếu trong bài: “姐姐六点下课。”",
         "evidence": "姐姐六点下课。"
@@ -2925,10 +2958,10 @@
         "question": "我们几点吃晚饭？",
         "answer": "七点",
         "options": [
-          "早上",
+          "六点半",
           "七点",
-          "星期一",
-          "星期二"
+          "八点半",
+          "六点十分"
         ],
         "explanation": "Đáp án: 七点. Thông tin đối chiếu trong bài: “我们七点吃晚饭。”",
         "evidence": "我们七点吃晚饭。"
@@ -2940,13 +2973,14 @@
     "id": "R07-4",
     "lesson": 7,
     "revision": 2,
+    "format": "paragraph",
     "title": "Lớp học buổi tối",
-    "text": "我不是老师，我是学生。我上午在店里上班，下午休息。晚上六点，我和姐姐上课，是中文课。老师八点半下课。下课后，姐姐想看电影，我想在家休息。明天早上我还上班。",
+    "text": "我不是老师，我是学生。我上午上班，在店里，下午休息。晚上六点，我和姐姐上课，是中文课。老师八点半下课。下课后，姐姐想看电影，我想休息，晚上在家。明天早上我还上班。",
     "translation": "Tôi không phải giáo viên mà là học sinh. Buổi sáng tôi làm ở cửa hàng, buổi chiều nghỉ. Tối sáu giờ tôi và chị học tiếng Trung. Giáo viên kết thúc buổi học lúc tám giờ rưỡi. Sau giờ học, chị muốn xem phim còn tôi muốn nghỉ ở nhà. Sáng mai tôi vẫn đi làm.",
     "questions": [
       {
         "id": "R07-4-v2-1",
-        "question": "我上午在哪儿上班？",
+        "question": "我上午在哪儿？",
         "answer": "店里",
         "options": [
           "店里",
@@ -2954,8 +2988,8 @@
           "中国",
           "法国"
         ],
-        "explanation": "Đáp án: 店里. Thông tin đối chiếu trong bài: “我上午在店里上班，下午休息。”",
-        "evidence": "我上午在店里上班，下午休息。"
+        "explanation": "Đáp án: 店里. Thông tin đối chiếu trong bài: “我上午上班，在店里，下午休息。”",
+        "evidence": "我上午上班，在店里，下午休息。"
       },
       {
         "id": "R07-4-v2-2",
@@ -2967,8 +3001,8 @@
           "吃晚饭",
           "叫"
         ],
-        "explanation": "Đáp án: 休息. Thông tin đối chiếu trong bài: “我上午在店里上班，下午休息。”",
-        "evidence": "我上午在店里上班，下午休息。"
+        "explanation": "Đáp án: 休息. Thông tin đối chiếu trong bài: “我上午上班，在店里，下午休息。”",
+        "evidence": "我上午上班，在店里，下午休息。"
       },
       {
         "id": "R07-4-v2-3",
@@ -2988,9 +3022,9 @@
         "question": "中文课几点上课？",
         "answer": "六点",
         "options": [
-          "三月八号",
-          "四月一号",
-          "五月三号",
+          "七点",
+          "八点",
+          "九点",
           "六点"
         ],
         "explanation": "Đáp án: 六点. Thông tin đối chiếu trong bài: “晚上六点，我和姐姐上课，是中文课。”",
@@ -3002,9 +3036,9 @@
         "answer": "八点半",
         "options": [
           "八点半",
-          "六点十分",
-          "下午五点",
-          "下午两点"
+          "六点",
+          "七点",
+          "九点"
         ],
         "explanation": "Đáp án: 八点半. Thông tin đối chiếu trong bài: “老师八点半下课。”",
         "evidence": "老师八点半下课。"
@@ -3019,8 +3053,8 @@
           "下课",
           "上班"
         ],
-        "explanation": "Đáp án: 看电影. Thông tin đối chiếu trong bài: “下课后，姐姐想看电影，我想在家休息。”",
-        "evidence": "下课后，姐姐想看电影，我想在家休息。"
+        "explanation": "Đáp án: 看电影. Thông tin đối chiếu trong bài: “下课后，姐姐想看电影，我想休息，晚上在家。”",
+        "evidence": "下课后，姐姐想看电影，我想休息，晚上在家。"
       }
     ],
     "note": "Bài đọc biên soạn theo từ vựng và mẫu câu đã học đến Unit này."
@@ -3029,6 +3063,7 @@
     "id": "R07-5",
     "lesson": 7,
     "revision": 2,
+    "format": "dialogue",
     "title": "Cuộc gọi lúc tan làm",
     "text": "姐姐：你下班吗？\n我：还没有。现在六点，六点十分下班。\n姐姐：我在电影院。电影七点半。\n我：好。下班后我吃晚饭。我七点去电影院。\n姐姐：我现在吃包子呢。七点见！",
     "translation": "Chị gái: Em tan làm chưa? Tôi: Chưa. Bây giờ sáu giờ, sáu giờ mười em tan làm. Chị gái: Chị đang ở rạp chiếu phim. Phim lúc bảy giờ rưỡi. Tôi: Được. Tan làm em ăn tối. Bảy giờ em đến rạp. Chị gái: Giờ chị đang ăn bánh bao. Bảy giờ gặp nhé!",
@@ -3039,9 +3074,9 @@
         "answer": "六点",
         "options": [
           "六点",
-          "上午",
-          "下午",
-          "晚上"
+          "下午两点",
+          "一点半",
+          "三点"
         ],
         "explanation": "Đáp án: 六点. Thông tin đối chiếu trong bài: “现在六点，六点十分下班。”",
         "evidence": "现在六点，六点十分下班。"
@@ -3051,10 +3086,10 @@
         "question": "我几点下班？",
         "answer": "六点十分",
         "options": [
-          "晚上",
+          "五点",
           "六点十分",
-          "早上",
-          "星期一"
+          "七点",
+          "八点"
         ],
         "explanation": "Đáp án: 六点十分. Thông tin đối chiếu trong bài: “现在六点，六点十分下班。”",
         "evidence": "现在六点，六点十分下班。"
@@ -3077,9 +3112,9 @@
         "question": "电影几点？",
         "answer": "七点半",
         "options": [
-          "三点",
-          "五点",
           "六点",
+          "八点",
+          "九点",
           "七点半"
         ],
         "explanation": "Đáp án: 七点半. Thông tin đối chiếu trong bài: “电影七点半。”",
@@ -3091,9 +3126,9 @@
         "answer": "七点",
         "options": [
           "七点",
-          "六点",
-          "八点",
-          "九点"
+          "六点十分",
+          "下午五点",
+          "下午两点"
         ],
         "explanation": "Đáp án: 七点. Thông tin đối chiếu trong bài: “我七点去电影院。”",
         "evidence": "我七点去电影院。"
@@ -3118,6 +3153,7 @@
     "id": "R08-1",
     "lesson": 8,
     "revision": 2,
+    "format": "paragraph",
     "title": "Con mèo trốn dưới bàn",
     "text": "我家有一只小猫。今天上午，我在房间里看电影，没有看见它。妈妈在桌子下看见小猫。它不在房间外。下午小猫在桌子前，我能看见它。",
     "translation": "Nhà tôi có một con mèo nhỏ. Sáng nay tôi xem phim trong phòng nhưng không nhìn thấy nó. Mẹ nhìn thấy mèo dưới bàn. Nó không ở ngoài phòng, cũng không ở trên bàn. Buổi chiều mèo ở trước bàn, tôi có thể nhìn thấy nó.",
@@ -3127,10 +3163,10 @@
         "question": "我家有几只猫？",
         "answer": "一只",
         "options": [
-          "三十九岁",
+          "两只",
           "一只",
-          "四十岁",
-          "一半"
+          "三只",
+          "四只"
         ],
         "explanation": "Đáp án: 一只. Thông tin đối chiếu trong bài: “我家有一只小猫。”",
         "evidence": "我家有一只小猫。"
@@ -3207,6 +3243,7 @@
     "id": "R08-2",
     "lesson": 8,
     "revision": 2,
+    "format": "paragraph",
     "title": "Bố làm việc ở bệnh viện",
     "text": "我爸爸是医生，在医院工作。医院在学校前。爸爸早上八点上班，下午六点下班。今天病人很多，爸爸很忙。妈妈想去医院看爸爸，我也想去。爸爸现在不能休息。",
     "translation": "Bố tôi là bác sĩ, làm việc ở bệnh viện. Bệnh viện ở trước trường học. Bố đi làm lúc tám giờ sáng, tan làm lúc sáu giờ chiều. Hôm nay có nhiều bệnh nhân, bố rất bận. Mẹ muốn đến bệnh viện thăm bố, tôi cũng muốn đi. Bây giờ bố không thể nghỉ.",
@@ -3256,9 +3293,9 @@
         "answer": "八点",
         "options": [
           "八点",
-          "星期一",
-          "星期二",
-          "星期三"
+          "七点半",
+          "六点十分",
+          "下午五点"
         ],
         "explanation": "Đáp án: 八点. Thông tin đối chiếu trong bài: “爸爸早上八点上班，下午六点下班。”",
         "evidence": "爸爸早上八点上班，下午六点下班。"
@@ -3296,6 +3333,7 @@
     "id": "R08-3",
     "lesson": 8,
     "revision": 2,
+    "format": "dialogue",
     "title": "Tìm đúng hiệu sách",
     "text": "同学：书店在哪儿？\n我：在学校外，医院前。\n同学：书店大吗？\n我：不大。很漂亮。你现在能去吗？\n同学：不能，我下午上课。下课后我去。\n我：好，我在书店前见你。",
     "translation": "Bạn học: Hiệu sách ở đâu? Tôi: Ở ngoài trường, trước bệnh viện. Bạn học: Hiệu sách có lớn không? Tôi: Không lớn, rất đẹp. Giờ bạn có thể đi không? Bạn học: Không thể, chiều mình có lớp. Tan học mình đi. Tôi: Được, mình gặp bạn trước hiệu sách.",
@@ -3385,6 +3423,7 @@
     "id": "R08-4",
     "lesson": 8,
     "revision": 2,
+    "format": "paragraph",
     "title": "Phòng nào có thể ăn trưa?",
     "text": "学校有两个房间。大房间在前，小房间在后。老师在大房间上课，学生不能在大房间吃饭。小房间里有桌子。今天我和同学在小房间吃午饭。饭很好吃。",
     "translation": "Trường có hai phòng. Phòng lớn ở phía trước, phòng nhỏ ở phía sau. Giáo viên dạy ở phòng lớn; học sinh không thể ăn cơm ở phòng đó. Trong phòng nhỏ có bàn. Hôm nay tôi và bạn học ăn trưa ở phòng nhỏ. Cơm rất ngon.",
@@ -3394,10 +3433,10 @@
         "question": "学校有几个房间？",
         "answer": "两个",
         "options": [
-          "四个",
+          "七个",
           "两个",
-          "五个",
-          "六个"
+          "八个",
+          "九个"
         ],
         "explanation": "Đáp án: 两个. Thông tin đối chiếu trong bài: “学校有两个房间。”",
         "evidence": "学校有两个房间。"
@@ -3474,6 +3513,7 @@
     "id": "R08-5",
     "lesson": 8,
     "revision": 2,
+    "format": "paragraph",
     "title": "Đến trường sớm",
     "text": "今天我上午七点半到学校。老师八点上课。学校前有一只猫，我很喜欢它。我在学校外看见爸爸。他是医生，想去医院。医院不大，病人很多。爸爸今天很忙。",
     "translation": "Hôm nay tôi đến trường lúc bảy giờ rưỡi sáng. Giáo viên bắt đầu dạy lúc tám giờ. Trước trường có một con mèo, tôi rất thích nó. Tôi thấy bố ở ngoài trường. Bố là bác sĩ, đang muốn đến bệnh viện. Bệnh viện không lớn nhưng có nhiều bệnh nhân. Hôm nay bố rất bận.",
@@ -3483,10 +3523,10 @@
         "question": "我几点到学校？",
         "answer": "七点半",
         "options": [
-          "下班后",
+          "一点半",
           "七点半",
-          "今天",
-          "明天"
+          "三点",
+          "五点"
         ],
         "explanation": "Đáp án: 七点半. Thông tin đối chiếu trong bài: “今天我上午七点半到学校。”",
         "evidence": "今天我上午七点半到学校。"
@@ -3496,10 +3536,10 @@
         "question": "老师几点上课？",
         "answer": "八点",
         "options": [
-          "八月十号",
-          "三点",
+          "十点",
+          "六点半",
           "八点",
-          "五点"
+          "七点半"
         ],
         "explanation": "Đáp án: 八点. Thông tin đối chiếu trong bài: “老师八点上课。”",
         "evidence": "老师八点上课。"
@@ -3563,6 +3603,7 @@
     "id": "R09-1",
     "lesson": 9,
     "revision": 2,
+    "format": "paragraph",
     "title": "Bàn học và ghế",
     "text": "这是我的房间。桌子上有三本书，桌子下有一只猫。椅子在桌子前。我明天上午在房间里学习，下午去学校上课。姐姐明天上午在学校读书，下午在家看电视。",
     "translation": "Đây là phòng của tôi. Trên bàn có ba quyển sách, dưới bàn có một con mèo. Ghế ở trước bàn. Sáng mai tôi học trong phòng, chiều đến trường học. Sáng mai chị gái đọc sách ở trường, chiều xem tivi ở nhà.",
@@ -3572,10 +3613,10 @@
         "question": "桌子上有几本书？",
         "answer": "三本",
         "options": [
+          "五本",
           "十本",
-          "一半",
           "三本",
-          "第一课"
+          "两本"
         ],
         "explanation": "Đáp án: 三本. Thông tin đối chiếu trong bài: “桌子上有三本书，桌子下有一只猫。”",
         "evidence": "桌子上有三本书，桌子下有一只猫。"
@@ -3652,6 +3693,7 @@
     "id": "R09-2",
     "lesson": 9,
     "revision": 2,
+    "format": "paragraph",
     "title": "Buổi học với người bạn",
     "text": "明天是星期日。我上午九点和朋友在学校学习中文。我们想看第一课。下午朋友在我家唱歌，我看电视。朋友的歌很好听。晚上我想去书店买书，朋友想在家休息。",
     "translation": "Ngày mai là Chủ nhật. Chín giờ sáng tôi cùng bạn học tiếng Trung ở trường. Chúng tôi muốn đọc bài một. Buổi chiều bạn hát ở nhà tôi, tôi xem tivi. Bạn hát rất hay. Buổi tối tôi muốn đến hiệu sách mua sách, bạn muốn nghỉ ở nhà.",
@@ -3661,10 +3703,10 @@
         "question": "明天星期几？",
         "answer": "星期日",
         "options": [
-          "八点半",
-          "六点十分",
+          "星期三",
+          "星期四",
           "星期日",
-          "下午五点"
+          "星期五"
         ],
         "explanation": "Đáp án: 星期日. Thông tin đối chiếu trong bài: “明天是星期日。”",
         "evidence": "明天是星期日。"
@@ -3674,9 +3716,9 @@
         "question": "上午几点学习？",
         "answer": "九点",
         "options": [
+          "十点",
           "六点半",
           "七点半",
-          "八点半",
           "九点"
         ],
         "explanation": "Đáp án: 九点. Thông tin đối chiếu trong bài: “我上午九点和朋友在学校学习中文。”",
@@ -3688,9 +3730,9 @@
         "answer": "第一课",
         "options": [
           "第一课",
-          "四十岁",
-          "两本",
-          "三本"
+          "第十课",
+          "第十二课",
+          "第二课"
         ],
         "explanation": "Đáp án: 第一课. Thông tin đối chiếu trong bài: “我们想看第一课。”",
         "evidence": "我们想看第一课。"
@@ -3741,7 +3783,8 @@
     "id": "R09-3",
     "lesson": 9,
     "revision": 2,
-    "title": "Chó mèo trong sân trường",
+    "format": "paragraph",
+    "title": "Chó mèo ở trước trường",
     "text": "学校前边有一只小狗。小狗的朋友是一只猫。白天猫在桌子下，小狗在房间外边玩。晚上小狗在家休息，猫在房间里。今天下午，我和朋友在学校前边看小狗。",
     "translation": "Phía trước trường có một chú chó nhỏ. Bạn của chó là một con mèo. Ban ngày mèo ở dưới bàn, chó chơi ngoài phòng. Buổi tối chó nghỉ ở nhà, mèo ở trong phòng. Chiều nay tôi và bạn ngắm chú chó ở phía trước trường.",
     "questions": [
@@ -3830,6 +3873,7 @@
     "id": "R09-4",
     "lesson": 9,
     "revision": 2,
+    "format": "dialogue",
     "title": "Mượn sách để học",
     "text": "朋友：你有中文书吗？\n我：有，桌子上有两本。一本是我的，一本是姐姐的。\n朋友：我想看第三课。\n我：好，我们今天下午在家学习吧！\n朋友：下午我有事。明天上午，你有事吗？\n我：好，明天九点见。",
     "translation": "Bạn: Bạn có sách tiếng Trung không? Tôi: Có, trên bàn có hai quyển. Một quyển của mình, một quyển của chị. Bạn: Mình muốn đọc bài ba. Tôi: Được, chiều nay cùng học ở nhà nhé! Bạn: Chiều mình có việc. Sáng mai thì sao? Tôi: Được, mai chín giờ gặp.",
@@ -3852,9 +3896,9 @@
         "question": "桌子上有几本书？",
         "answer": "两本",
         "options": [
-          "九个",
-          "十个",
-          "一口人",
+          "三本",
+          "五本",
+          "十本",
           "两本"
         ],
         "explanation": "Đáp án: 两本. Thông tin đối chiếu trong bài: “我：有，桌子上有两本。”",
@@ -3878,10 +3922,10 @@
         "question": "朋友想看第几课？",
         "answer": "第三课",
         "options": [
-          "六个",
+          "第一课",
           "第三课",
-          "七个",
-          "八个"
+          "第二课",
+          "第十课"
         ],
         "explanation": "Đáp án: 第三课. Thông tin đối chiếu trong bài: “朋友：我想看第三课。”",
         "evidence": "朋友：我想看第三课。"
@@ -3904,9 +3948,9 @@
         "question": "明天几点见？",
         "answer": "九点",
         "options": [
-          "今年",
-          "上午",
-          "下午",
+          "下午五点",
+          "下午两点",
+          "一点半",
           "九点"
         ],
         "explanation": "Đáp án: 九点. Thông tin đối chiếu trong bài: “我：好，明天九点见。”",
@@ -3919,6 +3963,7 @@
     "id": "R09-5",
     "lesson": 9,
     "revision": 2,
+    "format": "paragraph",
     "title": "Một ngày của người thích hát",
     "text": "妹妹喜欢唱歌，也喜欢看电视。她白天在学校学习，晚上在家唱歌。她的歌很好听。今天晚上我有中文课，不能和妹妹看电视。下课后，我想读书，不想看电影。",
     "translation": "Em gái thích hát và xem tivi. Ban ngày em học ở trường, buổi tối hát ở nhà. Em hát rất hay. Tối nay tôi có lớp tiếng Trung, không thể xem tivi cùng em. Tan học tôi muốn đọc sách, không muốn xem phim.",
@@ -4008,6 +4053,7 @@
     "id": "R10-1",
     "lesson": 10,
     "revision": 2,
+    "format": "dialogue",
     "title": "Quầy táo trong siêu thị",
     "text": "售货员：这边的苹果三块钱一斤，那边的五块钱一斤。\n我：这边真便宜！我买两斤。\n妈妈：我想买那边的苹果。\n我：那些苹果好看吗？\n妈妈：好看，也好吃。我买一斤。",
     "translation": "Người bán: Táo bên này ba tệ một cân, bên kia năm tệ một cân. Tôi: Bên này rẻ thật! Tôi mua hai cân. Mẹ: Mẹ muốn mua táo bên kia. Tôi: Những quả đó có đẹp không? Mẹ: Đẹp và cũng ngon. Mẹ mua một cân.",
@@ -4017,9 +4063,9 @@
         "question": "这边苹果一斤多少钱？",
         "answer": "三块钱",
         "options": [
-          "三个",
-          "四个",
-          "五个",
+          "二十块钱",
+          "十五块钱",
+          "五块钱",
           "三块钱"
         ],
         "explanation": "Đáp án: 三块钱. Thông tin đối chiếu trong bài: “售货员：这边的苹果三块钱一斤，那边的五块钱一斤。”",
@@ -4031,9 +4077,9 @@
         "answer": "五块钱",
         "options": [
           "五块钱",
-          "三本",
-          "五本",
-          "十本"
+          "二十块钱",
+          "三块钱",
+          "十块钱"
         ],
         "explanation": "Đáp án: 五块钱. Thông tin đối chiếu trong bài: “售货员：这边的苹果三块钱一斤，那边的五块钱一斤。”",
         "evidence": "售货员：这边的苹果三块钱一斤，那边的五块钱一斤。"
@@ -4043,10 +4089,10 @@
         "question": "我买几斤？",
         "answer": "两斤",
         "options": [
-          "十块钱",
+          "五斤",
           "两斤",
-          "二十块钱",
-          "十五块钱"
+          "一斤",
+          "三斤"
         ],
         "explanation": "Đáp án: 两斤. Thông tin đối chiếu trong bài: “我买两斤。”",
         "evidence": "我买两斤。"
@@ -4056,10 +4102,10 @@
         "question": "妈妈买几斤？",
         "answer": "一斤",
         "options": [
-          "两本",
-          "三本",
+          "五斤",
+          "两斤",
           "一斤",
-          "五本"
+          "三斤"
         ],
         "explanation": "Đáp án: 一斤. Thông tin đối chiếu trong bài: “我买一斤。”",
         "evidence": "我买一斤。"
@@ -4097,6 +4143,7 @@
     "id": "R10-2",
     "lesson": 10,
     "revision": 2,
+    "format": "paragraph",
     "title": "Chiếc áo nào phù hợp?",
     "text": "我和姐姐去商店买衣服。这件衣服五十元，那件八十元。姐姐喜欢八十元的衣服，我喜欢五十元的。售货员：这些衣服很好看。我今天买一件，姐姐没有买。",
     "translation": "Tôi và chị gái đến cửa hàng mua quần áo. Chiếc này năm mươi tệ, chiếc kia tám mươi tệ. Chị thích chiếc tám mươi tệ, tôi thích chiếc năm mươi tệ. Người bán nói những chiếc này rất đẹp. Hôm nay tôi mua một chiếc, chị không mua.",
@@ -4120,9 +4167,9 @@
         "answer": "五十元",
         "options": [
           "五十元",
-          "十个",
-          "一口人",
-          "三口人"
+          "八十元",
+          "二十元",
+          "三十元"
         ],
         "explanation": "Đáp án: 五十元. Thông tin đối chiếu trong bài: “这件衣服五十元，那件八十元。”",
         "evidence": "这件衣服五十元，那件八十元。"
@@ -4132,10 +4179,10 @@
         "question": "那件衣服多少钱？",
         "answer": "八十元",
         "options": [
-          "十岁",
+          "五十元",
           "八十元",
-          "十二岁",
-          "十九岁"
+          "二十元",
+          "三十元"
         ],
         "explanation": "Đáp án: 八十元. Thông tin đối chiếu trong bài: “这件衣服五十元，那件八十元。”",
         "evidence": "这件衣服五十元，那件八十元。"
@@ -4145,10 +4192,10 @@
         "question": "我喜欢多少钱的衣服？",
         "answer": "五十元",
         "options": [
-          "四十岁",
-          "两本",
+          "二十元",
+          "三十元",
           "五十元",
-          "三本"
+          "六十元"
         ],
         "explanation": "Đáp án: 五十元. Thông tin đối chiếu trong bài: “姐姐喜欢八十元的衣服，我喜欢五十元的。”",
         "evidence": "姐姐喜欢八十元的衣服，我喜欢五十元的。"
@@ -4158,9 +4205,9 @@
         "question": "姐姐喜欢多少钱的衣服？",
         "answer": "八十元",
         "options": [
-          "十个",
-          "一口人",
-          "三口人",
+          "五十元",
+          "二十元",
+          "三十元",
           "八十元"
         ],
         "explanation": "Đáp án: 八十元. Thông tin đối chiếu trong bài: “姐姐喜欢八十元的衣服，我喜欢五十元的。”",
@@ -4172,9 +4219,9 @@
         "answer": "一件",
         "options": [
           "一件",
-          "三个",
-          "四个",
-          "五个"
+          "两件",
+          "四件",
+          "五件"
         ],
         "explanation": "Đáp án: 一件. Thông tin đối chiếu trong bài: “我今天买一件，姐姐没有买。”",
         "evidence": "我今天买一件，姐姐没有买。"
@@ -4186,6 +4233,7 @@
     "id": "R10-3",
     "lesson": 10,
     "revision": 2,
+    "format": "paragraph",
     "title": "Hai chiếc cốc khác nhau",
     "text": "桌子上有两个杯子。这是爸爸的杯子，那是妈妈的。爸爸的杯子很大，妈妈的小。爸爸的杯子二十块钱，妈妈的十五块钱。我喜欢妈妈的杯子，它很漂亮。我的杯子在房间里。",
     "translation": "Trên bàn có hai chiếc cốc. Đây là cốc của bố, kia là cốc của mẹ. Cốc của bố lớn, cốc của mẹ nhỏ. Cốc của bố hai mươi tệ, cốc của mẹ mười lăm tệ. Tôi thích cốc của mẹ vì rất đẹp. Cốc của tôi ở trong phòng.",
@@ -4195,9 +4243,9 @@
         "question": "桌子上有几个杯子？",
         "answer": "两个",
         "options": [
-          "第二课",
-          "第三课",
-          "第十课",
+          "十个",
+          "一个",
+          "三个",
           "两个"
         ],
         "explanation": "Đáp án: 两个. Thông tin đối chiếu trong bài: “桌子上有两个杯子。”",
@@ -4221,10 +4269,10 @@
         "question": "爸爸的杯子多少钱？",
         "answer": "二十块钱",
         "options": [
-          "十岁",
+          "五块钱",
           "二十块钱",
-          "十二岁",
-          "十九岁"
+          "十五块钱",
+          "三块钱"
         ],
         "explanation": "Đáp án: 二十块钱. Thông tin đối chiếu trong bài: “爸爸的杯子二十块钱，妈妈的十五块钱。”",
         "evidence": "爸爸的杯子二十块钱，妈妈的十五块钱。"
@@ -4234,10 +4282,10 @@
         "question": "妈妈的杯子多少钱？",
         "answer": "十五块钱",
         "options": [
-          "第十二课",
-          "五分钟",
+          "二十块钱",
+          "三块钱",
           "十五块钱",
-          "十分钟"
+          "十块钱"
         ],
         "explanation": "Đáp án: 十五块钱. Thông tin đối chiếu trong bài: “爸爸的杯子二十块钱，妈妈的十五块钱。”",
         "evidence": "爸爸的杯子二十块钱，妈妈的十五块钱。"
@@ -4275,6 +4323,7 @@
     "id": "R10-4",
     "lesson": 10,
     "revision": 2,
+    "format": "paragraph",
     "title": "Đi mua trái cây cho gia đình",
     "text": "今天我去超市买水果。苹果很便宜，三块钱一斤。我买三斤。妈妈喜欢苹果，爸爸不喜欢。我还想买牛奶。超市的牛奶五块钱。我买两？一？牛奶。妹妹想吃包子，我也买一些。",
     "translation": "Hôm nay tôi đến siêu thị mua trái cây. Táo rất rẻ, ba tệ một cân. Tôi mua ba cân. Mẹ thích táo, bố không thích. Tôi còn muốn mua sữa. Sữa ở siêu thị giá năm tệ. Tôi cũng mua sữa. Em gái muốn ăn bánh bao nên tôi mua thêm một ít.",
@@ -4310,10 +4359,10 @@
         "question": "苹果一斤多少钱？",
         "answer": "三块钱",
         "options": [
-          "十岁",
+          "十块钱",
           "三块钱",
-          "十二岁",
-          "十九岁"
+          "二十块钱",
+          "十五块钱"
         ],
         "explanation": "Đáp án: 三块钱. Thông tin đối chiếu trong bài: “苹果很便宜，三块钱一斤。”",
         "evidence": "苹果很便宜，三块钱一斤。"
@@ -4324,9 +4373,9 @@
         "answer": "三斤",
         "options": [
           "五斤",
-          "一件",
+          "一斤",
           "三斤",
-          "两件"
+          "两斤"
         ],
         "explanation": "Đáp án: 三斤. Thông tin đối chiếu trong bài: “我买三斤。”",
         "evidence": "我买三斤。"
@@ -4364,6 +4413,7 @@
     "id": "R10-5",
     "lesson": 10,
     "revision": 2,
+    "format": "paragraph",
     "title": "Cửa hàng trước hiệu sách",
     "text": "学校外有一个商店，在书店前边。商店的售货员是我的姐姐。这里有衣服，也有杯子。这里的衣服不贵，杯子也很便宜。今天妈妈去买两个杯子。我下课后去看姐姐。",
     "translation": "Ngoài trường có một cửa hàng, nằm trước hiệu sách. Người bán ở đó là chị gái tôi. Chị bán quần áo và cốc. Quần áo ở đây không đắt, cốc cũng rất rẻ. Hôm nay mẹ đến mua hai chiếc cốc. Sau giờ học tôi đến thăm chị.",
@@ -4425,9 +4475,9 @@
         "question": "妈妈买几个杯子？",
         "answer": "两个",
         "options": [
-          "八岁",
-          "十岁",
-          "十二岁",
+          "一个",
+          "三个",
+          "四个",
           "两个"
         ],
         "explanation": "Đáp án: 两个. Thông tin đối chiếu trong bài: “今天妈妈去买两个杯子。”",
@@ -4453,6 +4503,7 @@
     "id": "R11-1",
     "lesson": 11,
     "revision": 2,
+    "format": "paragraph",
     "title": "Em trai học đại học",
     "text": "我弟弟是大学生，正在学校学医。他早上六点半起床，晚上十点睡觉。昨天他在医院找爸爸，今天在家读书。他不想看电视。我问他：明天去不去书店？他想去，也想买一些书。",
     "translation": "Em trai tôi là sinh viên đại học, đang học y ở trường. Em dậy lúc sáu giờ rưỡi sáng, ngủ lúc mười giờ tối. Hôm qua em đến bệnh viện tìm bố, hôm nay đọc sách ở nhà. Em không muốn xem tivi. Tôi hỏi mai em có đi hiệu sách không. Em muốn đi và cũng muốn mua một ít sách.",
@@ -4488,10 +4539,10 @@
         "question": "弟弟几点起床？",
         "answer": "六点半",
         "options": [
-          "星期四",
-          "星期五",
+          "六点十分",
+          "下午五点",
           "六点半",
-          "星期六"
+          "下午两点"
         ],
         "explanation": "Đáp án: 六点半. Thông tin đối chiếu trong bài: “他早上六点半起床，晚上十点睡觉。”",
         "evidence": "他早上六点半起床，晚上十点睡觉。"
@@ -4501,9 +4552,9 @@
         "question": "弟弟几点睡觉？",
         "answer": "十点",
         "options": [
-          "六点十分",
-          "下午五点",
-          "下午两点",
+          "九点",
+          "六点半",
+          "七点半",
           "十点"
         ],
         "explanation": "Đáp án: 十点. Thông tin đối chiếu trong bài: “他早上六点半起床，晚上十点睡觉。”",
@@ -4542,6 +4593,7 @@
     "id": "R11-2",
     "lesson": 11,
     "revision": 2,
+    "format": "dialogue",
     "title": "Đừng gọi khi đang ngủ",
     "text": "姐姐：李文在哪儿？\n妈妈：他正在房间里睡觉。\n姐姐：现在九点，他还睡觉？\n妈妈：他昨天晚上在医院上班，今天早上六点下班。\n姐姐：我想问他什么时候去书店。\n妈妈：下午问吧。他现在要休息。",
     "translation": "Chị gái: Lý Văn ở đâu ạ? Mẹ: Em đang ngủ trong phòng. Chị gái: Giờ chín giờ mà em vẫn ngủ sao? Mẹ: Tối qua em làm ở bệnh viện, sáng nay sáu giờ mới tan làm. Chị gái: Con muốn hỏi em một câu. Mẹ: Chiều hỏi nhé. Giờ em cần nghỉ.",
@@ -4577,10 +4629,10 @@
         "question": "现在几点？",
         "answer": "九点",
         "options": [
-          "今天",
-          "明天",
+          "七点",
+          "八点",
           "九点",
-          "昨天"
+          "十点"
         ],
         "explanation": "Đáp án: 九点. Thông tin đối chiếu trong bài: “姐姐：现在九点，他还睡觉？”",
         "evidence": "姐姐：现在九点，他还睡觉？"
@@ -4604,9 +4656,9 @@
         "answer": "六点",
         "options": [
           "六点",
-          "星期一",
-          "星期二",
-          "星期三"
+          "七点",
+          "八点",
+          "九点"
         ],
         "explanation": "Đáp án: 六点. Thông tin đối chiếu trong bài: “妈妈：他昨天晚上在医院上班，今天早上六点下班。”",
         "evidence": "妈妈：他昨天晚上在医院上班，今天早上六点下班。"
@@ -4631,6 +4683,7 @@
     "id": "R11-3",
     "lesson": 11,
     "revision": 2,
+    "format": "paragraph",
     "title": "Tìm bạn ở quán ăn",
     "text": "今天我去饭店找朋友。朋友不在那里。他正在学校上课。我不知道他什么时候下课，想问他的姐姐。姐姐：他下午三点下课。现在你吃饭吧！我吃一些面条儿，三点去学校。",
     "translation": "Hôm nay tôi đến quán ăn tìm bạn. Bạn không có ở đó mà đang học ở trường. Tôi không biết bạn tan học lúc nào nên hỏi chị gái của bạn. Chị bảo bạn tan học lúc ba giờ chiều và bảo tôi ăn cơm trước. Tôi ăn một ít mì, rồi đến trường lúc ba giờ.",
@@ -4693,9 +4746,9 @@
         "answer": "三点",
         "options": [
           "三点",
-          "晚上",
-          "早上",
-          "星期一"
+          "六点半",
+          "七点半",
+          "八点半"
         ],
         "explanation": "Đáp án: 三点. Thông tin đối chiếu trong bài: “姐姐：他下午三点下课。”",
         "evidence": "姐姐：他下午三点下课。"
@@ -4720,6 +4773,7 @@
     "id": "R11-4",
     "lesson": 11,
     "revision": 2,
+    "format": "paragraph",
     "title": "Bố lái xe đến đâu?",
     "text": "爸爸会开车。今天早上，他要去学校找老师。妈妈问：你知道老师在哪儿吗？爸爸：知道，在学校的大房间里。妈妈也想去。爸爸八点开车去，九点还要去医院上班。",
     "translation": "Bố biết lái xe. Sáng nay bố muốn đến trường tìm giáo viên. Mẹ hỏi bố có biết giáo viên ở đâu không. Bố biết, ở phòng lớn trong trường. Mẹ cũng muốn đi. Bố lái xe đi lúc tám giờ, chín giờ còn phải đến bệnh viện làm việc.",
@@ -4782,9 +4836,9 @@
         "answer": "八点",
         "options": [
           "八点",
-          "星期日",
-          "三月八号",
-          "四月一号"
+          "六点十分",
+          "下午五点",
+          "下午两点"
         ],
         "explanation": "Đáp án: 八点. Thông tin đối chiếu trong bài: “爸爸八点开车去，九点还要去医院上班。”",
         "evidence": "爸爸八点开车去，九点还要去医院上班。"
@@ -4809,6 +4863,7 @@
     "id": "R11-5",
     "lesson": 11,
     "revision": 2,
+    "format": "dialogue",
     "title": "Chọn học thay vì xem phim",
     "text": "同学：今天晚上去不去看电影？\n我：不去。我正在读中文书，明天上午还有课。\n同学：你读第几课？\n我：第十课。我想问老师。\n同学：我也要学习。我们在学校见吧！",
     "translation": "Bạn học: Tối nay đi xem phim không? Tôi: Không. Mình đang đọc sách tiếng Trung, sáng mai còn có lớp. Bạn học: Bạn đọc bài mấy? Tôi: Bài mười. Có chỗ mình chưa biết nên muốn hỏi thầy cô. Bạn học: Mình cũng phải học. Chúng ta gặp ở trường nhé!",
@@ -4857,9 +4912,9 @@
         "question": "我正在读第几课？",
         "answer": "第十课",
         "options": [
-          "十二岁",
-          "十九岁",
-          "二十岁",
+          "第三课",
+          "第十二课",
+          "第一课",
           "第十课"
         ],
         "explanation": "Đáp án: 第十课. Thông tin đối chiếu trong bài: “我：第十课。”",
@@ -4898,7 +4953,8 @@
     "id": "R12-1",
     "lesson": 12,
     "revision": 2,
-    "title": "Ngày đầu có tuyết",
+    "format": "paragraph",
+    "title": "Buổi sáng sau ngày tuyết rơi",
     "text": "昨天下雪了，天气很冷。今天早上，学校外有一些雪。我想去学校，妈妈：你有点儿热，在家休息吧。我今天喝水，在家看书。下午觉得不热了，想明天再去上课。",
     "translation": "Hôm qua tuyết rơi, trời rất lạnh. Sáng nay ngoài trường có một ít tuyết. Tôi muốn đến trường, mẹ bảo tôi hơi nóng người nên ở nhà nghỉ. Hôm nay tôi uống nước, đọc sách ở nhà. Buổi chiều thấy không còn nóng nữa, tôi muốn ngày mai đi học lại.",
     "questions": [
@@ -4987,6 +5043,7 @@
     "id": "R12-2",
     "lesson": 12,
     "revision": 2,
+    "format": "paragraph",
     "title": "Đi khám cùng mẹ",
     "text": "今天妈妈生病了，觉得有点儿冷。我和妈妈去医院看病。医生：您喝一点儿热水，再休息吧。您今天不上班。妈妈的公司在医院前边。下午我回家做饭，妈妈在房间里休息。",
     "translation": "Hôm nay mẹ bị ốm, thấy hơi lạnh. Tôi đi cùng mẹ đến bệnh viện khám. Bác sĩ bảo mẹ uống một ít nước nóng và nghỉ, hôm nay mẹ không đi làm. Công ty của mẹ ở trước bệnh viện. Chiều tôi về nhà nấu cơm, mẹ nghỉ trong phòng.",
@@ -5076,6 +5133,7 @@
     "id": "R12-3",
     "lesson": 12,
     "revision": 2,
+    "format": "paragraph",
     "title": "Cơn mưa làm đổi kế hoạch",
     "text": "今天下午下雨了。我和朋友想去电影院，现在不去了。朋友来我家，我们在家看电影。妈妈回来了，觉得有点儿冷。她想喝热水。晚上雨很大，我们不想去超市。家里还有米饭和菜。",
     "translation": "Chiều nay trời mưa. Tôi và bạn định đến rạp nhưng giờ không đi nữa. Bạn đến nhà tôi, chúng tôi xem phim ở nhà. Mẹ về, thấy hơi lạnh và muốn uống nước nóng. Buổi tối mưa rất lớn, chúng tôi không muốn đi siêu thị. Trong nhà vẫn có cơm và món ăn.",
@@ -5165,6 +5223,7 @@
     "id": "R12-4",
     "lesson": 12,
     "revision": 2,
+    "format": "paragraph",
     "title": "Nước nóng hay nước lạnh?",
     "text": "我下班回到家，觉得太热了，想喝冷水。爸爸：你有点儿生病，喝热水吧。妈妈在医院看病，还没有回家。我喝一点儿热水，在房间里休息。晚上妈妈回来了，她想喝一点儿水。",
     "translation": "Tôi tan làm về nhà, thấy nóng quá và muốn uống nước lạnh. Bố bảo tôi hơi ốm nên uống nước nóng. Mẹ đang khám ở bệnh viện, chưa về nhà. Tôi uống một ít nước nóng rồi nghỉ trong phòng. Tối mẹ về, mẹ muốn uống một ít nước.",
@@ -5254,9 +5313,10 @@
     "id": "R12-5",
     "lesson": 12,
     "revision": 2,
+    "format": "dialogue",
     "title": "Lời nhắn từ công ty",
-    "text": "爸爸：我今天不回家吃午饭了，公司有事。\n妈妈：外边下雨了，你冷不冷？\n爸爸：不冷，公司里很热。\n妈妈：我有点儿生病，想去医院。\n爸爸：好。晚上我回家做饭，你休息吧。",
-    "translation": "Bố: Hôm nay bố không về nhà ăn trưa nữa, công ty có việc. Mẹ: Ngoài trời mưa rồi, bố có lạnh không? Bố: Không lạnh, trong công ty rất nóng. Mẹ: Mẹ hơi ốm, muốn đến bệnh viện. Bố: Được. Tối bố về nấu cơm, mẹ nghỉ nhé.",
+    "text": "爸爸：我今天不回家吃午饭了，公司有事，我在公司吃。\n妈妈：外边下雨了，你冷不冷？\n爸爸：不冷，公司里很热。\n妈妈：我有点儿生病，想去医院。\n爸爸：好。晚上我回家做饭，你休息吧。",
+    "translation": "Bố: Hôm nay bố không về nhà ăn trưa nữa, công ty có việc, bố ăn ở công ty. Mẹ: Ngoài trời mưa rồi, bố có lạnh không? Bố: Không lạnh, trong công ty rất nóng. Mẹ: Mẹ hơi ốm, muốn đến bệnh viện. Bố: Được. Tối bố về nấu cơm, mẹ nghỉ nhé.",
     "questions": [
       {
         "id": "R12-5-v2-1",
@@ -5268,8 +5328,8 @@
           "那边",
           "电影院"
         ],
-        "explanation": "Đáp án: 公司. Thông tin đối chiếu trong bài: “爸爸：我今天不回家吃午饭了，公司有事。”",
-        "evidence": "爸爸：我今天不回家吃午饭了，公司有事。"
+        "explanation": "Đáp án: 公司. Thông tin đối chiếu trong bài: “爸爸：我今天不回家吃午饭了，公司有事，我在公司吃。”",
+        "evidence": "爸爸：我今天不回家吃午饭了，公司有事，我在公司吃。"
       },
       {
         "id": "R12-5-v2-2",
@@ -5333,8 +5393,8 @@
           "爸爸",
           "医生"
         ],
-        "explanation": "Đáp án: 爸爸. Thông tin đối chiếu trong bài: “爸爸：我今天不回家吃午饭了，公司有事。”",
-        "evidence": "爸爸：我今天不回家吃午饭了，公司有事。"
+        "explanation": "Đáp án: 爸爸. Thông tin đối chiếu trong bài: “爸爸：我今天不回家吃午饭了，公司有事，我在公司吃。”",
+        "evidence": "爸爸：我今天不回家吃午饭了，公司有事，我在公司吃。"
       }
     ],
     "note": "Bài đọc biên soạn theo từ vựng và mẫu câu đã học đến Unit này."
@@ -5343,6 +5403,7 @@
     "id": "R13-1",
     "lesson": 13,
     "revision": 2,
+    "format": "dialogue",
     "title": "Gọi bữa sáng ở quán",
     "text": "服务员：先生，您要什么？\n我：请给我一杯茶、一个鸡蛋和一些面包。\n服务员：好。女士，您呢？\n妈妈：我要一杯热牛奶，不想吃鸡蛋。\n我：妈妈，您可以吃一半面包。\n妈妈：谢谢！我喝牛奶。",
     "translation": "Phục vụ: Thưa ông, ông dùng gì? Tôi: Xin cho tôi một cốc trà, một quả trứng và một ít bánh mì. Phục vụ: Còn vị nữ khách này? Mẹ: Tôi muốn một cốc sữa nóng, không muốn ăn trứng. Tôi: Mẹ có thể ăn một nửa bánh mì. Mẹ: Cảm ơn! Mẹ uống sữa.",
@@ -5379,9 +5440,9 @@
         "answer": "一个",
         "options": [
           "一个",
-          "第十课",
-          "第十二课",
-          "五分钟"
+          "五个",
+          "六个",
+          "七个"
         ],
         "explanation": "Đáp án: 一个. Thông tin đối chiếu trong bài: “我：请给我一杯茶、一个鸡蛋和一些面包。”",
         "evidence": "我：请给我一杯茶、一个鸡蛋和一些面包。"
@@ -5417,9 +5478,9 @@
         "question": "妈妈可以吃多少面包？",
         "answer": "一半",
         "options": [
-          "六岁",
-          "八岁",
-          "十岁",
+          "四个",
+          "五个",
+          "六个",
           "一半"
         ],
         "explanation": "Đáp án: 一半. Thông tin đối chiếu trong bài: “我：妈妈，您可以吃一半面包。”",
@@ -5432,6 +5493,7 @@
     "id": "R13-2",
     "lesson": 13,
     "revision": 2,
+    "format": "paragraph",
     "title": "Xin phép ngồi cùng bàn",
     "text": "我去饭店吃午饭。桌子前有一个先生，他正在喝茶。我问：请问，我可以坐这儿吗？先生：可以，请坐。我在这儿吃午饭，服务员给我一杯水。我想看一下今天卖什么。这里的面条儿很便宜。",
     "translation": "Tôi đến quán ăn ăn trưa. Trước bàn có một người đàn ông đang uống trà. Tôi hỏi có thể ngồi ở đây không. Ông đồng ý và mời ngồi. Tôi ăn trưa ở đây, phục vụ đưa cho tôi một cốc nước. Tôi muốn xem hôm nay quán bán gì. Mì ở đây rất rẻ.",
@@ -5521,6 +5583,7 @@
     "id": "R13-3",
     "lesson": 13,
     "revision": 2,
+    "format": "paragraph",
     "title": "Cuộc gọi hỏi món hàng",
     "text": "我给超市打电话：请问，你们卖面包吗？售货员：卖，今天的面包很好吃。我：我还想买鸡蛋，多少钱一个？售货员：一块钱一个。我：好，我下午去。妈妈想买牛奶，我也买一些牛奶。",
     "translation": "Tôi gọi điện cho siêu thị hỏi có bán bánh mì không. Người bán bảo có, bánh hôm nay rất ngon. Tôi còn muốn mua trứng và hỏi giá. Trứng một tệ một quả. Tôi nói chiều sẽ đến. Mẹ muốn mua sữa, tôi cũng sẽ mua một ít.",
@@ -5569,10 +5632,10 @@
         "question": "鸡蛋一个多少钱？",
         "answer": "一块钱",
         "options": [
-          "一个",
+          "十块钱",
           "一块钱",
-          "两个",
-          "三个"
+          "二十块钱",
+          "十五块钱"
         ],
         "explanation": "Đáp án: 一块钱. Thông tin đối chiếu trong bài: “售货员：一块钱一个。”",
         "evidence": "售货员：一块钱一个。"
@@ -5610,6 +5673,7 @@
     "id": "R13-4",
     "lesson": 13,
     "revision": 2,
+    "format": "paragraph",
     "title": "Chia nửa chiếc bánh mì",
     "text": "今天早饭，我和妹妹吃面包。妹妹没有杯子，我给她一个杯子。妈妈给我们热牛奶。妹妹：我可以吃一半面包吗？我：可以，我吃一半。爸爸现在还在睡觉，我们给他一些面包和一个鸡蛋。",
     "translation": "Bữa sáng hôm nay tôi và em gái ăn bánh mì. Em không có cốc nên tôi đưa em một chiếc. Mẹ cho chúng tôi sữa nóng. Em hỏi có thể ăn nửa bánh mì không. Tôi đồng ý, mình ăn một nửa. Bố vẫn đang ngủ, chúng tôi dành cho bố một ít bánh mì và một quả trứng.",
@@ -5671,10 +5735,10 @@
         "question": "妹妹吃多少面包？",
         "answer": "一半",
         "options": [
-          "十五分钟",
-          "一个",
+          "第十课",
+          "第十二课",
           "一半",
-          "两个"
+          "五分钟"
         ],
         "explanation": "Đáp án: 一半. Thông tin đối chiếu trong bài: “我：可以，我吃一半。”",
         "evidence": "我：可以，我吃一半。"
@@ -5699,6 +5763,7 @@
     "id": "R13-5",
     "lesson": 13,
     "revision": 2,
+    "format": "paragraph",
     "title": "Hỏi giáo viên một chút",
     "text": "下课后，我给老师打电话。老师正在吃晚饭。我问：老师，我可以问一下吗？老师：可以，你有什么问题？我想问第十二课。老师：你看一下书，明天上午来学校，我和你读。我：谢谢老师！",
     "translation": "Sau giờ học, tôi gọi cho giáo viên. Thầy/cô đang ăn tối. Tôi xin phép hỏi một chút. Thầy/cô đồng ý và hỏi tôi có câu hỏi gì. Tôi muốn hỏi bài mười hai. Thầy/cô bảo tôi xem sách, sáng mai đến trường để cùng đọc. Tôi cảm ơn thầy/cô.",
@@ -5747,10 +5812,10 @@
         "question": "我想问第几课？",
         "answer": "第十二课",
         "options": [
-          "五十元",
+          "第十课",
           "第十二课",
-          "八十元",
-          "第一课"
+          "第一课",
+          "第二课"
         ],
         "explanation": "Đáp án: 第十二课. Thông tin đối chiếu trong bài: “我想问第十二课。”",
         "evidence": "我想问第十二课。"
@@ -5788,6 +5853,7 @@
     "id": "R14-1",
     "lesson": 14,
     "revision": 2,
+    "format": "paragraph",
     "title": "Đi xem phim rồi kể lại",
     "text": "昨天下午，我和朋友看了一个电影。电影很好看，我们都很喜欢。我们还在饭店吃了晚饭。我吃面条儿，朋友吃米饭。今天朋友给我打电话，还想看那个电影。我想明天在家看书。",
     "translation": "Chiều qua tôi và bạn xem một bộ phim. Phim rất hay, cả hai đều thích. Chúng tôi ăn tối ở quán sau đó. Tôi ăn mì, bạn ăn cơm. Hôm nay bạn gọi cho tôi, vẫn muốn xem bộ phim ấy. Tôi muốn ngày mai đọc sách ở nhà.",
@@ -5877,6 +5943,7 @@
     "id": "R14-2",
     "lesson": 14,
     "revision": 2,
+    "format": "paragraph",
     "title": "Phân công buổi học tiếng Hán",
     "text": "今天中文课，老师写了三个汉字。我们都看见了。有的同学读书，有的同学写字。我听见姐姐读汉语，她读书很好听。下课后，我问老师哪些字要写。老师给我一本书：不要只看，还要写。",
     "translation": "Trong giờ tiếng Trung hôm nay, giáo viên viết ba chữ Hán. Chúng tôi đều nhìn thấy. Có bạn đọc sách, có bạn viết chữ. Tôi nghe chị gái đọc tiếng Hán, rất hay. Tan học tôi hỏi giáo viên những chữ nào khó. Thầy/cô đưa tôi một quyển sách và dặn đừng chỉ xem mà còn phải viết.",
@@ -5886,9 +5953,9 @@
         "question": "老师写了几个汉字？",
         "answer": "三个",
         "options": [
-          "十五分钟",
-          "一个",
-          "两个",
+          "六个",
+          "七个",
+          "八个",
           "三个"
         ],
         "explanation": "Đáp án: 三个. Thông tin đối chiếu trong bài: “今天中文课，老师写了三个汉字。”",
@@ -5966,7 +6033,8 @@
     "id": "R14-3",
     "lesson": 14,
     "revision": 2,
-    "title": "Lời nhắn trong thư viện nhỏ",
+    "format": "paragraph",
+    "title": "Giữ yên lặng khi đọc sách",
     "text": "我今天在学校读了两本书。第一本是中文书，第二本也是中文书。房间里有很多同学，他们都在学习。有些同学说话，我想：不要说话，大家在读书呢。下午我还要写汉字，晚上再看电视。",
     "translation": "Hôm nay tôi đọc hai quyển sách ở trường. Quyển thứ nhất là sách tiếng Trung, quyển thứ hai cũng là sách tiếng Hán. Trong phòng có nhiều bạn học, tất cả đều đang học. Một số bạn nói chuyện, tôi nghĩ: Đừng nói chuyện, mọi người đang đọc sách mà. Chiều tôi còn phải viết chữ Hán, tối mới xem tivi.",
     "questions": [
@@ -5975,9 +6043,9 @@
         "question": "我今天读了几本书？",
         "answer": "两本",
         "options": [
-          "第三课",
-          "第十课",
-          "第十二课",
+          "十本",
+          "三本",
+          "五本",
           "两本"
         ],
         "explanation": "Đáp án: 两本. Thông tin đối chiếu trong bài: “我今天在学校读了两本书。”",
@@ -6055,6 +6123,7 @@
     "id": "R14-4",
     "lesson": 14,
     "revision": 2,
+    "format": "paragraph",
     "title": "Bọn trẻ đi học khác trường",
     "text": "我有两个孩子。儿子是小学生，女儿是中学生。昨天儿子在家写了十个汉字，女儿读了三本书。他们都喜欢学习。今天我开车，他们上学。晚上我们不看电视，想听女儿读汉语。",
     "translation": "Tôi có hai người con. Con trai là học sinh tiểu học, con gái là học sinh trung học. Hôm qua con trai viết mười chữ Hán ở nhà, con gái đọc ba quyển sách. Cả hai đều thích học. Hôm nay tôi lái xe, các con đi học. Buổi tối chúng tôi không xem tivi, muốn nghe con gái đọc tiếng Hán.",
@@ -6064,9 +6133,9 @@
         "question": "我有几个孩子？",
         "answer": "两个",
         "options": [
-          "十本",
-          "一斤",
-          "两斤",
+          "九个",
+          "十个",
+          "一个",
           "两个"
         ],
         "explanation": "Đáp án: 两个. Thông tin đối chiếu trong bài: “我有两个孩子。”",
@@ -6103,10 +6172,10 @@
         "question": "儿子写了几个汉字？",
         "answer": "十个",
         "options": [
-          "六口人",
-          "六岁",
+          "一个",
+          "两个",
           "十个",
-          "八岁"
+          "三个"
         ],
         "explanation": "Đáp án: 十个. Thông tin đối chiếu trong bài: “昨天儿子在家写了十个汉字，女儿读了三本书。”",
         "evidence": "昨天儿子在家写了十个汉字，女儿读了三本书。"
@@ -6116,9 +6185,9 @@
         "question": "女儿读了几本书？",
         "answer": "三本",
         "options": [
-          "四十岁",
-          "两本",
           "五本",
+          "十本",
+          "两本",
           "三本"
         ],
         "explanation": "Đáp án: 三本. Thông tin đối chiếu trong bài: “昨天儿子在家写了十个汉字，女儿读了三本书。”",
@@ -6144,6 +6213,7 @@
     "id": "R14-5",
     "lesson": 14,
     "revision": 2,
+    "format": "paragraph",
     "title": "Chuyến tàu và cuộc gọi muộn",
     "text": "昨天我坐火车去看姐姐。火车上有很多人，有的在睡觉，有的在看书。我给姐姐打电话了。她没有听见。晚上她再给我打电话：你到哪儿了？我：我到了你家外边。她很高兴。我们在她家见。",
     "translation": "Hôm qua tôi đi tàu hỏa đến thăm chị. Trên tàu có nhiều người, có người ngủ, có người đọc sách. Tôi gọi cho chị nhưng chị không nghe thấy. Buổi tối chị gọi lại hỏi tôi đến đâu rồi. Tôi đã ở bên ngoài nhà chị. Chị rất vui. Chúng tôi gặp nhau ở nhà chị.",
@@ -6233,6 +6303,7 @@
     "id": "R15-1",
     "lesson": 15,
     "revision": 2,
+    "format": "paragraph",
     "title": "Đón người nhà ở sân bay",
     "text": "明天妈妈坐飞机来北京。我和爸爸去机场接她。飞机下午两点到，我们一点半去机场。爸爸想开车，我想坐出租车。妈妈去年住在西安，今年想在北京住一些时间。我很想妈妈。",
     "translation": "Ngày mai mẹ đi máy bay đến Bắc Kinh. Tôi và bố đến sân bay đón mẹ. Máy bay đến lúc hai giờ chiều, chúng tôi đi sân bay lúc một giờ rưỡi. Bố muốn lái xe, tôi muốn đi taxi. Năm ngoái mẹ ở Tây An, năm nay muốn ở Bắc Kinh một thời gian. Tôi rất nhớ mẹ.",
@@ -6268,10 +6339,10 @@
         "question": "飞机几点到？",
         "answer": "下午两点",
         "options": [
-          "星期二",
-          "星期三",
+          "六点十分",
+          "下午五点",
           "下午两点",
-          "星期四"
+          "一点半"
         ],
         "explanation": "Đáp án: 下午两点. Thông tin đối chiếu trong bài: “飞机下午两点到，我们一点半去机场。”",
         "evidence": "飞机下午两点到，我们一点半去机场。"
@@ -6281,9 +6352,9 @@
         "question": "我们几点去机场？",
         "answer": "一点半",
         "options": [
-          "星期六",
-          "星期日",
-          "三月八号",
+          "九点",
+          "十点",
+          "六点半",
           "一点半"
         ],
         "explanation": "Đáp án: 一点半. Thông tin đối chiếu trong bài: “飞机下午两点到，我们一点半去机场。”",
@@ -6322,6 +6393,7 @@
     "id": "R15-2",
     "lesson": 15,
     "revision": 2,
+    "format": "paragraph",
     "title": "Tính thời gian đến trường",
     "text": "我住在北京，朋友住在学校前边。我早上七点起床，八点去学校。坐出租车要半个小时，朋友只要五分钟。明天我们九点上课，我想八点半到。朋友：你太早了！我们可以在学校外吃早饭。",
     "translation": "Tôi sống ở Bắc Kinh, bạn sống trước trường. Buổi sáng tôi dậy lúc bảy giờ, đến trường lúc tám giờ. Đi taxi mất nửa giờ, bạn chỉ mất năm phút. Mai chúng tôi học lúc chín giờ, tôi muốn đến lúc tám giờ rưỡi. Bạn bảo tôi đến sớm quá, chúng tôi có thể ăn sáng bên ngoài trường.",
@@ -6357,10 +6429,10 @@
         "question": "我几点起床？",
         "answer": "七点",
         "options": [
-          "半个小时",
-          "一个小时",
+          "下午两点",
+          "一点半",
           "七点",
-          "今天"
+          "三点"
         ],
         "explanation": "Đáp án: 七点. Thông tin đối chiếu trong bài: “我早上七点起床，八点去学校。”",
         "evidence": "我早上七点起床，八点去学校。"
@@ -6384,9 +6456,9 @@
         "answer": "五分钟",
         "options": [
           "五分钟",
-          "六个",
-          "七个",
-          "八个"
+          "三天",
+          "五天",
+          "一半"
         ],
         "explanation": "Đáp án: 五分钟. Thông tin đối chiếu trong bài: “坐出租车要半个小时，朋友只要五分钟。”",
         "evidence": "坐出租车要半个小时，朋友只要五分钟。"
@@ -6396,10 +6468,10 @@
         "question": "明天几点上课？",
         "answer": "九点",
         "options": [
-          "两年",
+          "六点半",
           "九点",
-          "半个小时",
-          "一个小时"
+          "七点半",
+          "八点半"
         ],
         "explanation": "Đáp án: 九点. Thông tin đối chiếu trong bài: “明天我们九点上课，我想八点半到。”",
         "evidence": "明天我们九点上课，我想八点半到。"
@@ -6411,6 +6483,7 @@
     "id": "R15-3",
     "lesson": 15,
     "revision": 2,
+    "format": "paragraph",
     "title": "Chọn điểm đến cho năm tới",
     "text": "去年我们一家人去了西安。那里的水果很便宜，饭也好吃。爸爸喜欢西安，妈妈想明年去北京。我爱看书，想去北京的书店。妹妹想坐飞机。我们还没有买。现在看一下时间。",
     "translation": "Năm ngoái cả gia đình tôi đến Tây An. Trái cây ở đó rẻ, thức ăn cũng ngon. Bố thích Tây An, mẹ muốn năm sau đến Bắc Kinh. Tôi thích đọc sách, muốn đi hiệu sách ở Bắc Kinh. Em gái muốn đi máy bay. Chúng tôi vẫn chưa mua. Giờ chúng tôi xem thời gian.",
@@ -6500,6 +6573,7 @@
     "id": "R15-4",
     "lesson": 15,
     "revision": 2,
+    "format": "paragraph",
     "title": "Bạn trai đến thăm gia đình",
     "text": "姐姐的男朋友明天来我家。他是中国人，现在住在西安。他喜欢汉语，也喜欢唱歌。姐姐想在家做饭，妈妈还想买一些水果。我下午去机场接他，姐姐在家做菜。我们晚上六点半吃饭。",
     "translation": "Ngày mai bạn trai của chị gái đến nhà tôi. Anh ấy là người Trung Quốc, hiện sống ở Tây An. Anh thích tiếng Hán và ca hát. Chị muốn nấu cơm ở nhà, mẹ còn muốn mua ít trái cây. Chiều tôi đến sân bay đón anh, chị ở nhà làm món ăn. Chúng tôi ăn tối lúc sáu giờ rưỡi.",
@@ -6574,10 +6648,10 @@
         "question": "我们几点吃饭？",
         "answer": "六点半",
         "options": [
-          "四月一号",
+          "下午五点",
           "六点半",
-          "五月三号",
-          "八月十号"
+          "下午两点",
+          "一点半"
         ],
         "explanation": "Đáp án: 六点半. Thông tin đối chiếu trong bài: “我们晚上六点半吃饭。”",
         "evidence": "我们晚上六点半吃饭。"
@@ -6589,6 +6663,7 @@
     "id": "R15-5",
     "lesson": 15,
     "revision": 2,
+    "format": "paragraph",
     "title": "Chuyến đi ngắn và ngày trở về",
     "text": "我和朋友在北京住了三天。第一天看了电影，第二天去了书店，第三天在学校看朋友。北京很好玩儿，我很喜欢。明天早上我坐火车回西安，朋友还要在北京住一年。他明年再回家。",
     "translation": "Tôi và bạn ở Bắc Kinh ba ngày. Ngày đầu xem phim, ngày thứ hai đến hiệu sách, ngày thứ ba đến trường thăm bạn. Bắc Kinh rất thú vị, tôi rất thích. Sáng mai tôi đi tàu hỏa về Tây An, bạn còn ở Bắc Kinh một năm. Năm sau bạn mới về nhà.",
@@ -6599,9 +6674,9 @@
         "answer": "三天",
         "options": [
           "三天",
-          "五分钟",
-          "十分钟",
-          "十五分钟"
+          "两天",
+          "四天",
+          "五天"
         ],
         "explanation": "Đáp án: 三天. Thông tin đối chiếu trong bài: “我和朋友在北京住了三天。”",
         "evidence": "我和朋友在北京住了三天。"

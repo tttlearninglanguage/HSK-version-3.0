@@ -258,11 +258,11 @@ VI: Hôm nay là Chủ nhật, tôi nghỉ. Mẹ cũng nghỉ nhưng bố không
 谁也喜欢饺子？|姐姐|nguoi
 爸爸下班，谁做饭？|妈妈|nguoi
 @5/Chiếc máy tính mới
-这是我的新电脑，它很好看。姐姐也有电脑，她的电脑不是新的。我很喜欢新电脑。今天星期三，姐姐下班休息。我做一些菜，姐姐做面条儿。妈妈真高兴！
+这是我的新电脑，它很好看。姐姐也有电脑，她的电脑不新。我很喜欢新电脑。今天星期三，姐姐下班休息。我做一些菜，姐姐做面条儿。妈妈真高兴！
 VI: Đây là máy tính mới của tôi, nó rất đẹp. Chị gái cũng có máy tính nhưng máy của chị không mới. Tôi rất thích máy tính mới. Hôm nay là thứ Tư, chị gái tan làm rồi nghỉ. Tôi làm một ít món ăn, chị làm mì. Mẹ rất vui!
 什么是新的？|我的电脑|do
 姐姐有电脑吗？|有|dap
-姐姐的电脑是新的吗？|不是|dap
+姐姐的电脑新吗？|不新|dap
 今天星期几？|星期三|gio
 我做什么？|一些菜|mon
 谁做面条儿？|姐姐|nguoi
@@ -319,7 +319,7 @@ VI: Mẹ: Hôm nay con có đi siêu thị không? Tôi: Có ạ. Mẹ muốn mu
 同学：我也去。
 李文：明天去。
 VI: Bạn học: Lý Văn, số điện thoại di động của bạn là bao nhiêu? Lý Văn: 138 6666 2222. Bạn học: Cảm ơn! Ngày mai bạn có nghỉ không? Lý Văn: Có. Mình muốn đi taxi đến siêu thị mua đồ. Bạn học: Mình cũng đi. Lý Văn: Ngày mai đi nhé.
-手机号是____。|一三八六六六六二二二二|so
+手机号是____。|一三八六六六六二二二二|so|李文：一三八，六六六六，二二二二。
 李文明天休息吗？|休息|dap
 李文想去哪儿？|超市|noi
 李文想怎么去？|坐出租车|viec
@@ -348,7 +348,7 @@ ____的超市。|那边|noi
 姐姐也去吗？|不去|dap|姐姐：不，我今天下班想休息。
 姐姐下班想做什么？|休息|viec
 我想买牛奶和____。|包子|mon
-@6/Bữa sáng và bữa tối
+@6/Khẩu vị của từng người
 我喜欢吃包子，妹妹喜欢吃饺子。今天妈妈做饺子，爸爸买牛奶。妈妈的饺子非常好吃。明天我想吃面条儿。妹妹不想吃面条儿，她还想吃饺子。爸爸明天做晚饭。
 VI: Tôi thích ăn bánh bao, em gái thích ăn sủi cảo. Hôm nay mẹ làm sủi cảo, bố mua sữa. Sủi cảo của mẹ rất ngon. Ngày mai tôi muốn ăn mì. Em gái không muốn ăn mì, em vẫn muốn ăn sủi cảo. Ngày mai bố nấu bữa tối.
 我喜欢吃什么？|包子|mon
@@ -358,41 +358,41 @@ VI: Tôi thích ăn bánh bao, em gái thích ăn sủi cảo. Hôm nay mẹ là
 我明天想吃什么？|面条儿|mon
 明天谁做晚饭？|爸爸|nguoi
 @7/Tấm lịch trong ngày
-我早上八点上班，下午六点半下班。姐姐上午九点上课，下午三点下课。今天晚上七点，我们想去电影院看电影。爸爸不去，他晚上在医院上班。妈妈在家做饭。
+我早上八点上班，下午六点半下班。姐姐上午九点上课，下午三点下课。今天晚上七点，我们想去电影院看电影。爸爸不去，他晚上上班，在医院。妈妈做饭呢，她在家。
 VI: Buổi sáng tôi đi làm lúc tám giờ, buổi chiều tan làm lúc sáu giờ rưỡi. Chị gái lên lớp lúc chín giờ sáng, tan học lúc ba giờ chiều. Tối nay lúc bảy giờ, chúng tôi muốn đến rạp xem phim. Bố không đi vì tối bố làm ở bệnh viện. Mẹ nấu cơm ở nhà.
 我几点上班？|八点|gio
 我几点下班？|六点半|gio
 姐姐几点上课？|九点|gio
 姐姐几点下课？|三点|gio
 晚上七点我们去哪儿？|电影院|noi
-爸爸晚上在哪儿上班？|医院|noi
+爸爸晚上在哪儿？|医院|noi
 @7/Rạp chiếu phim đổi giờ hẹn
 同学：我们晚上六点去电影院吧！
-我：六点我还在上课。六点半下课。
+我：六点我有课。六点半下课。
 同学：七点见吧。
 我：好！你现在在哪儿？
-同学：我在超市买东西呢。下课后你吃晚饭吗？
-我：吃。我在家吃。
-VI: Bạn học: Tối sáu giờ chúng ta đi rạp chiếu phim nhé! Tôi: Sáu giờ mình vẫn đang học. Sáu giờ rưỡi mới tan học. Bạn học: Vậy bảy giờ gặp nhé. Tôi: Được! Giờ bạn ở đâu? Bạn học: Mình đang mua đồ ở siêu thị. Tan học bạn có ăn tối không? Tôi: Có. Mình ăn ở nhà.
-六点我在做什么？|上课|viec
+同学：我在超市，买东西呢。下课后你吃晚饭吗？
+我：吃。我在家。
+VI: Bạn học: Tối sáu giờ chúng ta đi rạp chiếu phim nhé! Tôi: Sáu giờ mình có lớp. Sáu giờ rưỡi tan học. Bạn học: Vậy bảy giờ gặp nhé. Tôi: Được! Giờ bạn ở đâu? Bạn học: Mình đang mua đồ ở siêu thị. Tan học bạn có ăn tối không? Tôi: Có. Mình ăn ở nhà.
+六点我做什么？|上课|viec
 我几点下课？|六点半|gio
 我们几点见？|七点|gio
 同学现在在哪儿？|超市|noi
-同学在超市做什么？|买东西|viec
+同学现在做什么？|买东西|viec
 我在哪儿吃晚饭？|家|noi
 @7/Ở nhà đợi chị
-现在下午五点。我在家看电影呢。妈妈做饭呢，爸爸还在医院上班。姐姐六点下课。我们七点吃晚饭。今天妈妈做米饭和菜。姐姐喜欢吃米饭。
+现在下午五点。我看电影呢，现在在家。妈妈做饭呢，爸爸在医院，今天上班。姐姐六点下课。我们七点吃晚饭。今天妈妈做米饭和菜。姐姐喜欢吃米饭。
 VI: Bây giờ là năm giờ chiều. Tôi đang xem phim ở nhà. Mẹ đang nấu cơm, bố vẫn làm ở bệnh viện. Chị gái tan học lúc sáu giờ. Chúng tôi ăn tối lúc bảy giờ. Hôm nay mẹ nấu cơm và món ăn. Chị thích ăn cơm.
 现在几点？|下午五点|gio
-我在做什么？|看电影|viec
+我做什么？|看电影|viec
 谁做饭呢？|妈妈|nguoi
-爸爸在哪儿上班？|医院|noi
+爸爸在哪儿？|医院|noi
 姐姐几点下课？|六点|gio
 我们几点吃晚饭？|七点|gio
 @7/Lớp học buổi tối
-我不是老师，我是学生。我上午在店里上班，下午休息。晚上六点，我和姐姐上课，是中文课。老师八点半下课。下课后，姐姐想看电影，我想在家休息。明天早上我还上班。
+我不是老师，我是学生。我上午上班，在店里，下午休息。晚上六点，我和姐姐上课，是中文课。老师八点半下课。下课后，姐姐想看电影，我想休息，晚上在家。明天早上我还上班。
 VI: Tôi không phải giáo viên mà là học sinh. Buổi sáng tôi làm ở cửa hàng, buổi chiều nghỉ. Tối sáu giờ tôi và chị học tiếng Trung. Giáo viên kết thúc buổi học lúc tám giờ rưỡi. Sau giờ học, chị muốn xem phim còn tôi muốn nghỉ ở nhà. Sáng mai tôi vẫn đi làm.
-我上午在哪儿上班？|店里|noi
+我上午在哪儿？|店里|noi
 我下午做什么？|休息|viec
 谁和我上课？|姐姐|nguoi
 中文课几点上课？|六点|gio
@@ -479,7 +479,7 @@ VI: Ngày mai là Chủ nhật. Chín giờ sáng tôi cùng bạn học tiếng
 下午谁唱歌？|朋友|nguoi
 我下午做什么？|看电视|viec
 晚上我想去哪儿？|书店|noi
-@9/Chó mèo trong sân trường
+@9/Chó mèo ở trước trường
 学校前边有一只小狗。小狗的朋友是一只猫。白天猫在桌子下，小狗在房间外边玩。晚上小狗在家休息，猫在房间里。今天下午，我和朋友在学校前边看小狗。
 VI: Phía trước trường có một chú chó nhỏ. Bạn của chó là một con mèo. Ban ngày mèo ở dưới bàn, chó chơi ngoài phòng. Buổi tối chó nghỉ ở nhà, mèo ở trong phòng. Chiều nay tôi và bạn ngắm chú chó ở phía trước trường.
 学校前边有什么？|一只小狗|do
@@ -614,7 +614,7 @@ VI: Bạn học: Tối nay đi xem phim không? Tôi: Không. Mình đang đọc
 我正在读第几课？|第十课|so
 我想问谁？|老师|nguoi
 同学想在哪儿见？|学校|noi
-@12/Ngày đầu có tuyết
+@12/Buổi sáng sau ngày tuyết rơi
 昨天下雪了，天气很冷。今天早上，学校外有一些雪。我想去学校，妈妈：你有点儿热，在家休息吧。我今天喝水，在家看书。下午觉得不热了，想明天再去上课。
 VI: Hôm qua tuyết rơi, trời rất lạnh. Sáng nay ngoài trường có một ít tuyết. Tôi muốn đến trường, mẹ bảo tôi hơi nóng người nên ở nhà nghỉ. Hôm nay tôi uống nước, đọc sách ở nhà. Buổi chiều thấy không còn nóng nữa, tôi muốn ngày mai đi học lại.
 昨天天气怎么样？|很冷|dap
@@ -651,12 +651,12 @@ VI: Tôi tan làm về nhà, thấy nóng quá và muốn uống nước lạnh.
 妈妈在哪儿看病？|医院|noi
 我在哪儿休息？|房间里|noi
 @12/Lời nhắn từ công ty
-爸爸：我今天不回家吃午饭了，公司有事。
+爸爸：我今天不回家吃午饭了，公司有事，我在公司吃。
 妈妈：外边下雨了，你冷不冷？
 爸爸：不冷，公司里很热。
 妈妈：我有点儿生病，想去医院。
 爸爸：好。晚上我回家做饭，你休息吧。
-VI: Bố: Hôm nay bố không về nhà ăn trưa nữa, công ty có việc. Mẹ: Ngoài trời mưa rồi, bố có lạnh không? Bố: Không lạnh, trong công ty rất nóng. Mẹ: Mẹ hơi ốm, muốn đến bệnh viện. Bố: Được. Tối bố về nấu cơm, mẹ nghỉ nhé.
+VI: Bố: Hôm nay bố không về nhà ăn trưa nữa, công ty có việc, bố ăn ở công ty. Mẹ: Ngoài trời mưa rồi, bố có lạnh không? Bố: Không lạnh, trong công ty rất nóng. Mẹ: Mẹ hơi ốm, muốn đến bệnh viện. Bố: Được. Tối bố về nấu cơm, mẹ nghỉ nhé.
 爸爸今天在哪儿吃午饭？|公司|noi
 外边天气怎么样？|下雨了|dap
 公司里冷吗？|不冷|dap
@@ -731,7 +731,7 @@ VI: Trong giờ tiếng Trung hôm nay, giáo viên viết ba chữ Hán. Chúng
 有的同学做什么？|写字|viec
 谁读汉语？|姐姐|nguoi
 老师给我什么？|一本书|do
-@14/Lời nhắn trong thư viện nhỏ
+@14/Giữ yên lặng khi đọc sách
 我今天在学校读了两本书。第一本是中文书，第二本也是中文书。房间里有很多同学，他们都在学习。有些同学说话，我想：不要说话，大家在读书呢。下午我还要写汉字，晚上再看电视。
 VI: Hôm nay tôi đọc hai quyển sách ở trường. Quyển thứ nhất là sách tiếng Trung, quyển thứ hai cũng là sách tiếng Hán. Trong phòng có nhiều bạn học, tất cả đều đang học. Một số bạn nói chuyện, tôi nghĩ: Đừng nói chuyện, mọi người đang đọc sách mà. Chiều tôi còn phải viết chữ Hán, tối mới xem tivi.
 我今天读了几本书？|两本|so

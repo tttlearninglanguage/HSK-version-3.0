@@ -24,3 +24,5 @@
 
 #app .reading-study .reading-translation{font:16px/1.7 Arial,sans-serif;color:#556273;background:#f3f5f7;border-radius:12px;padding:14px;margin:12px 0;overflow-wrap:anywhere}
 #app .reading-study .reading-translation[hidden]{display:none!important}
+
+#app .reading-study>p.reading-dialogue{white-space:pre-line!important}

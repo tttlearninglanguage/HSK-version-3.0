@@ -2,7 +2,7 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),fs=r
 const root=path.resolve(__dirname,'..'),source=fs.readFileSync(path.join(root,'HSK1/index.html'),'utf8');
 const readings=JSON.parse(source.match(/window.HSK_READING\s*=\s*(\[.*?\]);/)[1]);
 assert.equal(readings.length,75);
-for(const r of readings){assert(r.translation.length>150,r.id);assert(!/[\u3400-\u9fff]|undefined|null/.test(r.translation),r.id);assert(r.translation.endsWith('Cả hai đều rất vui.'),r.id)}
+for(const r of readings){assert(r.translation.length>60,r.id);assert(!/[\u3400-\u9fff]|undefined|null/.test(r.translation),r.id);assert(r.translation.trim()!==r.text.trim(),r.id)}
 (async()=>{
  const server=http.createServer((q,r)=>{try{const f=path.resolve(root,'.'+new URL(q.url,'http://localhost').pathname);if(!f.startsWith(root+path.sep))throw Error();r.setHeader('Content-Type',f.endsWith('.js')?'text/javascript':f.endsWith('.css')?'text/css':'text/html; charset=utf-8');r.end(fs.readFileSync(f))}catch{r.statusCode=404;r.end()}});await new Promise(r=>server.listen(0,'127.0.0.1',r));
  const b=await chromium.launch({executablePath:process.env.CHROMIUM_PATH||'/usr/bin/chromium',args:['--no-sandbox']});

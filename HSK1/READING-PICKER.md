@@ -35,3 +35,5 @@ Nguồn cũ chỉ lưu lịch sử tổng hợp 30 câu sau cả 5 đoạn; tr�
 Chưa kiểm thử Safari/iPhone/Mac thật, VoiceOver hoặc âm thanh thực tế của hệ điều hành. Kiểm thử loa xác nhận lệnh phát với dữ liệu đọc gốc, không xác nhận đầu ra âm thanh trên mọi thiết bị.
 
 Mỗi bài đọc có bản dịch tiếng Việt đầy đủ trong trường `translation`. Nút “Hiện bản dịch” bên cạnh nút nghe bật/tắt phần dịch; mặc định ẩn và độc lập với pinyin. Bản dịch không ảnh hưởng chấm điểm hay tiến độ. Kiểm tra bằng `node tests/hsk1-reading-translations.cjs`.
+
+Bộ nội dung hiện tại là revision 2: 75 bài khác nhau, 450 câu hỏi mới, bản dịch theo từng bài. Kết quả revision cũ được giữ riêng khi mở bài mới và không tính là hoàn thành nội dung mới. Xem [hướng dẫn biên tập và kiểm tra phạm vi](content/README.md).
