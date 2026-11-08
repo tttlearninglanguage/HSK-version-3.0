@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-08 — Âm báo đáp án HSK 1–4
+
+- Thêm âm báo ngắn, phân biệt đáp án đúng/sai trong game bài học, chủ đề, ngữ pháp, đọc hiểu và bài kiểm tra có chấm điểm.
+- Thêm nút **Âm báo: Bật/Tắt** trên thanh điều hướng; nhớ lựa chọn chung cho HSK 1–4. Các câu chờ tự đối chiếu không phát âm báo đúng/sai trước khi xác nhận.
+- Tạo âm thanh tại thiết bị bằng Web Audio, không tải file hay gọi API, không dừng giọng đọc; bỏ qua âm báo khi trình duyệt không hỗ trợ và ngắt âm báo khi ẩn trang.
+
 ## 2026-11-04 — Điều khiển nghe bài đọc HSK 1–4
 
 - Thêm tạm dừng/tiếp tục, chọn câu bắt đầu–kết thúc, thanh chuyển vị trí theo câu, câu trước/sau và về đầu phạm vi nghe.
